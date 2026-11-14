@@ -23,6 +23,8 @@ jobs:
           python-version: "3.11"
 
       - name: Update research papers
+        env:
+          NTFY_TOPIC_URL: ${{ secrets.NTFY_TOPIC_URL }}
         run: python scripts/collect.py
       - name: Save updated papers
         run: |
