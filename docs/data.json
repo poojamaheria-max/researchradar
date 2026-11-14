@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:33:50.818482+00:00",
+  "updated": "2026-11-14T18:29:16.381825+00:00",
   "items": [
     {
       "id": "MED:43004853",
@@ -674,54 +674,6 @@
       ]
     },
     {
-      "id": "PMC:PMC13753998",
-      "topic": "AI Embeddings",
-      "title": "STAT3 controls IL-6–induced epigenomic remodeling and restrains a latent STAT1-associated interferon program in human macrophages",
-      "authors": "Park Y, Kwon G, Noh J, Lee J, Kang K, Park-Min K, Kang K.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13753998",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13753996",
-      "topic": "AI Embeddings",
-      "title": "Electronic hair: Transforming hair into a scalable bioelectronic interface",
-      "authors": "Shweta S, Giompliaki M, Sohail L, Cornuéjols R, Donaldson P, Abrahamsson T, KC D, Ntzouni M, Cengiz S, Drakopoulou S, Donahue M, Seitanidou M, Zhao Z, Simon D, Berggren M, Mclntyre S, Raedt R, Strakosas X, Spyropoulos G.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13753996",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13754023",
-      "topic": "AI Embeddings",
-      "title": "Single-cell profiling of the duodenum during chronic human norovirus infection",
-      "authors": "Matsushima Y, Durkee-Shock J, Alves D, Nagata B, Kim S, Chan E, Chaimongkol N, Ishiyama R, Barton K, Han A, Kelly L, Ogbogu P, Kumar S, Xu X, Briggs K, Murakami K, Cohen J, Keller M, Sosnovtsev S, Green K.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13754023",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
       "id": "MED:43024605",
       "topic": "Long-acting PrEP",
       "title": "Implementing HIV pre-exposure prophylaxis (PrEP) among cisgender female sex workers: A worldwide scoping review to guide the future research agenda for HIV prevention.",
@@ -754,374 +706,6 @@
       ]
     },
     {
-      "id": "PMC:PMC13752058",
-      "topic": "AI Embeddings",
-      "title": "Family physicians’ acceptability, perceived value, and barriers of pharmacist-led medication management in primary care—a theory-based qualitative study",
-      "authors": "Salıcı Z, Sertkaya R, Macit Ç, Sancar M, Okuyan B, Abdi A.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752058",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752122",
-      "topic": "AI Embeddings",
-      "title": "A multisource clinical deep learning model for early identification of mental disorders in first-visit psychiatric patients",
-      "authors": "Zhang Y, Gao Z, Ge W, Cao Z, Zhu H, Ma Y, Wang W, Song Y, Li Y, Zheng X.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752122",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751476",
-      "topic": "AI Embeddings",
-      "title": "Active bystander training beyond the pilot: evaluation across learner groups, cohort sizes, and educational settings",
-      "authors": "Chew C, Taylor E, Nazir F, Pope L, O’Dwyer P, Young D, Goddard-Fuller T.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751476",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752015",
-      "topic": "AI Embeddings",
-      "title": "Indirect tax accountability as record agreement: inventory accounting and auditing under digital technologies and big data",
-      "authors": "Alimkhanova N, Djalilov R, Egamberdieva S, Ismatullaev J, Kholmuradov O, Oramova N, Khushmuradov O, Anvarova L, Raimberdiev A.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752015",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752195",
-      "topic": "AI Embeddings",
-      "title": "Spatial reconstruction feature for object detection on coal mine",
-      "authors": "Ji H, Jiang P, Wang Z, Chen Z, Liu Y.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752195",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751358",
-      "topic": "AI Embeddings",
-      "title": "GelMA hydrogel enhances diabetic wound healing by delivering shock wave-preconditioned BMSC-derived small extracellular vesicles",
-      "authors": "Zhou R, Xie X, Li X, Bi S, Yan Z, Zhou X, Wang F, Yu T.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751358",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752138",
-      "topic": "AI Embeddings",
-      "title": "NOS2 as a candidate molecular link between air pollutants and depression: an integrated computational and experimental study",
-      "authors": "Zhu H, Yin B, Du J, Zhang S, Su L, Cai S.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752138",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751393",
-      "topic": "AI Embeddings",
-      "title": "TSCNet: transformer-simplicial convolutional network for functional brain network classification",
-      "authors": "Bai L, Zhang G, Feng L, Shen L, Zhou B, Hu F.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751393",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752212",
-      "topic": "AI Embeddings",
-      "title": "Leveraging natural language processing, machine learning, and a knowledge-grounded language model to detect linguistic markers of deception",
-      "authors": "Miller K, Chu A, Reed A, McCord Z, Argentine E, Allen J, Coggins P, Pollina D, Senter S, Shazly T, Uline M, Boltin N.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752212",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751492",
-      "topic": "AI Embeddings",
-      "title": "Integrative multi-omics and machine learning identify mechanical stimulus-related genes and immune microenvironment remodeling in heart failure",
-      "authors": "Zhang C, Zhao L, Sun J, Wang X, Zhang C, Li A.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751492",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752861",
-      "topic": "AI Embeddings",
-      "title": "Integrative transcriptomics reveals an ECM/PNN-high astrocyte state and cross-tissue biomarkers in major depressive disorder",
-      "authors": "Wang Y, Liang C, Fu J, Liu H, Lei Y, Liu Z, He S, Jiang X, Ren D, Dong E, Yang L, Wang L.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752861",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752600",
-      "topic": "AI Embeddings",
-      "title": "AI-enabled drug repurposing in Alzheimer’s disease: from computational nomination to pharmacological proof",
-      "authors": "Li X, Gozes I.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752600",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752052",
-      "topic": "AI Embeddings",
-      "title": "Uncertainty-aware fourier-encoded attentive Bi-GRU for non-invasive blood glucose estimation from multimodal PPG and GSR signals",
-      "authors": "Prakash A, Jelinek H, Atef M.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752052",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751486",
-      "topic": "AI Embeddings",
-      "title": "Explainable ensemble deep learning with semantic searching for skin disease classification: a web-based system",
-      "authors": "Hussein B, El-Rashidy N, Taloba A, Elmannai H, Alsehaim A, Mohamed M.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751486",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752119",
-      "topic": "AI Embeddings",
-      "title": "A shared vascular-hypoxic transcriptional program is associated with immune organization in glioblastoma",
-      "authors": "Jaskuła K, Szczepaniak A, Kugler C, Lawler S.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752119",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752213",
-      "topic": "AI Embeddings",
-      "title": "SingleRepExplorer: a unified interactive platform for integrated single-cell transcriptomic and immune repertoire analysis",
-      "authors": "Ishikawa M.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752213",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751463",
-      "topic": "AI Embeddings",
-      "title": "Cell-death-associated inflammatory remodeling of the SPP1/KRT5 axis in high-grade serous ovarian cancer: multi-omics, single-cell, and irradiation validation",
-      "authors": "Liu J, Zheng Y, Li Z, Li N.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751463",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751363",
-      "topic": "AI Embeddings",
-      "title": "Development of an HFACS-based risk assessment indicator system for unplanned endotracheal extubation in adult ICU patients: a Delphi and AHP study",
-      "authors": "Wang C, Cao W, Yuan Y, Li J, Xing Y, Hu X, Zhang R.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751363",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752002",
-      "topic": "AI Embeddings",
-      "title": "Development of a multidisciplinary service-delivery framework for venous thromboembolism prevention in hospitalized medical patients with lung cancer: a mixed-methods modified Delphi study",
-      "authors": "Meng Y, Zhong S, Ding Y, Xu P, Wang Y, Zhang J, Wu Q.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752002",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751495",
-      "topic": "AI Embeddings",
-      "title": "Dual manipulation of individuals by non-invasive intelligent technologies and its risk governance: from the perspective of the Destiny Machine metaphor",
-      "authors": "Wang Q.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751495",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752105",
-      "topic": "AI Embeddings",
-      "title": "The golden hour: the feasibility of a quality improvement project to decrease the time to antibiotic administration in children with cancer and febrile neutropenia in Jordan",
-      "authors": "Halalsheh H, Abu Alrub G, Kallab I, Al-shawabkeh N, Suleiman A, Dabbagh T, Dajani T, Sultan I, Bazzeh F.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752105",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13754439",
-      "topic": "AI Embeddings",
-      "title": "From trauma to tolerance: Psychological predictors of gambling harm among male UK Armed Forces Veterans",
-      "authors": "Ekenna A, Dekel D, Engward H, Godier-McBard L, Kay C, Kersey T, Fossey M, Dymond S.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13754439",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752113",
-      "topic": "AI Embeddings",
-      "title": "Reforming General Academic English: a public-health-themed curriculum for Chinese medical students",
-      "authors": "Sima Q, Xu M, Chen X.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752113",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
       "id": "PPR:PPR1366451",
       "topic": "AI Embeddings",
       "title": "A Computational Theory of Education for Human Flourishing in the Age of Artificial Intelligence",
@@ -1148,6 +732,150 @@
       "url": "https://doi.org/10.1039/d6ra08040e",
       "source": "MED",
       "doi": "10.1039/d6ra08040e",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43020610",
+      "topic": "AI Embeddings",
+      "title": "Prostate-Specific Membrane Antigen PET/CT Segmentation Guided by Vision Language Models Embedding Clinical Report Semantics.",
+      "authors": "Pouromidi M, Bayasi N, Samimi R, Hosseinzadeh E, Divband G, Nickkholgh B, Adinehpour Z, Shafiee Dastgerdi S, Rahmim A, Yousefirizi F.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "Whole-body prostate-specific membrane antigen (PSMA) PET/CT segmentation remains challenging: manual contouring is unsustainable, and image-only artificial intelligence models often misclassify physiologic uptake as malignant, causing high false-positive rates. These limitations underscore the need for segmentation strategies that incorporate the nuclear medicine expertise encoded in PET/CT reports but not used by current models. We investigated whether routine PET/CT reports improve automated lesion segmentation for prostate cancer. <b>Methods:</b> We developed a language-guided 3-dimensional SegResNet fusing report text with <sup>68</sup>Ga-PSMA-11 PET/CT image features, encoding report semantics via 4 strategies (BiomedVLP, RadGraph, GPT-raw, GPT-engineered) compared with an image-only model (baseline). Of 320 patients who underwent <sup>68</sup>Ga-PSMA-11 PET/CT, 297 studies were available; 13 were excluded for missing reports or incomplete image-mask pairs, leaving 284 for analysis, split at the patient level into 243 development cases and a fixed 41-case held-out test set. Metrics included Dice, intersection over union (IoU), precision, recall, average symmetric surface distance, 95th percentile Hausdorff distance, surface Dice similarity at 5 mm, and lesion-level false positives, using 3 matching criteria (any overlap; 1-to-1 maximum IoU matching, IoU ≥ 0.5; and correct localization of the SUV<sub>max</sub> voxel). Significance was assessed using paired 1-sided Wilcoxon tests with Holm adjustment. <b>Results:</b> Report guidance consistently reduced false positives and improved whole-mask boundary agreement. False-positive lesions were reduced by nearly 4 per patient with BiomedVLP and by approximately 3 per patient with RadGraph and GPT-raw. Average symmetric surface distance decreased from 105.4 ± 62.5 mm (image only) to 23.4 ± 18.2 mm with BiomedVLP, 36.9 ± 22.4 mm with RadGraph, and 36.3 ± 26.4 mm with GPT-raw; 95th percentile Hausdorff distance improved from 455.0 ± 169.3 mm to 123.8 ± 80.3 mm with BiomedVLP, and surface Dice similarity at 5 mm increased from 0.638 ± 0.172 to 0.705 ± 0.181. However, when these surface metrics were recomputed on matched true-positive lesions only using the same 3 criteria, no language-guided model differed significantly from the image-only model for any surface metric (all Holm-adjusted <i>P</i> = 1.0), indicating that the whole-mask improvements were attributable to false-positive suppression rather than genuine gains in contour accuracy on correctly detected lesions. Precision increased for BiomedVLP (0.099) and RadGraph (0.060), with a modest decrease in voxel-level recall (-0.051, BiomedVLP), reflecting a precision-recall trade-off from suppression of spurious uptake. Dice improved by 0.032 but was borderline significant; IoU increased for BiomedVLP (0.036). Lesion-level sensitivity changed by no more than 0.04 for all models and did not reach significance. Total lesion PSMA remained highly correlated with manual measurements (<i>r</i> ≥ 0.85), whereas PSMA tumor volume correlations were more variable across models (<i>r</i> = 0.37-0.70). <b>Conclusion:</b> The integration of PET/CT report semantics into automated PSMA PET/CT segmentation substantially reduced false-positive lesions and preserved total lesion PSMA agreement with manual measurements; a matched true-positive-only reanalysis indicated that the accompanying whole-mask boundary-agreement gains reflected false-positive suppression rather than improved contour accuracy on correctly detected lesions. This approach may reduce manual cleanup and support more reliable quantitative workflows, although precision gains should be weighed against a modest recall reduction. External validation, extension of the true-positive-only analysis to independent cohorts, and PSMA-specific language pretraining are warranted.",
+      "url": "https://doi.org/10.2967/jnumed.126.272702",
+      "source": "MED",
+      "doi": "10.2967/jnumed.126.272702",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43020402",
+      "topic": "AI Embeddings",
+      "title": "Transformer-based literature-based discovery: Discriminative and generative formulations for Hallmarks of Cancer relationship replication.",
+      "authors": "Cuffy C, Mills L, McInnes BT.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "<h4>Objective</h4>Literature-based discovery (LBD) infers implicit relationships that no single document states but that are latent across the literature. Computational LBD has been dominated by methods that embed a biomedical knowledge graph with graph-embedding algorithms. These methods draw on the graph alone, and a concept added to the graph has no representation until the embedding is retrained. We investigate whether contextual transformer encoders address these limitations for closed discovery on the Hallmarks of Cancer (HOC) benchmark.<h4>Methods</h4>We study two formulations of LBD on a shared encoder backbone: a discriminative model that treats discovery as knowledge-graph completion and classifies candidate edges, and a generative model that predicts the embedding of the implicit linking concept and ranks candidates by cosine similarity. We compare both against established baselines, a shallow KGC model (CD-2) and multilayer perceptron (MLP) and similarity-based models, using a ranking protocol and non-parametric significance testing.<h4>Results</h4>Both formulations replicate multiple held-out discoveries and are statistically on par with prior work, while representing any concept that has a text descriptor without retraining, which the graph-embedding baselines cannot do. A general-domain encoder (BERT) is competitive with, and on one dataset exceeds, its domain-adapted counterpart (BioBERT), and input scaling helps the generative but harms the discriminative formulation.<h4>Conclusion</h4>Contextual encoders are viable for LBD, and how the task is posed shapes discovery-replication performance.",
+      "url": "https://doi.org/10.1016/j.jbi.2026.105123",
+      "source": "MED",
+      "doi": "10.1016/j.jbi.2026.105123",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43019769",
+      "topic": "AI Embeddings",
+      "title": "Mapping five decades of the evolution and digital transformation of WASH tools for low-income and fragile contexts.",
+      "authors": "Elkhider M, Domini M, Vaccari M.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "This review synthesises more than five decades of Water, Sanitation, and Hygiene (WASH) tool evolution, from the analogue, hardware-centred instruments of the 1970s to contemporary digital platforms and early AI-enabled applications through 2025. Drawing on a semi-systematic search of academic, institutional, and grey literature, the paper maps major tools, their functions and digital maturity, across water supply, sanitation, hygiene, and solid waste management, with a focus on low-income and fragile contexts. Analysis reveals a progression from paper-based checklists and technical guides in the 1970s to structured monitoring and participatory planning instruments in the 1990s-2000s, followed by mobile-enabled and digital systems in recent years. Findings show that water-supply tools are comparatively mature and digitally advanced, sanitation tools remain the least digitally integrated and underrepresented, and solid waste management exhibits high functional diversity but uneven digital uptake. Since 2010, integrated instruments have emerged that link WASH with climate risk and public health; a small number of tools now incorporate predictive analytics and remote sensing, but AI and IoT applications remain nascent in resource-constrained and fragile contexts. The review identifies gaps in empirical evaluation, digital readiness, scalability, and governance alignment, and highlights factors that influence tool uptake-such as institutional embedding and donor support. The review informs developers and organizations on future innovation and global application of tools to accelerate equitable, scalable digital transformation of WASH services in low-income and humanitarian settings.",
+      "url": "https://doi.org/10.1016/j.ijheh.2026.114938",
+      "source": "MED",
+      "doi": "10.1016/j.ijheh.2026.114938",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43018840",
+      "topic": "AI Embeddings",
+      "title": "Latent Representation Learning from 3D Brain MRI for Latent Analysis and Prediction in Multiple Sclerosis.",
+      "authors": "Ngoc Huynh T, Duc Kien N, Thai Ninh D, Hai Anh N, Hiep Dinh T, Vaneckova M, Uher T, Schependom JV, Denissen S, Quoc Long T, Linh Trung N, Nagels G.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "<h4>Background</h4>Neurological diseases can lead to significant cognitive impairment. Linking magnetic resonance imaging (MRI)-derived measures of brain structure with clinical assessments of cognitive function remains challenging, as conventional statistical methods and traditional machine learning approaches may struggle to capture complex relationships between brain structure and cognitive outcomes, hindering the development of reliable imaging biomarkers. Although deep learning methods offer greater predictive capabilities, their black-box nature limits interpretability, posing a major obstacle to clinical translation.<h4>New method</h4>Latent representation learning via generative models can provide informative representations and support deeper analysis and cognitive biomarker prediction. While standard generative adversarial networks and diffusion models primarily focus on generating images from random noise, variational autoencoders offer compact, probabilistic latent representations that are well suited for downstream tasks. In this study, we propose InfoVAE-Med3D, an adaptation of the InfoVAE framework for three-dimensional brain ​MRI to learn informative latent representations. By explicitly relaxing the mutual information regularization penalty between inputs and latent representations, our method aims to capture richer information from input MRI data, facilitating the analysis of brain-related characteristics and downstream prediction.<h4>Results</h4>We evaluate InfoVAE-Med3D on two datasets: a healthy control dataset ([Formula: see text]) containing chronological age and sex information, and a Multiple Sclerosis (MS) dataset ([Formula: see text]) collected from the Multiple Sclerosis Center of the First Medical Faculty, Charles University, Prague, containing chronological age, sex, and Symbol Digit Modalities Test (SDMT) scores. The learned latent representations capture information related to sex and brain volumetric features, including grey and white matter volumes, as reflected in sex-related clustering and smooth transitions in brain volume measures in two-dimensional visualizations. Through comprehensive evaluations, we demonstrate that InfoVAE-Med3D learns more informative latent representations, especially when the mutual information regularization penalty is completely removed. In this setting, the model generally outperforms other variational autoencoder variants in both MRI reconstruction and prediction of brain age and SDMT scores using support vector regression, while remaining competitive with deep learning-based predictive models, particularly on the MS dataset.<h4>Conclusion</h4>InfoVAE-Med3D provides informative latent representations from brain MRI data of both healthy controls and patients with MS. By improving predictive performance and providing interpretable insights into the learned latent representations, the proposed framework offers a promising approach for advancing biomarker discovery and the analysis of cognitive impairment in neurological diseases, particularly ​MS.",
+      "url": "https://doi.org/10.1007/s12021-026-09827-9",
+      "source": "MED",
+      "doi": "10.1007/s12021-026-09827-9",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43017838",
+      "topic": "AI Embeddings",
+      "title": "Embedding the Cultural Health Navigator Model: A Health System-Integrated Approach for Refugee Care.",
+      "authors": "Azugbene EA, Nizigiyimana JF, Schuster RC, Coonrod DV, Johnson-Agbakwu CE.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "Resettled refugees and culturally and linguistically diverse (CALD) populations face persistent barriers to health care, including linguistic constraints, cultural disconnects, and limited availability of system-integrated approaches responsive to their needs. This article presents the Cultural Health Navigator (CHN) model, a health system-integrated community health worker (CHW) approach developed within an Arizona Medicaid-integrated public safety-net hospital system. The model embeds trained, multilingual CHNs within clinical workflows to provide culturally and linguistically responsive navigation, health education, care coordination, medical interpretation, and linkage to clinical and community resources. We apply the Consolidated Framework for Implementation Research (CFIR) retrospectively to describe the model's implementation features and use the Reach, Effectiveness, Adoption, Implementation, and Maintenance (RE-AIM) framework to guide prospective evaluation. The CHN model integrates CHW certification, clinical workflows, community partnerships, electronic health record infrastructure, and Medicaid reimbursement pathways to support implementation and sustainability. Preliminary evidence from the program supports continued evaluation of its potential contributions to patient navigation, trust, health literacy, health care utilization, and maternal and newborn health. We present the CHN model as a practice-based, potentially transferable implementation approach that health systems can adapt to strengthen culturally responsive care for refugees and other CALD populations. Future evaluation should establish its effectiveness, sustainability, and transferability across diverse health care settings.",
+      "url": "https://doi.org/10.1177/15248399261498698",
+      "source": "MED",
+      "doi": "10.1177/15248399261498698",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1366139",
+      "topic": "AI Embeddings",
+      "title": "Deep Learning Identifies BMI-Associated Morphologic Features in Breast Cancer Tissue",
+      "authors": "Heredia EA, Papasian L, Paine J, Patre S, Jonsson TJ, Keller T, Fang Z, Narumi VH, Katiyar I, Lagerstrom IT, Lombardo J, Simental B, Tran B, Sibrian D, Castellanos O, Wells J, Lee JSH, Shriver C, Agus DB, Basho R, Matasci N.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "Multiple epidemiological studies have established obesity as an adverse factor in breast cancer incidence, progression, and clinical outcomes. However, the biological mechanisms underlying these associations remain incompletely understood. In peritumoral adipose tissue, obesity is associated with chronic inflammation, macrophage recruitment, and broader alterations in the local microenvironment. Whether these obesity-associated changes are accompanied by distinct morphologic features within the tumor and non-adipose stromal compartments remains unclear. In this study, we investigated whether an AI-based pathology foundation model could support the development of machine learning algorithms capable of identifying obesity-associated morphologic patterns in histopathology images, with a particular focus on tumor and stromal regions. In a cohort of 195 patients with breast cancer, machine learning models using vector embeddings from non-adipose stromal regions classified high BMI (≥30 kg/m  2 ) versus low BMI (<25 kg/m  2 ) with an average AUC of 0.78 (95% CI: 0.73-0.83), consistently outperforming models based on tumor-only or combined tumor-stroma regions. These obesity-associated stromal signatures were observed across subgroups defined by hormone-receptor status and age, indicating that they are not restricted to specific clinical populations. Complementary embedding-based dissimilarity analysis further showed that higher BMI was associated with reduced inter-patient heterogeneity in both tumor and stromal tissues. Overall, these findings suggest that obesity is associated with distinct morphologic alterations in both tumor and non-adipose stromal tissues. Notably, the stromal compartment emerged as a particularly informative indicator of obesity-associated morphology and demonstrated reduced inter-patient heterogeneity among individuals with high BMI.",
+      "url": "https://doi.org/10.64898/2026.11.10.765089",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.10.765089",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1365812",
+      "topic": "AI Embeddings",
+      "title": "Does Graph Structure Improve AI-Generated Text Detection? A Controlled Audit with Tuned Baselines",
+      "authors": "Alaktif A, Chergui M, Faiq G, Ammoumou A.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "<title>Abstract</title>  <p>Graph neural network (GNN) detectors of AI-generated text report state-of-the-art accuracy, and the architectural claim that graph topology captures signals invisible to sequential classifiers is now common in the literature. We report the complete lifecycle of one such detector, from construction to falsification. AEGIS, a graph attention network over k-nearest-neighbour text graphs with multi-signal edge weights, reaches 98.50% accuracy on scientific abstracts with only 73K trainable parameters, outperforming five established baselines. We then subject our own system to the evaluation its headline number deserves: generation-time length control, format normalization, leakage-free splits, a tuned frozen-embedding probe as the calibrated null, and a 10 × 10 cross-generator transfer study over three seeds. Under this protocol the graph's apparent contribution collapses from +0.240 AUROC over a surface baseline to −0.0004 AUROC against the tuned probe, inside the measured replication noise floor, and the two detectors' transfer geographies are near-identical (ρ = 0.986). A single untuned regularization default manufactured a +0.027 phantom advantage. The structural differences the graph encodes are real, but they are a re-encoding of information already present in the embeddings. We distil the audit into a practical checklist for evaluating architectural claims in text detection, and argue that accuracy numbers and mechanism claims must be validated separately.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11039287/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11039287/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43016306",
+      "topic": "AI Embeddings",
+      "title": "Zero-Shot Protein-Ligand Binding Site Prediction from Protein Sequence and SMILES.",
+      "authors": "Pourmirzaei M, Alqarghuli S, Chen K, Pourmirzaei M, Xu D.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "<h4>Motivation</h4>Accurate identification of protein-ligand binding sites is critical for mechanistic biology and drug discovery, yet predictive performance varies substantially across ligand families and data-availability regimes. We present a systematic ligand-aware benchmark and evaluation framework for residue-level binding-site prediction across three settings: overrepresented ligands with abundant examples, underrepresented ligands with limited examples, and zero-shot ligands unseen during training.<h4>Results</h4>Using a BioLiP2-derived dataset with ligand-specific sequence clustering, we evaluate a progressive three-stage sequence-based modeling suite designed to study these regimes. Stage 1 trains ligand-specific predictors using a pretrained protein language model (PLM). Stage 2 introduces ligand conditioning through learned embeddings, enabling a single multi-ligand model. Stage 3 replaces these embeddings with representations from a pretrained chemical language model (CLM) operating on SMILES, enabling prediction for previously unseen ligands. In the original three-stage comparison, Stage 2 achieved a higher ligand-macro F1 than Stage 1 on the overrepresented test set (0.5832 versus 0.4769), although the comparison simultaneously changes predictor architecture, ligand conditioning, and the training regime. Stage 2 also outperformed several sequence- and structure-based baselines. Stage 3 achieves a pooled residue-level F1 of 0.3109 and a ligand-macro F1 of 0.2338 on previously unseen ligands, while remaining competitive on represented ligands. Control experiments using constant, mismatched, and scrambled SMILES inputs reduce performance across all three test regimes, providing evidence that the model uses information associated with the supplied ligand input rather than relying solely on generic protein binding-site propensity. Ablations across five PLM scales and multiple CLMs further show that increasing PLM scale generally improves performance, although the trend is not strictly monotonic, whereas CLM scaling produces smaller and less consistent gains. Overall, this study provides a systematic benchmark for quantifying the effect of ligand data availability on residue-level binding-site prediction and for evaluating generalization to previously unseen ligands.<h4>Availability and implementation</h4>The source code and model weights are available at https://github.com/mahdip72/ProteinLigand. The datasets are available at https://doi.org/10.5281/zenodo.23042604.<h4>Supplementary information</h4>Supplementary data are available at Bioinformatics online.",
+      "url": "https://doi.org/10.1093/bioinformatics/btag826",
+      "source": "MED",
+      "doi": "10.1093/bioinformatics/btag826",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:42831393",
+      "topic": "AI Embeddings",
+      "title": "CuCo-N-C nanozyme-mediated hydrogel colorimetric platform: dual-reading modes of ratiometry and smartphone for nitrite detection.",
+      "authors": "Wang G, Song C, Ma S, Lu C, Sun J, He Y.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "As a potentially hazardous food additive, nitrite acts as a double-edged sword, since excessive intake can trigger severe health risks. Developing an efficient and convenient on-site detection method for nitrite in food is therefore of great significance, yet remains challenging. To address this issue, a dual-mode colorimetric platform integrating a ratiometric assay with a hydrogel-based sensor has been constructed on the basis of the high oxidase-like activity of CuCo-N-C nanozymes. These nanozymes catalyze dissolved oxygen to oxidize colorless 3,3',5,5'-tetramethylbenzidine (TMB) into blue ox-TMB. The addition of nitrite triggers a diazotization reaction with ox-TMB, leading to decreased absorbance at 652 nm and increased absorbance at 450 nm. Furthermore, a smartphone-assisted portable kit was fabricated by embedding CuCo-N-C and TMB within an agarose hydrogel, enabling on-site visual quantification of nitrite in traditional foods including ham sausage, preserved eggs, salted duck eggs, mustard and fermented bean curd. This dual-mode colorimetric system is simple and reliable, with portable hardware and easy operation, and holds promise as a sensing platform for food safety monitoring.",
+      "url": "https://doi.org/10.1039/d6ay01284a",
+      "source": "MED",
+      "doi": "10.1039/d6ay01284a",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -1215,6 +943,278 @@
       "is_preprint": true,
       "topics": [
         "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "PMC:PMC13748885",
+      "topic": "AI Embeddings",
+      "title": "The missing link in the blue economy: Empowering the next generation through blue skills and ocean literacy",
+      "authors": "Canning-Clode J, Esson D, Monteiro J, Dinis A, Andrade C, Alves F, Gueroun S, Vieira D, Nunes P, Mossae B, Tuda A, Napper I, Wilson A, Tudhope A.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13748885",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43025154",
+      "topic": "AI Embeddings",
+      "title": "CGHA-Net: Context-guided hybrid attention for hierarchical representation learning in medical image segmentation.",
+      "authors": "Yang X, Hou J, Deng L, Huang S.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "Medical image segmentation aims to precisely identify and separate anatomical components and lesion regions in medical scans, and it constitutes a core technique for clinical diagnosis, disease evaluation, and organ morphological analysis. However, accurate segmentation of complex anatomical regions remains a significant challenge because of considerable differences in object scale, indistinct boundaries, and insufficient tissue contrast in medical images. These issues often limit the ability of existing methods to effectively exploit global semantic representations while simultaneously retaining detailed local information. Reliable segmentation of organs and lesions remains challenging in practical medical images because low contrast, irregular morphology, and blurred boundaries can obscure target structures and hinder accurate delineation. To address these challenges, we propose a new medical image segmentation framework, termed CGHA-Net. First, a context-guided semantic enhancement module is incorporated into the skip connections, in which deep global semantic information is progressively used to enhance shallow feature representations, thereby improving semantic discriminability while preserving local details. Second, a multidimensional semantic fusion module is introduced in the decoder to enhance contextual feature representations by jointly integrating spatial, channel, and orientation-aware information, thereby enhancing boundary detail reconstruction. Finally, a largest connected component loss is proposed to encourage the continuity and integrity of the segmented regions. Across several public benchmarks for medical image segmentation, overall, CGHA-Net achieves competitive results among leading approaches, suggesting satisfactory effectiveness and generalization capability.",
+      "url": "https://doi.org/10.1016/j.apradiso.2026.113101",
+      "source": "MED",
+      "doi": "10.1016/j.apradiso.2026.113101",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43024749",
+      "topic": "AI Embeddings",
+      "title": "How Solvent Approximations Affect the Learnability of Molecular Polarizability and Hyperpolarizability Tensors: A Study on Embedded Water Clusters.",
+      "authors": "Ramos TN, Champagne B.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "Machine-learning (ML) models have shown considerable success in predicting molecular properties from atomic structures. Yet, it remains unclear how to represent solvent-induced effects when targeting optical response properties strongly influenced by the environment. Here, we investigate how different solvent approximations affect the learnability of molecular polarizability (α) and first hyperpolarizability (β) tensors in embedded water clusters. Using a multiscale framework inspired by sequential quantum chemistry/molecular mechanics partitioning, the quantum chemistry (QC) and molecular mechanics (MM) regions are encoded separately through symmetry-adapted λ-SOAP descriptors and combined within kernel ridge regression models. The same descriptor family is employed on the same structures for all solvent representations, allowing the influence of the solvent approximation on model learnability to be isolated. Three embedding schemes are considered: electrostatic embedding (EE), polarizable embedding (PE), and polarizable embedding including effective external field corrections (PE-EEF). ML models that separately encode QC and MM regions outperform single-descriptor representations, indicating that the relevant structural information is distributed across multiple spatial scales. Increasing the sophistication of the solvent approximation generally reduces predictive accuracy, despite identical molecular structures, suggesting that polarization effects are only partially recoverable from structural descriptors alone. Analysis of optimized descriptor hyperparameters further reveals a shift toward larger spatial ranges and richer angular resolutions as solvent polarization effects are introduced. Although microscopic tensor predictions become more challenging for PE and PE-EEF, ensemble distributions of experimentally relevant observables derived from the α and β tensors remain well reproduced. These results provide insight into the relationship between solvent representations and ML learnability and highlight the importance of multiscale representations for modeling solvent-dependent optical response properties.",
+      "url": "https://doi.org/10.1021/acs.jpca.6c05875",
+      "source": "MED",
+      "doi": "10.1021/acs.jpca.6c05875",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43023434",
+      "topic": "AI Embeddings",
+      "title": "Interpretable Graph Neural Networks for Structure-activity-based Prediction of Drug-induced Toxicity and Adverse Reactions.",
+      "authors": "Sanaye P, Sanaye M, Devadkar K.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "<h4>Introduction</h4>Drug-induced toxicity and Adverse Drug Reactions (ADRs) remain major barriers to safe pharmacotherapy and often arise unpredictably. Existing ADR prediction models primarily rely on population-scale data, limiting early detection and mechanistic interpretability.<h4>Methods</h4>We investigated whether molecular graph topology combined with attention mechanisms could explain variance in SIDER ADR labels. Drugs were represented as molecular graphs derived from SMILES, enriched with atomic-level physicochemical descriptors and Morgan fingerprints. An attention mechanism quantified the relative contribution of graph substructures and global molecular features. The proposed model, AttentionADR, was trained and evaluated solely on curated ADR labels without using clinical text or omics data.<h4>Results</h4>AttentionADR achieved robust performance (micro ROC-AUC = 0.82; weighted recall = 0.78). Graph-based structural representations consistently received the highest attention weights, whereas physicochemical descriptors and fingerprints contributed minimally. Performance was highest for skin (F1 = 0.9464) and nervous system disorders (F1 = 0.9386), while respiratory disorders showed comparatively lower performance (AUC = 0.69), reflecting structural diversity across System Organ Classes.<h4>Discussion</h4>These findings highlight the central role of molecular topology in capturing patterns associated with drug-induced adverse effects and demonstrate the value of attention-based models for interpretable, structure-informed drug safety assessment. Because structural signals vary across ADR classes, predictions should be interpreted as hypothesis-generating rather than definitive.<h4>Conclusion</h4>From a translational standpoint, because AttentionADR requires only a candidate molecule's structure, it offers medicinal chemists and pharmaceutical safety teams a low-cost, interpretable triage tool that can flag likely ADR liabilities during early-stage lead optimization, before experimental toxicology or population-scale clinical data are available, thereby supporting faster and better informed acceptance decisions in drug discovery.",
+      "url": "https://doi.org/10.2174/0113894501506872261106075341",
+      "source": "MED",
+      "doi": "10.2174/0113894501506872261106075341",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43017300",
+      "topic": "AI Embeddings",
+      "title": "AI Governance in Health Information Practice: A Practical Framework for HIPAA-Compliant AI Adoption.",
+      "authors": "Stokes TM, Houser SH.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "Artificial intelligence (AI) tools are increasingly being integrated into health information workflows, including clinical documentation, coding support, revenue cycle operations, and patient engagement systems. While these technologies offer efficiency and enhanced decision support, their use introduces new privacy, security, and compliance risks when protected health information is entered as input, processed by third-party systems, or incorporated into AI-generated outputs. Existing Health Insurance Portability and Accountability Act (HIPAA) compliance structures do not address the complexities of AI-enabled environments, creating governance gaps that expose health care organizations to regulatory and operational risk. This article presents a practical governance framework that integrates AI oversight into existing HIPAA compliance programs. Drawing on compliance literature, regulatory guidance, and emerging AI governance models, the framework adapts core elements of the Office of Inspector General compliance model to address AI-specific risks. We proposed AI-centered policies and procedures, governance leadership, workforce training, auditing and monitoring, and incident response planning. This article provides implementation guidance tailored to health information practice, including workflow-based examples and phased adoption strategies. By positioning AI governance as an extension of established information governance responsibilities, health information professionals can proactively safeguard patient privacy, strengthen regulatory compliance, and support responsible innovation in AI-enabled health care environments.",
+      "url": "https://doi.org/10.63116/ah.000000009",
+      "source": "MED",
+      "doi": "10.63116/ah.000000009",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43017068",
+      "topic": "AI Embeddings",
+      "title": "Metabolic signature combined with changes in proteome and transcriptome shape respiratory syncytial virus infection and response to vaccination in a bovine model.",
+      "authors": "Kothadiya S, Mathew AP, Schoofs AD, Nandu RK, Niolo-Velesaca CA, McGill J, Bardhan R.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "Respiratory syncytial virus (RSV) is a major respiratory disease in infants leading to long-term morbidity. Bovine RSV (bRSV) serves as a clinically translatable large animal model to understand host responses in neonates to vaccination and re-infection enabling straightforward and accessible sample collection not often possible in human infants. This study probes clinically relevant bovine biointerfaces by combining Raman spectroscopy-based metabolic profiling with proteomics and gene expression in nasal fluid, serum, and lung tissues collected from 11 vaccinated (V) and 11 non-vaccinated (NV) neonatal calves following bRSV rechallenge. The analyses showed at Day 7 post-challenge, 16 significant Raman metabolite peaks in nasal fluid, 17 peaks in sera, and 17 peaks in lesioned lung tissue differentiated V from NV calves including features associated with glucose, lipids and fatty acids, and phenylalanine among others. We find that in NV calves systemic metabolic changes were greater than in the V group, and in an exploratory proteomic analysis of a subset of animals (<i>n</i> = 4/group), we identified a complement and innate immune protein signature in NV calves that aligned with metabolic features. In lesioned lung tissue, immune engagement between V and NV calves differed with changes observed in multiple metabolites that tightly correlated with gene expression and showed higher inflammatory cytokine gene expression (IL17A, IL6, IFNγ, IFNβ, IL8) in NV calves. Collectively, our data show an integrative approach enables a comprehensive molecular view of translationally relevant biointerfaces to understand vaccination and reinfection-associated host response. The outcomes of this study can be leveraged in the long-term to understand treatment response in human RSV.",
+      "url": "https://doi.org/10.1039/d6ra06302k",
+      "source": "MED",
+      "doi": "10.1039/d6ra06302k",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1366295",
+      "topic": "AI Embeddings",
+      "title": "RawMod: Modification-Agnostic Detection of DNA Base Modifications from Nanopore Signal Pileups",
+      "authors": "Srinivasan B, Nazar S, Gandhi V, Zhang E, Bachvaroff T, Kolmogorov M, Place A, Firtina C.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "<h4>Summary: </h4> Identifying epigenetically modified bases (e.g., methylation) is crucial for many important applications such as discovering mechanisms of cancer development, cell differentiation, and bacterial defense. Nanopore sequencing generates electrical signals that can differentiate canonical bases from modified ones. To detect base modifications from signals, machine learning (ML) methods and statistical approaches are commonly used. These methods can either detect a specific modification type or require an additional unmodified copy of the same DNA as a control group. However, no released model detects modification types beyond those it was trained for, which makes it difficult to detect rare modification types without an unmodified control. Our goal is to accurately identify the presence of modified sites regardless of their modification type, which we define as modification-agnostic detection. To this end, we propose RawMod, a transformer-based modification-agnostic and control-free method for detecting epigenetically modified genomic positions. The key idea of RawMod is to compare the raw signals of many reads at each site with the unmodified reference sequence, using a small model that learns many modification types as a single modified class. Based on our extensive evaluations on the detection of various modification types (5mC, 5hmC, 4mC, 6mA, and 5hmU) using various genomes, RawMod achieves the highest mean AUROC across modifications compared to control-based methods and control-free modification models. A single RawMod model with 0.23M parameters detects five modification types with a mean AUROC of 0.964, against 0.799 for the best released model. When a modification type is withheld from training, RawMod still detects it (AUROC 0.91—0.98), provided another modification of the same base was seen in training.  We use RawMod to map 5hmU without a control across a 7.7 Mb contig of the Amphidinium carterae genome, consistent with two published trends. Further, we show that the modification-aware embeddings from RawMod can be used to differentiate read origin (e.g., cell types, tumor/normal origin, and native/PCR-amplified DNA). We discuss how RawMod can enable further work on label-free classification of cell types using these modification-aware embeddings.  Availability and Implementation: RawMod is available at https://github.com/STORMgroup/RawMod and at https://huggingface.co/STORMResearch/RawMod. We also provide the scripts to fully reproduce our results on our GitHub page and release our datasets on SquiDBase.",
+      "url": "https://doi.org/10.64898/2026.11.10.765445",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.10.765445",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1365080",
+      "topic": "AI Embeddings",
+      "title": "Artificial Intelligence in Placental Pathology: From Spatial Analytics to Molecular Proxies",
+      "authors": "Adu-Gyamfi EA, Twumasi A.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "The placenta is a crucial determinant of the success of pregnancy. However, manual evaluation of its pathology is limited by poor reproducibility and a global shortage of specialized perinatal pathologists. Besides, predicting recurrent pregnancy complications remains highly challenging, which severely limits the timely deployment of proactive therapeutic interventions. Automated artificial intelligence screening of the delivered placenta will help to overcome these bottlenecks. In this work, we synthesize the transition toward self-supervised Vision Foundation Models (VFMs) that yield robust, stain-agnostic tissue embeddings. Furthermore, we evaluate the emergence of Non-Euclidean Graph Neural Networks (GNNs) that map cellular topologies to quantify mal-perfusion, alongside multimodal generative cross-attention networks (MGCN) that integrate gigapixel histology with electronic medical records (EMR) to improve pregnancy risk stratification. Moreover, we propose a novel, functional systems-biology framework to retroactively bridge digital morphometrics – such as impaired trophoblast fusion and invasion – to upstream dysregulated molecular cascades, including the ERK1/2–DUSP, FAK–MAPK, and HIF-1α regulatory axes. Finally, we address translational bottlenecks – such as diagnostic inter-observer variation, systemic clinical confounders, and geographic data bias – and outline hardware edge-deployment strategies for the pathology floor. Ultimately, automated placental screening will help to reveal immediate newborn developmental risks and maternal pathological recurrence risks across subsequent pregnancies. Together, these computational paradigms offer a potential translational roadmap to standardize digital placental pathology into a personalized reproductive medicine pillar.",
+      "url": "https://doi.org/10.20944/preprints202611.1184.v1",
+      "source": "PPR",
+      "doi": "10.20944/preprints202611.1184.v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43016005",
+      "topic": "AI Embeddings",
+      "title": "Evidence-based policy improvements for lipid lowering therapy: a focus on reducing clinical inertia and improving cardiovascular outcomes.",
+      "authors": "Chen RT, Lan NSR, Watts GF, Ray KK, Pagidipati NJ, Bhatt AS, Nicholls SJ, Nelson AJ.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "<h4>Introduction</h4>Despite substantial evidence linking low-density lipoprotein cholesterol (LDL-C) reduction to improved cardiovascular outcomes, a significant implementation gap persists. Clinical inertia, defined as failure to initiate or intensify therapy despite suboptimal control, remains a key barrier to achieving guideline-recommended LDL-C goals, particularly in high-risk populations.<h4>Areas covered</h4>This review analyses systemic drivers of clinical inertia in lipid management, with emphasis on modifiable policy and organizational barriers. These include restrictive access and reimbursement policies, suboptimal health information technology and workflow design, misaligned quality metrics, and fragmented care delivery models. Evidence-based strategies to address these barriers are evaluated, including administrative reform, financial incentives, integrated clinical decision support, team-based care, and structured care pathways.<h4>Expert opinion</h4>The principal challenge is not therapeutic efficacy but effective implementation. Translating evidence into population benefit requires a shift from isolated prescribing to system-level optimization. Key priorities include harmonizing access policies with guidelines, embedding outcome-based accountability, and scaling multidisciplinary care models. Sustained adherence also depends on addressing patient-level beliefs, treatment tolerability and burden, and broader socio-economic barriers, including social determinants of health. Over the next five years, progress will depend on integrating implementation science, digital tools, and value-based frameworks to enable proactive, equitable, and sustainable lipid control.",
+      "url": "https://doi.org/10.1080/14779072.2026.2763866",
+      "source": "MED",
+      "doi": "10.1080/14779072.2026.2763866",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43015859",
+      "topic": "AI Embeddings",
+      "title": "Model cards are not primary artifacts: stereochemistry in the MoLFormer and SMI-TED chemical foundation models.",
+      "authors": "Kaplan N.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "Pretrained chemical language models are selected, embedded with, and fine tuned on the basis of what their documentation says they are. We report that the released model card for MoLFormer, one of the most widely used chemical foundation models, states that isomeric information was removed from its training data, and that this statement is contradicted by artifacts distributed in the model's own repository. The shipped token frequency table records the tetrahedral stereocentre token [C@H] occurring 669,642,207 times, making it the twelfth most frequent token in a corpus of 47.2 billion tokens, ahead of fluorine, and stereochemical tokens account for 3.17% of all token occurrences. The described stripping is real but occurs at a different pipeline stage: isomeric = False is hardcoded into the fine tuning scripts and applied to downstream benchmark data, not to pretraining. We find a related divergence in SMI-TED, whose released vocabulary contains 2,393 tokens rather than the 2,988 reported, and whose shipped frequency table is identical to MoLFormer's, byte for byte, across all 2,357 shared tokens, despite the paper describing a different corpus. We release the extracted frequency table and an audit tool, and recommend that chemical model cards state stereochemistry handling separately for pretraining, fine tuning, and inference.",
+      "url": "https://doi.org/10.1186/s13321-026-01318-y",
+      "source": "MED",
+      "doi": "10.1186/s13321-026-01318-y",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43013920",
+      "topic": "AI Embeddings",
+      "title": "Foundation-model imaging biomarkers for pancreatic cancer: cross-species discovery of conserved tumour biology in mouse MRI and human CT.",
+      "authors": "Yu G, Zhang Z, Eresen A, Hou Q, Wei P, Hou X, Tian L, Webster S, Liu R, Nauli SM, Yu J, Yaghmai V, Zhang Z.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "<h4>Background</h4>Computed tomography (CT) stages pancreatic ductal adenocarcinoma (PDAC) but does not read out the treatment-guiding tumour biology, requiring biopsy. Whether an imaging-biology relationship discovered in preclinical MRI holds independently in human CT is unknown.<h4>Methods</h4>One pipeline was applied to two PDAC cohorts: longitudinal 9.4 T multi-parametric MRI (169 sessions; 1002 image series, 471 quantitative maps) with terminal histopathology in male C57BL/6 mice bearing orthotopic KPC-derived tumours treated with gemcitabine, a dendritic-cell vaccine, both, or neither, and abdominal CT with matched proteogenomics from CPTAC-PDA. Radiomics and frozen foundation-model embeddings were modelled under grouped cross-validation against five pre-specified paired endpoints, with no cross-species transfer of features, weights, or labels.<h4>Findings</h4>Applied independently, the pipeline recovered four matched molecular endpoints in both species (CD8 infiltration, stromal collagen, CD8:CD68 immune balance, cytolytic activity), with areas under the receiver-operating-characteristic curve (AUROCs) of 0.938-0.960 in mice and 0.780-0.856 in humans. Survival concordance indices were 0.729 and 0.689. After adjustment for age, stage, and grade, the human imaging score remained independently prognostic (hazard ratio 1.87 per SD, 95% CI 1.32 to 2.66; p < 0.001 [Wald test]; combined concordance index 0.726 versus 0.611 for clinical covariates). Findings held in portal-venous-restricted analysis; frozen embeddings outperformed end-to-end fine-tuning in both arms.<h4>Interpretation</h4>One pipeline recovered matched PDAC biology in mouse MRI and human CT, supporting preclinical imaging to nominate non-invasive CT biomarker candidates for biopsy-sparing PDAC trial stratification, pending prospective external validation.<h4>Funding</h4>National Cancer Institute; Society of Interventional Radiology Foundation; University of California Irvine Anticancer Challenge Pilot grant.",
+      "url": "https://doi.org/10.1016/j.ebiom.2026.106545",
+      "source": "MED",
+      "doi": "10.1016/j.ebiom.2026.106545",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43013872",
+      "topic": "AI Embeddings",
+      "title": "Robotic Rollator Assistance for Sit-to-Stand Transfers in Older Adults with Mobility Challenges: Within-Participant Feasibility Study.",
+      "authors": "Mahdi A, Buchner T, Werner C, Hu Y, Mombaur K.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "<h4>Background</h4>Robotic mobility aids with sit-to-stand (STS) support may help older adults reduce physical effort during a demanding, fall-prone daily task.<h4>Objective</h4>This paper reports a feasibility evaluation of the \"SkyWalker\" robotic walker, which provides powered STS assistance via actuated lower handles. The 2 trajectories (linear and S-shape) were selected to examine how assistance profile shape influences feasibility, biomechanics, and user experience.<h4>Methods</h4>Seven older adult patients with mobility challenges were enrolled from a rehabilitation hospital. One withdrew during the robot familiarization (unable to stand up) without attempting any study trial, and 6 completers (4 women, 2 men; aged 70-84 years) form the analyzed sample. Participants completed 3 within-subject conditions: SkyWalker with the linear trajectory, SkyWalker with the S-shape trajectory, and a conventional rollator. We quantified STS task performance, perceived exertion Borg Category-Ratio 10 scale (Borg CR10), kinematics (center-of-gravity [CoG] height), kinetics (vertical ground-reaction force [Fz], normalized to body weight), and technology acceptance using an adapted Tele-healthcare Satisfaction Questionnaire-Wearable Technology (TSQ-WT). Participant-level data are the primary presentation. Condition effects were tested with exact nonparametric tests.<h4>Results</h4>Under linear assistance, 27 of 30 repetitions (90%) were successful (mean 4.50, SD 0.84; 4 of 6 participants at 5/5) and perceived exertion was the lowest of the 3 conditions (Borg CR10 mean 1.50, SD 1.38; lower than the rollator in 3 of 6 participants, unchanged in 2, higher in 1). Under S-shape assistance, 21 of 30 repetitions (70%) were successful (mean 3.50, SD 1.97; 3 of 6 at 5/5), with exertion comparable to the conventional rollator (mean 2.50, SD 2.43 vs mean 2.33, SD 1.63). All 6 completers achieved 5 of 5 repetitions with the conventional rollator, so robotic assistance did not increase the number of successful transfers in this cohort. Exact tests showed no significant condition effect on exertion (Friedman <i>χ</i><sup>2</sup><sub>2</sub>=2.1; exact <i>P</i>=.40; Kendall W=0.18) or success (Friedman <i>χ</i><sup>2</sup><sub>2</sub>=5.0, exact <i>P</i>=.11; Kendall W=0.42). Group CoG curves showed earlier, more monotonic elevation for linear, and per-participant Fz showed greater between-participant variability in load-transfer timing under S-shape. Technology acceptance was heterogeneous (TSQ-WT totals 22-77 of 80; 4 of 6 participants at 64 or higher).<h4>Conclusions</h4>Powered STS assistance was feasible for most assisted transfers: 27 of 30 repetitions (90%) succeeded under the linear trajectory, which also produced the lowest mean perceived effort of the 3 conditions. The S-shape trajectory was more demanding, producing more partial completions and no effort reduction relative to the conventional rollator. In this first evaluation of SkyWalker with its intended users, the assistance profile, not powered assistance itself, is the variable to prioritize in further testing, and the results, which motivate trajectory personalization and brief familiarization, are informing the design of the next SkyWalker generation.",
+      "url": "https://doi.org/10.2196/101303",
+      "source": "MED",
+      "doi": "10.2196/101303",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43013851",
+      "topic": "AI Embeddings",
+      "title": "Horizon-Aware Forecasting of Hypertension Prevalence and Mean Total Cholesterol in Chinese Men: Retrospective Leakage-Controlled Benchmark Study Comparing Statistical, Machine-Learning, and Neural Models.",
+      "authors": "Lai W, Subhan F, Zhou N, Khan J.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "<h4>Background</h4>Forecasts of population-level cardiovascular risk factors can support surveillance and planning, but annual country-level health series are often short. With only 30 or 39 annual values per target, model flexibility can outpace the information available for training, making leakage control, repeated temporal evaluation, and comparison with simple baselines essential.<h4>Objective</h4>The aim of this study is to compare statistical, classical machine-learning, and neural forecasting models for age-standardized prevalence of hypertension (ASPH) and mean total cholesterol (MTC) in Chinese men and to test whether attention or substantially greater neural capacity provides consistent predictive benefit.<h4>Methods</h4>The authors analyzed 2 officially sourced annual series: ASPH for Chinese men aged 30 to 79 years (1990-2019; 30 observations) and MTC for Chinese men aged 18 years or older (1980-2018; 39 observations). No series was interpolated, extrapolated, imputed, smoothed, spliced, or synthetically extended. Leakage-controlled expanding-window evaluation began after 21 observations and assessed 1-, 2-, and 5-year horizons. Classical machine-learning and neural models used a fixed primary lookback of 3 (L=3), with nested lookback selection disabled; neural models used 10 fixed seeds. Performance was assessed with root mean square error (RMSE), mean absolute error, mean absolute scaled error, root mean squared scaled error, symmetric mean absolute percentage error, directional accuracy, mean error, median error, diagnostic <i>R</i>², prespecified neural-ablation inference, empirical forecast-interval coverage, and computational-cost reporting.<h4>Results</h4>Statistical models had the lowest RMSE in all 6 target-horizon cells. Autoregressive integrated moving average won for ASPH at h=1 (RMSE 0.000178), h=2 (RMSE 0.000578), and h=5 (RMSE 0.004324), and for MTC at h=1 (RMSE 0.000400) and h=2 (RMSE 0.001479); error-trend-seasonal state space won for MTC at h=5 (0.006991). Classical machine-learning and primary neural models won no cells. Removing attention reduced RMSE in 5 of 6 ablation cells, while the compact architecture had lower RMSE than Original23K in 5 of 6 cells; formal differences were detected for both contrasts at ASPH h=1 and h=2, whereas ASPH h=5 (n=5) was descriptive only. Predictive intervals often undercovered. The benchmark completed all 7242 planned output-producing fits.<h4>Conclusions</h4>Simple statistical forecasting remained highly competitive in these short, retrospectively estimated annual series. Greater complexity did not ensure better point prediction, and neither attention nor larger capacity conferred a consistent advantage. Point accuracy did not ensure well-calibrated predictive uncertainty; findings were conditional on the 2 targets, target-specific horizons, and small evaluation samples.",
+      "url": "https://doi.org/10.2196/99686",
+      "source": "MED",
+      "doi": "10.2196/99686",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43013841",
+      "topic": "AI Embeddings",
+      "title": "Cross-Site Stability of Embedding Model Rankings for Known-Item Retrieval From Clinical Notes: Two-Corpus Comparative Evaluation Study.",
+      "authors": "Mikkelsen Y.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "<h4>Background</h4>Retrieval-augmented generation over clinical text depends on the embedding model chosen-a choice that interacts with documentation genre. Cross-site stability of embedding-model rankings has not been evaluated on real electronic health record (EHR) narratives with genre held constant; public benchmarks are predominantly single-source, and multi-institution evaluations compare models and query formulations within tasks rather than ranking stability across institutions.<h4>Objective</h4>The aim of the study is to test whether embedding model rankings transfer across 2 institutional EHR corpora, with genre held constant; to examine the contributions of model, site/corpus, and genre and their dependence on scoring; and to test whether the dominant contributor depends on model-panel composition.<h4>Methods</h4>We compared 13 embedding models on a known-item passage-to-source-document task, each query a deterministic 2-sentence excerpt from its target, in a 2×2 design crossing site/corpus (Beth Israel Deaconess Medical Center via MIMIC-IV-Note [Medical Information Mart for Intensive Care IV Clinical Notes Module] and University of California, San Francisco via ER-Reason) with genre (discharge summary and imaging report). Query sentences were removed from their targets before indexing to prevent verbatim overlap, notes were deduplicated after normalization, models used their recommended pooling, long documents were scored as overlapping chunks by maximum similarity, and cell sizes were matched (N=1235 per cell). Effectiveness was measured by mean reciprocal rank at 10, rank transfer by Kendall τ and selection regret, and variance by factorial decomposition (η<sup>2</sup>). Transfer, regret, and the contrastive-panel decomposition carry 95% patient-clustered bootstrap intervals.<h4>Results</h4>Among the 8 contrastive models, cross-site Kendall τ was 0.86 (95% CI 0.64-1.00) for discharge and 0.64 (95% CI 0.36-0.86) for imaging. The model×site interaction was small under every scoring choice (η<sup>2</sup>=0.005-0.029); the site/corpus main effect was negligible under best-chunk scoring (η<sup>2</sup>=0.000) but scoring-dependent (0.172 under mean-pooling). Cross-site selection regret was 0 for imaging and up to 0.033 for discharge (~10% of the destination's best mean reciprocal rank; intervals 0-0.071). Adding 5 nonretrieval masked-language-model comparators moved the largest term to model (η<sup>2</sup>=0.874): the dominant-factor question is panel-sensitive, while the qualitative transfer conclusion was unchanged.<h4>Conclusions</h4>For known-item retrieval from clinical notes at 2 US academic medical centers, embedding-model rankings showed positive cross-site concordance, moderate for imaging and strong for discharge summaries-with intervals wide enough that direction, not magnitude, is the finding. Which factor dominates absolute effectiveness depends on the panel evaluated: primary contrastive-panel scoring favors genre, whereas adding nonretrieval comparators makes model choice dominant; so, claims about major determinants are panel-specific. Cross-site model selection incurred zero to modest performance loss. When documentation genre and retrieval configuration are matched, model-selection results from one institutional EHR corpus may be a useful starting point for another, although local confirmation remains warranted.",
+      "url": "https://doi.org/10.2196/109305",
+      "source": "MED",
+      "doi": "10.2196/109305",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43013808",
+      "topic": "AI Embeddings",
+      "title": "Development and internal validation of a multimodal deep learning model for screening-level lower-limb alignment using plantar 3D foot scans.",
+      "authors": "Ni S, Chen Y, Wang C, Zhou D, Liu J, Zhou M, Leong J, Hu Y, Huang J, Wang J, Liu C.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "Lower-limb alignment is a key determinant of musculoskeletal loading and is associated with biomechanical risk pathways for conditions such as knee osteoarthritis and plantar fasciitis. However, routine alignment assessment still relies on radiography or specialist clinical examination, limiting scalability for early screening. Here, we investigated whether plantar foot morphology captured by weight-bearing 3D scanning can serve as a computational screening feature for proximal lower-limb alignment, and we developed a multimodal deep learning framework to support scalable alignment screening. We established a cross-sectional dataset of 167 participants (adults and children aged 6-60 years) with standardised plantar 3D foot scans and clinical labels for arch type, hindfoot alignment, and frontal-plane knee alignment. The proposed model jointly learns from plantar scan images and 16 geometric morphological features, integrated using feature-wise attention to prioritise alignment-relevant cues across modalities. Performance was evaluated using accuracy, precision, recall, F1 score, and AUC on a held-out test set, and interpretability was assessed with class activation mapping (CAM). Ablation studies compared alternative image encoders and fusion variants, including image-only, morphology-only, and fusion without attention. The attention-based multimodal model showed competitive but task-dependent performance, achieving accuracies of 89% for arch type, 81% for hindfoot alignment, and 76% for knee alignment. The image-only ViT achieved the highest accuracy for arch classification, while the ViT without-attention configuration achieved slightly higher accuracy and macro-F1 for knee alignment. These findings indicate that the benefit of multimodal attention fusion varied across alignment tasks. Activation maps consistently highlighted clinically relevant plantar regions associated with alignment patterns, suggesting morphological correlations consistent with a distal-proximal kinetic chain hypothesis. Together, these findings demonstrate the potential of plantar 3D scanning combined with multimodal, explainable deep learning as a non-invasive approach for screening alignment-related biomechanical risk factors, warranting further external validation before clinical translation.",
+      "url": "https://doi.org/10.1371/journal.pdig.0001802",
+      "source": "MED",
+      "doi": "10.1371/journal.pdig.0001802",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43013777",
+      "topic": "AI Embeddings",
+      "title": "Classroom Integration of AI-Simulated Patients and Automated Feedback in Doctoral Psychotherapy Training: Longitudinal Mixed Methods Study.",
+      "authors": "Converse E, Louie R, Safer D, Pacheco JP, Fang W, Kent J, Arnow B, Yang D.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "<h4>Background</h4>Psychotherapy education increasingly emphasizes technology-assisted methods that extend deliberate practice beyond human supervision. AI has enabled automated skill assessment and patient simulations, yet few studies have examined how students experience such tools in real-world settings alongside established practice modalities.<h4>Objective</h4>We aimed to evaluate students' experiences with AI-augmented deliberate practice embedded in an existing psychotherapy course sequence. Secondary aims included identifying implementation barriers, ethical and pedagogical considerations, and factors influencing students' acceptance of AI-assisted learning.<h4>Methods</h4>Participants were 29 first-year clinical psychology doctoral students in a 2-quarter psychotherapy sequence at an American Psychological Association-accredited program. In the fall course, students completed weekly peer role-plays and could optionally submit transcripts to CARE for AI feedback to supplement peer feedback. In the winter course, students completed required weekly deliberate practice through Skillsetter video vignettes and could optionally practice with CARE's voice-based AI-simulated patients, receiving AI and instructor feedback afterward. Surveys with Likert-type and free-response items were voluntary in the fall and required in the winter; 9 and 25 students completed them, respectively. Analyses included descriptive statistics, matched-pairs testing, and thematic analysis.<h4>Results</h4>In the fall course (n=9), where privacy concerns and survey nonresponse limited data on AI feedback, students rated peer feedback higher than AI feedback on being constructive and helpful (median 3, IQR 3-3 vs median 2, IQR 2-2; <i>P</i>=.02) and recognizing areas to improve (mean 5.22, SD 0.83 vs mean 4.33, SD 0.87; <i>P</i>=.046), citing transcription errors and a narrow focus on empathy while valuing AI's alternative phrasing. In the winter course (n=25), Skillsetter was rated higher than CARE only for learning from mistakes (mean 4.52, SD 2.00 vs mean 3.20, SD 2.04; <i>P</i>=.03); immersion, spontaneous responding, communication beyond words, and alliance building did not differ significantly. Students valued CARE for interactive practice not possible with vignettes but reported undetected vocal pauses (20/25, 80%), insufficient realism (14/25, 56%), and limited emotional expression (13/25, 52%), and raised concerns about AI replacing peer support (22/25, 88%) and peer interaction (20/25, 80%). Asked about AI broadly, students expressed mixed views, citing concerns about supplanted relational dynamics, nonconsensual data use, and generative AI's environmental impacts.<h4>Conclusions</h4>Embedding AI-augmented deliberate practice into an existing course sequence was feasible, but students' experiences favored established methods: they preferred human over AI feedback and described video vignettes as more realistic than voice-based AI interactions, while valuing AI-simulated patients for interactive practice other modalities could not provide. Implementation barriers included feedback quality, transcription accuracy, and instructor time required to supplement AI feedback. Perceptions of AI's instructional utility appeared contingent on students' trust in the technology, suggesting future deployments should weigh a sample's attitudes toward AI and its value relative to existing training resources.",
+      "url": "https://doi.org/10.2196/93199",
+      "source": "MED",
+      "doi": "10.2196/93199",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43013651",
+      "topic": "AI Embeddings",
+      "title": "Single-cell profiling of the duodenum during chronic human norovirus infection.",
+      "authors": "Matsushima Y, Durkee-Shock J, Alves DA, Nagata BM, Kim SA, Chan EC, Chaimongkol N, Ishiyama R, Barton K, Han A, Kelly LA, Ogbogu PU, Kumar S, Xu X, Briggs KC, Murakami K, Cohen JI, Keller MD, Sosnovtsev SV, Green KY.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "Human noroviruses are a major cause of diarrheal disease, yet their pathogenesis remains poorly defined. We performed single-cell RNA sequencing of duodenal biopsies and matched stem cell-derived enteroids from immunodeficient individuals with chronic norovirus infection. Norovirus RNA was detected primarily in enterocytes, enteroendocrine cells, and macrophages, with the highest proportion of viral RNA-positive cells observed among M2 macrophages, followed by late enterocytes. Despite this distribution, late enterocytes produced higher viral yields than differentiated M2 macrophages in vitro. Norovirus infection was associated with the up-regulation of MHC class I-related genes and <i>IL15</i> in duodenal macrophages and late enterocytes, together with increased <i>IFNG</i> expression by CD8 T cells. Macrophages and late enterocytes up-regulated <i>CXCL9</i> and <i>CXCL10/11</i>, respectively, consistent with CD8 and CD4 T cell recruitment to the duodenum. These findings show that noroviruses infect and persist across multiple permissive cell types during chronic infection, resulting in marked dysregulation of innate and adaptive immune responses that may drive pathogenesis.",
+      "url": "https://doi.org/10.1126/sciadv.aej2676",
+      "source": "MED",
+      "doi": "10.1126/sciadv.aej2676",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
       ]
     },
     {
