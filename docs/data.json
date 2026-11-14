@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T06:44:47.719533+00:00",
+  "updated": "2026-11-14T12:33:50.818482+00:00",
   "items": [
     {
       "id": "MED:43004853",
@@ -530,6 +530,22 @@
       ]
     },
     {
+      "id": "MED:43026384",
+      "topic": "AI Embeddings",
+      "title": "Evaluation of voice features using Wav2vec2.0-based deep learning as a diagnostic tool in acromegaly.",
+      "authors": "Aksoy S, Saygili ES, Akyel S, Onur O, Niyazoglu M, Hatipoglu E.",
+      "journal": "",
+      "date": "2026-11-13",
+      "abstract": "Acromegaly has an insidious onset and prolonged diagnostic delay. Vocal changes are a recognized clinical feature, the diagnostic value of deep learning architectures remains underexplored. We aimed to assess Wav2Vec2.0-based voice analysis as a non-invasive digital biomarker for acromegaly. This single-center case-control study included 70 patients with acromegaly and 68 age- and sex-matched controls. Clinical status was defined by standard biochemical criteria, symptoms, comorbidities, and residual tumor. Voice samples were recorded with a standard mobile phone and resampled to 16 kHz. Wav2Vec2.0 was used to extract high-dimensional embedding vectors. These embeddings, were used to train and validate four different machine learning classifiers using an 80%/20% train-test split with five-fold cross-validation. Model calibration was assessed with the Brier score, and clinical utility with decision curve analysis (DCA). Demographics were similar between acromegaly (mean age 45.5 years; 57.1% female) and control (mean age 47.5 years; 61.8% female) groups. On the internal hold-out test set, Logisitic Regression model maintained high accuracy (AUC 0.84; specificity 0.92; sensitivity 0.71) and showed good calibration [Brier score 0.165 (95% CI 0.057-0.289)]. DCA confirmed that LR provided the highest benefit across a clinically relevant range of threshold probabilities (~ 15-85%). Voice analysis Wav2Vec2.0-based model demonstrates good diagnostic accuracy for acromegaly. These preliminary findings suggest that voice may serve as a promising non-invasive digital biomarker, pending validation in larger and more diverse cohorts.",
+      "url": "https://doi.org/10.1007/s11102-026-01768-5",
+      "source": "MED",
+      "doi": "10.1007/s11102-026-01768-5",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1367374",
       "topic": "AI Embeddings",
       "title": "Ontology-Based SEA-CDM Integration for Vaccine Clinical Trials: Query, Similarity, and Design Recommendation",
@@ -706,6 +722,38 @@
       ]
     },
     {
+      "id": "MED:43024605",
+      "topic": "Long-acting PrEP",
+      "title": "Implementing HIV pre-exposure prophylaxis (PrEP) among cisgender female sex workers: A worldwide scoping review to guide the future research agenda for HIV prevention.",
+      "authors": "Plazy M, Becquet V, Amador-Paz S, Nouaman M, Maouhoub E, Meertens C, Mouquin R, Youssoufa H, Coffie P, Larmarange J.",
+      "journal": "",
+      "date": "2026-11-13",
+      "abstract": "Female sex workers (FSWs) experience a disproportionately high burden of HIV. To inform future research and policy efforts on HIV prevention, this study synthesizes global evidence on HIV pre-exposure prophylaxis (PrEP) among cisgender FSWs worldwide. This scoping review was conducted using six multidisciplinary databases searched up to December 2024. Titles and abstracts, then full texts, were independently screened. Data extraction comprised i) general study characteristics (UNAIDS region, country, study type, outcomes, type of PrEP, and study years), ii) detailed data of each outcome (including PrEP knowledge, a priori acceptability - interest, and effective acceptability - use, retention and adherence). Drivers and barriers to PrEP acceptability were analyzed using an adapted conceptual framework encompassing six domains: patient characteristics, individual knowledge and perceptions, medication-related factors, social processes, structural and health system factors, and sex work characteristics. After selection, 120 eligible studies were identified, mostly conducted in Eastern and Southern Africa. PrEP knowledge was initially low but increased quickly once programs were introduced. PrEP interest was consistently high across regions, driven by perceived HIV risk and desire for self‑protection. PrEP uptake, retention and adherence varied widely. Main barriers included sex work realities (i.e., unstable housing, alcohol use), social processes (i.e., stigma), individual characteristics (i.e., mobility), treatment-related characteristics (i.e., side effects), and health system challenges (i.e., clinic access constraints). Drivers included social support and reminder tools. While evidence on long‑acting PrEP remained limited, interest was consistently high as reducing daily burden. Overall, the findings support a socio-ecological understanding of PrEP engagement among FSWs, including the sex work context as a distinct intermediary layer. They highlight the need for differentiated and structurally responsive PrEP delivery models tailored to the realities of sex work. Expanding long‑acting PrEP options and improving service accessibility, community engagement, and stigma reduction strategies will be critical to strengthening HIV prevention among FSWs globally.",
+      "url": "https://doi.org/10.1371/journal.pgph.0007582",
+      "source": "MED",
+      "doi": "10.1371/journal.pgph.0007582",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43024553",
+      "topic": "Long-acting PrEP",
+      "title": "Integrating Cost Considerations into HIV Care and Prevention to Achieve Population-Level Outcomes.",
+      "authors": "Golden MR, Cannon CA, Menza TW, Sharma M, Porter KM, Dombrowski JC.",
+      "journal": "",
+      "date": "2026-11-13",
+      "abstract": "The US government currently spends >$29 billion annually on HIV treatment, but only 69% of people with diagnosed HIV (PWH) in the US are virally suppressed, a failure partially related to poverty. Medical providers preferentially treat HIV using higher cost medications, and use of higher cost drugs for PrEP is increasing. New, long-acting antiretrovirals (ARVs) have the potential to improve prevention and care while further increasing costs. We believe that the US approach to HIV should change to increase the use of lower cost HIV medications and promote the selective use of long-acting ARVs to treat people who cannot achieve viral suppression using oral drugs. A portion of the money saved through more efficient medication utilization management should be used to improve access to care and provide socioeconomic support to low-income PWH. Together, these changes have the potential to decrease costs, improve health outcomes, and better align spending with patient preferences.",
+      "url": "https://doi.org/10.1093/cid/ciag713",
+      "source": "MED",
+      "doi": "10.1093/cid/ciag713",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "PMC:PMC13752058",
       "topic": "AI Embeddings",
       "title": "Family physicians’ acceptability, perceived value, and barriers of pharmacist-led medication management in primary care—a theory-based qualitative study",
@@ -714,118 +762,6 @@
       "date": "2026-11-12",
       "abstract": "",
       "url": "https://europepmc.org/article/PMC/PMC13752058",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752134",
-      "topic": "AI Embeddings",
-      "title": "Strengthening health quality management for cardiovascular disease, diabetes, and obesity in the United Arab Emirates: an integrated evidence synthesis",
-      "authors": "Rahman M, Al Hamidh F, Alam Z, Noor F, Nurelhuda N.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752134",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752051",
-      "topic": "AI Embeddings",
-      "title": "Cyberlogic-enabled Thinking Space: a closed-loop human-cyber cognitive architecture in CPST",
-      "authors": "Chen R, Zhou L, Ding J, Ning H.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752051",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751599",
-      "topic": "AI Embeddings",
-      "title": "Evolution of the educational system and micro-psychological mechanisms: a comparative study of academic motivation and engagement in Shanghai, China and Kazakhstan",
-      "authors": "Zhou Z, Alchimbayeva A, Jin X.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751599",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752500",
-      "topic": "AI Embeddings",
-      "title": "Federated learning in cancer imaging: a comprehensive review and future outlook",
-      "authors": "Shi Y, Li W, Cai J.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752500",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13753548",
-      "topic": "AI Embeddings",
-      "title": "Using secure WhatsApp-based digital recruitment as an intervention in prostate cancer research with black men",
-      "authors": "Wakeham K, Theodorakopoulos G, Li S, Liu Y, Wang X, Courtier N, Quinn-Scoggins H, Fry S.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13753548",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752306",
-      "topic": "AI Embeddings",
-      "title": "Human umbilical cord mesenchymal stem cells and biological scaffolds: application and advances in oral and maxillofacial tissue engineering",
-      "authors": "Hou C, Jiang H, Wang R.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752306",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752055",
-      "topic": "AI Embeddings",
-      "title": "Early radiology reports and ECG machine measurements do not measurably improve 30-day ICU mortality prediction from the first 6 h of the stay: a multimodal ablation with external validation of the structured EHR backbone",
-      "authors": "Ismukhamedova A, Bakanova A, Belginova S, Gola A, Khalimov A.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752055",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -866,38 +802,6 @@
       ]
     },
     {
-      "id": "PMC:PMC13753771",
-      "topic": "AI Embeddings",
-      "title": "Bridging the research–practice gap in infant neuromotor development by harnessing principles from implementation science",
-      "authors": "Carey S, Hoffman E, Patrick C, Hunter J, Babula S, Clark E, O’Brien M, Pouppirt N, deRegnier R, Lieber R, Jayaraman A.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13753771",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13754063",
-      "topic": "AI Embeddings",
-      "title": "The next frontier of athletic intelligence in sports medicine and exercise science",
-      "authors": "",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13754063",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
       "id": "PMC:PMC13752015",
       "topic": "AI Embeddings",
       "title": "Indirect tax accountability as record agreement: inventory accounting and auditing under digital technologies and big data",
@@ -922,54 +826,6 @@
       "date": "2026-11-12",
       "abstract": "",
       "url": "https://europepmc.org/article/PMC/PMC13752195",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751399",
-      "topic": "AI Embeddings",
-      "title": "A conserved EREG+IL1RN+ macrophage program defines an inflammation-associated transcriptional state linked to WTAP reprogramming and preterm premature rupture of membranes",
-      "authors": "Zheng M, Yu Q, Zhang X, Yuan P, Liu T, Wang H.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751399",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752726",
-      "topic": "AI Embeddings",
-      "title": "Metabolic signature combined with changes in proteome and transcriptome shape respiratory syncytial virus infection and response to vaccination in a bovine model",
-      "authors": "Kothadiya S, Mathew A, Schoofs A, Nandu R, Niolo-Velesaca C, McGill J, Bardhan R.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752726",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13752137",
-      "topic": "AI Embeddings",
-      "title": "Community-based infectious disease prevention awareness through children's creative works: outreach embedded in school-based action research",
-      "authors": "Oura A, Yako-Suketomo H, Naito Y, Nakata M, Hayashi T, Ohnishi H.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752137",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -1026,38 +882,6 @@
       ]
     },
     {
-      "id": "PMC:PMC13752196",
-      "topic": "AI Embeddings",
-      "title": "Enhancing crop sustainability: GSEBNet for precise tomato leaf disease classification",
-      "authors": "Sheraz Khan M, Ahmad I, Nisa K, Alharbi F, Aloraini M, Habib S, Islam M.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752196",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13751528",
-      "topic": "AI Embeddings",
-      "title": "From quantum semantic states to quantum semantic dynamics: a multiscale theory of literary meaning evolution",
-      "authors": "Hwang T.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13751528",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
       "id": "PMC:PMC13752212",
       "topic": "AI Embeddings",
       "title": "Leveraging natural language processing, machine learning, and a knowledge-grounded language model to detect linguistic markers of deception",
@@ -1090,22 +914,6 @@
       ]
     },
     {
-      "id": "PMC:PMC13752016",
-      "topic": "AI Embeddings",
-      "title": "A real-time deep learning method for detection and localization of non-emerged cabbage seedlings",
-      "authors": "Chen X, Han K, Liu T, Kong X, Maity A, Peng P, Di C, Yu J, Yu M.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13752016",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
       "id": "PMC:PMC13752861",
       "topic": "AI Embeddings",
       "title": "Integrative transcriptomics reveals an ECM/PNN-high astrocyte state and cross-tissue biomarkers in major depressive disorder",
@@ -1116,6 +924,230 @@
       "url": "https://europepmc.org/article/PMC/PMC13752861",
       "source": "PMC",
       "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13752600",
+      "topic": "AI Embeddings",
+      "title": "AI-enabled drug repurposing in Alzheimer’s disease: from computational nomination to pharmacological proof",
+      "authors": "Li X, Gozes I.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13752600",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13752052",
+      "topic": "AI Embeddings",
+      "title": "Uncertainty-aware fourier-encoded attentive Bi-GRU for non-invasive blood glucose estimation from multimodal PPG and GSR signals",
+      "authors": "Prakash A, Jelinek H, Atef M.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13752052",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13751486",
+      "topic": "AI Embeddings",
+      "title": "Explainable ensemble deep learning with semantic searching for skin disease classification: a web-based system",
+      "authors": "Hussein B, El-Rashidy N, Taloba A, Elmannai H, Alsehaim A, Mohamed M.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13751486",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13752119",
+      "topic": "AI Embeddings",
+      "title": "A shared vascular-hypoxic transcriptional program is associated with immune organization in glioblastoma",
+      "authors": "Jaskuła K, Szczepaniak A, Kugler C, Lawler S.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13752119",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13752213",
+      "topic": "AI Embeddings",
+      "title": "SingleRepExplorer: a unified interactive platform for integrated single-cell transcriptomic and immune repertoire analysis",
+      "authors": "Ishikawa M.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13752213",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13751463",
+      "topic": "AI Embeddings",
+      "title": "Cell-death-associated inflammatory remodeling of the SPP1/KRT5 axis in high-grade serous ovarian cancer: multi-omics, single-cell, and irradiation validation",
+      "authors": "Liu J, Zheng Y, Li Z, Li N.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13751463",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13751363",
+      "topic": "AI Embeddings",
+      "title": "Development of an HFACS-based risk assessment indicator system for unplanned endotracheal extubation in adult ICU patients: a Delphi and AHP study",
+      "authors": "Wang C, Cao W, Yuan Y, Li J, Xing Y, Hu X, Zhang R.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13751363",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13752002",
+      "topic": "AI Embeddings",
+      "title": "Development of a multidisciplinary service-delivery framework for venous thromboembolism prevention in hospitalized medical patients with lung cancer: a mixed-methods modified Delphi study",
+      "authors": "Meng Y, Zhong S, Ding Y, Xu P, Wang Y, Zhang J, Wu Q.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13752002",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13751495",
+      "topic": "AI Embeddings",
+      "title": "Dual manipulation of individuals by non-invasive intelligent technologies and its risk governance: from the perspective of the Destiny Machine metaphor",
+      "authors": "Wang Q.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13751495",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13752105",
+      "topic": "AI Embeddings",
+      "title": "The golden hour: the feasibility of a quality improvement project to decrease the time to antibiotic administration in children with cancer and febrile neutropenia in Jordan",
+      "authors": "Halalsheh H, Abu Alrub G, Kallab I, Al-shawabkeh N, Suleiman A, Dabbagh T, Dajani T, Sultan I, Bazzeh F.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13752105",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13754439",
+      "topic": "AI Embeddings",
+      "title": "From trauma to tolerance: Psychological predictors of gambling harm among male UK Armed Forces Veterans",
+      "authors": "Ekenna A, Dekel D, Engward H, Godier-McBard L, Kay C, Kersey T, Fossey M, Dymond S.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13754439",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13752113",
+      "topic": "AI Embeddings",
+      "title": "Reforming General Academic English: a public-health-themed curriculum for Chinese medical students",
+      "authors": "Sima Q, Xu M, Chen X.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13752113",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1366451",
+      "topic": "AI Embeddings",
+      "title": "A Computational Theory of Education for Human Flourishing in the Age of Artificial Intelligence",
+      "authors": "Wang H.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "Generative AI now performs tasks long treated as markers of human cognitive distinctiveness. This does not make education obsolete; it makes the question of what education is for more urgent. This article develops a Computational Theory of Education for Human Flourishing in the AI Era (CTE-HF-AI) that formalizes education's role in cultivating human flourishing as its root objective, and specifies the cultivation of ethically competent, relationally present, and existentially grounded persons as education's developmental target, while treating AI as a bounded and accountable partner. The theory is a domain-specific instantiation of Constrained Object Hierarchies (COH), the general mathematical theory of intelligence developed in the MDPI Computers paper and its preprints' foundations. The theory's organizing logic is named the Flourishing-Competence-Preparation (FCP) Principle; flourishing names education's aim, ethical competence names the developmental construct through which that aim is educationally approached, and dual preparation names the design principle that operationalizes the construct. The FCP Principle is design-theoretic and normative rather than descriptive. Formally, an educational system is \\(\\mathcal{E} = \\langle \\mathcal{S}, \\mathcal{A}, \\mathcal{T}, \\mathcal{C}, \\mathcal{O} \\rangle\\), where \\(\\delta\\) is a bounded, uncertainty-annotated learner state. All nine COH components are instantiated: the component hierarchy \\(\\mathcal{C}\\) is the FCP structure; the attributes \\(\\mathcal{A}\\) are the learner state variables; the methods \\(\\mathcal{M}\\) are pedagogical actions; the neural components \\(\\mathcal{N}\\) are SCAM's neural sub-model; the embedding \\(\\mathcal{E}\\) is formalized as three shared-Hilbert-space maps (\\(\\S\\)3.2.2); the identity constraints \\(\\mathcal{I}\\) are the axioms and thresholds; the trigger constraints \\(\\mathcal{T}\\) are formalized as ECA rules, including the safety-gap daemon (\\(\\S\\)3.8); the goal constraints \\(\\mathcal{G}\\) are the constrained objective; and the daemons \\(\\mathcal{D}\\) are formalized as trajectory monitors (\\(\\S\\)5). The ten invisible capabilities are represented as an explicit vector, and ethical competence uses a threshold-gated non-compensatory formulation. Domain competence \\(\\mathcal{DC}\\) is specified as a three-constituent composite of disciplinary mastery, professional performance, and transferable competencies (\\(\\S\\)3.2.3). Flourishing is formalized in two registers: an educational register \\(HF_{educational} = f(\\mathcal{EC}, \\mathcal{ID}, \\mathcal{DC})\\) and a total register \\(HF = HF_{educational} + \\epsilon\\). Invisible-capacity development is partially compensatory while critical domains are protected by non-regression. Educational success is defined non-monotonically. Relational presence is grounded in Buber, Noddings, and Palmer. SCAM's structured prior and Bayesian update are shown to realize COH's free-energy correspondence when the COH theorem's conjugacy and regularity conditions are met (\\(\\S\\)4.2, Theorem 4.1), and the theory adopts COH's hybrid continuous-discrete formulation (\\(\\S\\)3.9), from which existence and uniqueness follow under the Lipschitz and measurability conditions of Theorem 3.1. A research agenda of four flagship empirical studies is derived, alongside formalizations of the educational safety gap with an interpretation guide. Five limitations are specified. The article positions the framework as a theory of education whose formal structure is portable to broader human-development and AI-governance contexts, while its central claims remain educational.",
+      "url": "https://doi.org/10.20944/preprints202611.1344.v1",
+      "source": "PPR",
+      "doi": "10.20944/preprints202611.1344.v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43022658",
+      "topic": "AI Embeddings",
+      "title": "A dual-barrier sustained-release hydrogel based on Cu-exchanged Y zeolite and sodium alginate for infected wound healing.",
+      "authors": "Rao Y, Yu X, Xu K, Zheng L, Pu S, Wen N, Wang P, Lin W.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "Bacterial wound infection and the growing crisis of antibiotic resistance urgently demand non-antibiotic wound dressings that integrate long-term antibacterial activity and high biosafety. Herein, we designed a dual-barrier sustained-release antibacterial hydrogel (CuY@SA) by embedding Cu<sup>2+</sup>-exchanged Y zeolite (CuY) into a calcium-crosslinked sodium alginate (SA) matrix. The ordered microporous zeolite acts as the first-stage reservoir to enable intrinsic Cu<sup>2+</sup> sustained release <i>via</i> ion exchange, while the alginate network serves as a second physical diffusion barrier to suppress burst release and prolong delivery. The resulting CuY@SA hydrogel eliminated the initial burst and achieved nearly-linear Cu<sup>2+</sup> release over 48 h, with an equilibrium swelling ratio of approximately 28 g g<sup>-1</sup> in pH 7.4 PBS. <i>In vitro</i>, CuY@SA exhibited over 99.9% bactericidal efficacy against <i>Escherichia coli</i> and <i>Staphylococcus aureus</i>, while maintaining >98% cytocompatibility with NIH-3T3 fibroblasts at hydrogel concentrations up to 10 mg mL<sup>-1</sup>. In a mouse full-thickness infected wound model, CuY@SA significantly accelerated wound closure to over 98% by day 14, promoted collagen deposition and re-epithelialization, reduced local inflammation, and caused no obvious organ toxicity or cuproptosis. Compared with the control hydrogel (Cu@SA) containing directly added free Cu<sup>2+</sup>, CuY@SA showed remarkably lower cytotoxicity and superior <i>in vivo</i> antibacterial activity, confirming the critical role of zeolite in precise controlled release. This work demonstrates that combining an inorganic zeolite carrier with a biopolymer hydrogel provides a simple, scalable, and effective strategy for developing safe and long-acting antibacterial wound dressings. More broadly, it highlights the untapped potential of zeolites as versatile and tunable controlled-release platforms for advanced biomedical applications.",
+      "url": "https://doi.org/10.1039/d6ra08040e",
+      "source": "MED",
+      "doi": "10.1039/d6ra08040e",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -2204,38 +2236,6 @@
       "url": "https://doi.org/10.3390/idr18050114",
       "source": "MED",
       "doi": "10.3390/idr18050114",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PPR:PPR1337139",
-      "topic": "Long-acting PrEP",
-      "title": "Targeted Deployment of Long-Acting HIV Pre-Exposure Prophylaxis in sub-Saharan Africa: Modelled Impact on Infections and Programme Costs to 2050",
-      "authors": "Hallett TB, Kretschmer S, Dybul M.",
-      "journal": "",
-      "date": "2026-10-07",
-      "abstract": "<h4>Background</h4>  Long-acting HIV pre-exposure prophylaxis (LAP) could transform HIV prevention in sub-Saharan Africa, but its public-health impact and value-for-money will depend on whether programmes can reach people at greatest risk. We quantified the potential impact and efficiency of targeted LAP deployment across sub-Saharan Africa. <h4>Methods</h4>  We developed a deterministic, age-structured compartmental model of HIV among adults aged 15 years or older in African countries accounting for 98% of adults living with HIV in sub-Saharan Africa. Antiretroviral therapy (ART) was assumed to reach 95% coverage by 2030 in all countries. LAP was assumed to reduce HIV acquisition by 96%. In model analyses, LAP was allocated according to rules that specify the degree to which programmes can effectively allocate it to those at greatest risk of acquiring HIV, including using a person’s district, sex and age-group, and other signals of risk. <h4>Findings</h4>  Across 34 countries, allocating a fixed quantity of LAP by district, sex and age averted 2 - 21 times as many infections as uniform allocation; perfect identification of within-group risk, an upper bound, raised this to 5 - 32 times. Multipliers were largest in low-prevalence countries, where absolute impact was smallest; in higher burden settings, they were 2 - 6 and 5 - 11, respectively. If 3 million people used LAP from 2028 in the 11 countries currently receiving Global Fund-supported lenacapavir, uniform allocation would avert about 41,000 infections by 2050, targeting by district, sex and age about 601,000 (range 360,000 - 1,660,000), and perfect risk targeting about 972,000 (490,000 - 3,570,000). Discounted averted ART costs fully offset LAP costs by 2050 at a total cost of up to ∼US$50 per person-year with perfect risk targeting, $30 with targeting by district, sex and age, and $2 with uniform allocation. Expansion to 15 million users by 2035 brought modelled adult incidence across sub-Saharan Africa below 0.1 per 1000 person-years in 2049, about a decade earlier than projected without LAP, under the assumption that ART coverage reaches 95% in every country by 2030. <h4>Interpretation</h4>  Targeting determines both the impact and the net cost of LAP. Allocation by district, sex and age is feasible now and multiplies the infections averted by each person-year of LAP. LAP offsets its cost through averted treatment only when it is targeted and its fully loaded cost is near the low end of current estimates. Better identification of people at highest risk within demographic groups, and sustained use among them, could add substantially to impact. The same approach could guide the allocation of LAP in other settings where HIV risk is concentrated.",
-      "url": "https://doi.org/10.64898/2026.10.05.26364769",
-      "source": "PPR",
-      "doi": "10.64898/2026.10.05.26364769",
-      "is_preprint": true,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42904168",
-      "topic": "Long-acting PrEP",
-      "title": "Advancing the science on measurement, determinants, and outcomes of pregnancy and abortion coercion in global settings: a scoping review.",
-      "authors": "Liang M, Landers C, Casey SE, Samari G, Snow R, Hall KS.",
-      "journal": "",
-      "date": "2026-10-06",
-      "abstract": "Reproductive coercion-behaviors that interfere with women's autonomous reproductive decision-making-is increasingly recognized but remains unevenly defined and measured across settings. We conducted a scoping review and searched MEDLINE, Scopus, CINAHL, Embase, and the Cochrane Library, for English-language studies from 1995 to April 2023. Of 8,515 records identified, 119 studies met inclusion criteria; 56% were quantitative, 55% were published during 2020-2023, and most were conducted in high-income settings (58% United States; 13% Australia). Conceptualizations evolved from a narrow focus on pregnancy coercion and birth control sabotage toward inclusion of abortion coercion, provider-level dynamics, and experiences during motherhood, though consensus is lacking. Measurement was dominated by the Miller reproductive control scale and adaptations; act-based items for abortion coercion were scarce. Reported prevalence spanned ∼1%-58% depending on timeframe, setting, and measure. Multi-level risk factors included unstable or non-marital partnerships, partner concurrency, co-residence with in-laws, and lower household wealth; partner education and employment were protective in several contexts. Reproductive coercion frequently co-occurred with intimate partner, sexual, and domestic violence yet showed independent associations with reduced contraceptive self-efficacy and use, increased covert contraception, unintended pregnancy, sexually transmitted infection, and adverse mental health. Evidence on interventions centers on clinic-based, trauma-informed education and counselling, with implementation barriers related to training, time, and referral pathways. Advancing the field requires a harmonized, intent-sensitive, act-based definition and improved measures, especially for abortion coercion, together with more diverse research in low- and middle-income countries and coordinated legal, health, educational, and community responses to protect women's reproductive autonomy.",
-      "url": "https://doi.org/10.3389/fgwh.2026.1854104",
-      "source": "MED",
-      "doi": "10.3389/fgwh.2026.1854104",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
