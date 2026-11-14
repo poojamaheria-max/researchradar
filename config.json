@@ -1,0 +1,9 @@
+{
+  "site_title": "ResearchRadar",
+  "topics": [
+    {"name": "AI Embeddings", "query": "(embedding OR embeddings OR \"representation learning\" OR \"sentence transformer\") AND (AI OR \"machine learning\" OR clinical OR biomedical)"},
+    {"name": "Long-acting PrEP", "query": "(\"long acting\" OR injectable OR cabotegravir) AND (PrEP OR \"pre-exposure prophylaxis\")"}
+  ],
+  "max_results_per_topic": 70,
+  "notify_score_threshold": 2
+}
