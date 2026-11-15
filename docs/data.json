@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T06:49:13.433140+00:00",
+  "updated": "2026-11-15T12:35:59.525658+00:00",
   "items": [
     {
       "id": "MED:43004853",
@@ -156,6 +156,22 @@
       "url": "https://doi.org/10.1007/978-1-0716-5539-9_22",
       "source": "MED",
       "doi": "10.1007/978-1-0716-5539-9_22",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43031312",
+      "topic": "AI Embeddings",
+      "title": "Exploring Capability, Opportunity and Motivation in Weight-Related Communication: Service User and Staff Experiences in a UK-Based Secure Mental Health Unit.",
+      "authors": "Mak NKN, Dibb B, Stokes N, Barley EA, Zasada M.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "Excess weight and related health conditions are highly prevalent in secure mental health settings, yet engaging service users in weight-related discussions remains challenging. Nursing staff are well placed to lead these conversations, but must navigate competing priorities, role boundaries and concerns about negative responses, while service users may experience cognitive and motivational difficulties. This study examined barriers and enablers to weight-related discussions from the perspectives of service users and nursing staff within UK-based low- and medium-secure units. A qualitative design was used. Semi-structured interviews were conducted with 20 service users and 10 nursing staff. Data were analysed using framework analysis informed by behavioural theory to identify factors influencing engagement in weight-related communication. Findings showed that engagement was shaped by interacting individual, relational and organisational factors. Nursing staff identified communication skills, experience and access to resources as key enablers but reported barriers including limited training, competing demands and concerns about damaging therapeutic relationships. Service users described barriers including cognitive challenges, environmental restrictions and beliefs about medication-related weight gain, alongside motivational factors such as emotional eating. Across both groups, relational dynamics, including trust, power and communication style, were central in determining whether discussions were initiated and sustained. Within this unit context, weight-related discussions in secure mental health settings are not solely clinical tasks but relational practices. Improving engagement requires strengthening staff communication skills, creating supportive environments and embedding collaborative, personalised approaches within routine care. While findings reflect a single UK setting, the relational and structural mechanisms identified offer transferable insights for co-designing physical health communication strategies across similar secure mental health services.",
+      "url": "https://doi.org/10.1111/inm.70400",
+      "source": "MED",
+      "doi": "10.1111/inm.70400",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -568,7 +584,7 @@
       "authors": "Aksoy S, Saygili ES, Akyel S, Onur O, Niyazoglu M, Hatipoglu E.",
       "journal": "",
       "date": "2026-11-13",
-      "abstract": "Acromegaly has an insidious onset and prolonged diagnostic delay. Vocal changes are a recognized clinical feature, the diagnostic value of deep learning architectures remains underexplored. We aimed to assess Wav2Vec2.0-based voice analysis as a non-invasive digital biomarker for acromegaly. This single-center case-control study included 70 patients with acromegaly and 68 age- and sex-matched controls. Clinical status was defined by standard biochemical criteria, symptoms, comorbidities, and residual tumor. Voice samples were recorded with a standard mobile phone and resampled to 16 kHz. Wav2Vec2.0 was used to extract high-dimensional embedding vectors. These embeddings, were used to train and validate four different machine learning classifiers using an 80%/20% train-test split with five-fold cross-validation. Model calibration was assessed with the Brier score, and clinical utility with decision curve analysis (DCA). Demographics were similar between acromegaly (mean age 45.5 years; 57.1% female) and control (mean age 47.5 years; 61.8% female) groups. On the internal hold-out test set, Logisitic Regression model maintained high accuracy (AUC 0.84; specificity 0.92; sensitivity 0.71) and showed good calibration [Brier score 0.165 (95% CI 0.057-0.289)]. DCA confirmed that LR provided the highest benefit across a clinically relevant range of threshold probabilities (~ 15-85%). Voice analysis Wav2Vec2.0-based model demonstrates good diagnostic accuracy for acromegaly. These preliminary findings suggest that voice may serve as a promising non-invasive digital biomarker, pending validation in larger and more diverse cohorts.",
+      "abstract": "<h4>Background</h4>Acromegaly has an insidious onset and prolonged diagnostic delay. Vocal changes are a recognized clinical feature, the diagnostic value of deep learning architectures remains underexplored. We aimed to assess Wav2Vec2.0-based voice analysis as a non-invasive digital biomarker for acromegaly.<h4>Methods</h4>This single-center case-control study included 70 patients with acromegaly and 68 age- and sex-matched controls. Clinical status was defined by standard biochemical criteria, symptoms, comorbidities, and residual tumor. Voice samples were recorded with a standard mobile phone and resampled to 16 kHz. Wav2Vec2.0 was used to extract high-dimensional embedding vectors. These embeddings, were used to train and validate four different machine learning classifiers using an 80%/20% train-test split with five-fold cross-validation. Model calibration was assessed with the Brier score, and clinical utility with decision curve analysis (DCA).<h4>Results</h4>Demographics were similar between acromegaly (mean age 45.5 years; 57.1% female) and control (mean age 47.5 years; 61.8% female) groups. On the internal hold-out test set, Logisitic Regression model maintained high accuracy (AUC 0.84; specificity 0.92; sensitivity 0.71) and showed good calibration [Brier score 0.165 (95% CI 0.057-0.289)]. DCA confirmed that LR provided the highest benefit across a clinically relevant range of threshold probabilities (~ 15-85%).<h4>Conclusion</h4>Voice analysis Wav2Vec2.0-based model demonstrates good diagnostic accuracy for acromegaly. These preliminary findings suggest that voice may serve as a promising non-invasive digital biomarker, pending validation in larger and more diverse cohorts.",
       "url": "https://doi.org/10.1007/s11102-026-01768-5",
       "source": "MED",
       "doi": "10.1007/s11102-026-01768-5",
@@ -1212,22 +1228,6 @@
       "url": "https://doi.org/10.2196/109305",
       "source": "MED",
       "doi": "10.2196/109305",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43013808",
-      "topic": "AI Embeddings",
-      "title": "Development and internal validation of a multimodal deep learning model for screening-level lower-limb alignment using plantar 3D foot scans.",
-      "authors": "Ni S, Chen Y, Wang C, Zhou D, Liu J, Zhou M, Leong J, Hu Y, Huang J, Wang J, Liu C.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "Lower-limb alignment is a key determinant of musculoskeletal loading and is associated with biomechanical risk pathways for conditions such as knee osteoarthritis and plantar fasciitis. However, routine alignment assessment still relies on radiography or specialist clinical examination, limiting scalability for early screening. Here, we investigated whether plantar foot morphology captured by weight-bearing 3D scanning can serve as a computational screening feature for proximal lower-limb alignment, and we developed a multimodal deep learning framework to support scalable alignment screening. We established a cross-sectional dataset of 167 participants (adults and children aged 6-60 years) with standardised plantar 3D foot scans and clinical labels for arch type, hindfoot alignment, and frontal-plane knee alignment. The proposed model jointly learns from plantar scan images and 16 geometric morphological features, integrated using feature-wise attention to prioritise alignment-relevant cues across modalities. Performance was evaluated using accuracy, precision, recall, F1 score, and AUC on a held-out test set, and interpretability was assessed with class activation mapping (CAM). Ablation studies compared alternative image encoders and fusion variants, including image-only, morphology-only, and fusion without attention. The attention-based multimodal model showed competitive but task-dependent performance, achieving accuracies of 89% for arch type, 81% for hindfoot alignment, and 76% for knee alignment. The image-only ViT achieved the highest accuracy for arch classification, while the ViT without-attention configuration achieved slightly higher accuracy and macro-F1 for knee alignment. These findings indicate that the benefit of multimodal attention fusion varied across alignment tasks. Activation maps consistently highlighted clinically relevant plantar regions associated with alignment patterns, suggesting morphological correlations consistent with a distal-proximal kinetic chain hypothesis. Together, these findings demonstrate the potential of plantar 3D scanning combined with multimodal, explainable deep learning as a non-invasive approach for screening alignment-related biomechanical risk factors, warranting further external validation before clinical translation.",
-      "url": "https://doi.org/10.1371/journal.pdig.0001802",
-      "source": "MED",
-      "doi": "10.1371/journal.pdig.0001802",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
