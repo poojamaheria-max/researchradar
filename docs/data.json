@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T18:29:16.381825+00:00",
+  "updated": "2026-11-15T00:40:10.708926+00:00",
   "items": [
     {
       "id": "MED:43004853",
@@ -818,6 +818,22 @@
       ]
     },
     {
+      "id": "PPR:PPR1366167",
+      "topic": "AI Embeddings",
+      "title": "Multimodal protein representations across human brain cell types",
+      "authors": "Dong A, Li MM, Ding K, Nazeen S, Noori A, Huang Y, Gao S, Ritter D, Afroz J, Henderson ABH, Studer L, Luo Y, Khurana V, Parmigiani G, Zitnik M.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "The central nervous system (CNS) comprises diverse cell types whose molecular context shapes the roles of the proteins they express. Computational models offer a scalable way to study the roles of proteins across human brain cell types, with protein language models and interactome- or single-cell-based models capturing complementary information encoded in protein sequences and cellular network contexts. Human brain tissue is hard to access, so brain cell types make up a small fraction of the atlases single-cell models train on and of the benchmarks used for their evaluation. To capture these complementary sources of information in the CNS, we introduce SEMPER, a multimodal representation learning model that aligns protein language model representations with protein-protein interaction networks from 442 cell types of the adult human brain, giving each protein a sequence-informed representation in every cell type in which its gene is expressed. We show that SEMPER representations predict cell type-specific protein complexes and predict genes essential to the survival of dopaminergic neurons, measured in a genome-wide CRISPR screen. In zero-shot retrieval, SEMPER recovers clinically pursued drug targets for Parkinson's disease, Alzheimer's disease, multiple sclerosis, Huntington's disease and amyotrophic lateral sclerosis at higher rates than cell type-specific models. To further improve target recovery, we combine SEMPER with a large language model that reasons over protein functional annotations. The combination recovers more targets, with SEMPER providing experimentally derived cellular context that complements literature-based reasoning of the large language model.",
+      "url": "https://doi.org/10.64898/2026.11.10.765762",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.10.765762",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1366139",
       "topic": "AI Embeddings",
       "title": "Deep Learning Identifies BMI-Associated Morphologic Features in Breast Cancer Tissue",
@@ -1196,22 +1212,6 @@
       "url": "https://doi.org/10.2196/93199",
       "source": "MED",
       "doi": "10.2196/93199",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43013651",
-      "topic": "AI Embeddings",
-      "title": "Single-cell profiling of the duodenum during chronic human norovirus infection.",
-      "authors": "Matsushima Y, Durkee-Shock J, Alves DA, Nagata BM, Kim SA, Chan EC, Chaimongkol N, Ishiyama R, Barton K, Han A, Kelly LA, Ogbogu PU, Kumar S, Xu X, Briggs KC, Murakami K, Cohen JI, Keller MD, Sosnovtsev SV, Green KY.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "Human noroviruses are a major cause of diarrheal disease, yet their pathogenesis remains poorly defined. We performed single-cell RNA sequencing of duodenal biopsies and matched stem cell-derived enteroids from immunodeficient individuals with chronic norovirus infection. Norovirus RNA was detected primarily in enterocytes, enteroendocrine cells, and macrophages, with the highest proportion of viral RNA-positive cells observed among M2 macrophages, followed by late enterocytes. Despite this distribution, late enterocytes produced higher viral yields than differentiated M2 macrophages in vitro. Norovirus infection was associated with the up-regulation of MHC class I-related genes and <i>IL15</i> in duodenal macrophages and late enterocytes, together with increased <i>IFNG</i> expression by CD8 T cells. Macrophages and late enterocytes up-regulated <i>CXCL9</i> and <i>CXCL10/11</i>, respectively, consistent with CD8 and CD4 T cell recruitment to the duodenum. These findings show that noroviruses infect and persist across multiple permissive cell types during chronic infection, resulting in marked dysregulation of innate and adaptive immune responses that may drive pathogenesis.",
-      "url": "https://doi.org/10.1126/sciadv.aej2676",
-      "source": "MED",
-      "doi": "10.1126/sciadv.aej2676",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
