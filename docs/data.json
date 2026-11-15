@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T12:35:59.525658+00:00",
+  "updated": "2026-11-15T18:30:47.396304+00:00",
   "items": [
     {
       "id": "MED:43004853",
@@ -562,6 +562,22 @@
       ]
     },
     {
+      "id": "MED:43034468",
+      "topic": "AI Embeddings",
+      "title": "Integrating Social Determinants of Health Into Emergency Medicine Clerkships: A Qualitative Study of Student Reflections.",
+      "authors": "Olaf MF, Willner K, Spinozzi J.",
+      "journal": "",
+      "date": "2026-11-13",
+      "abstract": "Social determinants of health (SDH) significantly influence emergency department (ED) care and patient outcomes, yet experiential learning opportunities in SDH remain inconsistently integrated into clinical education. Prior work has been effective but resource intensive. We sought to explore an adapted SDH-focused clinical experience that built on prior curricula and pre-clerkship SDH instruction while minimizing additional non-clinical resources. We implemented a semi-structured SDH-focused experience within a required emergency medicine (EM) clerkship which sought to integrate prior knowledge from a pre-clerkship SDH curriculum. In the ED, students partnered with care managers or social workers to identify patients affected by SDH, conducted patient interviews, and completed written reflections. De-identified reflections from one academic year (2023-2024) were analyzed using an inductive thematic analysis approach. Two investigators independently coded an initial subset, developed a shared codebook, and applied iterative constant comparison to generate themes with investigator triangulation to enhance trustworthiness. Students described intersecting barriers to care, including language discordance, financial insecurity, and immigration-related challenges. Reflections also linked these barriers to direct clinical consequences such as delays in care, limited follow-up access, and patients leaving against medical advice. Students described how communication barriers and limited interpreter availability impacted care delivery and safety. Reflections also described structural inequities and the role of interdisciplinary teams in mitigating these challenges. Two additional themes, chronic illness and aging and health systems science, were interpreted as cross-cutting factors that modified how SDH were experienced rather than as determinants themselves. A semi-structured, experiential SDH curriculum embedded within the ED clerkship elicited reflections in which students identified and interpreted real-world barriers to care. These findings describe how students applied SDH concepts in the ED rather than demonstrating change attributable to the activity. This approach offers a feasible model for embedding SDH learning within existing clinical workflows.",
+      "url": "https://doi.org/10.1002/aet2.70282",
+      "source": "MED",
+      "doi": "10.1002/aet2.70282",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1367696",
       "topic": "AI Embeddings",
       "title": "AI-assisted standardization of real-world laboratory data to improve quality for real-world evidence generation",
@@ -751,6 +767,22 @@
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43034303",
+      "topic": "AI Embeddings",
+      "title": "Impact of nurse-led inhaler education on technique, dyspnoea and disease severity in patients with COPD: a randomised controlled trial.",
+      "authors": "Muslu D, Kılıç M.",
+      "journal": "",
+      "date": "2026-11-12",
+      "abstract": "Correct inhaler use is essential for symptom control in chronic obstructive pulmonary disease (COPD); however, incorrect technique remains common and may reduce treatment effectiveness. To evaluate nurse-led inhaler education's effects on technique, dyspnoea and severity in COPD. A randomised controlled trial included 90 COPD outpatients recruited between December 2022 and May 2023, assigned to an intervention group (n = 45) receiving nurse-led inhaler training or a control group (n = 45) receiving routine care. Inhaler technique, dyspnoea (modified Medical Research Council Dyspnoea Scale) and disease severity (COPD Assessment Test, CAT) were assessed at baseline and 4 weeks later. Data were analysed using independent-samples t‑tests, repeated‑measures analysis of variance, Pearson correlation and chi‑square tests. Baseline characteristics were comparable between groups (p > 0.05). The intervention group showed significantly greater improvement in inhaler technique (F = 62.416, p < 0.001), lower dyspnoea scores (F = 38.029, p < 0.001) and reduced CAT scores (p < 0.001) than controls. Structured nurse-led inhaler education improves inhaler technique and clinical outcomes in COPD. Findings support nursing theories of patient education and self‑management, underscoring nurses' role in chronic disease care. Policies embedding standardised, competency‑based inhaler education into respiratory nursing practice are recommended to strengthen COPD management.",
+      "url": "https://doi.org/10.1177/17449871261492921",
+      "source": "MED",
+      "doi": "10.1177/17449871261492921",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
       ]
     },
     {
@@ -1196,38 +1228,6 @@
       "url": "https://doi.org/10.2196/101303",
       "source": "MED",
       "doi": "10.2196/101303",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43013851",
-      "topic": "AI Embeddings",
-      "title": "Horizon-Aware Forecasting of Hypertension Prevalence and Mean Total Cholesterol in Chinese Men: Retrospective Leakage-Controlled Benchmark Study Comparing Statistical, Machine-Learning, and Neural Models.",
-      "authors": "Lai W, Subhan F, Zhou N, Khan J.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "<h4>Background</h4>Forecasts of population-level cardiovascular risk factors can support surveillance and planning, but annual country-level health series are often short. With only 30 or 39 annual values per target, model flexibility can outpace the information available for training, making leakage control, repeated temporal evaluation, and comparison with simple baselines essential.<h4>Objective</h4>The aim of this study is to compare statistical, classical machine-learning, and neural forecasting models for age-standardized prevalence of hypertension (ASPH) and mean total cholesterol (MTC) in Chinese men and to test whether attention or substantially greater neural capacity provides consistent predictive benefit.<h4>Methods</h4>The authors analyzed 2 officially sourced annual series: ASPH for Chinese men aged 30 to 79 years (1990-2019; 30 observations) and MTC for Chinese men aged 18 years or older (1980-2018; 39 observations). No series was interpolated, extrapolated, imputed, smoothed, spliced, or synthetically extended. Leakage-controlled expanding-window evaluation began after 21 observations and assessed 1-, 2-, and 5-year horizons. Classical machine-learning and neural models used a fixed primary lookback of 3 (L=3), with nested lookback selection disabled; neural models used 10 fixed seeds. Performance was assessed with root mean square error (RMSE), mean absolute error, mean absolute scaled error, root mean squared scaled error, symmetric mean absolute percentage error, directional accuracy, mean error, median error, diagnostic <i>R</i>², prespecified neural-ablation inference, empirical forecast-interval coverage, and computational-cost reporting.<h4>Results</h4>Statistical models had the lowest RMSE in all 6 target-horizon cells. Autoregressive integrated moving average won for ASPH at h=1 (RMSE 0.000178), h=2 (RMSE 0.000578), and h=5 (RMSE 0.004324), and for MTC at h=1 (RMSE 0.000400) and h=2 (RMSE 0.001479); error-trend-seasonal state space won for MTC at h=5 (0.006991). Classical machine-learning and primary neural models won no cells. Removing attention reduced RMSE in 5 of 6 ablation cells, while the compact architecture had lower RMSE than Original23K in 5 of 6 cells; formal differences were detected for both contrasts at ASPH h=1 and h=2, whereas ASPH h=5 (n=5) was descriptive only. Predictive intervals often undercovered. The benchmark completed all 7242 planned output-producing fits.<h4>Conclusions</h4>Simple statistical forecasting remained highly competitive in these short, retrospectively estimated annual series. Greater complexity did not ensure better point prediction, and neither attention nor larger capacity conferred a consistent advantage. Point accuracy did not ensure well-calibrated predictive uncertainty; findings were conditional on the 2 targets, target-specific horizons, and small evaluation samples.",
-      "url": "https://doi.org/10.2196/99686",
-      "source": "MED",
-      "doi": "10.2196/99686",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43013841",
-      "topic": "AI Embeddings",
-      "title": "Cross-Site Stability of Embedding Model Rankings for Known-Item Retrieval From Clinical Notes: Two-Corpus Comparative Evaluation Study.",
-      "authors": "Mikkelsen Y.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "<h4>Background</h4>Retrieval-augmented generation over clinical text depends on the embedding model chosen-a choice that interacts with documentation genre. Cross-site stability of embedding-model rankings has not been evaluated on real electronic health record (EHR) narratives with genre held constant; public benchmarks are predominantly single-source, and multi-institution evaluations compare models and query formulations within tasks rather than ranking stability across institutions.<h4>Objective</h4>The aim of the study is to test whether embedding model rankings transfer across 2 institutional EHR corpora, with genre held constant; to examine the contributions of model, site/corpus, and genre and their dependence on scoring; and to test whether the dominant contributor depends on model-panel composition.<h4>Methods</h4>We compared 13 embedding models on a known-item passage-to-source-document task, each query a deterministic 2-sentence excerpt from its target, in a 2×2 design crossing site/corpus (Beth Israel Deaconess Medical Center via MIMIC-IV-Note [Medical Information Mart for Intensive Care IV Clinical Notes Module] and University of California, San Francisco via ER-Reason) with genre (discharge summary and imaging report). Query sentences were removed from their targets before indexing to prevent verbatim overlap, notes were deduplicated after normalization, models used their recommended pooling, long documents were scored as overlapping chunks by maximum similarity, and cell sizes were matched (N=1235 per cell). Effectiveness was measured by mean reciprocal rank at 10, rank transfer by Kendall τ and selection regret, and variance by factorial decomposition (η<sup>2</sup>). Transfer, regret, and the contrastive-panel decomposition carry 95% patient-clustered bootstrap intervals.<h4>Results</h4>Among the 8 contrastive models, cross-site Kendall τ was 0.86 (95% CI 0.64-1.00) for discharge and 0.64 (95% CI 0.36-0.86) for imaging. The model×site interaction was small under every scoring choice (η<sup>2</sup>=0.005-0.029); the site/corpus main effect was negligible under best-chunk scoring (η<sup>2</sup>=0.000) but scoring-dependent (0.172 under mean-pooling). Cross-site selection regret was 0 for imaging and up to 0.033 for discharge (~10% of the destination's best mean reciprocal rank; intervals 0-0.071). Adding 5 nonretrieval masked-language-model comparators moved the largest term to model (η<sup>2</sup>=0.874): the dominant-factor question is panel-sensitive, while the qualitative transfer conclusion was unchanged.<h4>Conclusions</h4>For known-item retrieval from clinical notes at 2 US academic medical centers, embedding-model rankings showed positive cross-site concordance, moderate for imaging and strong for discharge summaries-with intervals wide enough that direction, not magnitude, is the finding. Which factor dominates absolute effectiveness depends on the panel evaluated: primary contrastive-panel scoring favors genre, whereas adding nonretrieval comparators makes model choice dominant; so, claims about major determinants are panel-specific. Cross-site model selection incurred zero to modest performance loss. When documentation genre and retrieval configuration are matched, model-selection results from one institutional EHR corpus may be a useful starting point for another, although local confirmation remains warranted.",
-      "url": "https://doi.org/10.2196/109305",
-      "source": "MED",
-      "doi": "10.2196/109305",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
