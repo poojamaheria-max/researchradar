@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T08:09:25.180802+00:00",
+  "updated": "2026-11-16T14:48:30.004873+00:00",
   "items": [
     {
       "id": "MED:43004853",
@@ -540,6 +540,22 @@
       "url": "https://doi.org/10.1002/jfa2.70223",
       "source": "MED",
       "doi": "10.1002/jfa2.70223",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43036308",
+      "topic": "AI Embeddings",
+      "title": "Density functional theory and Bayesian optimization for therapeutic discovery.",
+      "authors": "Kaijage N, Sewunet S, Otieno E, Kraszewski S.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "The rational design of novel therapeutics is fundamentally constrained by an irreducible paradox: the drug-like chemical space spans an estimated 1060-1063 compounds, yet quantum mechanical evaluation of molecular electronic structure demands methods scaling as O(N3)-O(N4) with system size. Bayesian Optimization-guided Density Functional Theory resolves this by embedding quantum-accurate property evaluation within a probabilistic active learning loop that directs computational resources toward maximally informative candidates. The authors critically examine DFT functional selection, basis set adequacy, and scaling mitigation strategies for drug-like molecules, alongside Bayesian Optimization surrogate architectures, acquisition function design, and multi-fidelity extensions spanning GFN2-xTB to DLPNO-CCSD(T). A quantitative structured comparative synthesis of eleven published DFT-BO campaigns is presented, and integration strategies, including sequential, batch, and surrogate-assisted pipelines, are analyzed. This review is based on a structured literature search conducted in PubMed, Web of Science, Scopus, and Google Scholar, covering publications from 1965 to July 2026. The convergence of fault-tolerant quantum computing, large-scale molecular foundation models, and exascale hardware is expected to broaden the scope of DFT-BO integration. We argue that the value of these methods is presently established for the optimization of quantum-chemical properties rather than for therapeutic endpoints, and we identify the benchmarking and validation evidence that would be required to establish the latter.",
+      "url": "https://doi.org/10.1080/17460441.2026.2762802",
+      "source": "MED",
+      "doi": "10.1080/17460441.2026.2762802",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -1212,22 +1228,6 @@
       "url": "https://doi.org/10.1016/j.ebiom.2026.106545",
       "source": "MED",
       "doi": "10.1016/j.ebiom.2026.106545",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43013872",
-      "topic": "AI Embeddings",
-      "title": "Robotic Rollator Assistance for Sit-to-Stand Transfers in Older Adults with Mobility Challenges: Within-Participant Feasibility Study.",
-      "authors": "Mahdi A, Buchner T, Werner C, Hu Y, Mombaur K.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "<h4>Background</h4>Robotic mobility aids with sit-to-stand (STS) support may help older adults reduce physical effort during a demanding, fall-prone daily task.<h4>Objective</h4>This paper reports a feasibility evaluation of the \"SkyWalker\" robotic walker, which provides powered STS assistance via actuated lower handles. The 2 trajectories (linear and S-shape) were selected to examine how assistance profile shape influences feasibility, biomechanics, and user experience.<h4>Methods</h4>Seven older adult patients with mobility challenges were enrolled from a rehabilitation hospital. One withdrew during the robot familiarization (unable to stand up) without attempting any study trial, and 6 completers (4 women, 2 men; aged 70-84 years) form the analyzed sample. Participants completed 3 within-subject conditions: SkyWalker with the linear trajectory, SkyWalker with the S-shape trajectory, and a conventional rollator. We quantified STS task performance, perceived exertion Borg Category-Ratio 10 scale (Borg CR10), kinematics (center-of-gravity [CoG] height), kinetics (vertical ground-reaction force [Fz], normalized to body weight), and technology acceptance using an adapted Tele-healthcare Satisfaction Questionnaire-Wearable Technology (TSQ-WT). Participant-level data are the primary presentation. Condition effects were tested with exact nonparametric tests.<h4>Results</h4>Under linear assistance, 27 of 30 repetitions (90%) were successful (mean 4.50, SD 0.84; 4 of 6 participants at 5/5) and perceived exertion was the lowest of the 3 conditions (Borg CR10 mean 1.50, SD 1.38; lower than the rollator in 3 of 6 participants, unchanged in 2, higher in 1). Under S-shape assistance, 21 of 30 repetitions (70%) were successful (mean 3.50, SD 1.97; 3 of 6 at 5/5), with exertion comparable to the conventional rollator (mean 2.50, SD 2.43 vs mean 2.33, SD 1.63). All 6 completers achieved 5 of 5 repetitions with the conventional rollator, so robotic assistance did not increase the number of successful transfers in this cohort. Exact tests showed no significant condition effect on exertion (Friedman <i>χ</i><sup>2</sup><sub>2</sub>=2.1; exact <i>P</i>=.40; Kendall W=0.18) or success (Friedman <i>χ</i><sup>2</sup><sub>2</sub>=5.0, exact <i>P</i>=.11; Kendall W=0.42). Group CoG curves showed earlier, more monotonic elevation for linear, and per-participant Fz showed greater between-participant variability in load-transfer timing under S-shape. Technology acceptance was heterogeneous (TSQ-WT totals 22-77 of 80; 4 of 6 participants at 64 or higher).<h4>Conclusions</h4>Powered STS assistance was feasible for most assisted transfers: 27 of 30 repetitions (90%) succeeded under the linear trajectory, which also produced the lowest mean perceived effort of the 3 conditions. The S-shape trajectory was more demanding, producing more partial completions and no effort reduction relative to the conventional rollator. In this first evaluation of SkyWalker with its intended users, the assistance profile, not powered assistance itself, is the variable to prioritize in further testing, and the results, which motivate trajectory personalization and brief familiarization, are informing the design of the next SkyWalker generation.",
-      "url": "https://doi.org/10.2196/101303",
-      "source": "MED",
-      "doi": "10.2196/101303",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
