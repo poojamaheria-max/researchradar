@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T18:44:39.421182+00:00",
+  "updated": "2026-11-17T00:44:48.295365+00:00",
   "items": [
     {
       "id": "MED:43004853",
@@ -552,10 +552,58 @@
       "authors": "Kaijage N, Sewunet S, Otieno E, Kraszewski S.",
       "journal": "",
       "date": "2026-11-16",
-      "abstract": "The rational design of novel therapeutics is fundamentally constrained by an irreducible paradox: the drug-like chemical space spans an estimated 1060-1063 compounds, yet quantum mechanical evaluation of molecular electronic structure demands methods scaling as O(N3)-O(N4) with system size. Bayesian Optimization-guided Density Functional Theory resolves this by embedding quantum-accurate property evaluation within a probabilistic active learning loop that directs computational resources toward maximally informative candidates. The authors critically examine DFT functional selection, basis set adequacy, and scaling mitigation strategies for drug-like molecules, alongside Bayesian Optimization surrogate architectures, acquisition function design, and multi-fidelity extensions spanning GFN2-xTB to DLPNO-CCSD(T). A quantitative structured comparative synthesis of eleven published DFT-BO campaigns is presented, and integration strategies, including sequential, batch, and surrogate-assisted pipelines, are analyzed. This review is based on a structured literature search conducted in PubMed, Web of Science, Scopus, and Google Scholar, covering publications from 1965 to July 2026. The convergence of fault-tolerant quantum computing, large-scale molecular foundation models, and exascale hardware is expected to broaden the scope of DFT-BO integration. We argue that the value of these methods is presently established for the optimization of quantum-chemical properties rather than for therapeutic endpoints, and we identify the benchmarking and validation evidence that would be required to establish the latter.",
+      "abstract": "<h4>Introduction</h4>The rational design of novel therapeutics is fundamentally constrained by an irreducible paradox: the drug-like chemical space spans an estimated 10<sup>60</sup>-10<sup>63</sup> compounds, yet quantum mechanical evaluation of molecular electronic structure demands methods scaling as O(N<sup>3</sup>)-O(N<sup>4</sup>) with system size. Bayesian Optimization-guided Density Functional Theory resolves this by embedding quantum-accurate property evaluation within a probabilistic active learning loop that directs computational resources toward maximally informative candidates.<h4>Areas covered</h4>The authors critically examine DFT functional selection, basis set adequacy, and scaling mitigation strategies for drug-like molecules, alongside Bayesian Optimization surrogate architectures, acquisition function design, and multi-fidelity extensions spanning GFN2-xTB to DLPNO-CCSD(T). A quantitative structured comparative synthesis of eleven published DFT-BO campaigns is presented, and integration strategies, including sequential, batch, and surrogate-assisted pipelines, are analyzed. This review is based on a structured literature search conducted in PubMed, Web of Science, Scopus, and Google Scholar, covering publications from 1965 to July 2026.<h4>Expert opinion</h4>The convergence of fault-tolerant quantum computing, large-scale molecular foundation models, and exascale hardware is expected to broaden the scope of DFT-BO integration. We argue that the value of these methods is presently established for the optimization of quantum-chemical properties rather than for therapeutic endpoints, and we identify the benchmarking and validation evidence that would be required to establish the latter.",
       "url": "https://doi.org/10.1080/17460441.2026.2762802",
       "source": "MED",
       "doi": "10.1080/17460441.2026.2762802",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:42976384",
+      "topic": "AI Embeddings",
+      "title": "AIM-STAGE: a self-supervised framework via adaptive interval-aware multi-kernel calibration and spectro-temporal exploration for few-shot EEG staging.",
+      "authors": "Liu Y, Liu T, Yuan J, Li Y, Liu X, Wang X, Ma T, Bi L, Lin X, Moghadam Charkari N, Ganjidoust H, Alfred Makudali Msagati T, Guo Q.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "<i>Objective</i>. Learning discriminative and generalizable representations from electroencephalography (EEG) signals with limited annotations remains a key challenge in automatic sleep staging. Supervised deep models depend on large-scale expert labels, yet sleep annotation is costly and time-consuming. Existing self-supervised methods often underuse EEG spectral-temporal structure and adopt fixed negative-sample strategies, which are poorly suited to the continuous transitions and ambiguous boundaries between sleep stages. This study proposes AIM-STAGE, a self-supervised representation learning framework for limited-label EEG sleep staging.<i>Approach</i>. AIM-STAGE comprises three modules. (1)<i>Spectral-temporal exploration</i>. maps EEG segments into the time-frequency domain through the short-time Fourier transform, jointly extracting log-power and cross-channel phase difference to characterize frequency-band activity and phase dynamics. (2)<i>Local-global hybrid encoding</i>. uses a CNN-Transformer encoder, in which convolutional residual modules capture local spectro-temporal patterns and a bottleneck Transformer models long-range dependencies. (3)<i>Adaptive interval-aware multi-kernel calibration</i>. Employs multiple Gaussian kernels and dynamic weighting to synthesize informative negative representations, improving view consistency and inter-sample separability.<i>Main results</i>. AIM-STAGE was evaluated on SLEEP-2013, SLEEP-2018, SHHS-D, and SHHS-H against ContraWR, DFformer, EEG2Rep, EEGPT, Superlet-MAE, and a supervised baseline across 1%-15% labels. Accuracy improved from 88.67% to 92.04% on SLEEP-2013, and AIM-STAGE outperformed all baselines on all four datasets with higher kappa, macro-1, and balanced accuracy, including on the pathological SHHS-D cohort. Ablation confirmed the contributions of the bottleneck Transformer, positional embeddings, physiology-informed augmentation, and calibration loss. Per-stage analysis showed that N1 is the most difficult stage, with1 ranging from 0.003-0.046, and adding EOG and EMG markedly improved its precision, recall, and1.<i>Significance</i>. AIM-STAGE offers an interpretable and label-efficient self-supervised solution for EEG sleep staging, improving robustness and stage discriminability under scarce-label conditions while reducing dependence on manual annotation.",
+      "url": "https://doi.org/10.1088/1741-2552/aebd1c",
+      "source": "MED",
+      "doi": "10.1088/1741-2552/aebd1c",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:42949705",
+      "topic": "AI Embeddings",
+      "title": "Label-free Raman spectroscopy for cancer therapy response: from methodological framework to clinical translation.",
+      "authors": "Alcolea-Rodriguez V, Bresci A, Mühlig A, Agrimi C, Morasso C, Polli D, Guntinas-Lichius O, Vanna R.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "The early detection of therapy-induced biomolecular changes and the prediction of therapeutic response remain major challenges in oncology. Current clinical methods often assess treatment response through macroscopic or morphological endpoints, whereas molecular alterations associated with sensitivity, resistance, or recurrence may arise earlier and remain undetected. Raman spectroscopy offers a label-free and non-destructive approach to probe the intrinsic biochemical composition of cells, tissues, and biofluids, providing spectral and spatial information that can support therapy response prediction and longitudinal monitoring. This review discusses Raman-based technologies for cancer therapy assessment, from preclinical models to emerging clinical applications. We first outline the clinical need for rapid, non-destructive, and molecularly informative tools, considering tumor heterogeneity, therapy resistance, the tumor microenvironment, and current standards for response evaluation. We then provide a methodological framework for selecting Raman modalities, including spontaneous Raman (SR) spectroscopy, surface-enhanced Raman spectroscopy (SERS), stimulated Raman spectroscopy (SRS), and coherent anti-Stokes Raman spectroscopy (CARS), together with key considerations on acquisition strategies, multimodal integration, experimental design, preprocessing, feature analysis, and machine learning. We summarize Raman spectral biomarkers associated with therapy-induced changes in nucleic acids, proteins, lipids, metabolites, extracellular matrix components, and anticancer drugs, and critically examine studies using Raman spectroscopy to predict or monitor responses to major therapeutic approaches. Finally, we discuss barriers to clinical translation, including acquisition speed, inter-instrument reproducibility, preclinical model limitations, regulatory requirements, workflow integration, clinical trials, and prospective validation. Overall, Raman spectroscopy emerges as a promising platform for molecular phenotyping in precision oncology, provided that future studies progress toward standardized, clinically validated, and actionable workflows.",
+      "url": "https://doi.org/10.1039/d6cs00966b",
+      "source": "MED",
+      "doi": "10.1039/d6cs00966b",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:42876279",
+      "topic": "AI Embeddings",
+      "title": "New approach methodologies in nanomedicine: bridging the gap between &lt;i&gt;in silico&lt;/i&gt;, &lt;i&gt;in vitro&lt;/i&gt;, and &lt;i&gt;in vivo&lt;/i&gt; systems.",
+      "authors": "Radwan Y, Rebolledo LP, Skelly E, Grabarnik E, Jain S, Halman M, Chammas R, Zakharov AV, Dobrovolskaia MA, Afonin KA.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "The rise of nanomedicine has led to the regulatory approval of more than 80 nanoparticle (NP)-based therapeutics over the past two decades. Further advancement in the field requires a deeper understanding of the nano-bio interface of NPs, including their uptake, delivery, efficacy, toxicity, and adverse effects. Despite the heavy reliance on conventional cell cultures for NP screening, these models do not recapitulate the <i>in vivo</i> microenvironment, complexity, and physiological responses; hence, follow-up animal studies are required. Nonetheless, because of species-specific differences and ethical concerns around animal studies, developing alternative platforms has become critical. To address these issues, 3D cell culture models such as organoids, spheroids, and organ-on-chip systems have emerged to bridge the gap between <i>in vitro</i> and <i>in vivo</i> systems. Because they better represent cell interactions, gene expression, nutrient gradients, and tissue-specific functions, 3D models also align with the U.S. FDA's promotion of new approach methodologies (NAMs) to reduce animal testing. This review covers examples of organic and inorganic NPs tested in 3D models and discusses organ-specific NAMs, considering their advantages and limitations. The review also highlights how 3D models improve NP evaluation for drug delivery, toxicity, and targeted therapy, and provides a coherent NAMs toolbox for developing <i>in silico</i> methods for NP assessment. Future perspectives are introduced to underscore the importance of integrating <i>in silico</i> NAMs and 3D models to complement <i>in vivo</i> models for advancing precision medicine and improving the translational potential of complex drug products containing nanotechnology.",
+      "url": "https://doi.org/10.1039/d6cs01323f",
+      "source": "MED",
+      "doi": "10.1039/d6cs01323f",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -1181,54 +1229,6 @@
       "source": "PPR",
       "doi": "10.20944/preprints202611.1184.v1",
       "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43016005",
-      "topic": "AI Embeddings",
-      "title": "Evidence-based policy improvements for lipid lowering therapy: a focus on reducing clinical inertia and improving cardiovascular outcomes.",
-      "authors": "Chen RT, Lan NSR, Watts GF, Ray KK, Pagidipati NJ, Bhatt AS, Nicholls SJ, Nelson AJ.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "<h4>Introduction</h4>Despite substantial evidence linking low-density lipoprotein cholesterol (LDL-C) reduction to improved cardiovascular outcomes, a significant implementation gap persists. Clinical inertia, defined as failure to initiate or intensify therapy despite suboptimal control, remains a key barrier to achieving guideline-recommended LDL-C goals, particularly in high-risk populations.<h4>Areas covered</h4>This review analyses systemic drivers of clinical inertia in lipid management, with emphasis on modifiable policy and organizational barriers. These include restrictive access and reimbursement policies, suboptimal health information technology and workflow design, misaligned quality metrics, and fragmented care delivery models. Evidence-based strategies to address these barriers are evaluated, including administrative reform, financial incentives, integrated clinical decision support, team-based care, and structured care pathways.<h4>Expert opinion</h4>The principal challenge is not therapeutic efficacy but effective implementation. Translating evidence into population benefit requires a shift from isolated prescribing to system-level optimization. Key priorities include harmonizing access policies with guidelines, embedding outcome-based accountability, and scaling multidisciplinary care models. Sustained adherence also depends on addressing patient-level beliefs, treatment tolerability and burden, and broader socio-economic barriers, including social determinants of health. Over the next five years, progress will depend on integrating implementation science, digital tools, and value-based frameworks to enable proactive, equitable, and sustainable lipid control.",
-      "url": "https://doi.org/10.1080/14779072.2026.2763866",
-      "source": "MED",
-      "doi": "10.1080/14779072.2026.2763866",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43015859",
-      "topic": "AI Embeddings",
-      "title": "Model cards are not primary artifacts: stereochemistry in the MoLFormer and SMI-TED chemical foundation models.",
-      "authors": "Kaplan N.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "Pretrained chemical language models are selected, embedded with, and fine tuned on the basis of what their documentation says they are. We report that the released model card for MoLFormer, one of the most widely used chemical foundation models, states that isomeric information was removed from its training data, and that this statement is contradicted by artifacts distributed in the model's own repository. The shipped token frequency table records the tetrahedral stereocentre token [C@H] occurring 669,642,207 times, making it the twelfth most frequent token in a corpus of 47.2 billion tokens, ahead of fluorine, and stereochemical tokens account for 3.17% of all token occurrences. The described stripping is real but occurs at a different pipeline stage: isomeric = False is hardcoded into the fine tuning scripts and applied to downstream benchmark data, not to pretraining. We find a related divergence in SMI-TED, whose released vocabulary contains 2,393 tokens rather than the 2,988 reported, and whose shipped frequency table is identical to MoLFormer's, byte for byte, across all 2,357 shared tokens, despite the paper describing a different corpus. We release the extracted frequency table and an audit tool, and recommend that chemical model cards state stereochemistry handling separately for pretraining, fine tuning, and inference.",
-      "url": "https://doi.org/10.1186/s13321-026-01318-y",
-      "source": "MED",
-      "doi": "10.1186/s13321-026-01318-y",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43013920",
-      "topic": "AI Embeddings",
-      "title": "Foundation-model imaging biomarkers for pancreatic cancer: cross-species discovery of conserved tumour biology in mouse MRI and human CT.",
-      "authors": "Yu G, Zhang Z, Eresen A, Hou Q, Wei P, Hou X, Tian L, Webster S, Liu R, Nauli SM, Yu J, Yaghmai V, Zhang Z.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "<h4>Background</h4>Computed tomography (CT) stages pancreatic ductal adenocarcinoma (PDAC) but does not read out the treatment-guiding tumour biology, requiring biopsy. Whether an imaging-biology relationship discovered in preclinical MRI holds independently in human CT is unknown.<h4>Methods</h4>One pipeline was applied to two PDAC cohorts: longitudinal 9.4 T multi-parametric MRI (169 sessions; 1002 image series, 471 quantitative maps) with terminal histopathology in male C57BL/6 mice bearing orthotopic KPC-derived tumours treated with gemcitabine, a dendritic-cell vaccine, both, or neither, and abdominal CT with matched proteogenomics from CPTAC-PDA. Radiomics and frozen foundation-model embeddings were modelled under grouped cross-validation against five pre-specified paired endpoints, with no cross-species transfer of features, weights, or labels.<h4>Findings</h4>Applied independently, the pipeline recovered four matched molecular endpoints in both species (CD8 infiltration, stromal collagen, CD8:CD68 immune balance, cytolytic activity), with areas under the receiver-operating-characteristic curve (AUROCs) of 0.938-0.960 in mice and 0.780-0.856 in humans. Survival concordance indices were 0.729 and 0.689. After adjustment for age, stage, and grade, the human imaging score remained independently prognostic (hazard ratio 1.87 per SD, 95% CI 1.32 to 2.66; p < 0.001 [Wald test]; combined concordance index 0.726 versus 0.611 for clinical covariates). Findings held in portal-venous-restricted analysis; frozen embeddings outperformed end-to-end fine-tuning in both arms.<h4>Interpretation</h4>One pipeline recovered matched PDAC biology in mouse MRI and human CT, supporting preclinical imaging to nominate non-invasive CT biomarker candidates for biopsy-sparing PDAC trial stratification, pending prospective external validation.<h4>Funding</h4>National Cancer Institute; Society of Interventional Radiology Foundation; University of California Irvine Anticancer Challenge Pilot grant.",
-      "url": "https://doi.org/10.1016/j.ebiom.2026.106545",
-      "source": "MED",
-      "doi": "10.1016/j.ebiom.2026.106545",
-      "is_preprint": false,
       "topics": [
         "AI Embeddings"
       ]
