@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:58:42.360693+00:00",
+  "updated": "2026-11-17T12:49:52.362002+00:00",
   "items": [
     {
       "id": "MED:43004853",
@@ -546,6 +546,118 @@
       ]
     },
     {
+      "id": "MED:43038532",
+      "topic": "AI Embeddings",
+      "title": "Acupoint Thread Embedding for Weight Loss in Women With Overweight or Obesity : A Randomized Controlled Trial.",
+      "authors": "Xu S, Yang G, Hu C, Li X, Yin X, Zhao Y, Gunes A, Wu H, Zhong VW.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "Whether acupoint thread embedding (ATE), a traditional Chinese medicine intervention, produces weight reduction remains uncertain. To evaluate the efficacy and safety of ATE for weight reduction in women with overweight or obesity. Randomized, sham-controlled trial masked to participants, outcome assessors, and analysts. (ClinicalTrials.gov: NCT06316310). Acupuncture Department, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai, China. 132 women aged 18 to 45 years with a body mass index (BMI) of 24.0 kg/m2 or greater. Participants were randomly assigned 1:1 to ATE (6 sessions over 12 weeks) or sham ATE (superficial needle insertion at the same acupoints without manipulation, de qi, thread placement, or needle retention), followed by a 12-week follow-up. The primary outcome was change in BMI from baseline to week 12, analyzed under the intention-to-treat principle using linear mixed-effects models. At week 12, BMI and body weight decreased 0.7 kg/m2 (95% CI, -1.0 to -0.3 kg/m2) and 1.8 kg (CI, -2.7 to -0.9 kg), respectively, more with ATE than with sham ATE; at week 24, differences were -1.1 kg/m2 (CI, -1.7 to -0.6 kg/m2) and -3.0 kg (CI, -4.5 to -1.6 kg), respectively. Weight reduction of 5% or more occurred in 25.8% versus 9.1% (risk difference, 16.7 percentage points [CI, 3.7 to 29.3 percentage points]) at 12 weeks. Acupoint thread embedding produced greater reductions in waist and hip circumference, body fat percentage, and appetite scores, whereas cardiometabolic and patient-reported outcomes did not differ. Adverse events were mild and comparably distributed. Single center, generally healthy women of reproductive age, unmasked acupuncturists, short-term follow-up, and underpowered for uncommon adverse events and subgroup analyses. Acupoint thread embedding produced modest but sustained reductions in BMI and adiposity-related measures in Chinese women of reproductive age with overweight or obesity. National Facility for Translational Medicine (Shanghai).",
+      "url": "https://doi.org/10.7326/annals-26-02294",
+      "source": "MED",
+      "doi": "10.7326/annals-26-02294",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43040130",
+      "topic": "AI Embeddings",
+      "title": "Tumor Semantic Modeling with Vascular Morphology Prior Correction Reduces False-Positive Malignant Predictions on Contrast-Enhanced Lung CT.",
+      "authors": "Wang J, Sun Y, Lv Z, Xue Z, Wang Z, Yan Y, Zhao X.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "To develop an interpretable contrast-enhanced CT-based framework for benign-malignant lung tumor classification by integrating radiology-style semantic representations with global pulmonary vascular morphology features. Two particular difficulties with this task lie in (1) establishing an interpretable model to distinguish tumor data that are difficult to differentiate between benign and malignant in clinical practice, and (2) based on clinical experience, incorporate the vascular characteristics around the tumor into the decision-making process. We propose a vascular knowledge-enhanced classification framework that integrates semantic tumor representations extracted by large multimodal models with peritumoral vascular morphological features. The framework consists of three components: (1) an interpretable feature extractor for tumor representation learning, (2) vascular morphology modeling derived from vessel segmentation, and (3) a feature fusion module combining tumor and vascular information for classification. In a retrospective cohort of 420 patients with pathologically confirmed pulmonary tumors, the proposed method was assessed using patient-level, stratified five-fold cross-validation. Relative to the semantic-only branch, decision-level fusion increased accuracy (71.4% vs. 75.5%), AUC (0.764 vs. 0.816), and specificity (57.3% vs. 77.8%), but decreased sensitivity (81.1% vs. 73.9%). These findings indicate that vascular prior-guided correction primarily enhanced benign-case recognition and suppressed false-positive malignant predictions, at the expense of sensitivity for malignant cases. In single-center validation, pulmonary vascular morphology offered complementary structural evidence for differentiating benign from malignant pulmonary tumors larger than 3 cm. The proposed AND-like decision-level correction rule enhanced specificity by reducing false-positive malignant predictions.",
+      "url": "https://doi.org/10.1007/s10278-026-02504-y",
+      "source": "MED",
+      "doi": "10.1007/s10278-026-02504-y",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43039967",
+      "topic": "AI Embeddings",
+      "title": "Artificial intelligence aids multi-omics data integration in cancer drug discovery and development: from targets to drug synergy.",
+      "authors": "Yang YL, Wang QY, Zhou YQ, Zhang XY, Chen ZB, Liu Y, Hu YH, Wang JW, Qin J.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "The emergence of multi-omics technologies has enabled the integration of genomic, transcriptomic, epigenomic, proteomic, and metabolomic data to characterize the molecular complexity of cancer. Single-cell and spatial profiling further resolve intratumoral heterogeneity, cell-cell interactions, and the microenvironmental determinants of therapeutic responses. In parallel, artificial intelligence (AI) provides computational approaches for integrating these heterogeneous data types across target identification, drug response prediction, toxicity assessment, and drug-combination modeling. Across these domains, the available evidence indicates that multi-omics integration is most beneficial when the included layers provide complementary biological information; that single-cell and spatial omics analyses reveal treatment-resistant populations and niches but remain largely research-grade and thus not ready for routine clinical deployment; and that although foundation models support some representation-learning tasks, their advantages in perturbation-response prediction require confirmation via stringent evaluation. By distinguishing externally validated advances from retrospective proof-of-concept studies, we provide a practical framework for evaluating the translational readiness of AI-driven multi-omics tools in precision oncology.",
+      "url": "https://doi.org/10.1038/s41401-026-01958-8",
+      "source": "MED",
+      "doi": "10.1038/s41401-026-01958-8",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43039660",
+      "topic": "AI Embeddings",
+      "title": "Label-free multi-metric pipeline for reproducible clustering of single-cell RNA-seq cell types.",
+      "authors": "Yousef Z, Simone J, Klein D, Bhuyan A, Cho HJ, Bhatt P, Wu J, Wang H, Cai L.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "Single-cell RNA sequencing has transformed our ability to identify cell types and explore cellular diversity. However, determining whether apparent cell subtypes represent true biological populations or artifacts of data analysis remains a major challenge. To address this issue, we developed scClustBench, an open-source benchmarking framework that evaluates cluster quality, stability, and reproducibility across multiple analytical approaches. Rather than relying on a single clustering method, scClustBench tests whether proposed cell subtypes can be consistently recovered. We applied scClustBench to a mouse retinal dataset containing bipolar cells, which are known to exhibit subtype diversity, and rod photoreceptors, for which subtype classification remains controversial. The framework consistently identified reproducible bipolar cell subtypes across analytical methods. In contrast, while some rod photoreceptor clusters appeared stable during resampling analyses, they could not be reproduced across embedding methods, suggesting that these partitions do not represent robust biological subtypes. Additional analyses using simulated and external datasets demonstrated that scClustBench reliably distinguishes meaningful cellular heterogeneity from analytical artifacts. These findings provide a practical framework for rigorous interpretation of single-cell transcriptomic data.",
+      "url": "https://doi.org/10.26508/lsa.202603861",
+      "source": "MED",
+      "doi": "10.26508/lsa.202603861",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43038548",
+      "topic": "AI Embeddings",
+      "title": "Cross-Domain Transfer of Depression Voice Biomarkers Depends on the Outcome Instrument: Leakage-Controlled Cross-Sectional Evaluation Study.",
+      "authors": "Wiley R, Schwoebel J, Caccia M, Shor J, Garcia AM, Fisher SD, Frasch MG.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "Voice-based depression screening is commercializing rapidly, yet whether voice biomarkers generalize across clinical settings is largely untested. Generalization is usually framed as a question about populations, but it is also a question about the outcome instrument a model is scored against, an effect confounded with other between-study differences in the literature. We tested whether depression voice biomarkers transfer between perinatal and general-psychiatric speech in both directions under strict leakage control and whether transfer depends on the screening instrument. In a cross-sectional, online US study, 390 pregnant participants at a mean of 22 (SD 1) weeks' gestation (analytical sample n=316) participated in 446 sessions; each participant provided 4 voice recordings and completed the modified 8-item Patient Health Questionnaire (PHQ-8) and modified 9-item Edinburgh Postnatal Depression Scale (mEPDS-9). We extracted 375 acoustic descriptors and 330-dimensional Population Dynamics Foundation Model community-health embeddings. Discrimination area under the curve (AUC) was assessed under leakage-controlled cross-validation, with feature and classifier selection inside training folds only and a permutation negative-control harness, across a prespecified grid of 4 speech tasks×4 outcome definitions. The prenatal-trained model was applied to 2 general-psychiatric corpora (Distress Analysis Interview Corpus-Wizard-of-Oz, n=189; Extended Distress Analysis Interview Corpus, n=219) under pure held-out inference, and the open-source Kintsugi Depression/Anxiety Model (DAM), trained on 35,000 individuals, was applied to all 3 cohorts without refitting, with Benjamini-Hochberg multiplicity control. In the prenatal cohort, the preregistered outcome was at chance (AUC 0.494, 95% CI 0.431-0.560); no cell in the 16-cell grid survived adjustment under either modeling paradigm. The prenatal-trained model did not transfer to either general-psychiatric corpus (AUCs 0.505 and 0.478). Reverse transfer depended on the screening instrument. The DAM reached an AUC of 0.706 to 0.708 on general-psychiatric speech. In the same participants, it performed at chance against the PHQ-8 (AUC 0.510, 95% CI 0.411-0.609) but discriminated against the mEPDS-9 (AUC 0.645, 95% CI 0.541-0.744), a paired difference of 0.135 (95% CI 0.019-0.248; unadjusted post hoc P=0.02). Exploratory item-level analysis suggests a mechanism: the DAM tracked affective-distress items (crying r=0.26, sadness r=0.21, and overwhelmed r=0.20) but not somatic PHQ-8 items; only crying survived adjustment across 17 tests. Transfer varied by elicitation task (pregnancy narrative 0.653, 95% CI 0.550-0.753; open-ended speech 0.597, 95% CI 0.486-0.699; scripted reading 0.544, 95% CI 0.434-0.651), though these were not formally compared. Cross-domain comparison showed a compound shift: population, elicitation task, and outcome instrument differed together, while only the instrument could be varied on its own. Whether a depression voice biomarker transfers may depend not only on the population but also on whether the outcome instrument captures what the model can detect. Validation should state the population, elicitation task, and outcome instrument together; a tool validated against one instrument should not be assumed to work against another.",
+      "url": "https://doi.org/10.2196/105737",
+      "source": "MED",
+      "doi": "10.2196/105737",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43038261",
+      "topic": "AI Embeddings",
+      "title": "Intelligent classification of medically and veterinary important mosquito vectors using self-distillation-enhanced supervised learning.",
+      "authors": "Chuwongin S, Kaewthamasorn M, Chaiphongpachara T, Laojun S, Saiwichai T, Soiphet N, Boonsang S, Kittichai V.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "Mosquito-borne diseases remain a persistent global public health burden, with effective control strategies depending on the accurate and timely identification of mosquito species and estimation of their population density. The current gold standard, morphological identification via microscopic examination, is limited by inter-observer variability and a scarcity of local taxonomic expertise. While highly accurate, molecular techniques like polymerase chain reaction and DNA barcoding are often impractical for widespread field use due to their cost, procedural complexity, and reliance on specialized equipment and technicians. In response to these challenges, this study harnesses the potential of artificial intelligence (AI) to develop a robust, accessible diagnostic tool. We introduce an innovative application of the Distillation of knowledge with NO labels v2 (DINOv2-l14) algorithm, a self-supervised learning (SSL) model, for the classification of 30 distinct mosquito species from image data. A key focus was enabling the model to learn effectively from a highly imbalanced dataset, where the number of images per class ranged from 15 to 124. We also investigated the data efficiency of SSL by determining the minimum data partition required to match the performance of a conventional supervised model. Our image processing pipeline involved cropping, padding, and dividing images into 14 × 14 patches before converting them into embedded vectors for classification. The fully trained DINOv2-l14 model significantly outperformed a selected ResNet101 baseline, achieving 99.2% accuracy, 97.7% specificity, an F1 score of 86.1%, and a robust area under the curve (AUC) value of 0.996. Most notably, when fine-tuned on just 20% of the available data (averaging 11-13 images per class), the SSL model achieved performance comparable to the baseline model trained on the entire dataset, demonstrating exceptional data efficiency. Although limitations exist, including dataset imbalance and a lack of standardization for broader application, the model's high performance across five-fold cross-validation and strong Cohen's Kappa coefficients (up to 0.836) confirm its reliability. This work validates a novel, efficient, and highly accurate AI-driven approach to mosquito identification. By integrating such a model into a mobile application using an embedding AI framework, this technology holds significant promise for empowering field personnel with a practical, powerful tool to enhance vector surveillance and control programs worldwide.",
+      "url": "https://doi.org/10.1371/journal.pone.0362945",
+      "source": "MED",
+      "doi": "10.1371/journal.pone.0362945",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43037770",
+      "topic": "AI Embeddings",
+      "title": "Decoding Complications: Large Language Model-Based Classification of Free-Text Entries in Clinical Stroke Registries.",
+      "authors": "Asperger H, Weller J, Bode FJ, Ebrahimi T, Klehr L, Layer J, Meißner JN, Nitsch L, Shirvani O, Thielscher CS, von Danwitz NM, Mukherjee S, Dorn F, Petzold GC, Stösser S, on behalf of the GSR-ET Investigators.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "Clinical registries capture adverse events (AEs) in free-text fields that are rarely analyzed. We developed a reproducible large language model (LLM)-assisted workflow using 11,216 free-text entries from 18,069 patients in the German Stroke Registry; 9,146 informative entries were retained after filtering. Embedding-based clustering showed poor separation, whereas an LLM-guided taxonomy identified 89 leaf labels. On the model-assisted 1,000-entry development set used for model and prompt selection, GPT-5.4 reached F1 92.4% (95% confidence interval [CI] 91.4-93.4). On 300 held-out entries, weighted F1 against clinician consensus was 96.5% (94.6-98.1) for frozen GPT-5.4 labels and 90.5% (87.5-93.5) for locally run Qwen 3.5 27B. For AE concepts with a comparable structured field, free text documented 1,345 additional instances (+19.6% over 6,867 structured instances); it also documented 7,546 instances of AE concepts without a structured equivalent, most often pneumonia, urinary tract infection and delirium. Beyond baseline covariates and the structured AE count, integrated complication concepts increased the area under the curve for prediction of good functional outcome by 0.025 (95% CI 0.021-0.028) and for death by 0.018 (0.014-0.021); gains were minimal after including the discharge National Institutes of Health Stroke Scale (NIHSS) score. On 1,979 public coronary-trial fragments from the Aggregate Analysis of ClinicalTrials.gov (AACT), the software ran end to end, demonstrating its technical applicability to a second clinical text corpus. In conclusion, this workflow enables structured analysis of clinical registry free text and complements structured adverse-event documentation.",
+      "url": "https://doi.org/10.1007/s10916-026-02486-y",
+      "source": "MED",
+      "doi": "10.1007/s10916-026-02486-y",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1368695",
       "topic": "AI Embeddings",
       "title": "ProtCOVER: Family-Aware Conformal Prediction for Variant Effect Predictors on Unseen Protein Families",
@@ -1058,22 +1170,6 @@
       ]
     },
     {
-      "id": "MED:42831393",
-      "topic": "AI Embeddings",
-      "title": "CuCo-N-C nanozyme-mediated hydrogel colorimetric platform: dual-reading modes of ratiometry and smartphone for nitrite detection.",
-      "authors": "Wang G, Song C, Ma S, Lu C, Sun J, He Y.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "As a potentially hazardous food additive, nitrite acts as a double-edged sword, since excessive intake can trigger severe health risks. Developing an efficient and convenient on-site detection method for nitrite in food is therefore of great significance, yet remains challenging. To address this issue, a dual-mode colorimetric platform integrating a ratiometric assay with a hydrogel-based sensor has been constructed on the basis of the high oxidase-like activity of CuCo-N-C nanozymes. These nanozymes catalyze dissolved oxygen to oxidize colorless 3,3',5,5'-tetramethylbenzidine (TMB) into blue ox-TMB. The addition of nitrite triggers a diazotization reaction with ox-TMB, leading to decreased absorbance at 652 nm and increased absorbance at 450 nm. Furthermore, a smartphone-assisted portable kit was fabricated by embedding CuCo-N-C and TMB within an agarose hydrogel, enabling on-site visual quantification of nitrite in traditional foods including ham sausage, preserved eggs, salted duck eggs, mustard and fermented bean curd. This dual-mode colorimetric system is simple and reliable, with portable hardware and easy operation, and holds promise as a sensing platform for food safety monitoring.",
-      "url": "https://doi.org/10.1039/d6ay01284a",
-      "source": "MED",
-      "doi": "10.1039/d6ay01284a",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
       "id": "MED:43020477",
       "topic": "Long-acting PrEP",
       "title": "CAB-LA PrEP Prescriptions and Abandonment in the United States, January 2022-June 2025.",
@@ -1135,102 +1231,6 @@
       "is_preprint": true,
       "topics": [
         "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PMC:PMC13748885",
-      "topic": "AI Embeddings",
-      "title": "The missing link in the blue economy: Empowering the next generation through blue skills and ocean literacy",
-      "authors": "Canning-Clode J, Esson D, Monteiro J, Dinis A, Andrade C, Alves F, Gueroun S, Vieira D, Nunes P, Mossae B, Tuda A, Napper I, Wilson A, Tudhope A.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13748885",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43025154",
-      "topic": "AI Embeddings",
-      "title": "CGHA-Net: Context-guided hybrid attention for hierarchical representation learning in medical image segmentation.",
-      "authors": "Yang X, Hou J, Deng L, Huang S.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "Medical image segmentation aims to precisely identify and separate anatomical components and lesion regions in medical scans, and it constitutes a core technique for clinical diagnosis, disease evaluation, and organ morphological analysis. However, accurate segmentation of complex anatomical regions remains a significant challenge because of considerable differences in object scale, indistinct boundaries, and insufficient tissue contrast in medical images. These issues often limit the ability of existing methods to effectively exploit global semantic representations while simultaneously retaining detailed local information. Reliable segmentation of organs and lesions remains challenging in practical medical images because low contrast, irregular morphology, and blurred boundaries can obscure target structures and hinder accurate delineation. To address these challenges, we propose a new medical image segmentation framework, termed CGHA-Net. First, a context-guided semantic enhancement module is incorporated into the skip connections, in which deep global semantic information is progressively used to enhance shallow feature representations, thereby improving semantic discriminability while preserving local details. Second, a multidimensional semantic fusion module is introduced in the decoder to enhance contextual feature representations by jointly integrating spatial, channel, and orientation-aware information, thereby enhancing boundary detail reconstruction. Finally, a largest connected component loss is proposed to encourage the continuity and integrity of the segmented regions. Across several public benchmarks for medical image segmentation, overall, CGHA-Net achieves competitive results among leading approaches, suggesting satisfactory effectiveness and generalization capability.",
-      "url": "https://doi.org/10.1016/j.apradiso.2026.113101",
-      "source": "MED",
-      "doi": "10.1016/j.apradiso.2026.113101",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43024749",
-      "topic": "AI Embeddings",
-      "title": "How Solvent Approximations Affect the Learnability of Molecular Polarizability and Hyperpolarizability Tensors: A Study on Embedded Water Clusters.",
-      "authors": "Ramos TN, Champagne B.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "Machine-learning (ML) models have shown considerable success in predicting molecular properties from atomic structures. Yet, it remains unclear how to represent solvent-induced effects when targeting optical response properties strongly influenced by the environment. Here, we investigate how different solvent approximations affect the learnability of molecular polarizability (α) and first hyperpolarizability (β) tensors in embedded water clusters. Using a multiscale framework inspired by sequential quantum chemistry/molecular mechanics partitioning, the quantum chemistry (QC) and molecular mechanics (MM) regions are encoded separately through symmetry-adapted λ-SOAP descriptors and combined within kernel ridge regression models. The same descriptor family is employed on the same structures for all solvent representations, allowing the influence of the solvent approximation on model learnability to be isolated. Three embedding schemes are considered: electrostatic embedding (EE), polarizable embedding (PE), and polarizable embedding including effective external field corrections (PE-EEF). ML models that separately encode QC and MM regions outperform single-descriptor representations, indicating that the relevant structural information is distributed across multiple spatial scales. Increasing the sophistication of the solvent approximation generally reduces predictive accuracy, despite identical molecular structures, suggesting that polarization effects are only partially recoverable from structural descriptors alone. Analysis of optimized descriptor hyperparameters further reveals a shift toward larger spatial ranges and richer angular resolutions as solvent polarization effects are introduced. Although microscopic tensor predictions become more challenging for PE and PE-EEF, ensemble distributions of experimentally relevant observables derived from the α and β tensors remain well reproduced. These results provide insight into the relationship between solvent representations and ML learnability and highlight the importance of multiscale representations for modeling solvent-dependent optical response properties.",
-      "url": "https://doi.org/10.1021/acs.jpca.6c05875",
-      "source": "MED",
-      "doi": "10.1021/acs.jpca.6c05875",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43023434",
-      "topic": "AI Embeddings",
-      "title": "Interpretable Graph Neural Networks for Structure-activity-based Prediction of Drug-induced Toxicity and Adverse Reactions.",
-      "authors": "Sanaye P, Sanaye M, Devadkar K.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "<h4>Introduction</h4>Drug-induced toxicity and Adverse Drug Reactions (ADRs) remain major barriers to safe pharmacotherapy and often arise unpredictably. Existing ADR prediction models primarily rely on population-scale data, limiting early detection and mechanistic interpretability.<h4>Methods</h4>We investigated whether molecular graph topology combined with attention mechanisms could explain variance in SIDER ADR labels. Drugs were represented as molecular graphs derived from SMILES, enriched with atomic-level physicochemical descriptors and Morgan fingerprints. An attention mechanism quantified the relative contribution of graph substructures and global molecular features. The proposed model, AttentionADR, was trained and evaluated solely on curated ADR labels without using clinical text or omics data.<h4>Results</h4>AttentionADR achieved robust performance (micro ROC-AUC = 0.82; weighted recall = 0.78). Graph-based structural representations consistently received the highest attention weights, whereas physicochemical descriptors and fingerprints contributed minimally. Performance was highest for skin (F1 = 0.9464) and nervous system disorders (F1 = 0.9386), while respiratory disorders showed comparatively lower performance (AUC = 0.69), reflecting structural diversity across System Organ Classes.<h4>Discussion</h4>These findings highlight the central role of molecular topology in capturing patterns associated with drug-induced adverse effects and demonstrate the value of attention-based models for interpretable, structure-informed drug safety assessment. Because structural signals vary across ADR classes, predictions should be interpreted as hypothesis-generating rather than definitive.<h4>Conclusion</h4>From a translational standpoint, because AttentionADR requires only a candidate molecule's structure, it offers medicinal chemists and pharmaceutical safety teams a low-cost, interpretable triage tool that can flag likely ADR liabilities during early-stage lead optimization, before experimental toxicology or population-scale clinical data are available, thereby supporting faster and better informed acceptance decisions in drug discovery.",
-      "url": "https://doi.org/10.2174/0113894501506872261106075341",
-      "source": "MED",
-      "doi": "10.2174/0113894501506872261106075341",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43017300",
-      "topic": "AI Embeddings",
-      "title": "AI Governance in Health Information Practice: A Practical Framework for HIPAA-Compliant AI Adoption.",
-      "authors": "Stokes TM, Houser SH.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "Artificial intelligence (AI) tools are increasingly being integrated into health information workflows, including clinical documentation, coding support, revenue cycle operations, and patient engagement systems. While these technologies offer efficiency and enhanced decision support, their use introduces new privacy, security, and compliance risks when protected health information is entered as input, processed by third-party systems, or incorporated into AI-generated outputs. Existing Health Insurance Portability and Accountability Act (HIPAA) compliance structures do not address the complexities of AI-enabled environments, creating governance gaps that expose health care organizations to regulatory and operational risk. This article presents a practical governance framework that integrates AI oversight into existing HIPAA compliance programs. Drawing on compliance literature, regulatory guidance, and emerging AI governance models, the framework adapts core elements of the Office of Inspector General compliance model to address AI-specific risks. We proposed AI-centered policies and procedures, governance leadership, workforce training, auditing and monitoring, and incident response planning. This article provides implementation guidance tailored to health information practice, including workflow-based examples and phased adoption strategies. By positioning AI governance as an extension of established information governance responsibilities, health information professionals can proactively safeguard patient privacy, strengthen regulatory compliance, and support responsible innovation in AI-enabled health care environments.",
-      "url": "https://doi.org/10.63116/ah.000000009",
-      "source": "MED",
-      "doi": "10.63116/ah.000000009",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43017068",
-      "topic": "AI Embeddings",
-      "title": "Metabolic signature combined with changes in proteome and transcriptome shape respiratory syncytial virus infection and response to vaccination in a bovine model.",
-      "authors": "Kothadiya S, Mathew AP, Schoofs AD, Nandu RK, Niolo-Velesaca CA, McGill J, Bardhan R.",
-      "journal": "",
-      "date": "2026-11-11",
-      "abstract": "Respiratory syncytial virus (RSV) is a major respiratory disease in infants leading to long-term morbidity. Bovine RSV (bRSV) serves as a clinically translatable large animal model to understand host responses in neonates to vaccination and re-infection enabling straightforward and accessible sample collection not often possible in human infants. This study probes clinically relevant bovine biointerfaces by combining Raman spectroscopy-based metabolic profiling with proteomics and gene expression in nasal fluid, serum, and lung tissues collected from 11 vaccinated (V) and 11 non-vaccinated (NV) neonatal calves following bRSV rechallenge. The analyses showed at Day 7 post-challenge, 16 significant Raman metabolite peaks in nasal fluid, 17 peaks in sera, and 17 peaks in lesioned lung tissue differentiated V from NV calves including features associated with glucose, lipids and fatty acids, and phenylalanine among others. We find that in NV calves systemic metabolic changes were greater than in the V group, and in an exploratory proteomic analysis of a subset of animals (<i>n</i> = 4/group), we identified a complement and innate immune protein signature in NV calves that aligned with metabolic features. In lesioned lung tissue, immune engagement between V and NV calves differed with changes observed in multiple metabolites that tightly correlated with gene expression and showed higher inflammatory cytokine gene expression (IL17A, IL6, IFNγ, IFNβ, IL8) in NV calves. Collectively, our data show an integrative approach enables a comprehensive molecular view of translationally relevant biointerfaces to understand vaccination and reinfection-associated host response. The outcomes of this study can be leveraged in the long-term to understand treatment response in human RSV.",
-      "url": "https://doi.org/10.1039/d6ra06302k",
-      "source": "MED",
-      "doi": "10.1039/d6ra06302k",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
       ]
     },
     {
