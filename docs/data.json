@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:49:52.362002+00:00",
+  "updated": "2026-11-17T18:48:01.896208+00:00",
   "items": [
     {
       "id": "MED:43004853",
@@ -541,6 +541,22 @@
       "source": "MED",
       "doi": "10.1002/jfa2.70223",
       "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1369248",
+      "topic": "AI Embeddings",
+      "title": "Multimodal contrastive learning traces the early dissemination of Romance of the Three Kingdoms in Thailand",
+      "authors": "Su Y, Fang L, Yu F, Yang W, Lin Y, Lin B, Tan CY, Li S, Wu H.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "<title>Abstract</title>  <p>The Romance of the Three Kingdoms (RTK, 三國演義) is a global literary canon, yet how and when it first reached Thailand remains contested because few documents survive. Using the 1838 Wat Prasert Sutthawat murals, the earliest large-scale Thai RTK visual corpus, we build the first expert-verified multimodal dataset for mural–print comparison. We introduce the Mural–Illustration Similarity Prediction (MISP) model, which couples self-supervised multimodal contrastive embedding with supervised cross-modal attention fusion to produce interpretable similarity scores. MISP attains lower predictive error than single-modal and multimodal baselines and agrees closely with independent expert attributions. The murals most closely resemble the Zhou Yuejiao (周曰校) illustrated edition, identifying likely source editions and constraining when they reached Thailand. Our work extends the evidence for early Thai reception and shows how AI can advance stylistic analysis and provenance inference.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11432789/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11432789/v1",
+      "is_preprint": true,
       "topics": [
         "AI Embeddings"
       ]
@@ -1149,22 +1165,6 @@
       "source": "PPR",
       "doi": "10.21203/rs.3.rs-11039287/v1",
       "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43016306",
-      "topic": "AI Embeddings",
-      "title": "Zero-Shot Protein-Ligand Binding Site Prediction from Protein Sequence and SMILES.",
-      "authors": "Pourmirzaei M, Alqarghuli S, Chen K, Pourmirzaei M, Xu D.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "<h4>Motivation</h4>Accurate identification of protein-ligand binding sites is critical for mechanistic biology and drug discovery, yet predictive performance varies substantially across ligand families and data-availability regimes. We present a systematic ligand-aware benchmark and evaluation framework for residue-level binding-site prediction across three settings: overrepresented ligands with abundant examples, underrepresented ligands with limited examples, and zero-shot ligands unseen during training.<h4>Results</h4>Using a BioLiP2-derived dataset with ligand-specific sequence clustering, we evaluate a progressive three-stage sequence-based modeling suite designed to study these regimes. Stage 1 trains ligand-specific predictors using a pretrained protein language model (PLM). Stage 2 introduces ligand conditioning through learned embeddings, enabling a single multi-ligand model. Stage 3 replaces these embeddings with representations from a pretrained chemical language model (CLM) operating on SMILES, enabling prediction for previously unseen ligands. In the original three-stage comparison, Stage 2 achieved a higher ligand-macro F1 than Stage 1 on the overrepresented test set (0.5832 versus 0.4769), although the comparison simultaneously changes predictor architecture, ligand conditioning, and the training regime. Stage 2 also outperformed several sequence- and structure-based baselines. Stage 3 achieves a pooled residue-level F1 of 0.3109 and a ligand-macro F1 of 0.2338 on previously unseen ligands, while remaining competitive on represented ligands. Control experiments using constant, mismatched, and scrambled SMILES inputs reduce performance across all three test regimes, providing evidence that the model uses information associated with the supplied ligand input rather than relying solely on generic protein binding-site propensity. Ablations across five PLM scales and multiple CLMs further show that increasing PLM scale generally improves performance, although the trend is not strictly monotonic, whereas CLM scaling produces smaller and less consistent gains. Overall, this study provides a systematic benchmark for quantifying the effect of ligand data availability on residue-level binding-site prediction and for evaluating generalization to previously unseen ligands.<h4>Availability and implementation</h4>The source code and model weights are available at https://github.com/mahdip72/ProteinLigand. The datasets are available at https://doi.org/10.5281/zenodo.23042604.<h4>Supplementary information</h4>Supplementary data are available at Bioinformatics online.",
-      "url": "https://doi.org/10.1093/bioinformatics/btag826",
-      "source": "MED",
-      "doi": "10.1093/bioinformatics/btag826",
-      "is_preprint": false,
       "topics": [
         "AI Embeddings"
       ]
