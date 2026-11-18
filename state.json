@@ -78,6 +78,15 @@
     "AI Embeddings|MED:43041025",
     "AI Embeddings|MED:43041051",
     "AI Embeddings|MED:43043306",
+    "AI Embeddings|MED:43043607",
+    "AI Embeddings|MED:43043732",
+    "AI Embeddings|MED:43043745",
+    "AI Embeddings|MED:43044107",
+    "AI Embeddings|MED:43044140",
+    "AI Embeddings|MED:43044479",
+    "AI Embeddings|MED:43044725",
+    "AI Embeddings|MED:43044951",
+    "AI Embeddings|MED:43046796",
     "AI Embeddings|PMC:PMC13748885",
     "AI Embeddings|PMC:PMC13751358",
     "AI Embeddings|PMC:PMC13751363",
@@ -211,5 +220,5 @@
     "Long-acting PrEP|PPR:PPR1365989",
     "Long-acting PrEP|PPR:PPR1367669"
   ],
-  "updated": "2026-11-18T06:58:26.818599+00:00"
+  "updated": "2026-11-18T18:43:30.140509+00:00"
 }

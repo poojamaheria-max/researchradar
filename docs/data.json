@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T06:58:26.818599+00:00",
+  "updated": "2026-11-18T18:43:30.140509+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -562,6 +562,134 @@
       ]
     },
     {
+      "id": "MED:43046796",
+      "topic": "AI Embeddings",
+      "title": "Embedding Lived Experience in Concurrent-Disorder Care: Early Learnings From Implementing Peer Support at BCMHSUS.",
+      "authors": "Edmundson L, Roloff A, Embacher K.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "This article shares key learnings from the early stages of implementation of peer support programs within two adult concurrent-disorder treatment centre and highlights insights that may benefit other leaders considering similar peer-based programs. This work demonstrates the importance of embedding lived experience at every stage of program development. Co-creating roles and processes with peers allowed for innovations and insights into care beyond what the clinical teams offer. Stronger role clarity, flexibility, and procedures at the outset would have reduced challenges. Finally, engaging current and former clients was vital for ongoing quality improvement and as an opportunity to celebrate successes. This article is intended for health leaders, policy makers, and funders. Key messages emphasize the value of advance planning, unique features and challenges of concurrent-disorder peer support, lived experience, and client engagement in building sustainable and high-quality peer support programs within complex care environments.",
+      "url": "https://doi.org/10.1177/08404704261501101",
+      "source": "MED",
+      "doi": "10.1177/08404704261501101",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43044951",
+      "topic": "AI Embeddings",
+      "title": "Rotablator Burr Entrapment: A Systematic Review of 215 Published Cases, Mechanisms, and Management.",
+      "authors": "Kolotouros E, Lerakis V, Tsourous M, Vichos T, Carvalho PEP, Akyel A, Desai P, Alexandrou M, Strepkos D, Macy S, Gavlasova D, Milkas A, Egred M, Santos IJA, Sánchez JS, Mastrodemos OC, Rangan BV, Sandoval Y, Brilakis ES.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "Burr entrapment is a rare but potentially life-threatening complication of rotational atherectomy. We reviewed all related publications, classified the mechanisms of entrapment, and summarized management strategies. PubMed, Embase, and Google Scholar were searched for English-language publications reporting Rotablator burr entrapment or related retained-burr or device-loss events from inception through August 31, 2026. One hundred fourteen publications were included, representing 215 unique eligible cases after exclusion of one overlapping case. The mechanism was reported in 117 cases, management in 162, and final outcome in 160. Among 34 studies reporting the total number of rotational atherectomy procedures, burr entrapment occurred in 118 of 19,672 procedures (0.6%). The most common classified mechanism was intralesional embedding or wedging (32.5%), followed by the Kokeshi phenomenon (30.8%), stent-related entrapment (26.5%), and primary driveshaft fracture or burr disconnection (10.3%). Among the 162 cases with available management data, 86.4% were managed percutaneously, including 3.7% with intentional burr retention or exclusion (crushing or jailing), and 13.6% required surgical bailout. Management strategies shifted over time, with surgical bailout declining from 66.7% before 2010 to 22.7% in 2010-2019 and 5.5% in 2020-2026. Procedural outcomes differed according to mechanism. Successful burr resolution with completed or otherwise acceptable PCI was most frequent in Kokeshi-type entrapment (80.6%), whereas stent-related entrapment had the highest surgical bailout rate (29.0%). Burr entrapment was reported in approximately 0.6% of rotational atherectomy procedures. Our findings support a mechanism-based, stepwise approach to burr retrieval. Percutaneous treatment is successful in most contemporary cases.",
+      "url": "https://doi.org/10.1016/j.amjcard.2026.11.019",
+      "source": "MED",
+      "doi": "10.1016/j.amjcard.2026.11.019",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43044725",
+      "topic": "AI Embeddings",
+      "title": "RescQ<sup>TM</sup>: One-year implementation and feasibility results of a digitally enabled support pathway for bystanders of out-of-hospital cardiac arrest.",
+      "authors": "Sajjad U, Mion M, Simpson R, Movio G, Khan S, Sharpe L, Davis J, Ibrahim A, Butt H, Tahir M, Jolapara N, Narang Y, Roberts-Andreou L, Grier G, Swindell P, Menzies S, Major R, Powell B, Watts M, Pareek N, Davies JR, Keeble TR.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "Bystanders to out-of-hospital cardiac arrest (OHCA) are at significant risk of psychological distress, yet no standardised support pathway exists for them in the UK. RescQ™ is a digital-first bystander support pathway embedded within regional prehospital and cardiac arrest care services. To evaluate the feasibility of embedding RescQ™ into routine emergency medical services (EMS) practice leading to appropriate contact with bystanders involved in OHCA. Secondary aims were to describe digital access, demand for liaison officer (LO) support, identification of younger bystanders, and EMS clinician acceptability. Prospective one-year regional service evaluation of RescQ™ across Essex, UK. Bystanders involved in eligible OHCA events were registered by EMS clinicians and provided with immediate access to secure digital resources. Bystanders could self-refer for additional support through LO. During the one-year evaluation, 220 of 432 eligible OHCA incidents had at least one bystander identified and the incident entered into the RescQ™ pathway, representing an incident-level capture rate of 50.9%. Across these incidents, 298 bystanders were identified, of whom 260 eligible adults were registered with RescQ™. Of registered adult bystanders, 96.2% accessed the digital resources at least once. Among all identified bystanders, 30/298 (10.1%) were aged under 18 years. Approximately 10% of registered bystanders self-referred for additional personalised LO support. Among 25 EMS clinician survey respondents who had used RescQTM in clinical practice, ratings indicated acceptability. RescQ™ demonstrated the feasibility of identifying and supporting bystanders following OHCA through a digitally enabled pathway, achieving incident-level capture above the pre-specified feasibility threshold and high website access among registered adults. These findings support further multi-region evaluation of implementation, sustainability and scalability across different EMS systems.",
+      "url": "https://doi.org/10.1016/j.resuscitation.2026.111404",
+      "source": "MED",
+      "doi": "10.1016/j.resuscitation.2026.111404",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43044140",
+      "topic": "AI Embeddings",
+      "title": "Designing High-Quality-Factor Electrospun Nanofiber Air Filters with Physics-Informed Machine Learning.",
+      "authors": "Sankaralingam D, S V, S A, Menon AR, Nimje R, Mahajan A.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "High filtration efficiency ($\\eta$) and low pressure drop ($\\Delta P$) are desirable performance parameters for an air filter, and the quality factor \\rev{(QF)} is the standard figure-of-merit that&#xD;balances particle capture against breathability. &#xD;In this work, we present a physics-informed machine-learning&#xD;framework that predicts efficiency, pressure drop, and the derived quality factor&#xD;for electrospun fibrous filters.&#xD;Two physics-informed neural networks \\rev{(PINNs), formulated as physics-constrained networks in which the filtration laws are imposed as hard constraints rather than as differential-equation residual penalties,} are constructed: a pressure-drop network constrained by Darcy's law and an efficiency network constrained by the classical exponential log-penetration relation. By embedding these filtration laws as differentiable constraints, the framework learns effective permeability and single-fiber efficiency, enabling physically consistent prediction and optimization of the quality factor.&#xD; &#xD;A dataset spanning multiple polymers, fiber diameters, packing fractions, membrane thicknesses, face&#xD;velocities, and filtration particle sizes is compiled from published&#xD;experimental studies. The pressure-drop PINN attains&#xD;$R^2=0.982$, outperforming all five purely data-driven&#xD;regressors, while the efficiency PINN attains $R^2=0.984$. Systematic variation of the input parameters identifies fiber diameter as the dominant lever for improving QF, shows that the optimal QF depends on particle size, and confirms the weak dependence of QF on membrane thickness. These results indicate that physics-guided learning offers a generalizable and physically consistent route to the predictive design of high-performance, energy-efficient electrospun filters.",
+      "url": "https://doi.org/10.1088/1361-6528/aec2fa",
+      "source": "MED",
+      "doi": "10.1088/1361-6528/aec2fa",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43044107",
+      "topic": "AI Embeddings",
+      "title": "Feasibility and Preliminary Outcomes of Gardening-Based Immersive Virtual Reality Cognitive Training in Older Adults With Dementia: Single-Group Pretest-Posttest Analysis.",
+      "authors": "Chuang IC, Wu HJ, Wu YR, Hsu JL, Wu CY.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "Nonpharmacological interventions for cognitive problems play a critical role in dementia care, yet maintaining engagement and adherence remains challenging. Immersive virtual reality (VR) provides a promising platform for cognitive training, particularly when integrated with personally meaningful leisure activities that may enhance therapeutic resonance. This study aimed to examine the feasibility of gardening-based immersive VR cognitive training and to explore pre-post changes in clinical outcomes among older adults with dementia. This study reports an analysis of intervention-phase data from an ongoing registered randomized crossover clinical trial (ClinicalTrials.gov NCT07033468). For this report, the available data were analyzed using a single-group pretest-posttest approach; data from the waitlist-control period were not included. Between September 2024 and December 2025, 16 older adults with mild-to-moderate dementia were recruited through referral-based convenience sampling from a hospital and a dementia day care center in Taiwan. Participants completed a 15-session VR intervention over 5 weeks, involving gardening-based activities targeting multiple cognitive domains. Feasibility outcomes included VR acceptance, simulator sickness, and observed emotional responses during the first VR session. Cognitive outcomes included global cognition assessed using the Montreal Cognitive Assessment (MoCA) and domain-specific cognitive measures. Secondary outcomes included activities of daily living, depressive symptoms, behavioral and psychological symptoms of dementia, quality of life, and well-being. Paired t tests were used to examine pre-post differences, and the Holm-Bonferroni procedure was applied to adjust for multiple comparisons. Sixteen participants (5 men and 11 women; mean age 78.12, SD 6.61 years) completed feasibility assessments, 15 participants (4 men, 11 women; mean age 78.57, SD 6.58 years) completed the intervention, and 5 occupational therapists evaluated the usability of the VR system. VR acceptance significantly increased after the first session (t15=-5.40, 95% CI -0.61 to -0.26; P<.001), while simulator sickness significantly decreased (t15=2.42; 95% CI 0.34-5.27; P=.009). Emotional responses indicated high levels of pleasure (mean 3.38, SD 1.63) and alertness (mean 4.63, SD 0.89) with minimal negative affect. Usability was rated as acceptable (system usability scale: mean 70.5, SD 12.17). Global cognitive performance was higher at postintervention than at baseline (MoCA: Cohen d=1.03; 95% CI -3.28 to -0.99; P=.001). No statistically significant pre-post differences were observed in domain-specific cognitive measures, activities of daily living, quality of life, or psychosocial outcomes. Gardening-based immersive VR cognitive training appears feasible, acceptable, and well tolerated among older adults with dementia. The program extends existing VR approaches by embedding familiar, goal-directed gardening activities within an interactive cognitive training environment. By combining participant-centered feasibility outcomes with occupational therapist-rated usability, this study provides preliminary evidence relevant to the development and implementation of person-centered VR cognitive training in clinical and community dementia care. The favorable pre-post change in global cognition further supports investigation of this approach in larger controlled studies.",
+      "url": "https://doi.org/10.2196/98062",
+      "source": "MED",
+      "doi": "10.2196/98062",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43043745",
+      "topic": "AI Embeddings",
+      "title": "Multi-View Synergistic Learning with Vision-Language Adaptation for Low-Resource Biomedical Image Classification.",
+      "authors": "Luo X, Xiao M, Xie T, Wang M, Qi H, Zhou JT, Zhang T, Wang X.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "Accurate biomedical image classification under limited supervision remains challenging due to scarce annotations, subtle inter-class differences, and complex disease semantics. Pretrained vision-language models offer a promising foundation for alleviating data scarcity through knowledge transfer, yet effectively adapting them to low-resource biomedical tasks remains nontrivial. To this end, we propose Multi-View Synergistic Learning (MVSL), a unified framework that jointly considers three complementary perspectives: adaptation paradigms, representation granularity, and disease semantic relationships. Specifically, MVSL adopts tailored adaptation strategies for visual and textual encoders, accommodating their distinct representational characteristics while preserving pretrained knowledge. To capture both holistic image semantics and localized pathological evidence, we introduce multi-granularity contrastive learning that aligns global image representations and local visual features with disease-specific textual embeddings. Furthermore, we develop a Disease Semantic Graph (DSG) that leverages disease descriptions generated by large language models to model class-level semantic relationships and regularize adapted textual representations, thereby complementing discriminative learning and helping mitigate excessive specialization toward observed categories. Through the synergy of these complementary perspectives, MVSL enhances fine-grained discrimination while supporting semantic consistency and generalization to unseen categories. Extensive experiments on 11 public biomedical datasets spanning 9 imaging modalities and 10 anatomical regions demonstrate the effectiveness of MVSL in few-shot classification and base-to-novel generalization. The implementation and detailed experimental results are publicly available at https://github.com/luoxiaoliu/MVSL.",
+      "url": "https://doi.org/10.1109/tip.2026.3753085",
+      "source": "MED",
+      "doi": "10.1109/tip.2026.3753085",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43043732",
+      "topic": "AI Embeddings",
+      "title": "One-Step Rectified Flow Reconstruction with Spectral Weighting for Limited-angle Cardiac CT.",
+      "authors": "Han S, Fang C, Morovati B, Zhou L, Li H, Ni S, Fan S, Terry JG, Carr JJ, Wang G, Yu H.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "Limited-angle cardiac computed tomography (CT) suffers from severe directional artifacts and resolution degradation due to missing wedges in the frequency domain. Diffusion-based reconstruction methods have demonstrated strong artifact suppression capabilities but typically require iterative sampling at a high computational cost. To accelerate limited-angle CT reconstruction, we propose a rectified-flow framework trained with paired supervision for fast inference. Instead of generating images from Gaussian noise, the model learns a deterministic transport from artifact-contaminated Feldkamp-Davis-Kress (FDK) reconstructions to full-view reference images. A 2.5D slice-context modeling strategy is introduced to exploit inter-slice information while reconstructing only the central slice, improving structural consistency. Furthermore, we introduce a reconstruction-aware spectral loss that applies frequency-domain supervision to an approximate endpoint reconstruction inferred from the predicted flow velocity. By embedding spectral priors into the learning objective and using one-step rectified-flow inference (a single network evaluation), the proposed framework achieves fast reconstruction while preserving image fidelity. Experiments on XCAT simulations and clinical cardiac CT data show superior quantitative performance and substantially reduced inference time compared to the state-of-the-art baselines. A qualitative review by an experienced cardiac radiologist further suggests improved visualization of motion-sensitive coronary structures with reduced motion blur.",
+      "url": "https://doi.org/10.1109/tmi.2026.3754715",
+      "source": "MED",
+      "doi": "10.1109/tmi.2026.3754715",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43043607",
+      "topic": "AI Embeddings",
+      "title": "Sustainability Strategies and Practices in the Management of Chronic Kidney Disease: A Narrative Review.",
+      "authors": "Yousafzai S, Mian HR, Stigant CE, MacNeill AJ, Hewage K, Sadiq R.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "Chronic kidney disease (CKD) affects over 850 million people worldwide and is projected to become a leading cause of death by 2040. Kidney care is resource-intensive, contributing to greenhouse gas (GHG) emissions, water and energy consumption, and healthcare costs. Addressing sustainability in CKD management is critical for aligning kidney health delivery systems with global climate and health goals. A multidisciplinary narrative review was undertaken to qualitatively synthesize literature on CKD management, integrating clinical nephrology, environmental sustainability, and planetary-health perspectives. Studies examining dialysis, kidney transplantation (KT), and preventive kidney management (PKM) were analyzed through the Triple Bottom Line (TBL) framework, encompassing environmental, economic, and social dimensions. Dialysis, though life-sustaining for people with CKD G4-G5, is the least sustainable option due to its high ecological footprint and cost. KT often provides superior survival and long-term cost-effectiveness but faces barriers such as donor availability, inequitable access, and procedural and pharmaceutical emissions. PKM, including early detection, lifestyle improvements, appropriate virtual care, and optimized pharmacologic management, is important for slowing disease progression and may reduce the need for resource-intensive kidney replacement therapy (KRT). Although the environmental and economic effects of PKM have not been consistently quantified, avoiding or delaying progression to advanced CKD may reduce healthcare resource use, costs, and environmental impacts. Findings support a coordinated, value-based model of kidney care that aligns preventive, interventional, and supportive practices, while recognizing gaps in environmental and economic evidence. Embedding sustainability into CKD care will necessitate technological innovation, policy reform, and equitable access. Future collaborative research should employ long-term life-cycle assessments to guide sustainable, patient-centered kidney care. It should account for variability in CKD pathways and balance effectiveness, sustainability, and equitable access worldwide.",
+      "url": "https://doi.org/10.1007/s12325-026-03850-7",
+      "source": "MED",
+      "doi": "10.1007/s12325-026-03850-7",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1370108",
       "topic": "AI Embeddings",
       "title": "SRAscout: Semantic discovery of public sequencing data through harmonized SRA and BioProject metadata",
@@ -636,6 +764,22 @@
       "url": "https://doi.org/10.1039/d6cc03538h",
       "source": "MED",
       "doi": "10.1039/d6cc03538h",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43044479",
+      "topic": "AI Embeddings",
+      "title": "DMM-Net: A dual-stage multimodal modulation network for Alzheimer's disease diagnosis.",
+      "authors": "Wu Q, Zhang J, Lu M, Wang C, Liu Z.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "Alzheimer's disease (AD) typically progresses from cognitively normal (CN) to mild cognitive impairment (MCI) and eventually to AD. Due to the overlap of imaging manifestations and clinical indicators across different stages, accurate multi-class diagnosis remains challenging. Although structured clinical data can provide complementary information to imaging modalities, effective collaborative modeling between three-dimensional structural magnetic resonance imaging (3D sMRI) and structured clinical data remains insufficiently explored. This study aims to develop a cross-modal modulation approach for AD diagnosis. In this study, a Dual-stage Multimodal Modulation Network (DMM-Net) was proposed for AD cognitive state classification by integrating 3D sMRI and structured clinical data. The proposed framework consists of a Position-aware Clinical Spatial Modulation (PCSM) module, a transfer learning-based three-dimensional imaging feature extraction network MedNet, and a Feature-Clinical Cross-modal Modulation (FCCM) module. At the shallow stage, PCSM combines an image-derived spatial response with a subject-level clinical bias to modulate early imaging features. At deeper stages, FCCM jointly uses the intermediate Layer2 imaging representation and the clinical embedding to generate stage-specific calibration parameters for Layer3 and Layer4. Experimental results on the ADNI dataset demonstrated the effectiveness of DMM-Net for the CN/MCI/AD three-class classification task. The combined PCSM-FCCM configuration achieved a BA of 75.1%, outperforming either module alone. Compared with the adapted HyperFusion baseline under the unified evaluation protocol, DMM-Net improved BA and precision by 9.0 and 7.7 percentage points, respectively. Post hoc Grad-CAM and SHAP analyses were used to characterize the imaging regions and structured clinical features associated with the model predictions. The framework enhances joint modeling between 3D sMRI and structured clinical data through a coordinated dual-stage multimodal modulation mechanism, demonstrating its effectiveness for multimodal computer-aided classification of Alzheimer's disease under the evaluated setting.",
+      "url": "https://doi.org/10.1016/j.cmpb.2026.109713",
+      "source": "MED",
+      "doi": "10.1016/j.cmpb.2026.109713",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -1010,70 +1154,6 @@
       ]
     },
     {
-      "id": "PPR:PPR1367066",
-      "topic": "AI Embeddings",
-      "title": "Disability-Inclusive HIV Service Delivery: A Participatory Mixed-Methods Study of Stakeholder-Identified Barriers and Solutions",
-      "authors": "ONYEKWELU AI, FATAI KE, ILONDU UC.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "<title>Abstract</title>  <p>Background  People with disabilities may experience barriers to HIV prevention, testing, treatment, and related services. However, evidence on stakeholder-identified barriers, priorities, and solutions for disability-inclusive HIV service delivery remains limited. This study explored stakeholder perspectives on disability-inclusive HIV services, with particular attention to women and girls with disabilities. Methods  A participatory mixed-methods design was used during a four-day stakeholder-engagement programme at the AIDS 2026 Conference in Rio de Janeiro, Brazil. Participants engaged in five activities: SEE HER, HEAR WITH HER, DESIGN WITH HER, STAND WITH HER, and WHO IS MISSING IN HIV CARE. Structured responses were analysed descriptively using frequencies and percentages, while open-ended responses were analysed thematically. Quantitative and qualitative findings were integrated using a convergence approach. Results  In STAND WITH HER, stigma and discrimination were the most frequently identified barrier (14/20, 70.0%), followed by lack of disability-inclusive HIV information (10/20, 50.0%) and limited availability of disability-inclusive services (9/20, 45.0%). In HEAR WITH HER, 50/51 (98.0%) classified disability inclusion across the HIV care continuum as reality, while 49/49 (100.0%) recognised that inequalities may remain unnoticed without disability-disaggregated data. In WHO IS MISSING IN HIV CARE, women and girls were the most frequently identified underrepresented population (38/118, 32.2%), followed by LGBTQI + and transgender populations and children, adolescents and young people (30/118, 25.4% each). Government was the most frequently identified actor responsible for addressing barriers (7/20, 35.0%). Qualitative and co-design findings highlighted accessible communication, provider preparedness, physical and digital accessibility, inclusive programme design, autonomy, privacy, and meaningful participation. Conclusion  Stakeholders characterised disability-inclusive HIV service delivery as a multilevel issue involving stigma, accessibility, provider practices, programme design, data systems, participation, and intersecting vulnerabilities. The findings support embedding accessible communication, disability-responsive monitoring, inclusive service design, provider preparedness, and meaningful involvement of people with disabilities within routine HIV programming.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11205814/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11205814/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1366543",
-      "topic": "AI Embeddings",
-      "title": "Strategies to improve engagement and inclusion of participants from culturally and linguistically diverse (CALD) communities in research involving patient-reported outcomes (PROs)",
-      "authors": "Mercieca-Bebber R, Chong J, Tan A, Naher S, Heuschkel M, El-Kabbout N, Duan H, Stanoevska B, Stockler M.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "<title>Abstract</title>  <p>Purpose  This study aimed to identify barriers, facilitators and resources currently used to engage participants from culturally and linguistically diverse (CALD) communities in studies with patient-reported outcome (PRO). Methods  Australian researchers or health professionals using PROs in research or clinical practice were eligible to participate in an anonymous online survey. Quantitative data was summarised descriptively; qualitative data was analysed using critical content analysis. Results  Forty-eight respondents were included in the analysis (56% female, 48% academic role). Common barriers included: lack of resources to translate study materials (77%) or to offer non-English questionnaires online (70%); tight funding deadlines (64%) and budgets (61%) precluding implementation of supports; and additional administrative work (59%). Inclusion strategies included engaging consumer advocates (85%), seeking advice from experienced colleagues (71%) and directly asking participants about support needs (63%). Seventy-three percent had participated in cultural sensitivity training. Respondents estimated a median of 1.5 hours and $300 per non-English-speaking participant, and 55 hours and $20,000 per study, would be required to adequately resource these supports, although estimates varied greatly. Conclusions  Despite high cultural-sensitivity awareness and uptake of inclusion and engagement strategies, clear funding and time barriers were acknowledged, reflecting that community involvement, translation of study materials, collaborative study design, and implementing ongoing supports are resource-intensive endeavours. As Australia’s CALD population continues to grow, funding bodies and research sponsors should support these needs by embedding dedicated funding, flexible timelines, and cultural safety frameworks to ensure genuine equity and inclusion of CALD communities in PRO research.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11396112/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11396112/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43023426",
-      "topic": "AI Embeddings",
-      "title": "Leveraging amino acid embeddings for accurate translation efficiency prediction.",
-      "authors": "Terai G, Asai K.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "<h4>Motivation</h4>Accurate prediction of translation efficiency from mRNA sequences is an important step toward mRNA sequence design. In recent years, the widespread adoption of high-resolution ribosome profiling techniques, such as Ribo-seq, has led to rapid accumulation of large-scale datasets that capture the relationship between mRNA sequences and translation efficiency. This progress has facilitated the development of machine-learning-based models for translation efficiency prediction. However, most existing approaches rely primarily on mRNA-derived features, such as codon usage frequency and 5' untranslated regions (5'UTRs), and do not directly utilize the amino-acid-level information.<h4>Results</h4>In this study, we show that incorporating distributed representations (embeddings) of amino acid sequences translated from mRNA as model features can improve translation efficiency prediction. By combining fixed amino acid embeddings derived from a pretrained protein language model with mRNA-derived features, the proposed model integrates complementary protein-level and nucleotide-level information for more accurate prediction of translation efficiency.<h4>Availability and implementation</h4>Codes are available at GitHub (https://github.com/gterai/AA_emb) and Zenodo (https://doi.org/10.5281/zenodo.23968476).",
-      "url": "https://doi.org/10.1093/bioinformatics/btag816",
-      "source": "MED",
-      "doi": "10.1093/bioinformatics/btag816",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43021636",
-      "topic": "AI Embeddings",
-      "title": "Advancing Representation of LGBTQ+, Black Immigrant, and Rural Communities in Oncology Clinical Trials: Future Considerations.",
-      "authors": "Carter-Bawa L, George S, Krieger J, Shoulders EN.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "Clinical trials play a major role in advances in cancer prevention, detection, treatment, and survivorship. However, clinical trials do not often include adequate representation from the populations most at risk for developing and dying from cancer, thus limiting the generalizability of trial findings. Gaining a better understanding of the barriers that limit representation in trials is essential to developing and testing interventions to overcome these barriers. This paper examines barriers to cancer clinical trial participation among LGBTQ+ people, Black immigrants, and people living in rural communities, and highlights promising strategies to advance improvements in cancer-related health outcomes for all populations. Drawing on proceedings from the 2024 Science of Community Outreach and Engagement (SoCOE) Conference, we propose actionable recommendations for embedding equity into clinical trial design, policy, and practice to ensure that all communities benefit from innovations in cancer care.",
-      "url": "https://doi.org/10.1093/jncimonographs/lgag022",
-      "source": "MED",
-      "doi": "10.1093/jncimonographs/lgag022",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
       "id": "MED:43024605",
       "topic": "Long-acting PrEP",
       "title": "Implementing HIV pre-exposure prophylaxis (PrEP) among cisgender female sex workers: A worldwide scoping review to guide the future research agenda for HIV prevention.",
@@ -1103,86 +1183,6 @@
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:43034303",
-      "topic": "AI Embeddings",
-      "title": "Impact of nurse-led inhaler education on technique, dyspnoea and disease severity in patients with COPD: a randomised controlled trial.",
-      "authors": "Muslu D, Kılıç M.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "<h4>Background</h4>Correct inhaler use is essential for symptom control in chronic obstructive pulmonary disease (COPD); however, incorrect technique remains common and may reduce treatment effectiveness.<h4>Aims</h4>To evaluate nurse-led inhaler education's effects on technique, dyspnoea and severity in COPD.<h4>Methods</h4>A randomised controlled trial included 90 COPD outpatients recruited between December 2022 and May 2023, assigned to an intervention group (<i>n</i> = 45) receiving nurse-led inhaler training or a control group (<i>n</i> = 45) receiving routine care. Inhaler technique, dyspnoea (modified Medical Research Council Dyspnoea Scale) and disease severity (COPD Assessment Test, CAT) were assessed at baseline and 4 weeks later. Data were analysed using independent-samples <i>t</i>‑tests, repeated‑measures analysis of variance, Pearson correlation and chi‑square tests.<h4>Results</h4>Baseline characteristics were comparable between groups (<i>p</i> > 0.05). The intervention group showed significantly greater improvement in inhaler technique (<i>F</i> = 62.416, <i>p</i> < 0.001), lower dyspnoea scores (<i>F</i> = 38.029, <i>p</i> < 0.001) and reduced CAT scores (<i>p</i> < 0.001) than controls.<h4>Conclusions</h4>Structured nurse-led inhaler education improves inhaler technique and clinical outcomes in COPD. Findings support nursing theories of patient education and self‑management, underscoring nurses' role in chronic disease care. Policies embedding standardised, competency‑based inhaler education into respiratory nursing practice are recommended to strengthen COPD management.",
-      "url": "https://doi.org/10.1177/17449871261492921",
-      "source": "MED",
-      "doi": "10.1177/17449871261492921",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1366451",
-      "topic": "AI Embeddings",
-      "title": "A Computational Theory of Education for Human Flourishing in the Age of Artificial Intelligence",
-      "authors": "Wang H.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "Generative AI now performs tasks long treated as markers of human cognitive distinctiveness. This does not make education obsolete; it makes the question of what education is for more urgent. This article develops a Computational Theory of Education for Human Flourishing in the AI Era (CTE-HF-AI) that formalizes education's role in cultivating human flourishing as its root objective, and specifies the cultivation of ethically competent, relationally present, and existentially grounded persons as education's developmental target, while treating AI as a bounded and accountable partner. The theory is a domain-specific instantiation of Constrained Object Hierarchies (COH), the general mathematical theory of intelligence developed in the MDPI Computers paper and its preprints' foundations. The theory's organizing logic is named the Flourishing-Competence-Preparation (FCP) Principle; flourishing names education's aim, ethical competence names the developmental construct through which that aim is educationally approached, and dual preparation names the design principle that operationalizes the construct. The FCP Principle is design-theoretic and normative rather than descriptive. Formally, an educational system is \\(\\mathcal{E} = \\langle \\mathcal{S}, \\mathcal{A}, \\mathcal{T}, \\mathcal{C}, \\mathcal{O} \\rangle\\), where \\(\\delta\\) is a bounded, uncertainty-annotated learner state. All nine COH components are instantiated: the component hierarchy \\(\\mathcal{C}\\) is the FCP structure; the attributes \\(\\mathcal{A}\\) are the learner state variables; the methods \\(\\mathcal{M}\\) are pedagogical actions; the neural components \\(\\mathcal{N}\\) are SCAM's neural sub-model; the embedding \\(\\mathcal{E}\\) is formalized as three shared-Hilbert-space maps (\\(\\S\\)3.2.2); the identity constraints \\(\\mathcal{I}\\) are the axioms and thresholds; the trigger constraints \\(\\mathcal{T}\\) are formalized as ECA rules, including the safety-gap daemon (\\(\\S\\)3.8); the goal constraints \\(\\mathcal{G}\\) are the constrained objective; and the daemons \\(\\mathcal{D}\\) are formalized as trajectory monitors (\\(\\S\\)5). The ten invisible capabilities are represented as an explicit vector, and ethical competence uses a threshold-gated non-compensatory formulation. Domain competence \\(\\mathcal{DC}\\) is specified as a three-constituent composite of disciplinary mastery, professional performance, and transferable competencies (\\(\\S\\)3.2.3). Flourishing is formalized in two registers: an educational register \\(HF_{educational} = f(\\mathcal{EC}, \\mathcal{ID}, \\mathcal{DC})\\) and a total register \\(HF = HF_{educational} + \\epsilon\\). Invisible-capacity development is partially compensatory while critical domains are protected by non-regression. Educational success is defined non-monotonically. Relational presence is grounded in Buber, Noddings, and Palmer. SCAM's structured prior and Bayesian update are shown to realize COH's free-energy correspondence when the COH theorem's conjugacy and regularity conditions are met (\\(\\S\\)4.2, Theorem 4.1), and the theory adopts COH's hybrid continuous-discrete formulation (\\(\\S\\)3.9), from which existence and uniqueness follow under the Lipschitz and measurability conditions of Theorem 3.1. A research agenda of four flagship empirical studies is derived, alongside formalizations of the educational safety gap with an interpretation guide. Five limitations are specified. The article positions the framework as a theory of education whose formal structure is portable to broader human-development and AI-governance contexts, while its central claims remain educational.",
-      "url": "https://doi.org/10.20944/preprints202611.1344.v1",
-      "source": "PPR",
-      "doi": "10.20944/preprints202611.1344.v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43022658",
-      "topic": "AI Embeddings",
-      "title": "A dual-barrier sustained-release hydrogel based on Cu-exchanged Y zeolite and sodium alginate for infected wound healing.",
-      "authors": "Rao Y, Yu X, Xu K, Zheng L, Pu S, Wen N, Wang P, Lin W.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "Bacterial wound infection and the growing crisis of antibiotic resistance urgently demand non-antibiotic wound dressings that integrate long-term antibacterial activity and high biosafety. Herein, we designed a dual-barrier sustained-release antibacterial hydrogel (CuY@SA) by embedding Cu<sup>2+</sup>-exchanged Y zeolite (CuY) into a calcium-crosslinked sodium alginate (SA) matrix. The ordered microporous zeolite acts as the first-stage reservoir to enable intrinsic Cu<sup>2+</sup> sustained release <i>via</i> ion exchange, while the alginate network serves as a second physical diffusion barrier to suppress burst release and prolong delivery. The resulting CuY@SA hydrogel eliminated the initial burst and achieved nearly-linear Cu<sup>2+</sup> release over 48 h, with an equilibrium swelling ratio of approximately 28 g g<sup>-1</sup> in pH 7.4 PBS. <i>In vitro</i>, CuY@SA exhibited over 99.9% bactericidal efficacy against <i>Escherichia coli</i> and <i>Staphylococcus aureus</i>, while maintaining >98% cytocompatibility with NIH-3T3 fibroblasts at hydrogel concentrations up to 10 mg mL<sup>-1</sup>. In a mouse full-thickness infected wound model, CuY@SA significantly accelerated wound closure to over 98% by day 14, promoted collagen deposition and re-epithelialization, reduced local inflammation, and caused no obvious organ toxicity or cuproptosis. Compared with the control hydrogel (Cu@SA) containing directly added free Cu<sup>2+</sup>, CuY@SA showed remarkably lower cytotoxicity and superior <i>in vivo</i> antibacterial activity, confirming the critical role of zeolite in precise controlled release. This work demonstrates that combining an inorganic zeolite carrier with a biopolymer hydrogel provides a simple, scalable, and effective strategy for developing safe and long-acting antibacterial wound dressings. More broadly, it highlights the untapped potential of zeolites as versatile and tunable controlled-release platforms for advanced biomedical applications.",
-      "url": "https://doi.org/10.1039/d6ra08040e",
-      "source": "MED",
-      "doi": "10.1039/d6ra08040e",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43020610",
-      "topic": "AI Embeddings",
-      "title": "Prostate-Specific Membrane Antigen PET/CT Segmentation Guided by Vision Language Models Embedding Clinical Report Semantics.",
-      "authors": "Pouromidi M, Bayasi N, Samimi R, Hosseinzadeh E, Divband G, Nickkholgh B, Adinehpour Z, Shafiee Dastgerdi S, Rahmim A, Yousefirizi F.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "Whole-body prostate-specific membrane antigen (PSMA) PET/CT segmentation remains challenging: manual contouring is unsustainable, and image-only artificial intelligence models often misclassify physiologic uptake as malignant, causing high false-positive rates. These limitations underscore the need for segmentation strategies that incorporate the nuclear medicine expertise encoded in PET/CT reports but not used by current models. We investigated whether routine PET/CT reports improve automated lesion segmentation for prostate cancer. <b>Methods:</b> We developed a language-guided 3-dimensional SegResNet fusing report text with <sup>68</sup>Ga-PSMA-11 PET/CT image features, encoding report semantics via 4 strategies (BiomedVLP, RadGraph, GPT-raw, GPT-engineered) compared with an image-only model (baseline). Of 320 patients who underwent <sup>68</sup>Ga-PSMA-11 PET/CT, 297 studies were available; 13 were excluded for missing reports or incomplete image-mask pairs, leaving 284 for analysis, split at the patient level into 243 development cases and a fixed 41-case held-out test set. Metrics included Dice, intersection over union (IoU), precision, recall, average symmetric surface distance, 95th percentile Hausdorff distance, surface Dice similarity at 5 mm, and lesion-level false positives, using 3 matching criteria (any overlap; 1-to-1 maximum IoU matching, IoU ≥ 0.5; and correct localization of the SUV<sub>max</sub> voxel). Significance was assessed using paired 1-sided Wilcoxon tests with Holm adjustment. <b>Results:</b> Report guidance consistently reduced false positives and improved whole-mask boundary agreement. False-positive lesions were reduced by nearly 4 per patient with BiomedVLP and by approximately 3 per patient with RadGraph and GPT-raw. Average symmetric surface distance decreased from 105.4 ± 62.5 mm (image only) to 23.4 ± 18.2 mm with BiomedVLP, 36.9 ± 22.4 mm with RadGraph, and 36.3 ± 26.4 mm with GPT-raw; 95th percentile Hausdorff distance improved from 455.0 ± 169.3 mm to 123.8 ± 80.3 mm with BiomedVLP, and surface Dice similarity at 5 mm increased from 0.638 ± 0.172 to 0.705 ± 0.181. However, when these surface metrics were recomputed on matched true-positive lesions only using the same 3 criteria, no language-guided model differed significantly from the image-only model for any surface metric (all Holm-adjusted <i>P</i> = 1.0), indicating that the whole-mask improvements were attributable to false-positive suppression rather than genuine gains in contour accuracy on correctly detected lesions. Precision increased for BiomedVLP (0.099) and RadGraph (0.060), with a modest decrease in voxel-level recall (-0.051, BiomedVLP), reflecting a precision-recall trade-off from suppression of spurious uptake. Dice improved by 0.032 but was borderline significant; IoU increased for BiomedVLP (0.036). Lesion-level sensitivity changed by no more than 0.04 for all models and did not reach significance. Total lesion PSMA remained highly correlated with manual measurements (<i>r</i> ≥ 0.85), whereas PSMA tumor volume correlations were more variable across models (<i>r</i> = 0.37-0.70). <b>Conclusion:</b> The integration of PET/CT report semantics into automated PSMA PET/CT segmentation substantially reduced false-positive lesions and preserved total lesion PSMA agreement with manual measurements; a matched true-positive-only reanalysis indicated that the accompanying whole-mask boundary-agreement gains reflected false-positive suppression rather than improved contour accuracy on correctly detected lesions. This approach may reduce manual cleanup and support more reliable quantitative workflows, although precision gains should be weighed against a modest recall reduction. External validation, extension of the true-positive-only analysis to independent cohorts, and PSMA-specific language pretraining are warranted.",
-      "url": "https://doi.org/10.2967/jnumed.126.272702",
-      "source": "MED",
-      "doi": "10.2967/jnumed.126.272702",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43020402",
-      "topic": "AI Embeddings",
-      "title": "Transformer-based literature-based discovery: Discriminative and generative formulations for Hallmarks of Cancer relationship replication.",
-      "authors": "Cuffy C, Mills L, McInnes BT.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "<h4>Objective</h4>Literature-based discovery (LBD) infers implicit relationships that no single document states but that are latent across the literature. Computational LBD has been dominated by methods that embed a biomedical knowledge graph with graph-embedding algorithms. These methods draw on the graph alone, and a concept added to the graph has no representation until the embedding is retrained. We investigate whether contextual transformer encoders address these limitations for closed discovery on the Hallmarks of Cancer (HOC) benchmark.<h4>Methods</h4>We study two formulations of LBD on a shared encoder backbone: a discriminative model that treats discovery as knowledge-graph completion and classifies candidate edges, and a generative model that predicts the embedding of the implicit linking concept and ranks candidates by cosine similarity. We compare both against established baselines, a shallow KGC model (CD-2) and multilayer perceptron (MLP) and similarity-based models, using a ranking protocol and non-parametric significance testing.<h4>Results</h4>Both formulations replicate multiple held-out discoveries and are statistically on par with prior work, while representing any concept that has a text descriptor without retraining, which the graph-embedding baselines cannot do. A general-domain encoder (BERT) is competitive with, and on one dataset exceeds, its domain-adapted counterpart (BioBERT), and input scaling helps the generative but harms the discriminative formulation.<h4>Conclusion</h4>Contextual encoders are viable for LBD, and how the task is posed shapes discovery-replication performance.",
-      "url": "https://doi.org/10.1016/j.jbi.2026.105123",
-      "source": "MED",
-      "doi": "10.1016/j.jbi.2026.105123",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
       ]
     },
     {
