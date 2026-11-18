@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T18:48:01.896208+00:00",
+  "updated": "2026-11-18T00:52:42.960048+00:00",
   "items": [
+    {
+      "id": "MED:43041051",
+      "topic": "AI Embeddings",
+      "title": "Long-Range Temporal Correlations in Brain-State Dynamics via a Multivariate One-Hot Approach.",
+      "authors": "Zappasodi F, Croce P.",
+      "journal": "",
+      "date": "2027-05-01",
+      "abstract": "Temporal sequences of discrete brain states provide a symbolic representation of large-scale neural dynamics. Here, we introduce a one-hot detrended fluctuation analysis (DFA) formulation to quantify long-range temporal correlations in the recurrence dynamics of individual states, independent of the embedding geometry or the symbolic transition encoding. Applied to resting-state Electroencephalographic microstate sequences acquired under eyes-open (EO) and eyes-closed (EC) conditions, the method reveals heterogeneous scaling exponents across states and a global increase in scaling under EC, indicating condition-dependent modulation of multi-timescale organization. Systematic surrogate manipulations disentangle the structural sources of scaling. Disrupting state lifetime statistics through microstate duration equalization or randomization markedly reduces the Hurst exponent, whereas transition-order shuffling alone produces comparatively minor changes in absolute scaling. These findings indicate that long-range dependence is primarily associated with structured state lifetimes rather than with higher-order symbolic syntax. At the same time, transition ordering modulates EO-EC differences, suggesting that symbolic organization contributes to the context-dependent expression of temporal memory. Combined surrogate operations reveal additive effects. The proposed one-hot formulation provides a minimal, representation-invariant characterization of temporal correlations in symbolic sequences and can be generalized to discrete brain-state dynamics obtained from different neuroimaging modalities.",
+      "url": "https://doi.org/10.1142/s0129065727500262",
+      "source": "MED",
+      "doi": "10.1142/s0129065727500262",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
     {
       "id": "MED:43004853",
       "topic": "AI Embeddings",
@@ -546,6 +562,22 @@
       ]
     },
     {
+      "id": "MED:43043306",
+      "topic": "AI Embeddings",
+      "title": "Protein language model-assisted screening of bitter peptides from &lt;i&gt;Prunus dulcis&lt;/i&gt;.",
+      "authors": "Liu Y, Yu S, Zhang Y, Zheng J, Fu X, Jin Y.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "Bitterness is a major limitation in the utilization of plant-derived proteins in food systems, while conventional identification of bitter peptides is labor-intensive and inefficient. Advances in food informatics, particularly protein language models, provide new opportunities for predicting the properties of food chemicals. In this study, we developed a protein language model-assisted workflow to screen and prioritize potential bitter peptides from <i>Prunus dulcis</i> proteins. Protein sequences were first subjected to <i>in silico</i> digestion to generate candidate peptides. Representations derived from ESM Cambrian (ESMC) embeddings were combined with amino acid index (AAI) descriptors and Binary Profile-based Numerical Coding (BPNC) features to construct a machine learning model for bitterness prediction. The resulting candidates were further prioritized based on their interaction with the bitter taste receptor TAS2R14 using the ConPLex framework. Three peptides, GECIL, GRPR, and GIPEV, were selected for further evaluation. HPLC analysis revealed hydrolysate peaks with retention times consistent with those of the corresponding synthetic standards, providing preliminary chromatographic evidence, and electronic tongue measurements indicated bitterness-related instrumental responses. CCK-8 assays indicated generally maintained cell viability, except for a decrease with GIPEV at 3.2 mg mL<sup>-1</sup>. Molecular docking and dynamics simulations suggested stable interaction profiles with TAS2R14, with residues S265 and Q266 likely involved in ligand recognition. This study presents an integrated food informatics workflow combining protein language models with structural and experimental evaluation. The proposed strategy provides a useful approach for discovering bitterness-related peptides from plant proteins and offers insight into the molecular basis of peptide bitterness.",
+      "url": "https://doi.org/10.1039/d6fo02313d",
+      "source": "MED",
+      "doi": "10.1039/d6fo02313d",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1369248",
       "topic": "AI Embeddings",
       "title": "Multimodal contrastive learning traces the early dissemination of Romance of the Three Kingdoms in Thailand",
@@ -568,10 +600,42 @@
       "authors": "Xu S, Yang G, Hu C, Li X, Yin X, Zhao Y, Gunes A, Wu H, Zhong VW.",
       "journal": "",
       "date": "2026-11-17",
-      "abstract": "Whether acupoint thread embedding (ATE), a traditional Chinese medicine intervention, produces weight reduction remains uncertain. To evaluate the efficacy and safety of ATE for weight reduction in women with overweight or obesity. Randomized, sham-controlled trial masked to participants, outcome assessors, and analysts. (ClinicalTrials.gov: NCT06316310). Acupuncture Department, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai, China. 132 women aged 18 to 45 years with a body mass index (BMI) of 24.0 kg/m2 or greater. Participants were randomly assigned 1:1 to ATE (6 sessions over 12 weeks) or sham ATE (superficial needle insertion at the same acupoints without manipulation, de qi, thread placement, or needle retention), followed by a 12-week follow-up. The primary outcome was change in BMI from baseline to week 12, analyzed under the intention-to-treat principle using linear mixed-effects models. At week 12, BMI and body weight decreased 0.7 kg/m2 (95% CI, -1.0 to -0.3 kg/m2) and 1.8 kg (CI, -2.7 to -0.9 kg), respectively, more with ATE than with sham ATE; at week 24, differences were -1.1 kg/m2 (CI, -1.7 to -0.6 kg/m2) and -3.0 kg (CI, -4.5 to -1.6 kg), respectively. Weight reduction of 5% or more occurred in 25.8% versus 9.1% (risk difference, 16.7 percentage points [CI, 3.7 to 29.3 percentage points]) at 12 weeks. Acupoint thread embedding produced greater reductions in waist and hip circumference, body fat percentage, and appetite scores, whereas cardiometabolic and patient-reported outcomes did not differ. Adverse events were mild and comparably distributed. Single center, generally healthy women of reproductive age, unmasked acupuncturists, short-term follow-up, and underpowered for uncommon adverse events and subgroup analyses. Acupoint thread embedding produced modest but sustained reductions in BMI and adiposity-related measures in Chinese women of reproductive age with overweight or obesity. National Facility for Translational Medicine (Shanghai).",
+      "abstract": "<h4>Background</h4>Whether acupoint thread embedding (ATE), a traditional Chinese medicine intervention, produces weight reduction remains uncertain.<h4>Objective</h4>To evaluate the efficacy and safety of ATE for weight reduction in women with overweight or obesity.<h4>Design</h4>Randomized, sham-controlled trial masked to participants, outcome assessors, and analysts. (ClinicalTrials.gov: NCT06316310).<h4>Setting</h4>Acupuncture Department, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai, China.<h4>Participants</h4>132 women aged 18 to 45 years with a body mass index (BMI) of 24.0 kg/m<sup>2</sup> or greater.<h4>Intervention</h4>Participants were randomly assigned 1:1 to ATE (6 sessions over 12 weeks) or sham ATE (superficial needle insertion at the same acupoints without manipulation, de qi, thread placement, or needle retention), followed by a 12-week follow-up.<h4>Measurements</h4>The primary outcome was change in BMI from baseline to week 12, analyzed under the intention-to-treat principle using linear mixed-effects models.<h4>Results</h4>At week 12, BMI and body weight decreased 0.7 kg/m<sup>2</sup> (95% CI, -1.0 to -0.3 kg/m<sup>2</sup>) and 1.8 kg (CI, -2.7 to -0.9 kg), respectively, more with ATE than with sham ATE; at week 24, differences were -1.1 kg/m<sup>2</sup> (CI, -1.7 to -0.6 kg/m<sup>2</sup>) and -3.0 kg (CI, -4.5 to -1.6 kg), respectively. Weight reduction of 5% or more occurred in 25.8% versus 9.1% (risk difference, 16.7 percentage points [CI, 3.7 to 29.3 percentage points]) at 12 weeks. Acupoint thread embedding produced greater reductions in waist and hip circumference, body fat percentage, and appetite scores, whereas cardiometabolic and patient-reported outcomes did not differ. Adverse events were mild and comparably distributed.<h4>Limitation</h4>Single center, generally healthy women of reproductive age, unmasked acupuncturists, short-term follow-up, and underpowered for uncommon adverse events and subgroup analyses.<h4>Conclusion</h4>Acupoint thread embedding produced modest but sustained reductions in BMI and adiposity-related measures in Chinese women of reproductive age with overweight or obesity.<h4>Primary funding source</h4>National Facility for Translational Medicine (Shanghai).",
       "url": "https://doi.org/10.7326/annals-26-02294",
       "source": "MED",
       "doi": "10.7326/annals-26-02294",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:42936947",
+      "topic": "AI Embeddings",
+      "title": "Structure-aware graph learning links peptide geometry to pathogen-specific antimicrobial potency.",
+      "authors": "Tang E, Sun Z, Xu S, Wang X, Kuang S, Corrie S, Peleg AY, Song J, de la Fuente-Nunez C.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "Antimicrobial peptide screening requires both activity classification and pathogen-specific potency estimation. Here we present GeoMIC, a two-stage framework combining protein language model embeddings with predicted peptide geometry. GeoMIC achieved an AUROC of 0.844 on XUAMP and minimum inhibitory concentration (MIC) prediction correlations of 0.794 for <i>Staphylococcus aureus</i> and 0.797 for <i>Escherichia coli</i>. Capacity-matched ablations supported complementary contributions from predicted structure. Retrospective ranking recovered more known active peptides than the evaluated comparator, supporting further evaluation of GeoMIC for experimental candidate prioritization.",
+      "url": "https://doi.org/10.1039/d6cc03538h",
+      "source": "MED",
+      "doi": "10.1039/d6cc03538h",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43041025",
+      "topic": "AI Embeddings",
+      "title": "The strategic integration of emergency obstetric and neonatal care with contraceptive services.",
+      "authors": "Koch M, Kasliwal A, Ahsan A, Elkholy N, Sridhar A.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "Comprehensive Emergency Obstetric and Neonatal Care (CEmONC) indicators have strengthened health systems' capacity to manage acute obstetric emergencies and remain central to global maternal health monitoring. However, current EmONC frameworks omit contraception, despite its established role in preventing unintended pregnancy, supporting healthy interpregnancy intervals, and reducing recurrent exposure to obstetric risk. This gap reflects an artificial divide between emergency response and preventive care. This commentary argues that contraception should be recognized as an essential, integrated component of EmONC rather than a separate postpartum service. We outline the clinical rationale for embedding contraceptive counseling and provision within each EmONC signal function, noting that the nature of an obstetric emergency-hemorrhage, infection, hypertensive disease-often directly informs contraceptive eligibility and method selection. We further describe why the postpartum period after an obstetric emergency represents a critical, frequently missed opportunity for contraceptive counseling, particularly in low-resource and humanitarian settings where subsequent access to care is uncertain. We propose practical strategies for integration at the facility, health system, and global levels, including standardized counseling prompts, aligned supply chains, updated training curricula, and incorporation of contraceptive indicators into EmONC guidance and monitoring tools. Embedding contraception within EmONC would strengthen continuity across the maternal health continuum and better align global frameworks with the clinical realities of obstetric risk.",
+      "url": "https://doi.org/10.1002/ijgo.71489",
+      "source": "MED",
+      "doi": "10.1002/ijgo.71489",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -588,6 +652,22 @@
       "url": "https://doi.org/10.1007/s10278-026-02504-y",
       "source": "MED",
       "doi": "10.1007/s10278-026-02504-y",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43040129",
+      "topic": "AI Embeddings",
+      "title": "Embedding a Consolidated Resource Panel in the PACS Worklist: Implementation and First-Year Adoption.",
+      "authors": "McBee MP, Ketchum W, Gaspard D.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "Radiologists rely on many resources during a shift, including imaging protocols, policies, call schedules, phone directories, and IT support tools. At our institution, each lives in a separate location outside the picture archiving and communication system (PACS), so reaching any of them meant leaving PACS. We built a static web page that gathers the links and reference material radiologists use most often, styled it to match the PACS interface, and embedded it in the worklist window by repurposing a display panel the PACS vendor provides for messages and alerts. Self-hosted web analytics recorded how it was used. Over the first 12 months, the panel recorded 58,524 visits and 10,253 outbound resource clicks. It was available to approximately 200 attending radiologists, residents, and fellows, roughly 90 of whom work on a typical weekday, and generated a median of 40 outbound clicks per steady-state weekday. Because the analytics identify workstations rather than people, unique-visitor counts exceed headcount and cannot be expressed as a per-person adoption rate. Clicks concentrated in a few everyday tools; paging, the report database, and the call schedule accounted for about two-thirds. These data document sustained use. This implementation and adoption report describes how the platform was built, embedded, and measured, and how other departments can reproduce it. The source code is publicly available.",
+      "url": "https://doi.org/10.1007/s10278-026-02473-2",
+      "source": "MED",
+      "doi": "10.1007/s10278-026-02473-2",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -632,7 +712,7 @@
       "authors": "Wiley R, Schwoebel J, Caccia M, Shor J, Garcia AM, Fisher SD, Frasch MG.",
       "journal": "",
       "date": "2026-11-16",
-      "abstract": "Voice-based depression screening is commercializing rapidly, yet whether voice biomarkers generalize across clinical settings is largely untested. Generalization is usually framed as a question about populations, but it is also a question about the outcome instrument a model is scored against, an effect confounded with other between-study differences in the literature. We tested whether depression voice biomarkers transfer between perinatal and general-psychiatric speech in both directions under strict leakage control and whether transfer depends on the screening instrument. In a cross-sectional, online US study, 390 pregnant participants at a mean of 22 (SD 1) weeks' gestation (analytical sample n=316) participated in 446 sessions; each participant provided 4 voice recordings and completed the modified 8-item Patient Health Questionnaire (PHQ-8) and modified 9-item Edinburgh Postnatal Depression Scale (mEPDS-9). We extracted 375 acoustic descriptors and 330-dimensional Population Dynamics Foundation Model community-health embeddings. Discrimination area under the curve (AUC) was assessed under leakage-controlled cross-validation, with feature and classifier selection inside training folds only and a permutation negative-control harness, across a prespecified grid of 4 speech tasks×4 outcome definitions. The prenatal-trained model was applied to 2 general-psychiatric corpora (Distress Analysis Interview Corpus-Wizard-of-Oz, n=189; Extended Distress Analysis Interview Corpus, n=219) under pure held-out inference, and the open-source Kintsugi Depression/Anxiety Model (DAM), trained on 35,000 individuals, was applied to all 3 cohorts without refitting, with Benjamini-Hochberg multiplicity control. In the prenatal cohort, the preregistered outcome was at chance (AUC 0.494, 95% CI 0.431-0.560); no cell in the 16-cell grid survived adjustment under either modeling paradigm. The prenatal-trained model did not transfer to either general-psychiatric corpus (AUCs 0.505 and 0.478). Reverse transfer depended on the screening instrument. The DAM reached an AUC of 0.706 to 0.708 on general-psychiatric speech. In the same participants, it performed at chance against the PHQ-8 (AUC 0.510, 95% CI 0.411-0.609) but discriminated against the mEPDS-9 (AUC 0.645, 95% CI 0.541-0.744), a paired difference of 0.135 (95% CI 0.019-0.248; unadjusted post hoc P=0.02). Exploratory item-level analysis suggests a mechanism: the DAM tracked affective-distress items (crying r=0.26, sadness r=0.21, and overwhelmed r=0.20) but not somatic PHQ-8 items; only crying survived adjustment across 17 tests. Transfer varied by elicitation task (pregnancy narrative 0.653, 95% CI 0.550-0.753; open-ended speech 0.597, 95% CI 0.486-0.699; scripted reading 0.544, 95% CI 0.434-0.651), though these were not formally compared. Cross-domain comparison showed a compound shift: population, elicitation task, and outcome instrument differed together, while only the instrument could be varied on its own. Whether a depression voice biomarker transfers may depend not only on the population but also on whether the outcome instrument captures what the model can detect. Validation should state the population, elicitation task, and outcome instrument together; a tool validated against one instrument should not be assumed to work against another.",
+      "abstract": "<h4>Background</h4>Voice-based depression screening is commercializing rapidly, yet whether voice biomarkers generalize across clinical settings is largely untested. Generalization is usually framed as a question about populations, but it is also a question about the outcome instrument a model is scored against, an effect confounded with other between-study differences in the literature.<h4>Objective</h4>We tested whether depression voice biomarkers transfer between perinatal and general-psychiatric speech in both directions under strict leakage control and whether transfer depends on the screening instrument.<h4>Methods</h4>In a cross-sectional, online US study, 390 pregnant participants at a mean of 22 (SD 1) weeks' gestation (analytical sample n=316) participated in 446 sessions; each participant provided 4 voice recordings and completed the modified 8-item Patient Health Questionnaire (PHQ-8) and modified 9-item Edinburgh Postnatal Depression Scale (mEPDS-9). We extracted 375 acoustic descriptors and 330-dimensional Population Dynamics Foundation Model community-health embeddings. Discrimination area under the curve (AUC) was assessed under leakage-controlled cross-validation, with feature and classifier selection inside training folds only and a permutation negative-control harness, across a prespecified grid of 4 speech tasks×4 outcome definitions. The prenatal-trained model was applied to 2 general-psychiatric corpora (Distress Analysis Interview Corpus-Wizard-of-Oz, n=189; Extended Distress Analysis Interview Corpus, n=219) under pure held-out inference, and the open-source Kintsugi Depression/Anxiety Model (DAM), trained on 35,000 individuals, was applied to all 3 cohorts without refitting, with Benjamini-Hochberg multiplicity control.<h4>Results</h4>In the prenatal cohort, the preregistered outcome was at chance (AUC 0.494, 95% CI 0.431-0.560); no cell in the 16-cell grid survived adjustment under either modeling paradigm. The prenatal-trained model did not transfer to either general-psychiatric corpus (AUCs 0.505 and 0.478). Reverse transfer depended on the screening instrument. The DAM reached an AUC of 0.706 to 0.708 on general-psychiatric speech. In the same participants, it performed at chance against the PHQ-8 (AUC 0.510, 95% CI 0.411-0.609) but discriminated against the mEPDS-9 (AUC 0.645, 95% CI 0.541-0.744), a paired difference of 0.135 (95% CI 0.019-0.248; unadjusted post hoc <i>P</i>=0.02). Exploratory item-level analysis suggests a mechanism: the DAM tracked affective-distress items (crying <i>r</i>=0.26, sadness <i>r</i>=0.21, and overwhelmed <i>r</i>=0.20) but not somatic PHQ-8 items; only crying survived adjustment across 17 tests. Transfer varied by elicitation task (pregnancy narrative 0.653, 95% CI 0.550-0.753; open-ended speech 0.597, 95% CI 0.486-0.699; scripted reading 0.544, 95% CI 0.434-0.651), though these were not formally compared.<h4>Conclusions</h4>Cross-domain comparison showed a compound shift: population, elicitation task, and outcome instrument differed together, while only the instrument could be varied on its own. Whether a depression voice biomarker transfers may depend not only on the population but also on whether the outcome instrument captures what the model can detect. Validation should state the population, elicitation task, and outcome instrument together; a tool validated against one instrument should not be assumed to work against another.",
       "url": "https://doi.org/10.2196/105737",
       "source": "MED",
       "doi": "10.2196/105737",
@@ -767,6 +847,22 @@
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43037839",
+      "topic": "Long-acting PrEP",
+      "title": "Stated Choice Methods in Long-Acting and Extended-Release HIV Technologies: A Scoping Review of Methodological Practices and Translational Utility.",
+      "authors": "Bauermeister JA, Golub S, Hosek S, Minnis A, Dubé K, Rael C, Krakower D, Lin W, Bangcaya C, Flexner C, Senn TE.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "<h4>Purpose of review</h4>Long-acting and extended-release (LA/ER) technologies are expanding options for HIV prevention and treatment, but their population impact will depend on whether products and delivery models align with the priorities and constraints of intended users and providers. We reviewed how stated choice methods have been designed, analyzed, and used to generate implementation-relevant evidence for LA/ER technologies.<h4>Recent findings</h4>Fifty peer-reviewed studies published from 2020 to 2026 met inclusion criteria. Most examined HIV prevention (74%), enrolled end-users only (92%), and used discrete choice experiments or related variants (86%). Stakeholder-informed attribute sources were reported in 94%, but only 40% described dedicated, study-specific qualitative or advisory processes. Preference heterogeneity (94%), service-delivery attributes (80%), and structural access barriers (94%) were common. Only 22% included a respondent-specific status-quo comparator, 60% reported comprehension testing, and 4% achieved moderate-to-high representativeness. Although 84% examined pipeline-aligned attributes, reporting did not establish whether those attributes remained modifiable at the relevant product-lifecycle stage. Only four studies included providers, and treatment-preference research was concentrated in high-income settings. Methodological sophistication does not ensure translational utility. Stated choice studies should align their attributes, sampling, and choice architecture with the decision-maker, the product's lifecycle stage, and the decisions still open to change. As products mature, research should prioritize actionable delivery, access, and health-system decisions and validate preferences against product experience and observed behavior.",
+      "url": "https://doi.org/10.1007/s11904-026-00804-0",
+      "source": "MED",
+      "doi": "10.1007/s11904-026-00804-0",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
       ]
     },
     {
@@ -1085,86 +1181,6 @@
       "source": "MED",
       "doi": "10.1016/j.ijheh.2026.114938",
       "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43018840",
-      "topic": "AI Embeddings",
-      "title": "Latent Representation Learning from 3D Brain MRI for Latent Analysis and Prediction in Multiple Sclerosis.",
-      "authors": "Ngoc Huynh T, Duc Kien N, Thai Ninh D, Hai Anh N, Hiep Dinh T, Vaneckova M, Uher T, Schependom JV, Denissen S, Quoc Long T, Linh Trung N, Nagels G.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "<h4>Background</h4>Neurological diseases can lead to significant cognitive impairment. Linking magnetic resonance imaging (MRI)-derived measures of brain structure with clinical assessments of cognitive function remains challenging, as conventional statistical methods and traditional machine learning approaches may struggle to capture complex relationships between brain structure and cognitive outcomes, hindering the development of reliable imaging biomarkers. Although deep learning methods offer greater predictive capabilities, their black-box nature limits interpretability, posing a major obstacle to clinical translation.<h4>New method</h4>Latent representation learning via generative models can provide informative representations and support deeper analysis and cognitive biomarker prediction. While standard generative adversarial networks and diffusion models primarily focus on generating images from random noise, variational autoencoders offer compact, probabilistic latent representations that are well suited for downstream tasks. In this study, we propose InfoVAE-Med3D, an adaptation of the InfoVAE framework for three-dimensional brain ​MRI to learn informative latent representations. By explicitly relaxing the mutual information regularization penalty between inputs and latent representations, our method aims to capture richer information from input MRI data, facilitating the analysis of brain-related characteristics and downstream prediction.<h4>Results</h4>We evaluate InfoVAE-Med3D on two datasets: a healthy control dataset ([Formula: see text]) containing chronological age and sex information, and a Multiple Sclerosis (MS) dataset ([Formula: see text]) collected from the Multiple Sclerosis Center of the First Medical Faculty, Charles University, Prague, containing chronological age, sex, and Symbol Digit Modalities Test (SDMT) scores. The learned latent representations capture information related to sex and brain volumetric features, including grey and white matter volumes, as reflected in sex-related clustering and smooth transitions in brain volume measures in two-dimensional visualizations. Through comprehensive evaluations, we demonstrate that InfoVAE-Med3D learns more informative latent representations, especially when the mutual information regularization penalty is completely removed. In this setting, the model generally outperforms other variational autoencoder variants in both MRI reconstruction and prediction of brain age and SDMT scores using support vector regression, while remaining competitive with deep learning-based predictive models, particularly on the MS dataset.<h4>Conclusion</h4>InfoVAE-Med3D provides informative latent representations from brain MRI data of both healthy controls and patients with MS. By improving predictive performance and providing interpretable insights into the learned latent representations, the proposed framework offers a promising approach for advancing biomarker discovery and the analysis of cognitive impairment in neurological diseases, particularly ​MS.",
-      "url": "https://doi.org/10.1007/s12021-026-09827-9",
-      "source": "MED",
-      "doi": "10.1007/s12021-026-09827-9",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43017838",
-      "topic": "AI Embeddings",
-      "title": "Embedding the Cultural Health Navigator Model: A Health System-Integrated Approach for Refugee Care.",
-      "authors": "Azugbene EA, Nizigiyimana JF, Schuster RC, Coonrod DV, Johnson-Agbakwu CE.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "Resettled refugees and culturally and linguistically diverse (CALD) populations face persistent barriers to health care, including linguistic constraints, cultural disconnects, and limited availability of system-integrated approaches responsive to their needs. This article presents the Cultural Health Navigator (CHN) model, a health system-integrated community health worker (CHW) approach developed within an Arizona Medicaid-integrated public safety-net hospital system. The model embeds trained, multilingual CHNs within clinical workflows to provide culturally and linguistically responsive navigation, health education, care coordination, medical interpretation, and linkage to clinical and community resources. We apply the Consolidated Framework for Implementation Research (CFIR) retrospectively to describe the model's implementation features and use the Reach, Effectiveness, Adoption, Implementation, and Maintenance (RE-AIM) framework to guide prospective evaluation. The CHN model integrates CHW certification, clinical workflows, community partnerships, electronic health record infrastructure, and Medicaid reimbursement pathways to support implementation and sustainability. Preliminary evidence from the program supports continued evaluation of its potential contributions to patient navigation, trust, health literacy, health care utilization, and maternal and newborn health. We present the CHN model as a practice-based, potentially transferable implementation approach that health systems can adapt to strengthen culturally responsive care for refugees and other CALD populations. Future evaluation should establish its effectiveness, sustainability, and transferability across diverse health care settings.",
-      "url": "https://doi.org/10.1177/15248399261498698",
-      "source": "MED",
-      "doi": "10.1177/15248399261498698",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1366167",
-      "topic": "AI Embeddings",
-      "title": "Multimodal protein representations across human brain cell types",
-      "authors": "Dong A, Li MM, Ding K, Nazeen S, Noori A, Huang Y, Gao S, Ritter D, Afroz J, Henderson ABH, Studer L, Luo Y, Khurana V, Parmigiani G, Zitnik M.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "The central nervous system (CNS) comprises diverse cell types whose molecular context shapes the roles of the proteins they express. Computational models offer a scalable way to study the roles of proteins across human brain cell types, with protein language models and interactome- or single-cell-based models capturing complementary information encoded in protein sequences and cellular network contexts. Human brain tissue is hard to access, so brain cell types make up a small fraction of the atlases single-cell models train on and of the benchmarks used for their evaluation. To capture these complementary sources of information in the CNS, we introduce SEMPER, a multimodal representation learning model that aligns protein language model representations with protein-protein interaction networks from 442 cell types of the adult human brain, giving each protein a sequence-informed representation in every cell type in which its gene is expressed. We show that SEMPER representations predict cell type-specific protein complexes and predict genes essential to the survival of dopaminergic neurons, measured in a genome-wide CRISPR screen. In zero-shot retrieval, SEMPER recovers clinically pursued drug targets for Parkinson’s disease, Alzheimer’s disease, multiple sclerosis, Huntington’s disease and amyotrophic lateral sclerosis at higher rates than cell type-specific models. To further improve target recovery, we combine SEMPER with a large language model that reasons over protein functional annotations. The combination recovers more targets, with SEMPER providing experimentally derived cellular context that complements literature-based reasoning of the large language model.",
-      "url": "https://doi.org/10.64898/2026.11.10.765762",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.10.765762",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1366139",
-      "topic": "AI Embeddings",
-      "title": "Deep Learning Identifies BMI-Associated Morphologic Features in Breast Cancer Tissue",
-      "authors": "Heredia EA, Papasian L, Paine J, Patre S, Jönsson TJ, Keller T, Fang Z, Narumi VH, Katiyar I, Lagerstrom IT, Lombardo J, Simental B, Tran B, Sibrian D, Castellanos O, Wells J, Lee JSH, Shriver C, Agus DB, Basho RK, Matasci N.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "<h4>  A  bstract </h4>  Multiple epidemiological studies have established obesity as an adverse factor in breast cancer incidence, progression, and clinical outcomes. However, the biological mechanisms underlying these associations remain incompletely understood. In peritumoral adipose tissue, obesity is associated with chronic inflammation, macrophage recruitment, and broader alterations in the local microenvironment. Whether these obesity-associated changes are accompanied by distinct morphologic features within the tumor and non-adipose stromal compartments remains unclear. In this study, we investigated whether an AI-based pathology foundation model could support the development of machine learning algorithms capable of identifying obesity-associated morphologic patterns in histopathology images, with a particular focus on tumor and stromal regions. In a cohort of 195 patients with breast cancer, machine learning models using vector embeddings from non-adipose stromal regions classified high BMI (≥30 kg/m  2 ) versus low BMI (<25 kg/m  2 ) with an average AUC of 0.78 (95% CI: 0.73–0.83), consistently outperforming models based on tumor-only or combined tumor–stroma regions. These obesity-associated stromal signatures were observed across subgroups defined by hormone-receptor status and age, indicating that they are not restricted to specific clinical populations. Complementary embedding-based dissimilarity analysis further showed that higher BMI was associated with reduced inter-patient heterogeneity in both tumor and stromal tissues. Overall, these findings suggest that obesity is associated with distinct morphologic alterations in both tumor and non-adipose stromal tissues. Notably, the stromal compartment emerged as a particularly informative indicator of obesity-associated morphology and demonstrated reduced inter-patient heterogeneity among individuals with high BMI.",
-      "url": "https://doi.org/10.64898/2026.11.10.765089",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.10.765089",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1365812",
-      "topic": "AI Embeddings",
-      "title": "Does Graph Structure Improve AI-Generated Text Detection? A Controlled Audit with Tuned Baselines",
-      "authors": "Alaktif A, Chergui M, Faiq G, Ammoumou A.",
-      "journal": "",
-      "date": "2026-11-12",
-      "abstract": "<title>Abstract</title>  <p>Graph neural network (GNN) detectors of AI-generated text report state-of-the-art accuracy, and the architectural claim that graph topology captures signals invisible to sequential classifiers is now common in the literature. We report the complete lifecycle of one such detector, from construction to falsification. AEGIS, a graph attention network over k-nearest-neighbour text graphs with multi-signal edge weights, reaches 98.50% accuracy on scientific abstracts with only 73K trainable parameters, outperforming five established baselines. We then subject our own system to the evaluation its headline number deserves: generation-time length control, format normalization, leakage-free splits, a tuned frozen-embedding probe as the calibrated null, and a 10 × 10 cross-generator transfer study over three seeds. Under this protocol the graph's apparent contribution collapses from +0.240 AUROC over a surface baseline to −0.0004 AUROC against the tuned probe, inside the measured replication noise floor, and the two detectors' transfer geographies are near-identical (ρ = 0.986). A single untuned regularization default manufactured a +0.027 phantom advantage. The structural differences the graph encodes are real, but they are a re-encoding of information already present in the embeddings. We distil the audit into a practical checklist for evaluating architectural claims in text detection, and argue that accuracy numbers and mechanism claims must be validated separately.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11039287/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11039287/v1",
-      "is_preprint": true,
       "topics": [
         "AI Embeddings"
       ]
@@ -2220,22 +2236,6 @@
       "url": "https://doi.org/10.1177/10872914261494329",
       "source": "MED",
       "doi": "10.1177/10872914261494329",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:43011427",
-      "topic": "Long-acting PrEP",
-      "title": "Preferences for mobile HIV pre-exposure prophylaxis delivery among young men with alcohol use in rural South Africa: A discrete choice experiment.",
-      "authors": "Castle AC, Mthembu NI, Nzimande L, Ncube T, Nkosi B, Dube S, Jarolimova J, Hoeppner SS, Shahmanesh M, Siedner MJ.",
-      "journal": "",
-      "date": "2026-10-07",
-      "abstract": "<h4>Background</h4>Young men who use alcohol have an elevated risk for HIV in South Africa but have low engagement with pre-exposure prophylaxis (PrEP).<h4>Objectives</h4>We conducted a discrete choice experiment (DCE) to explore preferences for mobile HIV prevention services in rural KwaZulu-Natal.<h4>Method</h4>Men aged ≥ 18 years with self-reported alcohol use participating in an HIV-prevention clinical trial completed a DCE. Attributes included clinic location (soccer fields, shebeens [informal bars], taxi ranks), operating hours (weekday, week-evening, weekend), and HIV prevention modality (event-driven oral PrEP, injectable PrEP, condoms only). Preferences were estimated using hierarchical Bayesian multinomial logit models. Relative attribute importance quantified each attribute's contribution to decision-making. Exploratory subgroup analyses examined variation by prior PrEP use, alcohol risk (AUDIT-C > 4), and age.<h4>Results</h4>Among 185 participants (mean age 27 years), HIV prevention modality was the most influential attribute (62.8% relative importance), followed by clinic location (26.3%) and clinic timing (10.9%). Services located at soccer fields were strongly preferred, while delivery at shebeens was disfavoured. Clinic timing showed minimal variation in preferences. Event-driven oral PrEP was preferred over condoms-only delivery, while injectable PrEP showed mixed preferences. Men with prior PrEP experience and high-risk alcohol use preferred injectable PrEP, whereas PrEP-naïve men and those with lower-risk drinking patterns preferred event-driven oral PrEP.<h4>Conclusion</h4>PrEP programmes for young men should pair prevention choice with acceptable service locations. Event-driven oral PrEP may be an entry point for PrEP-naïve men; injectable PrEP may appeal more to men with prior PrEP experience or higher-risk alcohol use.",
-      "url": "https://doi.org/10.4102/sajhivmed.v27i1.1840",
-      "source": "MED",
-      "doi": "10.4102/sajhivmed.v27i1.1840",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"

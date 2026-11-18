@@ -9,6 +9,7 @@
     "AI Embeddings|MED:42902448",
     "AI Embeddings|MED:42925125",
     "AI Embeddings|MED:42935305",
+    "AI Embeddings|MED:42936947",
     "AI Embeddings|MED:42947530",
     "AI Embeddings|MED:42947663",
     "AI Embeddings|MED:42949705",
@@ -72,7 +73,11 @@
     "AI Embeddings|MED:43038548",
     "AI Embeddings|MED:43039660",
     "AI Embeddings|MED:43039967",
+    "AI Embeddings|MED:43040129",
     "AI Embeddings|MED:43040130",
+    "AI Embeddings|MED:43041025",
+    "AI Embeddings|MED:43041051",
+    "AI Embeddings|MED:43043306",
     "AI Embeddings|PMC:PMC13748885",
     "AI Embeddings|PMC:PMC13751358",
     "AI Embeddings|PMC:PMC13751363",
@@ -190,6 +195,7 @@
     "Long-acting PrEP|MED:43020477",
     "Long-acting PrEP|MED:43024553",
     "Long-acting PrEP|MED:43024605",
+    "Long-acting PrEP|MED:43037839",
     "Long-acting PrEP|PMC:PMC13659095",
     "Long-acting PrEP|PMC:PMC13668828",
     "Long-acting PrEP|PMC:PMC13670316",
@@ -204,5 +210,5 @@
     "Long-acting PrEP|PPR:PPR1365989",
     "Long-acting PrEP|PPR:PPR1367669"
   ],
-  "updated": "2026-11-17T18:48:01.896208+00:00"
+  "updated": "2026-11-18T00:52:42.960048+00:00"
 }
