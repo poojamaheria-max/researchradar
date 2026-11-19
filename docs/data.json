@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T18:43:30.140509+00:00",
+  "updated": "2026-11-19T00:53:21.047404+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -12,6 +12,22 @@
       "url": "https://doi.org/10.1142/s0129065727500262",
       "source": "MED",
       "doi": "10.1142/s0129065727500262",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43018163",
+      "topic": "AI Embeddings",
+      "title": "The Influence of \"Background Theories\": Karl S. Lashley's Epistemology.",
+      "authors": "Liggieri K.",
+      "journal": "",
+      "date": "2027-01-01",
+      "abstract": "In this article, my aim is to explore the little-known epistemology of Karl S. Lashley in the context of the discussions and dynamics between Gestalt psychology and Behaviorism. I will demonstrate how Lashley's position shifted between behaviorism (John B. Watson) and Gestalt and holistic psychology (Wolfgang Köhler, Kurt Goldstein), both in his collaborations and his theories. The article argues that, Lashley did not seek to reconcile behaviorism and Gestalt psychology. Instead, he rejected the need for a unified psychological theory.",
+      "url": "https://doi.org/10.1002/jhbs.70080",
+      "source": "MED",
+      "doi": "10.1002/jhbs.70080",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -562,6 +578,38 @@
       ]
     },
     {
+      "id": "MED:42813619",
+      "topic": "AI Embeddings",
+      "title": "MADE: leveraging informative missingness and temporal evaluation for electronic health record-based deterioration prediction in general wards.",
+      "authors": "Mun Y, Ahn JH, Lee CY, Ahn B, Huh JW, Chung KS.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "<h4>Objective</h4>Electronic health record (EHR) time series are irregularly sampled and frequently incomplete, with missingness potentially carrying clinically informative signals. We developed Masked-Attention-based timestamp-wise Data Embedding (MADE), a missingness-aware model for continuous prediction of deterioration in general wards, and evaluated it across heterogeneous hospitals.<h4>Materials and methods</h4>Observed variables were tokenized into feature-specific embeddings and processed by a masked-attention Transformer, followed by bi-LSTM temporal aggregation for risk prediction. MADE was evaluated for major adverse event (MAE) and sepsis in 1 internal (SVH) and 2 external cohorts (AMC, HUMC) against conventional and deep learning baselines. Ablation studies compared no imputation with last observation carried forward (LOCF) and multiple imputations by chained equations (MICE). Discriminative performance was assessed using the area under the receiver operating characteristic curve (AUROC) and precision-recall curve (AUPRC). Clinical utility and reliability were assessed using decision curve analysis, Brier score, and expected calibration error (ECE).<h4>Results</h4>MADE achieved strong discrimination for MAE (AUROC 0.966/0.902/0.825 for SVH/AMC/HUMC) and sepsis (AUROC 0.934/0.874/0.776). The no-imputation configuration generally outperformed LOCF and MICE, particularly for MAE and for sepsis AUPRC, supporting preservation of informative missingness. Decision curves showed favorable net benefit for MAE and competitive benefit for sepsis. Calibration indicated modest underestimation at higher risks, suggesting site-specific recalibration.<h4>Discussion</h4>MADE mitigates limitations of fixed grid and imputation-dependent EHR modeling by jointly leveraging observed values and missingness patterns under heterogeneous sampling.<h4>Conclusion</h4>MADE supports scalable observation-aligned risk monitoring, particularly for MAE, while sepsis prediction may require site-specific recalibration or feature-set adaptation under cross-institution domain shifts.",
+      "url": "https://doi.org/10.1093/jamia/ocag124",
+      "source": "MED",
+      "doi": "10.1093/jamia/ocag124",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43049221",
+      "topic": "AI Embeddings",
+      "title": "From Physics-Informed Deep Learning to Experimental Realization: Unlocking Entropy-Stabilized Titanium Halide Solid Electrolytes.",
+      "authors": "Xu Z, Yan Y, Nie S, Wang Z, Yan G, Duan H, Wang J.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Accelerating the discovery of high-performance solid electrolytes (SEs) is hindered by scarce experimental data and vast inorganic chemical spaces. Here, we present a physics-informed deep learning platform that integrates a physics-informed neural network with a dual-source graph neural network. By embedding fundamental physical constraints (e.g., lattice stability and coulombic interactions) into the training process, our framework overcomes the small-data dilemma, enabling the reliable screening of over 2 80 000 inorganic crystals. Guided by a multi-objective optimization incorporating ionic conductivity, thermodynamic stability, and global economic factors, the titanium-based halide family is identified as a cost-effective alternative to scarce zirconium- or scandium-based SEs. As a proof-of-concept, a novel Li<sub>4</sub>TiBr<sub>4</sub>Cl<sub>4</sub> electrolyte is synthesized, which exhibits a high room-temperature ionic conductivity of 1.14 mS/cm. While 0 K density functional theory calculations predict an ordered layered ground state (P3¯m1) , structural characterization reveals a disordered cubic phase (Fm3¯m) stabilized by configurational entropy at synthetic temperatures. Furthermore, all-solid-state lithium batteries incorporating this electrolyte deliver a stable long-term cycling performance with a 90.6% capacity retention over 200 cycles at 0.5 C. This work demonstrates a closed-loop discovery paradigm where physics-constrained learning and thermodynamic understanding converge to realize high-performance, economically viable energy materials.",
+      "url": "https://doi.org/10.1002/smll.76722",
+      "source": "MED",
+      "doi": "10.1002/smll.76722",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43046796",
       "topic": "AI Embeddings",
       "title": "Embedding Lived Experience in Concurrent-Disorder Care: Early Learnings From Implementing Peer Support at BCMHSUS.",
@@ -578,13 +626,61 @@
       ]
     },
     {
+      "id": "MED:42974911",
+      "topic": "AI Embeddings",
+      "title": "Matrix materials as functional enablers in metabolite sensing: from mechanistic demands to translational potential.",
+      "authors": "Varga M, Risi G, Stepanova S, Nasehi M, Bahtiyar C, Rousakis E, Witthauer L.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "The performance of metabolite sensors is strongly shaped by the physicochemical properties of the matrix that governs analyte transport, interfacial stability, and signal coupling, yet the role of the matrix has largely been overlooked, often being viewed as a passive support rather than an active design parameter. This review analyses how matrix architecture controls sensing behaviour across polymeric, inorganic, carbon-based, and supramolecular material classes, examining mechanistic trade-offs between diffusion and binding, conductivity and biocompatibility, and structural stability and responsiveness in the context of electrochemical, optical, and electrical transduction modes. Particular emphasis is placed on operation in complex biological media, where protein adsorption, ionic fluctuations, mechanical mismatch, and dynamic metabolite flux impose constraints rarely captured in buffered laboratory systems. The comparative analysis reveals that no single matrix class universally optimizes sensitivity, selectivity, and stability; instead, sensor behaviour and performance-relevant characteristics emerge from alignment between the matrix architecture and the signal-generating mechanism. By framing matrix selection through these mechanistic principles, this review provides a foundation for rational matrix design toward continuous, multi-analyte, and clinically deployable metabolite sensors.",
+      "url": "https://doi.org/10.1039/d6tb01338d",
+      "source": "MED",
+      "doi": "10.1039/d6tb01338d",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:42948970",
+      "topic": "AI Embeddings",
+      "title": "Effects of segment chemistry on mechanical performance and hemocompatibility in polyurethane heart valve scaffolds.",
+      "authors": "Sadeghi F, Zamani Y, Tacklind M, Edwards R, Simionescu D, Kheradvar A.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Polycarbonate-based and polysiloxane-modified thermoplastic polyurethanes (TPUs) are promising candidates for cardiovascular implants because of their tunable mechanical properties and favorable biocompatibility. In this study, we established comparative formulation-property-hemocompatibility criteria for polymeric heart valve scaffolds through a systematic evaluation of five commercial TPU formulations: carbothane AC-4095A (CB95-AC), carbothane AC-4075A (CB75-AC), carbothane PC-3575A (CB75-PC), chronoflex C65D (CF), and quadrasil ARCS 90A (Qsil). This comparative analysis provides practical material-selection criteria based on the balance between elastic recovery, tear resistance, oxidative stability, and hemocompatibility. CF and CB95-AC exhibited the highest stiffness and tensile strength, whereas CB75-AC and CB75-PC demonstrated greater elasticity and lower residual strain during cyclic loading. CB75-AC exhibited the lowest hysteresis and best elastic recovery; however, it also exhibited low tear resistance and slightly elevated hemolysis (∼4%), highlighting the tradeoff between elastic recovery and mechanical robustness. All TPU materials maintained platelet counts and partial thromboplastin time values within ASTM-defined acceptable ranges. FTIR analysis revealed formulation-dependent differences in urethane carbonyl hydrogen bonding and hard-domain association that were associated with differences in mechanical behavior and surface characteristics. DSC revealed formulation-dependent differences in thermal transitions, whereas WAXD showed broadly similar, predominantly amorphous structures with diffuse scattering centered at approximately 20-21° 2<i>θ</i> and no distinct crystalline reflections. Preliminary short-term implantation of a CB95-AC polymeric mitral valve in an ovine model showed no gross thrombotic attachment on the leaflet surfaces after 22 days. Overall, the results demonstrate formulation-dependent tradeoffs among elastic recovery, tear resistance, oxidative stability, and hemocompatibility in TPU-based heart valve scaffolds. These findings provide practical material-selection criteria for future polymeric heart valve scaffold development.",
+      "url": "https://doi.org/10.1039/d6tb01865c",
+      "source": "MED",
+      "doi": "10.1039/d6tb01865c",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43049376",
+      "topic": "Long-acting PrEP",
+      "title": "Investigation of anti-SARS-CoV-2 multimeric bicyclic peptide inhibitors in a range of preclinical therapeutic settings.",
+      "authors": "Harman MAJ, Gaynor KU, Papa G, Pellegrino S, Bezerra GA, McGuinness B, Jeffrey P, Beswick P, Stanway S, Van Rietschoten K, Chen L, Albecka A, Drulyte I, Herriott J, Kijak E, Gallardo-Toledo E, Tatham L, Sharma P, Bentley E, Sharp J, Kirby A, James LC, Owen A, Stewart JP, Skynner MJ.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "The spread of respiratory viruses, such as influenza and SARS-CoV-2, has presented significant challenges over the last 30 years, with few effective therapeutic options available to this day. Bicyclic peptides represent a unique, modular modality in the antiviral armamentarium against future pandemics. This study utilizes tool molecules to provide a deeper evaluation of multivalent bicyclic (Bicycle) molecule efficacy in several preclinical SARS-CoV-2 challenge settings. We explore both pre-exposure prophylaxis and post-exposure therapeutic settings via subcutaneous and intranasal routes of administration. We contextualize this further in bespoke scenarios where the immune system is compromised, as well as viral transmission. Promisingly, in all studies, we observe efficacy, significantly reducing infectious viral burden at each study endpoint. These data further support the candidacy of Bicycle molecules as a differentiated antiviral therapeutic class in the context of pandemic preparedness.<h4>Importance</h4>The COVID-19 pandemic triggered a rapid wave of innovation, accelerating the delivery of new vaccine technology and antiviral treatments. In our first paper, we described the discovery and molecular optimization of Bicycle molecules as a novel drug class for the potential treatment of SARS-CoV-2. Here, we have performed deeper characterization of these tool molecules in established animal models to evaluate scenarios for deployment, simulating SARS-CoV-2 transmission, testing more convenient delivery routes, such as intranasal, as well as looking at immunocompromised animals. The Bicycle molecules demonstrated positive outcomes in each of these studies and suggest that Bicycle molecules, as convenient and effective antiviral treatments, could be an important addition to help future preparedness against new viral pandemics.",
+      "url": "https://doi.org/10.1128/jvi.01224-26",
+      "source": "MED",
+      "doi": "10.1128/jvi.01224-26",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:43044951",
       "topic": "AI Embeddings",
       "title": "Rotablator Burr Entrapment: A Systematic Review of 215 Published Cases, Mechanisms, and Management.",
       "authors": "Kolotouros E, Lerakis V, Tsourous M, Vichos T, Carvalho PEP, Akyel A, Desai P, Alexandrou M, Strepkos D, Macy S, Gavlasova D, Milkas A, Egred M, Santos IJA, Sánchez JS, Mastrodemos OC, Rangan BV, Sandoval Y, Brilakis ES.",
       "journal": "",
       "date": "2026-11-17",
-      "abstract": "Burr entrapment is a rare but potentially life-threatening complication of rotational atherectomy. We reviewed all related publications, classified the mechanisms of entrapment, and summarized management strategies. PubMed, Embase, and Google Scholar were searched for English-language publications reporting Rotablator burr entrapment or related retained-burr or device-loss events from inception through August 31, 2026. One hundred fourteen publications were included, representing 215 unique eligible cases after exclusion of one overlapping case. The mechanism was reported in 117 cases, management in 162, and final outcome in 160. Among 34 studies reporting the total number of rotational atherectomy procedures, burr entrapment occurred in 118 of 19,672 procedures (0.6%). The most common classified mechanism was intralesional embedding or wedging (32.5%), followed by the Kokeshi phenomenon (30.8%), stent-related entrapment (26.5%), and primary driveshaft fracture or burr disconnection (10.3%). Among the 162 cases with available management data, 86.4% were managed percutaneously, including 3.7% with intentional burr retention or exclusion (crushing or jailing), and 13.6% required surgical bailout. Management strategies shifted over time, with surgical bailout declining from 66.7% before 2010 to 22.7% in 2010-2019 and 5.5% in 2020-2026. Procedural outcomes differed according to mechanism. Successful burr resolution with completed or otherwise acceptable PCI was most frequent in Kokeshi-type entrapment (80.6%), whereas stent-related entrapment had the highest surgical bailout rate (29.0%). Burr entrapment was reported in approximately 0.6% of rotational atherectomy procedures. Our findings support a mechanism-based, stepwise approach to burr retrieval. Percutaneous treatment is successful in most contemporary cases.",
+      "abstract": "<h4>Background</h4>Burr entrapment is a rare but potentially life-threatening complication of rotational atherectomy. We reviewed all related publications, classified the mechanisms of entrapment, and summarized management strategies.<h4>Methods</h4>PubMed, Embase, and Google Scholar were searched for English-language publications reporting Rotablator burr entrapment or related retained-burr or device-loss events from inception through August 31, 2026.<h4>Results</h4>One hundred fourteen publications were included, representing 215 unique eligible cases after exclusion of one overlapping case. The mechanism was reported in 117 cases, management in 162, and final outcome in 160. Among 34 studies reporting the total number of rotational atherectomy procedures, burr entrapment occurred in 118 of 19,672 procedures (0.6%). The most common classified mechanism was intralesional embedding or wedging (32.5%), followed by the Kokeshi phenomenon (30.8%), stent-related entrapment (26.5%), and primary driveshaft fracture or burr disconnection (10.3%). Among the 162 cases with available management data, 86.4% were managed percutaneously, including 3.7% with intentional burr retention or exclusion (crushing or jailing), and 13.6% required surgical bailout. Management strategies shifted over time, with surgical bailout declining from 66.7% before 2010 to 22.7% in 2010-2019 and 5.5% in 2020-2026. Procedural outcomes differed according to mechanism. Successful burr resolution with completed or otherwise acceptable PCI was most frequent in Kokeshi-type entrapment (80.6%), whereas stent-related entrapment had the highest surgical bailout rate (29.0%).<h4>Conclusions</h4>Burr entrapment was reported in approximately 0.6% of rotational atherectomy procedures. Our findings support a mechanism-based, stepwise approach to burr retrieval. Percutaneous treatment is successful in most contemporary cases.",
       "url": "https://doi.org/10.1016/j.amjcard.2026.11.019",
       "source": "MED",
       "doi": "10.1016/j.amjcard.2026.11.019",
@@ -596,11 +692,11 @@
     {
       "id": "MED:43044725",
       "topic": "AI Embeddings",
-      "title": "RescQ<sup>TM</sup>: One-year implementation and feasibility results of a digitally enabled support pathway for bystanders of out-of-hospital cardiac arrest.",
+      "title": "RescQ&lt;sup&gt;TM&lt;/sup&gt;: One-year implementation and feasibility results of a digitally enabled support pathway for bystanders of out-of-hospital cardiac arrest.",
       "authors": "Sajjad U, Mion M, Simpson R, Movio G, Khan S, Sharpe L, Davis J, Ibrahim A, Butt H, Tahir M, Jolapara N, Narang Y, Roberts-Andreou L, Grier G, Swindell P, Menzies S, Major R, Powell B, Watts M, Pareek N, Davies JR, Keeble TR.",
       "journal": "",
       "date": "2026-11-17",
-      "abstract": "Bystanders to out-of-hospital cardiac arrest (OHCA) are at significant risk of psychological distress, yet no standardised support pathway exists for them in the UK. RescQ™ is a digital-first bystander support pathway embedded within regional prehospital and cardiac arrest care services. To evaluate the feasibility of embedding RescQ™ into routine emergency medical services (EMS) practice leading to appropriate contact with bystanders involved in OHCA. Secondary aims were to describe digital access, demand for liaison officer (LO) support, identification of younger bystanders, and EMS clinician acceptability. Prospective one-year regional service evaluation of RescQ™ across Essex, UK. Bystanders involved in eligible OHCA events were registered by EMS clinicians and provided with immediate access to secure digital resources. Bystanders could self-refer for additional support through LO. During the one-year evaluation, 220 of 432 eligible OHCA incidents had at least one bystander identified and the incident entered into the RescQ™ pathway, representing an incident-level capture rate of 50.9%. Across these incidents, 298 bystanders were identified, of whom 260 eligible adults were registered with RescQ™. Of registered adult bystanders, 96.2% accessed the digital resources at least once. Among all identified bystanders, 30/298 (10.1%) were aged under 18 years. Approximately 10% of registered bystanders self-referred for additional personalised LO support. Among 25 EMS clinician survey respondents who had used RescQTM in clinical practice, ratings indicated acceptability. RescQ™ demonstrated the feasibility of identifying and supporting bystanders following OHCA through a digitally enabled pathway, achieving incident-level capture above the pre-specified feasibility threshold and high website access among registered adults. These findings support further multi-region evaluation of implementation, sustainability and scalability across different EMS systems.",
+      "abstract": "<h4>Background</h4>Bystanders to out-of-hospital cardiac arrest (OHCA) are at significant risk of psychological distress, yet no standardised support pathway exists for them in the UK. RescQ™ is a digital-first bystander support pathway embedded within regional prehospital and cardiac arrest care services.<h4>Aim</h4>To evaluate the feasibility of embedding RescQ™ into routine emergency medical services (EMS) practice leading to appropriate contact with bystanders involved in OHCA. Secondary aims were to describe digital access, demand for liaison officer (LO) support, identification of younger bystanders, and EMS clinician acceptability.<h4>Methods</h4>Prospective one-year regional service evaluation of RescQ™ across Essex, UK. Bystanders involved in eligible OHCA events were registered by EMS clinicians and provided with immediate access to secure digital resources. Bystanders could self-refer for additional support through LO.<h4>Results</h4>During the one-year evaluation, 220 of 432 eligible OHCA incidents had at least one bystander identified and the incident entered into the RescQ™ pathway, representing an incident-level capture rate of 50.9%. Across these incidents, 298 bystanders were identified, of whom 260 eligible adults were registered with RescQ™. Of registered adult bystanders, 96.2% accessed the digital resources at least once. Among all identified bystanders, 30/298 (10.1%) were aged under 18 years. Approximately 10% of registered bystanders self-referred for additional personalised LO support. Among 25 EMS clinician survey respondents who had used RescQ<sup>TM</sup> in clinical practice, ratings indicated acceptability.<h4>Conclusion</h4>RescQ™ demonstrated the feasibility of identifying and supporting bystanders following OHCA through a digitally enabled pathway, achieving incident-level capture above the pre-specified feasibility threshold and high website access among registered adults. These findings support further multi-region evaluation of implementation, sustainability and scalability across different EMS systems.",
       "url": "https://doi.org/10.1016/j.resuscitation.2026.111404",
       "source": "MED",
       "doi": "10.1016/j.resuscitation.2026.111404",
@@ -632,7 +728,7 @@
       "authors": "Chuang IC, Wu HJ, Wu YR, Hsu JL, Wu CY.",
       "journal": "",
       "date": "2026-11-17",
-      "abstract": "Nonpharmacological interventions for cognitive problems play a critical role in dementia care, yet maintaining engagement and adherence remains challenging. Immersive virtual reality (VR) provides a promising platform for cognitive training, particularly when integrated with personally meaningful leisure activities that may enhance therapeutic resonance. This study aimed to examine the feasibility of gardening-based immersive VR cognitive training and to explore pre-post changes in clinical outcomes among older adults with dementia. This study reports an analysis of intervention-phase data from an ongoing registered randomized crossover clinical trial (ClinicalTrials.gov NCT07033468). For this report, the available data were analyzed using a single-group pretest-posttest approach; data from the waitlist-control period were not included. Between September 2024 and December 2025, 16 older adults with mild-to-moderate dementia were recruited through referral-based convenience sampling from a hospital and a dementia day care center in Taiwan. Participants completed a 15-session VR intervention over 5 weeks, involving gardening-based activities targeting multiple cognitive domains. Feasibility outcomes included VR acceptance, simulator sickness, and observed emotional responses during the first VR session. Cognitive outcomes included global cognition assessed using the Montreal Cognitive Assessment (MoCA) and domain-specific cognitive measures. Secondary outcomes included activities of daily living, depressive symptoms, behavioral and psychological symptoms of dementia, quality of life, and well-being. Paired t tests were used to examine pre-post differences, and the Holm-Bonferroni procedure was applied to adjust for multiple comparisons. Sixteen participants (5 men and 11 women; mean age 78.12, SD 6.61 years) completed feasibility assessments, 15 participants (4 men, 11 women; mean age 78.57, SD 6.58 years) completed the intervention, and 5 occupational therapists evaluated the usability of the VR system. VR acceptance significantly increased after the first session (t15=-5.40, 95% CI -0.61 to -0.26; P<.001), while simulator sickness significantly decreased (t15=2.42; 95% CI 0.34-5.27; P=.009). Emotional responses indicated high levels of pleasure (mean 3.38, SD 1.63) and alertness (mean 4.63, SD 0.89) with minimal negative affect. Usability was rated as acceptable (system usability scale: mean 70.5, SD 12.17). Global cognitive performance was higher at postintervention than at baseline (MoCA: Cohen d=1.03; 95% CI -3.28 to -0.99; P=.001). No statistically significant pre-post differences were observed in domain-specific cognitive measures, activities of daily living, quality of life, or psychosocial outcomes. Gardening-based immersive VR cognitive training appears feasible, acceptable, and well tolerated among older adults with dementia. The program extends existing VR approaches by embedding familiar, goal-directed gardening activities within an interactive cognitive training environment. By combining participant-centered feasibility outcomes with occupational therapist-rated usability, this study provides preliminary evidence relevant to the development and implementation of person-centered VR cognitive training in clinical and community dementia care. The favorable pre-post change in global cognition further supports investigation of this approach in larger controlled studies.",
+      "abstract": "<h4>Background</h4>Nonpharmacological interventions for cognitive problems play a critical role in dementia care, yet maintaining engagement and adherence remains challenging. Immersive virtual reality (VR) provides a promising platform for cognitive training, particularly when integrated with personally meaningful leisure activities that may enhance therapeutic resonance.<h4>Objective</h4>This study aimed to examine the feasibility of gardening-based immersive VR cognitive training and to explore pre-post changes in clinical outcomes among older adults with dementia.<h4>Methods</h4>This study reports an analysis of intervention-phase data from an ongoing registered randomized crossover clinical trial (ClinicalTrials.gov NCT07033468). For this report, the available data were analyzed using a single-group pretest-posttest approach; data from the waitlist-control period were not included. Between September 2024 and December 2025, 16 older adults with mild-to-moderate dementia were recruited through referral-based convenience sampling from a hospital and a dementia day care center in Taiwan. Participants completed a 15-session VR intervention over 5 weeks, involving gardening-based activities targeting multiple cognitive domains. Feasibility outcomes included VR acceptance, simulator sickness, and observed emotional responses during the first VR session. Cognitive outcomes included global cognition assessed using the Montreal Cognitive Assessment (MoCA) and domain-specific cognitive measures. Secondary outcomes included activities of daily living, depressive symptoms, behavioral and psychological symptoms of dementia, quality of life, and well-being. Paired <i>t</i> tests were used to examine pre-post differences, and the Holm-Bonferroni procedure was applied to adjust for multiple comparisons.<h4>Results</h4>Sixteen participants (5 men and 11 women; mean age 78.12, SD 6.61 years) completed feasibility assessments, 15 participants (4 men, 11 women; mean age 78.57, SD 6.58 years) completed the intervention, and 5 occupational therapists evaluated the usability of the VR system. VR acceptance significantly increased after the first session (<i>t</i><sub>15</sub>=-5.40, 95% CI -0.61 to -0.26; <i>P</i><.001), while simulator sickness significantly decreased (<i>t</i><sub>15</sub>=2.42; 95% CI 0.34-5.27; <i>P</i>=.009). Emotional responses indicated high levels of pleasure (mean 3.38, SD 1.63) and alertness (mean 4.63, SD 0.89) with minimal negative affect. Usability was rated as acceptable (system usability scale: mean 70.5, SD 12.17). Global cognitive performance was higher at postintervention than at baseline (MoCA: Cohen <i>d</i>=1.03; 95% CI -3.28 to -0.99; <i>P</i>=.001). No statistically significant pre-post differences were observed in domain-specific cognitive measures, activities of daily living, quality of life, or psychosocial outcomes.<h4>Conclusions</h4>Gardening-based immersive VR cognitive training appears feasible, acceptable, and well tolerated among older adults with dementia. The program extends existing VR approaches by embedding familiar, goal-directed gardening activities within an interactive cognitive training environment. By combining participant-centered feasibility outcomes with occupational therapist-rated usability, this study provides preliminary evidence relevant to the development and implementation of person-centered VR cognitive training in clinical and community dementia care. The favorable pre-post change in global cognition further supports investigation of this approach in larger controlled studies.",
       "url": "https://doi.org/10.2196/98062",
       "source": "MED",
       "doi": "10.2196/98062",
@@ -776,7 +872,7 @@
       "authors": "Wu Q, Zhang J, Lu M, Wang C, Liu Z.",
       "journal": "",
       "date": "2026-11-16",
-      "abstract": "Alzheimer's disease (AD) typically progresses from cognitively normal (CN) to mild cognitive impairment (MCI) and eventually to AD. Due to the overlap of imaging manifestations and clinical indicators across different stages, accurate multi-class diagnosis remains challenging. Although structured clinical data can provide complementary information to imaging modalities, effective collaborative modeling between three-dimensional structural magnetic resonance imaging (3D sMRI) and structured clinical data remains insufficiently explored. This study aims to develop a cross-modal modulation approach for AD diagnosis. In this study, a Dual-stage Multimodal Modulation Network (DMM-Net) was proposed for AD cognitive state classification by integrating 3D sMRI and structured clinical data. The proposed framework consists of a Position-aware Clinical Spatial Modulation (PCSM) module, a transfer learning-based three-dimensional imaging feature extraction network MedNet, and a Feature-Clinical Cross-modal Modulation (FCCM) module. At the shallow stage, PCSM combines an image-derived spatial response with a subject-level clinical bias to modulate early imaging features. At deeper stages, FCCM jointly uses the intermediate Layer2 imaging representation and the clinical embedding to generate stage-specific calibration parameters for Layer3 and Layer4. Experimental results on the ADNI dataset demonstrated the effectiveness of DMM-Net for the CN/MCI/AD three-class classification task. The combined PCSM-FCCM configuration achieved a BA of 75.1%, outperforming either module alone. Compared with the adapted HyperFusion baseline under the unified evaluation protocol, DMM-Net improved BA and precision by 9.0 and 7.7 percentage points, respectively. Post hoc Grad-CAM and SHAP analyses were used to characterize the imaging regions and structured clinical features associated with the model predictions. The framework enhances joint modeling between 3D sMRI and structured clinical data through a coordinated dual-stage multimodal modulation mechanism, demonstrating its effectiveness for multimodal computer-aided classification of Alzheimer's disease under the evaluated setting.",
+      "abstract": "<h4>Background</h4>Alzheimer's disease (AD) typically progresses from cognitively normal (CN) to mild cognitive impairment (MCI) and eventually to AD. Due to the overlap of imaging manifestations and clinical indicators across different stages, accurate multi-class diagnosis remains challenging. Although structured clinical data can provide complementary information to imaging modalities, effective collaborative modeling between three-dimensional structural magnetic resonance imaging (3D sMRI) and structured clinical data remains insufficiently explored. This study aims to develop a cross-modal modulation approach for AD diagnosis.<h4>Methods</h4>In this study, a Dual-stage Multimodal Modulation Network (DMM-Net) was proposed for AD cognitive state classification by integrating 3D sMRI and structured clinical data. The proposed framework consists of a Position-aware Clinical Spatial Modulation (PCSM) module, a transfer learning-based three-dimensional imaging feature extraction network MedNet, and a Feature-Clinical Cross-modal Modulation (FCCM) module. At the shallow stage, PCSM combines an image-derived spatial response with a subject-level clinical bias to modulate early imaging features. At deeper stages, FCCM jointly uses the intermediate Layer2 imaging representation and the clinical embedding to generate stage-specific calibration parameters for Layer3 and Layer4.<h4>Results</h4>Experimental results on the ADNI dataset demonstrated the effectiveness of DMM-Net for the CN/MCI/AD three-class classification task. The combined PCSM-FCCM configuration achieved a BA of 75.1%, outperforming either module alone. Compared with the adapted HyperFusion baseline under the unified evaluation protocol, DMM-Net improved BA and precision by 9.0 and 7.7 percentage points, respectively. Post hoc Grad-CAM and SHAP analyses were used to characterize the imaging regions and structured clinical features associated with the model predictions.<h4>Conclusion</h4>The framework enhances joint modeling between 3D sMRI and structured clinical data through a coordinated dual-stage multimodal modulation mechanism, demonstrating its effectiveness for multimodal computer-aided classification of Alzheimer's disease under the evaluated setting.",
       "url": "https://doi.org/10.1016/j.cmpb.2026.109713",
       "source": "MED",
       "doi": "10.1016/j.cmpb.2026.109713",
@@ -1074,86 +1170,6 @@
       ]
     },
     {
-      "id": "MED:43026384",
-      "topic": "AI Embeddings",
-      "title": "Evaluation of voice features using Wav2vec2.0-based deep learning as a diagnostic tool in acromegaly.",
-      "authors": "Aksoy S, Saygili ES, Akyel S, Onur O, Niyazoglu M, Hatipoglu E.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "<h4>Background</h4>Acromegaly has an insidious onset and prolonged diagnostic delay. Vocal changes are a recognized clinical feature, the diagnostic value of deep learning architectures remains underexplored. We aimed to assess Wav2Vec2.0-based voice analysis as a non-invasive digital biomarker for acromegaly.<h4>Methods</h4>This single-center case-control study included 70 patients with acromegaly and 68 age- and sex-matched controls. Clinical status was defined by standard biochemical criteria, symptoms, comorbidities, and residual tumor. Voice samples were recorded with a standard mobile phone and resampled to 16 kHz. Wav2Vec2.0 was used to extract high-dimensional embedding vectors. These embeddings, were used to train and validate four different machine learning classifiers using an 80%/20% train-test split with five-fold cross-validation. Model calibration was assessed with the Brier score, and clinical utility with decision curve analysis (DCA).<h4>Results</h4>Demographics were similar between acromegaly (mean age 45.5 years; 57.1% female) and control (mean age 47.5 years; 61.8% female) groups. On the internal hold-out test set, Logisitic Regression model maintained high accuracy (AUC 0.84; specificity 0.92; sensitivity 0.71) and showed good calibration [Brier score 0.165 (95% CI 0.057-0.289)]. DCA confirmed that LR provided the highest benefit across a clinically relevant range of threshold probabilities (~ 15-85%).<h4>Conclusion</h4>Voice analysis Wav2Vec2.0-based model demonstrates good diagnostic accuracy for acromegaly. These preliminary findings suggest that voice may serve as a promising non-invasive digital biomarker, pending validation in larger and more diverse cohorts.",
-      "url": "https://doi.org/10.1007/s11102-026-01768-5",
-      "source": "MED",
-      "doi": "10.1007/s11102-026-01768-5",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1367374",
-      "topic": "AI Embeddings",
-      "title": "Ontology-Based SEA-CDM Integration for Vaccine Clinical Trials: Query, Similarity, and Design Recommendation",
-      "authors": "Zhu J, Yeh F(, Zheng J, He Y(.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "ClinicalTrials.gov provides valuable information for vaccine research, but fragmented data structures and inconsistent vaccine naming complicate systematic cross-trial analysis. The Study-Experiment-Assay Common Data Model (SEA-CDM) provides a standardized structure for biomedical study data, while biomedical ontologies supply semantic relationships among concepts. We extracted 9,147 vaccine-related study records from the Aggregate Analysis of  ClinicalTrials.gov (AACT) database, mapped their records into SEA-CDM, and linked vaccine products and reported adverse events (AEs) to the Vaccine Ontology (VO) and Ontology of Adverse Events (OAE), respectively. Building on the existing Ontology-based SEA Network (OSEAN), we organized the integrated data into relational tables and a Neo4j knowledge graph while retaining links to original registrations. We evaluated three applications to assess semantic trial retrieval, context-aware AE ranking and trial similarity, and trial design recommendation. First, VO-based query expansion retrieved 41 candidate RNA vaccine trials compared with 16 using exact VO identifier matching. Second, a context-aware AE ranking model incorporating SEA-CDM features and VO-derived vaccine families improved recall@10 from 0.317 to 0.383 over a frequency-based baseline. TransE and CompGCN embeddings achieved Hits@10 of 0.950 and 0.946, respectively, for retrieving trials sharing the same VO identifier within disease-specific candidate sets. Third, an ontology-based clinical trial design recommendation model was developed using several machine learning methods under leave-one-Material-out evaluation across 23 vaccine classes, although performance varied across classes. These findings demonstrate how structural and semantic integration can support multiple clinical trial analyses using vaccine studies as a case study. This framework provides a foundation for extending ontology-supported data integration and analysis to other clinical research domains.",
-      "url": "https://doi.org/10.64898/2026.11.11.26367833",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.11.26367833",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1367112",
-      "topic": "AI Embeddings",
-      "title": "Uncertainty-Aware Embodied Artificial Intelligence with Hybrid Reinforcement Learning and Model Predictive Control for Resilient Heterogeneous Multi-Robot Systems",
-      "authors": "Rahmani B, Afghah F.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "<title>Abstract</title>  <p>Embodied artificial intelligence (Embodied AI) has rapidly emerged as a fundamental paradigm for developing autonomous robotic systems capable of perceiving, reasoning, and acting within complex physical environments. Recent advances in foundation models, Vision-Language Models (VLMs), and Vision-Language-Action (VLA) architectures have significantly improved high-level semantic reasoning for robotics; however, their deployment in real-world field environments remains limited by distributional shifts, multimodal uncertainty, dynamic environmental changes, and the absence of safety-aware decision-making mechanisms. These challenges become substantially more pronounced in heterogeneous multi-robot systems operating under partial observability and communication constraints. This paper presents an uncertainty-aware embodied AI framework that integrates multimodal perception, shared latent world modelling, predictive uncertainty estimation, online self-supervised representation adaptation, and hierarchical decision-making through hybrid Reinforcement Learning and Model Predictive Control (RL-MPC). Unlike conventional embodied AI architectures that execute fixed perception and control pipelines, the proposed framework continuously maintains and updates an internal world representation, enabling adaptive reasoning, uncertainty-aware planning, and safe real-time control. Furthermore, the architecture naturally extends to heterogeneous teams of aerial robots, autonomous ground vehicles, and mobile manipulators through distributed latent representations that support cooperative perception, coordinated task allocation, and resilient autonomous behavior. The proposed framework is evaluated in photorealistic NVIDIA Isaac Sim environments containing randomized terrain geometry, vegetation density, illumination changes, dynamic obstacles, sensor degradation, communication uncertainty, and severe out-of-distribution conditions representative of realistic field robotic deployments. Experimental results demonstrate consistent improvements over vision-based navigation, reinforcement learning, model predictive control, and hybrid RL-MPC baselines. The proposed method achieves approximately 21% higher navigation success, reduces collision frequency by more than 35%, exhibits significantly improved robustness under increasing environmental uncertainty, and maintains stable cooperative performance across heterogeneous multi-robot teams. These results demonstrate that uncertainty-aware embodied world models, continual representation learning, hierarchical VLA-guided decision making, and hybrid learning-control architectures provide a scalable foundation for resilient embodied intelligence and represent a promising direction toward next-generation autonomous robotic systems operating safely and reliably in complex real-world environments.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-10922191/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-10922191/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1367105",
-      "topic": "AI Embeddings",
-      "title": "AI-Based Scenario Generation in Cyber Training Ranges: A Systematic Review",
-      "authors": "Mehta P, Black P, Karmakar G, Pang P.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "<title>Abstract</title>  <p>Developing realistic scenarios for Cyber Training Ranges (CTRs) requires current threat information, suitable infrastructure, attack events, learning objectives, and consideration of trainee capability. Established scenario-generation approaches use manual design, simulation, templates, rules, attack graphs, and model-driven engineering, often requiring substantial expert effort to develop and update. Recent research has investigated Artificial Intelligence (AI) for scenario generation and training, including Machine Learning (ML), Reinforcement Learning (RL), and Large Language Models (LLMs). However, existing surveys provide fragmented coverage of AI across the scenario-generation lifecycle and have not systematically examined AI-specific threat intelligence, such as MITRE ATLAS, as a dedicated source for CTR scenarios. This paper presents a Systematic Literature Review (SLR) of embedding AI into CTR scenario generation, tracing the progression from non-AI approaches to ML, LLM-based, and agentic AI methods. It critically compares their advantages and limitations and examines Retrieval-Augmented Generation (RAG), agentic approaches, and AI threat intelligence-based attack scenarios. The literature indicates that AI can support scenario creation, automation, adaptation, and deployment, while important challenges remain in threat-data quality and currency, hallucinations, technical validation, reproducibility, interoperability, and alignment with training objectives. The review identifies these limitations and discusses research directions for more realistic, adaptable, and technically reliable cybersecurity training scenarios.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11421747/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11421747/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1367072",
-      "topic": "AI Embeddings",
-      "title": "Distinct convective precipitation structures underlie similar surface rainfall and regional contrasts in rainfall extremes",
-      "authors": "Wang Z, Hu X, Ai W, Zhang W, Ma S, peng H, Tan Z.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "<title>Abstract</title>  <p>Conditioning radar profiles on near-surface rain rates and drop size distributions (DSDs) often obscures distinct convective structures. Instead, this study applies representation-learning-guided clustering to reflectivity-profile shapes from 1.65 million convective profiles observed by the Global Precipitation Measurement Dual-frequency Precipitation Radar, identifying six structural archetypes without near-surface inputs. They span shallow warm-rain to deep convection but overlap in near-surface precipitation properties. Despite this similarity, echo-top heights within the modal DSD bin differ threefold, reflecting contrasting ice-phase and warm-rain contributions. Across rainfall rates, these microphysical pathways diverge primarily at moderate intensities, where shallow archetypes show greater warm-layer rain-rate and drop-size increases, but converge at higher intensities as deeper archetypes show stronger drop-size growth. At the regional scale, this classification separates tropical land–ocean extreme-rainfall contrasts into opposing contributions from archetype prevalence and within-archetype extreme-rainfall probability. These findings provide structure-resolved benchmarks for evaluating convective precipitation in weather and climate models.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11565580/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11565580/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
       "id": "MED:43024605",
       "topic": "Long-acting PrEP",
       "title": "Implementing HIV pre-exposure prophylaxis (PrEP) among cisgender female sex workers: A worldwide scoping review to guide the future research agenda for HIV prevention.",
@@ -1245,6 +1261,22 @@
       "source": "PPR",
       "doi": "10.21203/rs.3.rs-10897452/v1",
       "is_preprint": true,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43015878",
+      "topic": "Long-acting PrEP",
+      "title": "Reported use of participatory methods in health research with transgender and gender diverse populations: a scoping review.",
+      "authors": "Kerr L, Booth K.",
+      "journal": "",
+      "date": "2026-11-11",
+      "abstract": "<h4>Introduction</h4>It is well established that health promotion is most effective when informed by the community it targets, through participatory methods. Transgender and gender diverse peoples have been marginalized and experience worse health and lower levels of service access when compared with cisgender individuals. The use of participatory methods in health research to address these issues is of high importance to help rectify this. The aim of this scoping review was to document the reported use of participatory methods in health research with transgender and gender diverse samples to map the current applications of these research frame works and priorities for future studies.<h4>Methods</h4>The inclusion criteria for articles were published January 2014-February 2025, peer-reviewed, health research, transgender and gender diverse populations, English language, and participatory methods. Three databases were searched: CINAHL complete, MEDLINE complete and LGBTQ+ source. Articles were independently screened for eligibility. Consensus meetings were held to synthesize results.<h4>Results</h4>Forty-two papers were identified in the search that met inclusion criteria. The majority of studies were conducted in the United States (n = 23, 54.76%) and other high-income countries, ranging in time duration from several weeks to years, and commonly had as their research topic gender affirming care (n = 9, 21.42%), mental health and wellbeing (n = 9, 21.42%) and healthcare experiences (n = 8, 19.04%). Whilst most studies employed numerous strategies of community participation, a significant proportion (n = 14, 33.33%) of studies did not report having a community reference group. The aims of studies could be clustered under three broader categories; to understand or describe; to develop or evaluate; and research priority setting.<h4>Conclusions</h4>Studies were heterogeneous and more rigorous application of participatory principles and reporting of methods is needed. Research with transgender and gender diverse populations must include their meaningful participation from inception to completion. Greater detail and clarity in reporting is necessary to aid future studies who can build on the successes and shortfalls of previous studies.",
+      "url": "https://doi.org/10.1186/s40900-026-01005-0",
+      "source": "MED",
+      "doi": "10.1186/s40900-026-01005-0",
+      "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
       ]
@@ -2204,38 +2236,6 @@
       "url": "https://doi.org/10.3390/pathogens15101063",
       "source": "MED",
       "doi": "10.3390/pathogens15101063",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42848134",
-      "topic": "Long-acting PrEP",
-      "title": "A systematic review of evidence on weight change following initiation of long-acting cabotegravir for the prevention or treatment of HIV.",
-      "authors": "Kitonsa J, Komata R, Ssembajjwe W, Grint D, Robinson J, Ruzagira E, Kalyesubula R, Vera J, Cresswell F.",
-      "journal": "",
-      "date": "2026-10-08",
-      "abstract": "<h4>Background</h4>Weight gain is an increasingly recognized concern among people receiving antiretroviral therapy (ART) and may increase the risk of non-communicable diseases. Integrase inhibitors (INSTIs) such as dolutegravir (DTG) have been associated with weight gain, but the metabolic effects of long-acting cabotegravir (CAB-LA), another INSTI, for HIV treatment and prevention remain incompletely characterized. We conducted a systematic review to synthesize evidence on weight and body mass index (BMI) changes associated with CAB-LA-based regimens across ART and pre-exposure prophylaxis (PrEP) trials.<h4>Methods</h4>We systematically searched major biomedical databases, Medline, Embase, Cochrane CENTRAL, supplemented by Google Scholar and proceedings from key HIV conferences to identify grey literature for randomized controlled trials that evaluated CAB-LA as PrEP or CAB-LA-based regimen as ART between 01st January 2010 to 01st August 2025, with no language restrictions. Two reviewers independently screened studies, extracted data and assessed risk of bias using the Cochrane Risk of Bias 2.0 tool. Given substantial heterogeneity in outcome reporting across studies, evidence was synthesized narratively following the Synthesis Without Meta-analysis (SWiM) guidance. Findings were summarized by intervention type (PrEP or ART), sex/gender and geographical setting.<h4>Results</h4>Of 1998 records identified, 234 were removed as duplicates, 1764 were screened at title and abstract level, and 42 full-text articles were assessed. This resulted in 11 reports from eight randomized controlled trials, with follow-up ranging from 41 to 185 weeks. Overall, weight remained stable or only increased modestly in both intervention and comparator groups across studies. Among HIV-negative individuals receiving CAB-LA for PrEP, weight gain was observed in both intervention and comparator groups, with no consistent evidence of excess weight gain attributable to CAB-LA. In HPTN 077, weight gain was similar between CAB-LA and placebo recipients, while HPTN 083 and HPTN 084 reported annualized weight gains ranging from 1.23 to 2.4 kg/year in CAB-LA recipients and 0.37 to 2.1 kg/year in comparator groups. Among people living with HIV receiving ART, weight changes at 48 weeks ranged from -0.4 to +1.8 kg with CAB-LA plus long-acting rilpivirine (RPV-LA) and 0.0 to +1.5 kg with comparator regimens, with no consistent evidence of greater weight gain in the CAB-LA plus RPV-LA arms. Only one trial among ART-experienced adults in Africa (CARES) reported greater weight gain with CAB-LA plus RPV-LA than with continued oral therapy (mean weight gain 1.5 kg vs. 0.0 kg, respectively), with more pronounced effects in women compared to men (2.1 kg vs. -0.2 kg). The overall risk of bias was low to moderate.<h4>Conclusions</h4>CAB-LA-based regimens were associated with only small increases in weight in both the prevention and treatment of HIV, with no consistent evidence of excess weight gain relative to standard comparators. Continued monitoring will be important as long-acting antiretroviral therapies are scaled up, particularly among women and individuals from Africa.",
-      "url": "https://doi.org/10.1111/hiv.70319",
-      "source": "MED",
-      "doi": "10.1111/hiv.70319",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42845138",
-      "topic": "Long-acting PrEP",
-      "title": "Delivering Long-Acting Injectable Cabotegravir PrEP to People Experiencing Homelessness and People Who Use Drugs.",
-      "authors": "Mehtani NJ, Matzat SJ, Rustagi A, Stowe H, Strieff S, Sportsman D, Philbin MM, Gandhi M, Johnson MO.",
-      "journal": "",
-      "date": "2026-10-08",
-      "abstract": "Long-acting injectable cabotegravir (CAB-LA) may be particularly advantageous for preventing HIV among people experiencing homelessness (PEH) and people who use drugs (PWUD), populations at high HIV risk with poor oral pre-exposure prophylaxis (PrEP) outcomes. In a retrospective study using the RE-AIM framework to organize programmatic outcomes, we evaluated real-world implementation of CAB-LA at the Maria X. Martinez Health Resource Center, a status-neutral, fully drop-in municipal clinic in San Francisco, CA, serving >4000 patients annually for diverse health needs. We included all patients prescribed CAB-LA between October 2022 and December 2025. Outcomes included reach, adoption, implementation (injection timeliness, delivery setting, guideline-concordant HIV monitoring), maintenance (retention), and exploratory effectiveness (HIV acquisitions relative to active coverage). Nineteen providers prescribed CAB-LA to 68 patients (63% experiencing homelessness; 56% with stimulant use disorder, 34% opioid use disorder, 51% psychotic-spectrum illness); 52 (76%) received ≥1 injection. Of 304 injections, 42% occurred outside the clinic, including in shelters, on the street, and in jail or inpatient settings; 76% of follow-up injections were on time. HIV testing concordant with the Centers for Disease Control and Prevention guidelines (antigen/antibody plus RNA) accompanied 37% of injections. Twelve-month retention was 49%. Two patients acquired HIV, both during gaps in CAB-LA coverage. Sustaining coverage required intensive outreach, population tracking, insurance reenrollment, and financial incentives. Findings suggest that CAB-LA can be delivered in a fully drop-in clinic serving PEH and PWUD, while highlighting the resource-intensive support required to maintain coverage. Adapting delivery models, laboratory monitoring protocols, and financing to the realities of structurally vulnerable populations is essential to extend the benefits of long-acting PrEP.",
-      "url": "https://doi.org/10.1177/10872914261494329",
-      "source": "MED",
-      "doi": "10.1177/10872914261494329",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
