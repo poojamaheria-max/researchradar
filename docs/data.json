@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T00:53:21.047404+00:00",
+  "updated": "2026-11-19T06:58:54.020296+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -594,6 +594,150 @@
       ]
     },
     {
+      "id": "PPR:PPR1370178",
+      "topic": "AI Embeddings",
+      "title": "MelanoFusion: An Explainable and Uncertainty-Aware Hybrid CNN–Transformer Framework for Dermoscopic Melanoma Detection",
+      "authors": "Raju VP, R S, Kumar TB, Nirkhi S, Motghare M.",
+      "journal": "",
+      "date": "2026-11-19",
+      "abstract": "<title>Abstract</title>  <p>Melanoma is an aggressive skin cancer requiring early detection, yet automated analysis remains affected by lesion variation, calibration errors, uncertainty, and subgroup disparities. This study presents MelanoFusion, a hybrid framework integrating explainability, uncertainty estimation, and fairness-oriented representation learning for melanoma detection. It combines EfficientNetV2-S and Swin Transformer encoders with cross-attention, lesion attention, feature-pyramid processing, multi-scale transformer layers, and an uncertainty head. Images were resized to 224 × 224 and processed using hair removal, median filtering, contrast enhancement, colour normalization, and watershed-based lesion priors; U-Net was used for lesion segmentation. MelanoFusion was evaluated against DenseNet121, ResNet101, EfficientNetV2-S, ConvNeXt-Tiny, and Swin Transformer on HAM10000, ISIC 2018, and PH². Segmentation Dice was 0.878 on HAM10000 and 0.830 on PH². MelanoFusion achieved ROC-AUC values of 0.687, 0.740, and 0.844 on HAM10000, ISIC 2018, and PH², respectively. Calibration was favourable on HAM10000, with an expected calibration error of 0.116. Uncertainty was significantly associated with classification error, while subgroup analysis showed significant sensitivity differences across age groups but not sex. Ablation results indicated that several proposed components did not improve discrimination. The findings support joint evaluation of discrimination, calibration, uncertainty, explainability, and subgroup behaviour, while indicating the need for external validation and clinical evaluation before deployment.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11208377/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11208377/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1371136",
+      "topic": "AI Embeddings",
+      "title": "Elflow: Automated Quality Control and Self-Supervised Representation Learning for High-Dimensional Cytometry",
+      "authors": "Kalakoti Y, Gasparetto M, Gupta SK, Mittal V, Jha A.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "High-dimensional flow and mass cytometry are foundational technologies for clinical immunophenotyping and hematological diagnostics, yet computational data analysis remains bottlenecked by operator-subjective manual gating. While computational tools have emerged, they remain fragmented across isolated tasks such as quality control or discrete clustering, leaving an unmet need for integrated, modular workflows that resolve continuous biological variation without manual supervision. Here, we introduce Elflow, a modular, self-supervised framework that links automated quality control, single-cell representation learning, and patient-level modeling without manual gating at inference. Elflow couples automated machine-learning quality control with Variance-Invariance-Covariance Regularization (VICReg) to learn continuous, batch-resilient single-cell representations without negative pairs or hand-labeled training sets. Across four diverse public benchmarks, Elflow adapts to distinct biological panels and clinical objectives. On 22-channel spectral flow cytometry (OMIP-030), self-supervised embeddings preserve fine functional T-cell gradations and outperform classical baselines in unsupervised clustering, while an anchor-guided extension accurately reproduces canonical manual gating hierarchies. On hand-curated CyTOF panels (Levine-13), linear PCA matches deep models, establishing an empirical boundary condition where linear methods suffice. Across multi-center clinical cohorts (FlowCAP-II), Elflow representations achieve high diagnostic sensitivity for acute myeloid leukemia across heterogeneous instruments despite severe class imbalance. In longitudinal immune monitoring (FlowCAP-IV), patient mean embeddings and micro-cluster differential histograms preserve rare antigen-specific responses, yielding significant AIDS-free survival stratification. By uniting automated quality control, self-supervised representation learning, and multi-scale patient aggregation, Elflow provides a modular, reproducibly benchmarked framework for high-parameter and multi-center translational cytometry.",
+      "url": "https://doi.org/10.64898/2026.11.17.767309",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.17.767309",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1371079",
+      "topic": "AI Embeddings",
+      "title": "GRABS: a content-addressed antibody-antigen binding-affinity dataset with predicted structures and a leak-free benchmark",
+      "authors": "Martins LdM, Zanetti Salles PP, Meidanis J.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Machine-learning prediction of antibody-antigen binding affinity depends as much on the training data as on the model, yet public affinity measurements are scattered across databases with incompatible formats, mix genuine dissociation constants with censored or predicted values, and concentrate most of their label mass on a few heavily mutated targets. We present GRABS (Geometric Resource for Antibody Binding Studies), a curated, content-addressed, structure-ready dataset that consolidates nine public sources, of which the seven with redistributable licenses yield 4,380 canonical antibody-antigen records} (median-collapsed from 4,761 raw measurements), each with an experimentally measured dissociation constant (K  d ), paired heavy and light variable regions (VH, VL), and an antigen sequence, covering 2,015 distinct antigen sequences. Every structure, graph, and feature is addressed by a content key, md5(VH+VL+antigen)[:10], and verified non-circularly: each graph's node features are decoded back to sequence and re-hashed, matching the content key for 4,282/4,282 (100%) structure-backed records. This integrity is load-bearing: an alignment ablation shows that a previously-reported strong cross-target result (R  2 ≈ 0.415) was a misalignment-mediated source/batch leak that content-key regeneration dissolves. On the resulting leak-free, antigen-cluster-grouped benchmark, cross-target ranking of variants of a held-out antigen collapses to the noise floor (within-held-out-antigen Spearman ρ ≈ 0 for every model family: sequence, structure, and folding-confidence), with structure giving no advantage, a rigorously leakage-controlled quantification of the limited reach of current methods. GRABS ships model-ready artifacts (Boltz-2 predicted complexes, per-residue ESM-2 embeddings, geometric graphs, feature vectors) with antigen-stratified splits, and is intended for leakage-free benchmarking and within-target affinity ranking (measure-then-rank), not zero-shot prediction for antigens absent from training.",
+      "url": "https://doi.org/10.64898/2026.11.17.767263",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.17.767263",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1371041",
+      "topic": "AI Embeddings",
+      "title": "PROGMF: Progressive Multimodal Fusion and Representation Learning for Incomplete Neuroimaging Data",
+      "authors": "Solomon V, Calhoun VD, Adali T, Silva RF, Angryk RA, Liu J.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Multimodal neuroimaging studies often involve cohorts with partially overlapping data modalities. Many conventional multimodal fusion methods rely on participants with complete observations across the selected modalities. We introduce Progressive Multimodal Fusion (ProgMF), a novel fusion framework for learning multimodal source representations from incomplete neuroimaging data without imputing missing observations. ProgMF integrates modalities sequentially through independent vector analysis (IVA), cross-stage component alignment, and anchor-guided representation transfer, allowing information learned from earlier-stage cohorts to inform subsequent multimodal decompositions. We evaluated ProgMF on four neuroimaging-inspired synthetic modalities, while varying subject overlap, observation noise, modality relatedness, and fusion orders. ProgMF generally achieved lower source-recovery errors than complete-case IVA and the evaluated imputation-based methods, with larger improvements as multimodal subject overlap decreased. We further applied ProgMF to structural MRI gray matter, resting-state functional network connectivity, and 18F-florbetapir (AV45) amyloid positron emission tomography data from the Alzheimer's Disease Neuroimaging Initiative. ProgMF achieved higher mean cross-modal fusion scores than the imputation-based baselines and a modest improvement over complete-case IVA. Among the 293 participants with complete multimodal observations, two recovered source component vectors showed significant associations with clinical diagnosis across cognitively normal, mild cognitive impairment, and dementia groups. Both sources were also significantly associated with cognitive performance and dementia severity. The recovered sources exhibited diagnosis-related structural and amyloid PET patterns involving regions such as the hippocampi, precuneus, and cingulate cortices. Our findings support progressive representation transfer as an effective approach for recovering coherent, interpretable multimodal sources from participants with incomplete modality coverage.",
+      "url": "https://doi.org/10.64898/2026.11.17.767205",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.17.767205",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1370980",
+      "topic": "AI Embeddings",
+      "title": "Improving predictive accuracy for clinical outcomes with LLM text embeddings for open-ended free-text responses: A case study on reports of psychedelic experiences",
+      "authors": "Guenther F, Parent-Couture M, Uyar A, Wieczorke K, Lueken U, Evens R, Wolff M.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<p>Clinical studies regularly ask participants to describe their experiences in their own words. These open-ended questions are included so that participants can report what they themselves consider relevant, and ideally researchers want to harvest this information. In practice however, these responses are rarely analyzed and often effectively discarded, since translating them into a useful quantitative format for further analysis traditionally required trained coders or advanced technical skills. Current transformer-based language models offer an appealing alternative option to quantify text: they internally represent any text input as high-dimensional numerical representations called text embeddings. Fromavailable open-weight models, these text embeddings can be freely extracted on a local machine. As text embeddings are just vectors of numbers, they can be plugged as predictors into standard statistical analyses. Here, we applied this to three large datasets in which participants described their experiences in the context of psychedelic substance use. We investigated whether text embeddings of these free-text descriptions improve cross-validated, held-out predictions of clinically relevant outcomes (well-being, change in well-being, change in psychological flexibility, post-traumatic symptom severity, post-traumatic growth) after we control for a range of other predictors capturingdemographic information, the setting of the experience, and a series of questionnaire data. We found reliable increases in predictive accuracy for three of the five outcomes (change in well-being and psychological flexibility, post-traumatic symptom severity), in two of the three datasets. Some of these increases are substantial. We therefore recommend (where possible) the inclusion of open-ended questions in any questionnaire, and to actually pass this information to analysis, to efficiently capture valuable information that would otherwise be lost.</p>",
+      "url": "https://doi.org/10.31234/osf.io/e9wzk_v1",
+      "source": "PPR",
+      "doi": "10.31234/osf.io/e9wzk_v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1370979",
+      "topic": "AI Embeddings",
+      "title": "Improving predictive accuracy for clinical outcomes with LLM text embeddings for open-ended free-text responses: A case study on reports of psychedelic experiences",
+      "authors": "Guenther F, Parent-Couture M, Uyar A, Wieczorke K, Lueken U, Evens R, Wolff M.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<p>Clinical studies regularly ask participants to describe their experiences in their own words. These open-ended questions are included so that participants can report what they themselves consider relevant, and ideally researchers want to harvest this information. In practice however, these responses are rarely analyzed and often effectively discarded, since translating them into a useful quantitative format for further analysis traditionally required trained coders or advanced technical skills. Current transformer-based language models offer an appealing alternative option to quantify text: they internally represent any text input as high-dimensional numerical representations called text embeddings. Fromavailable open-weight models, these text embeddings can be freely extracted on a local machine. As text embeddings are just vectors of numbers, they can be plugged as predictors into standard statistical analyses. Here, we applied this to three large datasets in which participants described their experiences in the context of psychedelic substance use. We investigated whether text embeddings of these free-text descriptions improve cross-validated, held-out predictions of clinically relevant outcomes (well-being, change in well-being, change in psychological flexibility, post-traumatic symptom severity, post-traumatic growth) after we control for a range of other predictors capturingdemographic information, the setting of the experience, and a series of questionnaire data. We found reliable increases in predictive accuracy for three of the five outcomes (change in well-being and psychological flexibility, post-traumatic symptom severity), in two of the three datasets. Some of these increases are substantial. We therefore recommend (where possible) the inclusion of open-ended questions in any questionnaire, and to actually pass this information to analysis, to efficiently capture valuable information that would otherwise be lost.</p>",
+      "url": "https://doi.org/10.31234/osf.io/e9wzk",
+      "source": "PPR",
+      "doi": "10.31234/osf.io/e9wzk",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1370842",
+      "topic": "AI Embeddings",
+      "title": "REG2024: a benchmark challenge and curated dataset for pathology report generation from giga- pixel whole-slide images of bladder cancer",
+      "authors": "Oh H, Kim E, Lee H, Kim KA, Hong S, Yoo S, Kang Y, Shim HS, Lee Y, Viriyasaranon T, Lee W, Choi J, Jo E, Lee D, Noh K, Shin Y, Park K, Park J, Kim J, Cho HY, Jeong W, Lee SH, Ahn S.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<title>Abstract</title>  <p>Background  We aimed to construct a curated whole-slide image (WSI)-report dataset for bladder cancer and establish a clinically grounded benchmark for evaluating vision–language models through an open community challenge. Methods  We curated a dataset of 902 deidentified bladder cancer WSIs paired with corresponding pathology reports. Seven teams submitted distinct modeling frameworks. Performance was assessed using a clinically weighted composite metric integrating word-overlap scores (ROUGE-L, BLEU-4), keyword matching, and embedding-based semantic similarity. Expert mean opinion scores (MOS) were obtained, and the correlation between the weighted-sum score and expert-assigned MOS was analyzed. Results  Two modeling strategies emerged: end-to-end generative architectures and multi-step classification-then-generation pipelines. Among individual submissions, the top-ranked multi-step pipeline achieved the highest main-diagnosis accuracy (48/50), whereas end-to-end models showed greater sensitivity to rare pathological features. The weighted-sum metric correlated strongly with MOS within each team (Spearman’s ρ, 0.65–0.91) and, on reports with clinically important misclassifications, agreed with MOS more closely than any single metric. Conclusions  Performance variability was influenced by architectural design and the integration of pretrained foundation models. Our proposed evaluation framework addressed key limitations of conventional natural language processing metrics in evaluating pathology reports. This challenge establishes a benchmark for clinical-grade pathology report generation by providing vision-language pathology datasets and introducing a clinically aligned evaluation framework, thereby advancing computational pathology.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-10824156/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-10824156/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1370719",
+      "topic": "AI Embeddings",
+      "title": "Data-Intensive and Ai-Mediated Anticipatory Governance: A Functional Typology of Institutional Capacity, Decision-Making, and Governance of Expertise",
+      "authors": "Panizzon M, Janissek-Muniz R, Francisco EdR.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<title>Abstract</title>  <p>Anticipatory Governance (AG) has emerged as a strategic approach for addressing uncertainty, systemic risk, and complexity in contemporary socio-technical systems. Governments and universities increasingly rely on Big Data, Data Science, and Artificial Intelligence (AI) to support future-oriented public decision-making, yet the institutional and societal implications of these technologies remain conceptually fragmented. This article addresses this gap through a Systematic Literature Review (SLR) that examines how data-intensive and AI-enabled capabilities become embedded across foresight, knowledge creation, policy design, and policy assessment. Rather than treating the generic technical differences among Big Data, Data Science, and AI as the principal contribution, the study develops a functional typology that distinguishes infrastructural observation and evidentiary integration, analytical modeling and interpretation, and AI-enabled decision mediation. The review analyzes how these functions respond to uncertainty, non-linearity, interdependence, and feedback; reshape informational, analytical, and decisional capacity; and redistribute epistemic and decisional authority. The findings indicate a cumulative but non-deterministic movement from expanded observability, to analytical structuring, to increasingly mediated action. We conceptualize this movement as decisional embedding: the degree to which technological systems enter the institutional production of alternatives, prioritization, recommendation, adjustment, or execution. The contribution lies in showing that technological integration in anticipatory governance is not merely an increase in computational capability, but a reconfiguration of knowledge, judgment, responsibility, and authority. The article concludes with implications for accountable, contestable, and human-governed hybrid decision architectures.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11273200/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11273200/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1370429",
+      "topic": "AI Embeddings",
+      "title": "Mapping artificial intelligence for science with open metadata reveals shifting evidence regimes across scientific domains",
+      "authors": "Fengchang X, Ge L, Xinliang W, Na Z.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<title>Abstract</title>  <p>  Artificial intelligence for science (AI4S) is often discussed as a unified transformation, although scientific domains differ markedly in how model outputs are tested, validated, and justified. We map an audited corpus of  <sup>N=2,784</sup>  records (2014–2025) retrieved from Crossref and screened with a frozen, versioned rulebook, and compare evidence regimes in protein science, materials design, drug discovery, closed-loop experimentation, and mathematical reasoning. Using term co-occurrence, reference co-citation, burst detection, growth models, and collaboration networks, we identify three robust patterns: (i) rapid but decelerating growth (Poisson rate 1.381, 95% CI 1.361–1.402, declining from 1.537 in 2014–2019 to 1.320 in 2019–2025); (ii) a coherent term-co-occurrence structure (75 nodes, modularity  <sup>Q=0.404</sup>  ) organized around four measured streams—representation learning, generative and inverse design, closed-loop experimentation, and neuro-symbolic reasoning—with the generative stream acting as the connecting hub; and (iii) a right-boundary rise in  <italic>large language model</italic>  terminology (burst state 3) that a year-by-year backtest shows is not a last-observation artefact. The maps are sensitive to metadata availability: abstract coverage is 50.6%, reference coverage 84.3%, and a title-only variant changes the network partition substantially (adjusted Rand index 0.762), so the maps describe the screened open-metadata corpus rather than the total AI4S literature. Cross-domain analysis shows that AI most consequentially shifts scientific bottlenecks from representation and candidate generation toward experimental or formal validation, provenance, and responsibility for claims. We contribute an auditable, open-metadata science-mapping workflow  <italic>designed for reproducibility</italic>  and an evidence-regime framework for analysing how epistemic labour is redistributed across models, instruments, formal verifiers, infrastructures, and human experts.  </p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11461912/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11461912/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43049221",
       "topic": "AI Embeddings",
       "title": "From Physics-Informed Deep Learning to Experimental Realization: Unlocking Entropy-Stabilized Titanium Halide Solid Electrolytes.",
@@ -994,118 +1138,6 @@
       ]
     },
     {
-      "id": "MED:43037770",
-      "topic": "AI Embeddings",
-      "title": "Decoding Complications: Large Language Model-Based Classification of Free-Text Entries in Clinical Stroke Registries.",
-      "authors": "Asperger H, Weller J, Bode FJ, Ebrahimi T, Klehr L, Layer J, Meißner JN, Nitsch L, Shirvani O, Thielscher CS, von Danwitz NM, Mukherjee S, Dorn F, Petzold GC, Stösser S, on behalf of the GSR-ET Investigators.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "Clinical registries capture adverse events (AEs) in free-text fields that are rarely analyzed. We developed a reproducible large language model (LLM)-assisted workflow using 11,216 free-text entries from 18,069 patients in the German Stroke Registry; 9,146 informative entries were retained after filtering. Embedding-based clustering showed poor separation, whereas an LLM-guided taxonomy identified 89 leaf labels. On the model-assisted 1,000-entry development set used for model and prompt selection, GPT-5.4 reached F1 92.4% (95% confidence interval [CI] 91.4-93.4). On 300 held-out entries, weighted F1 against clinician consensus was 96.5% (94.6-98.1) for frozen GPT-5.4 labels and 90.5% (87.5-93.5) for locally run Qwen 3.5 27B. For AE concepts with a comparable structured field, free text documented 1,345 additional instances (+19.6% over 6,867 structured instances); it also documented 7,546 instances of AE concepts without a structured equivalent, most often pneumonia, urinary tract infection and delirium. Beyond baseline covariates and the structured AE count, integrated complication concepts increased the area under the curve for prediction of good functional outcome by 0.025 (95% CI 0.021-0.028) and for death by 0.018 (0.014-0.021); gains were minimal after including the discharge National Institutes of Health Stroke Scale (NIHSS) score. On 1,979 public coronary-trial fragments from the Aggregate Analysis of ClinicalTrials.gov (AACT), the software ran end to end, demonstrating its technical applicability to a second clinical text corpus. In conclusion, this workflow enables structured analysis of clinical registry free text and complements structured adverse-event documentation.",
-      "url": "https://doi.org/10.1007/s10916-026-02486-y",
-      "source": "MED",
-      "doi": "10.1007/s10916-026-02486-y",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1368695",
-      "topic": "AI Embeddings",
-      "title": "ProtCOVER: Family-Aware Conformal Prediction for Variant Effect Predictors on Unseen Protein Families",
-      "authors": "Fahmy W, Krikun E, Alkhateeb A.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "Protein language models and related variant effect predictors (VEPs) increasingly classify missense variants in proteins evolutionarily distant from those used for calibration. Split conformal prediction over variants is valid for its own target, a random variant dominated by well-studied families, but deployment needs coverage for a variant of a new family. On ProteinGym clinical substitutions with five zero-shot predictors, Mondrian conformal comes within 0.005 of that target for four predictors, yet family-weighted pathogenic coverage is only 0.823-0.873 at a 0.90 target for all five, without any shift. We present ProtCOVER, a conformal procedure that treats homology families, rather than individual variants, as the exchangeable unit. ProtCOVER (i) calibrates at the family level over label-free homology clusters, giving marginal coverage for a new family under family exchangeability; (ii) adapts to descriptor shift by calibrating conditionally on an estimated density ratio of label-free descriptors (sequence similarity, alignment depth and embedding distance; a variant reweights by the ratio instead), with finite-sample family-weighted coverage, valid as computed, whenever the true ratio is a nonnegative affine function of the estimate; and (iii) can abstain at low effective calibration support, which proved no better than random abstention. Under a shift of its descriptors, ProtCOVER's mean worse-class shortfall below the target is 0.000, against 0.010 for group-weighted and 0.029 for hierarchical conformal prediction, with larger sets (about equal at matched coverage); on orphan families and held-out embedding regions it matches group weighting (0.002 against 0.003). In evaluations following pre-registered protocols, every shift-aware method met the target on new ClinVar variants of benchmark proteins, which ESM-1b separated better; on 12,225 proteins outside the benchmark, every method fell short for pathogenic variants with either of two predictors, ProtCOVER and a variant conditioned on the descriptors the least, within the 0.01 margin of group weighting.",
-      "url": "https://doi.org/10.64898/2026.11.13.766406",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.13.766406",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43037076",
-      "topic": "AI Embeddings",
-      "title": "ReMoD-Mol: Reliability-Aware Multimodal Learning with Descriptor-Guided Knowledge Distillation for Molecular Property Prediction.",
-      "authors": "Yang Y, Chen S, Zhao Q, Yan C.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "<h4>Motivation</h4>Accurate molecular property prediction (MPP) remains a central challenge in drug discovery. Given the limited availability of labeled molecular data, multimodal molecular representation learning offers a promising means of integrating complementary structural information for MPP. Existing multimodal models still face two limitations: (i) common fusion strategies, particularly direct concatenation, can introduce redundant information or signals that are weakly relevant to the target property; and (ii) the effective incorporation of complementary physicochemical priors into multimodal representations remains insufficiently explored.<h4>Results</h4>Here, we proposed ReMoD-Mol, a reliability-aware multimodal framework that integrated molecular graphs, SMILES sequences and two-dimensional molecular images. Task-adaptive modality calibration learned one set of weights per benchmark from downstream supervision to regulate the relative contributions of the three molecular views. Descriptor- and fingerprint-based teachers further provided task-conditioned chemical priors through train-only, five-fold out-of-fold knowledge distillation. Prototype-guided embedding shaping together with graph-view and SMILES-view consistency objectives regularized the fused representation space. Across nine MoleculeNet benchmark datasets spanning regression and classification, ReMoD-Mol achieved the best mean performance on seven datasets and the second-best on the other two in a scaffold-split comparison with 14 baselines. Representation analyses revealed smoother property-related manifolds and more discriminative class structures, while learned modality coefficients exhibited distinct task-dependent fusion patterns. Teacher-prior and ablation analyses further supported the complementary roles of chemical-prior transfer and multi-view representation regularization.<h4>Availability and implementation</h4>Source code, processed datasets and implementation details are publicly available at https://github.com/27167199/ReMoD-Mol.",
-      "url": "https://doi.org/10.1093/bioinformatics/btag838",
-      "source": "MED",
-      "doi": "10.1093/bioinformatics/btag838",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43036308",
-      "topic": "AI Embeddings",
-      "title": "Density functional theory and Bayesian optimization for therapeutic discovery.",
-      "authors": "Kaijage N, Sewunet S, Otieno E, Kraszewski S.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "<h4>Introduction</h4>The rational design of novel therapeutics is fundamentally constrained by an irreducible paradox: the drug-like chemical space spans an estimated 10<sup>60</sup>-10<sup>63</sup> compounds, yet quantum mechanical evaluation of molecular electronic structure demands methods scaling as O(N<sup>3</sup>)-O(N<sup>4</sup>) with system size. Bayesian Optimization-guided Density Functional Theory resolves this by embedding quantum-accurate property evaluation within a probabilistic active learning loop that directs computational resources toward maximally informative candidates.<h4>Areas covered</h4>The authors critically examine DFT functional selection, basis set adequacy, and scaling mitigation strategies for drug-like molecules, alongside Bayesian Optimization surrogate architectures, acquisition function design, and multi-fidelity extensions spanning GFN2-xTB to DLPNO-CCSD(T). A quantitative structured comparative synthesis of eleven published DFT-BO campaigns is presented, and integration strategies, including sequential, batch, and surrogate-assisted pipelines, are analyzed. This review is based on a structured literature search conducted in PubMed, Web of Science, Scopus, and Google Scholar, covering publications from 1965 to July 2026.<h4>Expert opinion</h4>The convergence of fault-tolerant quantum computing, large-scale molecular foundation models, and exascale hardware is expected to broaden the scope of DFT-BO integration. We argue that the value of these methods is presently established for the optimization of quantum-chemical properties rather than for therapeutic endpoints, and we identify the benchmarking and validation evidence that would be required to establish the latter.",
-      "url": "https://doi.org/10.1080/17460441.2026.2762802",
-      "source": "MED",
-      "doi": "10.1080/17460441.2026.2762802",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:42976384",
-      "topic": "AI Embeddings",
-      "title": "AIM-STAGE: a self-supervised framework via adaptive interval-aware multi-kernel calibration and spectro-temporal exploration for few-shot EEG staging.",
-      "authors": "Liu Y, Liu T, Yuan J, Li Y, Liu X, Wang X, Ma T, Bi L, Lin X, Moghadam Charkari N, Ganjidoust H, Alfred Makudali Msagati T, Guo Q.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "<i>Objective</i>. Learning discriminative and generalizable representations from electroencephalography (EEG) signals with limited annotations remains a key challenge in automatic sleep staging. Supervised deep models depend on large-scale expert labels, yet sleep annotation is costly and time-consuming. Existing self-supervised methods often underuse EEG spectral-temporal structure and adopt fixed negative-sample strategies, which are poorly suited to the continuous transitions and ambiguous boundaries between sleep stages. This study proposes AIM-STAGE, a self-supervised representation learning framework for limited-label EEG sleep staging.<i>Approach</i>. AIM-STAGE comprises three modules. (1)<i>Spectral-temporal exploration</i>. maps EEG segments into the time-frequency domain through the short-time Fourier transform, jointly extracting log-power and cross-channel phase difference to characterize frequency-band activity and phase dynamics. (2)<i>Local-global hybrid encoding</i>. uses a CNN-Transformer encoder, in which convolutional residual modules capture local spectro-temporal patterns and a bottleneck Transformer models long-range dependencies. (3)<i>Adaptive interval-aware multi-kernel calibration</i>. Employs multiple Gaussian kernels and dynamic weighting to synthesize informative negative representations, improving view consistency and inter-sample separability.<i>Main results</i>. AIM-STAGE was evaluated on SLEEP-2013, SLEEP-2018, SHHS-D, and SHHS-H against ContraWR, DFformer, EEG2Rep, EEGPT, Superlet-MAE, and a supervised baseline across 1%-15% labels. Accuracy improved from 88.67% to 92.04% on SLEEP-2013, and AIM-STAGE outperformed all baselines on all four datasets with higher kappa, macro-1, and balanced accuracy, including on the pathological SHHS-D cohort. Ablation confirmed the contributions of the bottleneck Transformer, positional embeddings, physiology-informed augmentation, and calibration loss. Per-stage analysis showed that N1 is the most difficult stage, with1 ranging from 0.003-0.046, and adding EOG and EMG markedly improved its precision, recall, and1.<i>Significance</i>. AIM-STAGE offers an interpretable and label-efficient self-supervised solution for EEG sleep staging, improving robustness and stage discriminability under scarce-label conditions while reducing dependence on manual annotation.",
-      "url": "https://doi.org/10.1088/1741-2552/aebd1c",
-      "source": "MED",
-      "doi": "10.1088/1741-2552/aebd1c",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:42949705",
-      "topic": "AI Embeddings",
-      "title": "Label-free Raman spectroscopy for cancer therapy response: from methodological framework to clinical translation.",
-      "authors": "Alcolea-Rodriguez V, Bresci A, Mühlig A, Agrimi C, Morasso C, Polli D, Guntinas-Lichius O, Vanna R.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "The early detection of therapy-induced biomolecular changes and the prediction of therapeutic response remain major challenges in oncology. Current clinical methods often assess treatment response through macroscopic or morphological endpoints, whereas molecular alterations associated with sensitivity, resistance, or recurrence may arise earlier and remain undetected. Raman spectroscopy offers a label-free and non-destructive approach to probe the intrinsic biochemical composition of cells, tissues, and biofluids, providing spectral and spatial information that can support therapy response prediction and longitudinal monitoring. This review discusses Raman-based technologies for cancer therapy assessment, from preclinical models to emerging clinical applications. We first outline the clinical need for rapid, non-destructive, and molecularly informative tools, considering tumor heterogeneity, therapy resistance, the tumor microenvironment, and current standards for response evaluation. We then provide a methodological framework for selecting Raman modalities, including spontaneous Raman (SR) spectroscopy, surface-enhanced Raman spectroscopy (SERS), stimulated Raman spectroscopy (SRS), and coherent anti-Stokes Raman spectroscopy (CARS), together with key considerations on acquisition strategies, multimodal integration, experimental design, preprocessing, feature analysis, and machine learning. We summarize Raman spectral biomarkers associated with therapy-induced changes in nucleic acids, proteins, lipids, metabolites, extracellular matrix components, and anticancer drugs, and critically examine studies using Raman spectroscopy to predict or monitor responses to major therapeutic approaches. Finally, we discuss barriers to clinical translation, including acquisition speed, inter-instrument reproducibility, preclinical model limitations, regulatory requirements, workflow integration, clinical trials, and prospective validation. Overall, Raman spectroscopy emerges as a promising platform for molecular phenotyping in precision oncology, provided that future studies progress toward standardized, clinically validated, and actionable workflows.",
-      "url": "https://doi.org/10.1039/d6cs00966b",
-      "source": "MED",
-      "doi": "10.1039/d6cs00966b",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:42876279",
-      "topic": "AI Embeddings",
-      "title": "New approach methodologies in nanomedicine: bridging the gap between &lt;i&gt;in silico&lt;/i&gt;, &lt;i&gt;in vitro&lt;/i&gt;, and &lt;i&gt;in vivo&lt;/i&gt; systems.",
-      "authors": "Radwan Y, Rebolledo LP, Skelly E, Grabarnik E, Jain S, Halman M, Chammas R, Zakharov AV, Dobrovolskaia MA, Afonin KA.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "The rise of nanomedicine has led to the regulatory approval of more than 80 nanoparticle (NP)-based therapeutics over the past two decades. Further advancement in the field requires a deeper understanding of the nano-bio interface of NPs, including their uptake, delivery, efficacy, toxicity, and adverse effects. Despite the heavy reliance on conventional cell cultures for NP screening, these models do not recapitulate the <i>in vivo</i> microenvironment, complexity, and physiological responses; hence, follow-up animal studies are required. Nonetheless, because of species-specific differences and ethical concerns around animal studies, developing alternative platforms has become critical. To address these issues, 3D cell culture models such as organoids, spheroids, and organ-on-chip systems have emerged to bridge the gap between <i>in vitro</i> and <i>in vivo</i> systems. Because they better represent cell interactions, gene expression, nutrient gradients, and tissue-specific functions, 3D models also align with the U.S. FDA's promotion of new approach methodologies (NAMs) to reduce animal testing. This review covers examples of organic and inorganic NPs tested in 3D models and discusses organ-specific NAMs, considering their advantages and limitations. The review also highlights how 3D models improve NP evaluation for drug delivery, toxicity, and targeted therapy, and provides a coherent NAMs toolbox for developing <i>in silico</i> methods for NP assessment. Future perspectives are introduced to underscore the importance of integrating <i>in silico</i> NAMs and 3D models to complement <i>in vivo</i> models for advancing precision medicine and improving the translational potential of complex drug products containing nanotechnology.",
-      "url": "https://doi.org/10.1039/d6cs01323f",
-      "source": "MED",
-      "doi": "10.1039/d6cs01323f",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
       "id": "MED:43037839",
       "topic": "Long-acting PrEP",
       "title": "Stated Choice Methods in Long-Acting and Extended-Release HIV Technologies: A Scoping Review of Methodological Practices and Translational Utility.",
@@ -1135,38 +1167,6 @@
       "is_preprint": true,
       "topics": [
         "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:43034468",
-      "topic": "AI Embeddings",
-      "title": "Integrating Social Determinants of Health Into Emergency Medicine Clerkships: A Qualitative Study of Student Reflections.",
-      "authors": "Olaf MF, Willner K, Spinozzi J.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "<h4>Background</h4>Social determinants of health (SDH) significantly influence emergency department (ED) care and patient outcomes, yet experiential learning opportunities in SDH remain inconsistently integrated into clinical education. Prior work has been effective but resource intensive. We sought to explore an adapted SDH-focused clinical experience that built on prior curricula and pre-clerkship SDH instruction while minimizing additional non-clinical resources.<h4>Methods</h4>We implemented a semi-structured SDH-focused experience within a required emergency medicine (EM) clerkship which sought to integrate prior knowledge from a pre-clerkship SDH curriculum. In the ED, students partnered with care managers or social workers to identify patients affected by SDH, conducted patient interviews, and completed written reflections. De-identified reflections from one academic year (2023-2024) were analyzed using an inductive thematic analysis approach. Two investigators independently coded an initial subset, developed a shared codebook, and applied iterative constant comparison to generate themes with investigator triangulation to enhance trustworthiness.<h4>Results</h4>Students described intersecting barriers to care, including language discordance, financial insecurity, and immigration-related challenges. Reflections also linked these barriers to direct clinical consequences such as delays in care, limited follow-up access, and patients leaving against medical advice. Students described how communication barriers and limited interpreter availability impacted care delivery and safety. Reflections also described structural inequities and the role of interdisciplinary teams in mitigating these challenges. Two additional themes, chronic illness and aging and health systems science, were interpreted as cross-cutting factors that modified how SDH were experienced rather than as determinants themselves.<h4>Conclusions</h4>A semi-structured, experiential SDH curriculum embedded within the ED clerkship elicited reflections in which students identified and interpreted real-world barriers to care. These findings describe how students applied SDH concepts in the ED rather than demonstrating change attributable to the activity. This approach offers a feasible model for embedding SDH learning within existing clinical workflows.",
-      "url": "https://doi.org/10.1002/aet2.70282",
-      "source": "MED",
-      "doi": "10.1002/aet2.70282",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1367696",
-      "topic": "AI Embeddings",
-      "title": "AI-assisted standardization of real-world laboratory data to improve quality for real-world evidence generation",
-      "authors": "Nielson CM, Allen P, Xia F, Anderson-Smits C, Asiimwe A, Howland A, Ritchey ME.",
-      "journal": "",
-      "date": "2026-11-13",
-      "abstract": "<h4>Purpose: </h4> Laboratory data from electronic health records (EHR) are increasingly used in pharmacoepidemiologic research, but inconsistencies in local laboratory test names and unit representations can compromise reliability. We evaluated an artificial intelligence (AI)-assisted approach to laboratory data standardization compared to baseline source data and a manual workflow.  <h4>Methods: </h4> We piloted a hybrid rule-based and natural language processing system developed by Cornerstone AI (CSAI) to assign LOINC codes and UCUM unit representations to laboratory records in HealthVerity EHR data. The dataset included approximately 4.2 million laboratory records from 19,415 patients with a metabolic dysfunction-associated steatohepatitis (MASH) diagnosis. As a benchmark, manual cleaning required iterative identification of test names and interpretation of heterogeneous result formats. CSAI’s hierarchical classifier assigns LOINC codes by standardizing units and predicting the LOINC Component (e.g., albumin), System (e.g., serum), and Property (e.g., mass concentration) using metadata inputs and embedding-based similarity scoring against a proprietary reference database. Discordant mappings were adjudicated by a blinded, independent reviewer, with traceability maintained through transformation logs and version control.  <h4>Results: </h4> The CSAI system standardized 99.8% of source units to UCUM and assigned complete LOINC codes to 96.3% of eligible records (78.6% of all records). LOINC Component-level accuracy was 99.9% for AI-assisted mappings vs 93.5% for the manual workflow. Before adjudication, AI-assisted mapping identified 17.8% more MASH-related laboratory records than the manual workflow (801,874 vs 680,876) and 19.5% after adjudication of both approaches.  <h4>Conclusions: </h4> AI-assisted laboratory data standardization improved LOINC coverage and achieved higher accuracy than the manual workflow, with transformations logged for traceability. By improving the consistency and accuracy of real-world laboratory data, this approach may support robust disease characterization in MASH and can be applied to other pharmacoepidemiologic studies.",
-      "url": "https://doi.org/10.22541/authorea.15012194/v1",
-      "source": "PPR",
-      "doi": "10.22541/authorea.15012194/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
       ]
     },
     {
