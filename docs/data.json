@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T00:45:37.995204+00:00",
+  "updated": "2026-11-20T06:58:01.479187+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -610,6 +610,70 @@
       ]
     },
     {
+      "id": "PPR:PPR1371321",
+      "topic": "Long-acting PrEP",
+      "title": "Financial distress, clinic attendance concerns and transport-support requests for long-acting injectable HIV options among people living with HIV and clients recruited through PrEP services in Uganda: a cross- sectional study",
+      "authors": "Olet SC, Muluga WU, Nakabaale M, Muluga F, Musiho R, Among F, Nait C, Mulyowa A, Ongom S, Stecher CD, Kiwanuka SN, Musoki D.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<title>Abstract</title>  <p>Background  Long-acting injectable HIV products reduce daily medication demands but require scheduled clinic visits. We examined associations of financial distress with anticipated clinic attendance concern and requests for transport support among people living with HIV and clients recruited through pre-exposure prophylaxis services in Uganda. Methods  In this exploratory analysis, we used a cross-sectional survey of 232 participants, comprising 116 people living with HIV and 116 clients recruited through PrEP services. Concern about strict clinic attendance requirements was defined as concerned or highly concerned on a four-level item. Financial distress meant difficulties meeting basic needs sometimes, often or always during the previous three months. Modified Poisson models estimated prevalence ratios adjusted for service group, age group and sex. Secondary analyses examined food worry, meal skipping, transport mode, concern thresholds and service-support preferences. Results  Overall, 109/232 participants (47.0%) reported attendance concern. Concern was more frequent with financial distress than without it (64.9% versus 41.1%, adjusted prevalence ratio 1.37, 95% confidence interval 1.02–1.84). Food worry showed an uncertain association (1.33, 0.99–1.80), while meal skipping showed no clear association (1.14, 0.83–1.56). Threshold-specific adjusted odds ratios for financial distress were 3.17 (1.40–7.17) for any response above not concerned, 2.12 (1.08–4.19) for concerned or highly concerned, and 1.04 (0.45–2.40) for highly concerned. Fourteen of 17 participants who walked reported concern (82.4%, adjusted prevalence ratio 1.58, 1.15–2.17). Participants with financial distress more often requested transport support (36.8% versus 8.0%, adjusted prevalence ratio 3.86, 1.91–7.81). Within-group estimates were larger among clients recruited through PrEP services (6.66) than among people living with HIV (1.94), with an interaction p-value of 0.09. Conclusions  Financial distress was moderately associated with anticipated attendance concern and strongly associated with requesting transport support. Food-related measures provided weaker evidence. Injectable HIV service planning should assess financial and travel constraints alongside product preferences and evaluate practical support for scheduled visits.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11253636/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11253636/v1",
+      "is_preprint": true,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "PPR:PPR1372107",
+      "topic": "AI Embeddings",
+      "title": "DELTA: Training-free and label-free correction of pathology foundation model embeddings through paired counterfactual stain-appearance interventions",
+      "authors": "Choi YH, Kang J, Shin S, Kim C.",
+      "journal": "",
+      "date": "2026-11-19",
+      "abstract": "Staining and scanning variation impairs pathology foundation model (FM) generalization. We propose DELTA, a training-free, label-free method for post-hoc correction of FM embeddings. DELTA estimates recurrent directions from paired embedding differences between original patches and counterfactual stain-appearance variants preserving spatial structure, then attenuates aligned components through a fixed projection. Estimation from 4% of eligible patches per source dataset required no separately acquired matched images. Operators directly correct stored embeddings. On PathoROB, DELTA improved patch-level representation robustness over raw embeddings in all 20 FMs. Mean classification gains over established correction methods persisted after patch aggregation. DELTA provided additional gains after stain normalization. Whole-slide analyses showed improved in-distribution survival discrimination in TCGA-BRCA and normative cancer screening in a clinical cohort. Operators from TCGA-BRCA reduced embedding variation in the PLISM dataset across 13 staining conditions and 7 scanners without refitting. With projection rank and center matched, DELTA outperformed projections from mismatched pairs in retrieval and tissue-category concordance. Corrected embeddings retained information for spatial gene-expression prediction in the STP-BENCH datasets, with gains for tumor microenvironment markers in selected cohorts.",
+      "url": "https://doi.org/10.64898/2026.11.18.767727",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.18.767727",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1371556",
+      "topic": "AI Embeddings",
+      "title": "LG-MIL: Language-Guided Multiple Instance Learning for Coordinate-Aligned Attention Analysis in Whole-Slide Images",
+      "authors": "Hassan MM, Bashar MR.",
+      "journal": "",
+      "date": "2026-11-19",
+      "abstract": "<title>Abstract</title>  <p>Language-Guided Multiple Instance Learning (LG-MIL) is introduced as a weakly supervised framework for whole-slide image (WSI) analysis. The proposed approach integrates visual and textual information to support interpretable slide-level prediction. Patch-level features extracted from WSIs are combined with class-level textual prompts encoded in a shared multimodal space. To enable semantically informed aggregation under weak supervision, text embeddings guide patch weighting through a cross-modal attention mechanism. A coordinate retrofit strategy is further employed to recover per-patch (x,y) locations at inference, enabling the generation of attention heatmaps, top-K tile visualizations, and saliency-based summaries for spatial interpretability. To regulate the sharpness and semantic alignment of attention distributions, the framework incorporates two interpretable controls: the attention temperature τ(tau) and the contrastive loss weight α. Experiments on patient-exclusive validation and test splits demonstrate competitive slide-level classification performance, with measurable variation across random initializations and hyperparameter settings. Saliency analyses further investigate the relationship between model confidence and attention dispersion, while ablation studies show that attention temperature influences both attention concentration and predictive performance. Lower temperature values produce more concentrated attention distributions, whereas higher values result in more diffuse attention patterns. Overall, LG-MIL provides a reproducible pipeline for language-guided, coordinate-aligned attention analysis in WSIs, enabling transparent investigation of model behavior under weak supervision. The framework highlights the potential of text guidance, spatial alignment, and saliency quantification for advancing interpretability in large-scale WSI modeling without requiring dense or clinical annotations.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11763838/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11763838/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1371354",
+      "topic": "AI Embeddings",
+      "title": "Pre-clinical medical school curriculum on trauma-informed care improved confidence in caring for survivors of sexual assault",
+      "authors": "Mackey-Alfonso SE, Greenwald JR, Daily KP, Thompson R, Boulger C, Fernandes AK.",
+      "journal": "",
+      "date": "2026-11-19",
+      "abstract": "<title>Abstract</title>  <p>Background  Survivors of sexual assault (SA) and intimate partner violence (IPV) frequently experience re-traumatization within the healthcare system, leading to medical mistrust and increased loss to follow-up. Provider discomfort and inadequate training are recognized barriers to trauma-informed care, yet mandatory medical school curriculum addressing SA/IPV remains critically underdeveloped. This study evaluated the effectiveness of pre-clinical trauma-informed SA/IPV curriculum via confidence scores and self-identified challenges in caring for survivors. Methods  A one-week long, three-part curriculum was delivered to first-year students at The Ohio State University College of Medicine between 2021–2023. This included a 15-minute pre-recorded lecture on the neurobiology of trauma and physician role, a 2-hour in-person panel featuring male and female survivors, and a faculty-led session with a standardized patient (SP) encounter. Students completed pre- and post-intervention surveys rating Likert-scale confidence in supporting a friend and a patient. Free responses were analyzed via qualitative thematic analysis mapped to ACGME core competencies. Results  Among 257 included students, confidence increased significantly from pre- to post-intervention for supporting a friend and a future patient (p < 0.01), with higher baseline confidence for supporting a friend. Students with prior trauma-informed care or advocacy experience had greater baseline confidence but still improved significantly, as did those without prior exposure. No significant difference was observed between gender groups (p > 0.01). Of 18 identified challenge themes, interpersonal communication concerns decreased most, while systems-based practice concerns and the desire for additional practice increased. Lastly, \"difficulty relating to the patient\" was unchanged. Conclusions  Our practice-based SA/IPV curriculum significantly improved student confidence regardless of prior training and shifted challenges from foundational communication fears toward systems-based practice concerns. Combining knowledge acquisition, survivor panels, and low-stakes SP practice within existing curricular structures offers a feasible and easily replicable model for embedding trauma-informed care education early in training.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11485939/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11485939/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1370178",
       "topic": "AI Embeddings",
       "title": "MelanoFusion: An Explainable and Uncertainty-Aware Hybrid CNN–Transformer Framework for Dermoscopic Melanoma Detection",
@@ -620,6 +684,22 @@
       "url": "https://doi.org/10.21203/rs.3.rs-11208377/v1",
       "source": "PPR",
       "doi": "10.21203/rs.3.rs-11208377/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1372243",
+      "topic": "AI Embeddings",
+      "title": "Benchmarking Machine Learning Methods for Antimicrobial Peptide Prediction and Discovery in Ancient Microbiomes",
+      "authors": "Zhao Q, Ma Q, Luo J, Chen C, Ke S.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Antimicrobial peptides (AMPs) offer a promising alternative to conventional antibiotics amid the growing global threat of antimicrobial resistance. Expanding AMP discovery requires both effective computational tools to accurately identify candidate peptides and access to underexplored biological resources that may harbor novel AMPs. However, the comparative performance of existing computational methods remains poorly understood, while ancient microbiomes have received limited attention as potential reservoirs of AMPs. Here, we systematically benchmarked six machine learning methods across with twelve feature configurations spanning sequence, structural, and protein language model features under a unified framework using eight curated AMP datasets. The best-performing methods were subsequently applied to three ancient metagenomic datasets representing the human gut (archaeological fecal sediments), human oral cavity (dental calculus), and mammoth-associated communities (teeth, skulls, and skin). In parallel, we employed reinforcement learning to select candidate peptides directly from ancient sequence pools without relying on modern AMP labels. Our benchmarking shows that protein language model embeddings provide the most informative features, and deep learning models, including convolutional, transformer-based, and recurrent architectures, outperform classical methods. Applying these models to ancient microbiomes identified candidates occupied the physicochemical space characteristic of AMPs but differed from those of candidates predicted from modern microbiome catalogs. We identified 111, 76, and 50 high-confidence candidate AMPs from the Neanderthal gut, ancient oral, and mammoth-associated communities, respectively. Reinforcement learning selected additional candidate AMPs with distinct properties compared with those predicted by models trained on modern AMP databases. Together, these findings establish a systematic benchmark for AMP prediction and highlight ancient microbiomes as an untapped source of antimicrobial peptide candidates. By integrating supervised machine learning with reinforcement learning, this study expands AMP discovery beyond modern microbiome catalogs and provides new opportunities to identify potentially novel AMPs.",
+      "url": "https://doi.org/10.64898/2026.11.17.767431",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.17.767431",
       "is_preprint": true,
       "topics": [
         "AI Embeddings"
@@ -796,22 +876,6 @@
       "url": "https://doi.org/10.31234/osf.io/e9wzk_v1",
       "source": "PPR",
       "doi": "10.31234/osf.io/e9wzk_v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1370979",
-      "topic": "AI Embeddings",
-      "title": "Improving predictive accuracy for clinical outcomes with LLM text embeddings for open-ended free-text responses: A case study on reports of psychedelic experiences",
-      "authors": "Guenther F, Parent-Couture M, Uyar A, Wieczorke K, Lueken U, Evens R, Wolff M.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<p>Clinical studies regularly ask participants to describe their experiences in their own words. These open-ended questions are included so that participants can report what they themselves consider relevant, and ideally researchers want to harvest this information. In practice however, these responses are rarely analyzed and often effectively discarded, since translating them into a useful quantitative format for further analysis traditionally required trained coders or advanced technical skills. Current transformer-based language models offer an appealing alternative option to quantify text: they internally represent any text input as high-dimensional numerical representations called text embeddings. Fromavailable open-weight models, these text embeddings can be freely extracted on a local machine. As text embeddings are just vectors of numbers, they can be plugged as predictors into standard statistical analyses. Here, we applied this to three large datasets in which participants described their experiences in the context of psychedelic substance use. We investigated whether text embeddings of these free-text descriptions improve cross-validated, held-out predictions of clinically relevant outcomes (well-being, change in well-being, change in psychological flexibility, post-traumatic symptom severity, post-traumatic growth) after we control for a range of other predictors capturingdemographic information, the setting of the experience, and a series of questionnaire data. We found reliable increases in predictive accuracy for three of the five outcomes (change in well-being and psychological flexibility, post-traumatic symptom severity), in two of the three datasets. Some of these increases are substantial. We therefore recommend (where possible) the inclusion of open-ended questions in any questionnaire, and to actually pass this information to analysis, to efficiently capture valuable information that would otherwise be lost.</p>",
-      "url": "https://doi.org/10.31234/osf.io/e9wzk",
-      "source": "PPR",
-      "doi": "10.31234/osf.io/e9wzk",
       "is_preprint": true,
       "topics": [
         "AI Embeddings"
@@ -1132,54 +1196,6 @@
       "url": "https://doi.org/10.1039/d6fo02313d",
       "source": "MED",
       "doi": "10.1039/d6fo02313d",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1369248",
-      "topic": "AI Embeddings",
-      "title": "Multimodal contrastive learning traces the early dissemination of Romance of the Three Kingdoms in Thailand",
-      "authors": "Su Y, Fang L, Yu F, Yang W, Lin Y, Lin B, Tan CY, Li S, Wu H.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "<title>Abstract</title>  <p>The Romance of the Three Kingdoms (RTK, 三國演義) is a global literary canon, yet how and when it first reached Thailand remains contested because few documents survive. Using the 1838 Wat Prasert Sutthawat murals, the earliest large-scale Thai RTK visual corpus, we build the first expert-verified multimodal dataset for mural–print comparison. We introduce the Mural–Illustration Similarity Prediction (MISP) model, which couples self-supervised multimodal contrastive embedding with supervised cross-modal attention fusion to produce interpretable similarity scores. MISP attains lower predictive error than single-modal and multimodal baselines and agrees closely with independent expert attributions. The murals most closely resemble the Zhou Yuejiao (周曰校) illustrated edition, identifying likely source editions and constraining when they reached Thailand. Our work extends the evidence for early Thai reception and shows how AI can advance stylistic analysis and provenance inference.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11432789/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11432789/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43038532",
-      "topic": "AI Embeddings",
-      "title": "Acupoint Thread Embedding for Weight Loss in Women With Overweight or Obesity : A Randomized Controlled Trial.",
-      "authors": "Xu S, Yang G, Hu C, Li X, Yin X, Zhao Y, Gunes A, Wu H, Zhong VW.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "<h4>Background</h4>Whether acupoint thread embedding (ATE), a traditional Chinese medicine intervention, produces weight reduction remains uncertain.<h4>Objective</h4>To evaluate the efficacy and safety of ATE for weight reduction in women with overweight or obesity.<h4>Design</h4>Randomized, sham-controlled trial masked to participants, outcome assessors, and analysts. (ClinicalTrials.gov: NCT06316310).<h4>Setting</h4>Acupuncture Department, Shanghai Municipal Hospital of Traditional Chinese Medicine, Shanghai, China.<h4>Participants</h4>132 women aged 18 to 45 years with a body mass index (BMI) of 24.0 kg/m<sup>2</sup> or greater.<h4>Intervention</h4>Participants were randomly assigned 1:1 to ATE (6 sessions over 12 weeks) or sham ATE (superficial needle insertion at the same acupoints without manipulation, de qi, thread placement, or needle retention), followed by a 12-week follow-up.<h4>Measurements</h4>The primary outcome was change in BMI from baseline to week 12, analyzed under the intention-to-treat principle using linear mixed-effects models.<h4>Results</h4>At week 12, BMI and body weight decreased 0.7 kg/m<sup>2</sup> (95% CI, -1.0 to -0.3 kg/m<sup>2</sup>) and 1.8 kg (CI, -2.7 to -0.9 kg), respectively, more with ATE than with sham ATE; at week 24, differences were -1.1 kg/m<sup>2</sup> (CI, -1.7 to -0.6 kg/m<sup>2</sup>) and -3.0 kg (CI, -4.5 to -1.6 kg), respectively. Weight reduction of 5% or more occurred in 25.8% versus 9.1% (risk difference, 16.7 percentage points [CI, 3.7 to 29.3 percentage points]) at 12 weeks. Acupoint thread embedding produced greater reductions in waist and hip circumference, body fat percentage, and appetite scores, whereas cardiometabolic and patient-reported outcomes did not differ. Adverse events were mild and comparably distributed.<h4>Limitation</h4>Single center, generally healthy women of reproductive age, unmasked acupuncturists, short-term follow-up, and underpowered for uncommon adverse events and subgroup analyses.<h4>Conclusion</h4>Acupoint thread embedding produced modest but sustained reductions in BMI and adiposity-related measures in Chinese women of reproductive age with overweight or obesity.<h4>Primary funding source</h4>National Facility for Translational Medicine (Shanghai).",
-      "url": "https://doi.org/10.7326/annals-26-02294",
-      "source": "MED",
-      "doi": "10.7326/annals-26-02294",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:42936947",
-      "topic": "AI Embeddings",
-      "title": "Structure-aware graph learning links peptide geometry to pathogen-specific antimicrobial potency.",
-      "authors": "Tang E, Sun Z, Xu S, Wang X, Kuang S, Corrie S, Peleg AY, Song J, de la Fuente-Nunez C.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "Antimicrobial peptide screening requires both activity classification and pathogen-specific potency estimation. Here we present GeoMIC, a two-stage framework combining protein language model embeddings with predicted peptide geometry. GeoMIC achieved an AUROC of 0.844 on XUAMP and minimum inhibitory concentration (MIC) prediction correlations of 0.794 for <i>Staphylococcus aureus</i> and 0.797 for <i>Escherichia coli</i>. Capacity-matched ablations supported complementary contributions from predicted structure. Retrospective ranking recovered more known active peptides than the evaluated comparator, supporting further evaluation of GeoMIC for experimental candidate prioritization.",
-      "url": "https://doi.org/10.1039/d6cc03538h",
-      "source": "MED",
-      "doi": "10.1039/d6cc03538h",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -2220,22 +2236,6 @@
       "url": "https://europepmc.org/article/PMC/PMC9603422",
       "source": "PMC",
       "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42935606",
-      "topic": "Long-acting PrEP",
-      "title": "Editorial: Towards control of the HIV epidemic: trends in epidemiology and emerging drug resistance in the integrase inhibitor era.",
-      "authors": "Ripamonti D, Santoro M, Fokam J, Ceccherini Silberstein F, Llibre JM.",
-      "journal": "",
-      "date": "2026-10-12",
-      "abstract": "",
-      "url": "https://doi.org/10.3389/fepid.2026.1991472",
-      "source": "MED",
-      "doi": "10.3389/fepid.2026.1991472",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
