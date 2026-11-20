@@ -1,5 +1,6 @@
 {
   "seen": [
+    "AI Embeddings|MED:40971394",
     "AI Embeddings|MED:42734762",
     "AI Embeddings|MED:42813619",
     "AI Embeddings|MED:42826126",
@@ -67,6 +68,7 @@
     "AI Embeddings|MED:43025154",
     "AI Embeddings|MED:43026384",
     "AI Embeddings|MED:43031312",
+    "AI Embeddings|MED:43032919",
     "AI Embeddings|MED:43034303",
     "AI Embeddings|MED:43034468",
     "AI Embeddings|MED:43036308",
@@ -100,6 +102,9 @@
     "AI Embeddings|MED:43051243",
     "AI Embeddings|MED:43052651",
     "AI Embeddings|MED:43053495",
+    "AI Embeddings|MED:43054420",
+    "AI Embeddings|MED:43056161",
+    "AI Embeddings|MED:43057368",
     "AI Embeddings|PMC:PMC13748885",
     "AI Embeddings|PMC:PMC13751358",
     "AI Embeddings|PMC:PMC13751363",
@@ -252,5 +257,5 @@
     "Long-acting PrEP|PPR:PPR1367669",
     "Long-acting PrEP|PPR:PPR1371321"
   ],
-  "updated": "2026-11-20T06:58:01.479187+00:00"
+  "updated": "2026-11-20T12:53:47.652038+00:00"
 }
