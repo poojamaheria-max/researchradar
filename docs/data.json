@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:53:47.652038+00:00",
+  "updated": "2026-11-20T18:50:27.781143+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -226,6 +226,54 @@
       ]
     },
     {
+      "id": "MED:43043958",
+      "topic": "AI Embeddings",
+      "title": "Beyond the Binary: Pain as a Health-Disease Continuum - A Theoretical Framework Integrating Biomedical, Phenomenological and Salutogenic Perspectives.",
+      "authors": "Bornemann-Cimenti H.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "<h4>Rationale</h4>Clinical practice continues to treat pain, once reported, as a symptom requiring elimination. This binary framing collapses a heterogeneous range of experiences into a single pathological category, obscures the extent to which pain is part of normal physiology, and fails to distinguish, within chronic pain, between patients whose lives remain intact and patients whose lifeworld has been dismantled.<h4>Aims and objectives</h4>To propose a theoretical framework, the Pain Continuum Model (PCM), that reconceptualises pain as a phenomenon occupying shifting positions between health and disease, and to derive from it criteria for clinical judgement and empirically testable predictions.<h4>Method</h4>Conceptual analysis integrating the philosophy of disease (Boorse, Nordenfelt and Canguilhem), contemporary pain science including the IASP concepts of nociplastic and chronic primary pain, the phenomenology of embodiment (Merleau-Ponty, Leder and Toombs) and Antonovsky's salutogenic theory.<h4>Results</h4>The PCM locates any pain experience along three axes: a neurophysiological axis describing the degree to which pain has become decoupled from tissue state; a phenomenological axis describing the transformation of embodied experience; and a salutogenic axis describing the sense of coherence with which the person meets the experience. The transition from physiological to pathological pain is characterised as a qualitative shift marked by the loss of a causal narrative, the exhaustion of manageability and discordance between the axes, rather than by a quantitative threshold. Five refutable predictions are formulated.<h4>Conclusions</h4>The PCM offers a conceptual basis for evaluating clinical reasoning about pain: for resisting the medicalisation of physiological pain, for reconceiving chronification as a multidimensional process that can be recognised before the temporal criterion of chronicity is met, and for reframing therapeutic goals at the pathological end of the continuum. It makes explicit, and therefore assessable, the grounds on which a pain experience is assigned to the side of health or of disease.",
+      "url": "https://doi.org/10.1111/jep.70750",
+      "source": "MED",
+      "doi": "10.1111/jep.70750",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43042787",
+      "topic": "AI Embeddings",
+      "title": "Current practice in paediatric occupational therapy in Australia: A descriptive study.",
+      "authors": "Gougousidis MC, Cooper A, Froude EH.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "<h4>Introduction</h4>Australian paediatric occupational therapy has seen significant changes in the last 15 years, yet there have been no published studies in that time that explore current practice. This study aimed to examine and create a profile of current practices of Australian paediatric occupational therapists regarding application of theories and models, goal setting, assessment, intervention, professional development, and use of evidence.<h4>Methods</h4>In this descriptive study, a purpose-designed online survey was distributed via social media, occupational therapy organisations, and researcher contacts. The survey was open between March and September 2023. The survey was approximately 25 minutes long and included fixed choice and open-ended questions. Descriptive and content analysis were conducted.<h4>Consumer and community involvement</h4>An advisory group of paediatric occupational therapists was involved in survey design and testing.<h4>Results</h4>One-hundred and fifty-six surveys were fully completed. Participants predominantly worked in private practice (56.41%) and utilised National Disability Insurance Scheme (NDIS)/Early Childhood Intervention funding (71.15%). The most common diagnosis seen was autism spectrum disorder (84.62%). The most common theory used was developmental theory (80.00%). The most frequently used model was the Person, Environment, Occupation model (66.67%). The goal setting tool most used was the Canadian Occupational Performance Measure (81.15%). The most frequently used assessment was Sensory Profile 2 (71.23%). Participants identified that they most commonly focussed on fine motor training (77.93%), parent/caregiver education (69.66%), and goal directed training (68.28%) for intervention. Less than half (41.67%) reported being 'somewhat satisfied' with their access to professional development, but the majority reported being supported by their workplace in using evidence-based practice (90.38%).<h4>Conclusion</h4>Changes in current paediatric occupational therapy practice were identified, which were reflective of the change to funding via the NDIS and evidence supporting top-down interventions. An emphasis on measuring at the level of impairment remains a barrier to supporting and evaluating occupational performance and participation outcomes.",
+      "url": "https://doi.org/10.1111/1440-1630.70144",
+      "source": "MED",
+      "doi": "10.1111/1440-1630.70144",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43036135",
+      "topic": "AI Embeddings",
+      "title": "A Narrative Review on the Recent Advances in Pseudomonas aeruginosa Transmission: Focus on Hospital Environments.",
+      "authors": "Vandu CD, Okon MB, Fasogbon IV, Musyoka AM, Makena W, Ikuomola EO, Swase DT, Agwu E, Aja PM.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "Pseudomonas aeruginosa is a high-risk nosocomial pathogen responsible for severe hospital-acquired infections. Its persistence in hospital environments is supported by biofilm formation, extensive antimicrobial resistance, and the ability to colonize water systems and medical devices. Genomic technologies have enhanced the understanding of its complex transmission routes. A narrative review approach was used to synthesize evidence from 2015 to 2025. Searches across major databases identified studies focused on environmental persistence, biofilms, genomic surveillance, outbreak reports, and infection prevention and control (IPC) strategies. Data were grouped into thematic areas covering pathogen biology, environmental reservoirs, and control approaches. Water distribution systems, including sinks, drains, showers, and wastewater plumbing, emerged as important, setting-dependent sources of P. aeruginosa transmission. Biofilm-mediated survival allowed long-term colonization, resistance-gene exchange, and recolonization after disinfection. Comparative genomic tools, when combined with epidemiological evidence, supported environmental-patient links in several outbreaks, revealing multiple clones circulating simultaneously. Medical devices such as bronchoscopes and ventilators also served as additional reservoirs when reprocessing practices were inadequate. Outbreaks reported across continents highlighted recurring system-level gaps: poor plumbing design, limited environmental monitoring, inconsistent hand hygiene, and insufficient antimicrobial stewardship. Successful interventions included targeted plumbing replacement, waterless patient care, enhanced reprocessing protocols, real-time sequencing, and integrated IPC stewardship programs. Environmental reservoirs are critical drivers of P. aeruginosa transmission in hospitals. Genomic surveillance provides high-resolution evidence to support transmission hypotheses and timely interventions. Sustainable control requires robust environmental hygiene, engineering improvements, ongoing surveillance, rapid diagnostics, and stewardship, which is particularly vital in low-resource settings.",
+      "url": "https://doi.org/10.1002/mbo3.70455",
+      "source": "MED",
+      "doi": "10.1002/mbo3.70455",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43032919",
       "topic": "AI Embeddings",
       "title": "Comparative electrostatic mapping of ATP synthase reveals species-dependent axial asymmetry.",
@@ -236,6 +284,22 @@
       "url": "https://doi.org/10.1002/pro.70843",
       "source": "MED",
       "doi": "10.1002/pro.70843",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43031391",
+      "topic": "AI Embeddings",
+      "title": "Cultural Differences in Acceptance, Accessibility and Applicability of a Shared Decision-Making Intervention for Older Adults With Multiple Long-Term Conditions: A Feasibility Study Using Think Aloud Interviews.",
+      "authors": "Palmer AK, Richards S, Kadam UT, Mattick KL, Rogers F, Tatnell L, Summers B, Butterworth JE.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "<h4>Background</h4>Shared decision-making between patient and clinicians is crucial for older adults with multiple long-term conditions, particularly those from culturally diverse, under-represented groups who face health inequalities.<h4>Objective</h4>This study evaluates the inter-cultural feasibility of patient-facing materials from a complex shared decision-making intervention among culturally diverse older adults living with multiple long-term health conditions.<h4>Method</h4>Qualitative think aloud interviews were conducted with 20 participants aged 65 and older from White British, Afro-Caribbean, and South Asian heritages across urban, rural, and coastal settings. We used thematic analysis to explore feasibility issues and inform the development of targeted approaches in the developing of intervention materials.<h4>Results</h4>Our results demonstrate a range of diverse perspectives with respect to our intervention materials, from how the presence of inclusive messaging may mediate initial acceptance to how pressures on the health care system can affect relational continuity, which in turn undermines the efficacy of this messaging. Our data also demonstrates the importance of point-of-care delivery and the potential risks associated with transitioning from analogue to digital. The role family and third parties in care coordination was also observed as important factors in the design of interventions and the process of shared decision-making more broadly.<h4>Conclusions</h4>Our study reinforces the importance of seeking diverse perspectives to improve patient-facing materials to ensure alignment between patients' lived realities and the healthcare provider's messaging. Reflecting the complexity of shared decision-making as an intervention, the suitability of our patient-facing materials centres around its visual acceptability, structural applicability, and intersectional accessibility. Targeted approaches are needed to involve diverse patients and carers in shared decision-making, particularly given current changes to UK healthcare policy, and the need to address health and care inequalities among older adults with multiple long-term conditions.<h4>Lived experience contribution</h4>A Patient and Public Involvement (PPI) group, including twelve individuals with multiple long-term conditions and/or carers, influenced all study stages from refining the research questions to interpreting results. A public representative and a PPI lead are listed as co-authors on this manuscript and our public-facing infographic, created with the help of these members, is available here: https://view.genially.com/6a9049b186120ca2ef1731db.",
+      "url": "https://doi.org/10.1111/hex.70969",
+      "source": "MED",
+      "doi": "10.1111/hex.70969",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -1058,16 +1122,16 @@
       ]
     },
     {
-      "id": "MED:42948970",
+      "id": "MED:42959622",
       "topic": "AI Embeddings",
-      "title": "Effects of segment chemistry on mechanical performance and hemocompatibility in polyurethane heart valve scaffolds.",
-      "authors": "Sadeghi F, Zamani Y, Tacklind M, Edwards R, Simionescu D, Kheradvar A.",
+      "title": "Comparative analysis of wound healing effect induced by photo-crosslinked adhesive in cornea and conjunctival injuries.",
+      "authors": "Jo YJ, Cho MH, Lee JS.",
       "journal": "",
       "date": "2026-11-18",
-      "abstract": "Polycarbonate-based and polysiloxane-modified thermoplastic polyurethanes (TPUs) are promising candidates for cardiovascular implants because of their tunable mechanical properties and favorable biocompatibility. In this study, we established comparative formulation-property-hemocompatibility criteria for polymeric heart valve scaffolds through a systematic evaluation of five commercial TPU formulations: carbothane AC-4095A (CB95-AC), carbothane AC-4075A (CB75-AC), carbothane PC-3575A (CB75-PC), chronoflex C65D (CF), and quadrasil ARCS 90A (Qsil). This comparative analysis provides practical material-selection criteria based on the balance between elastic recovery, tear resistance, oxidative stability, and hemocompatibility. CF and CB95-AC exhibited the highest stiffness and tensile strength, whereas CB75-AC and CB75-PC demonstrated greater elasticity and lower residual strain during cyclic loading. CB75-AC exhibited the lowest hysteresis and best elastic recovery; however, it also exhibited low tear resistance and slightly elevated hemolysis (∼4%), highlighting the tradeoff between elastic recovery and mechanical robustness. All TPU materials maintained platelet counts and partial thromboplastin time values within ASTM-defined acceptable ranges. FTIR analysis revealed formulation-dependent differences in urethane carbonyl hydrogen bonding and hard-domain association that were associated with differences in mechanical behavior and surface characteristics. DSC revealed formulation-dependent differences in thermal transitions, whereas WAXD showed broadly similar, predominantly amorphous structures with diffuse scattering centered at approximately 20-21° 2<i>θ</i> and no distinct crystalline reflections. Preliminary short-term implantation of a CB95-AC polymeric mitral valve in an ovine model showed no gross thrombotic attachment on the leaflet surfaces after 22 days. Overall, the results demonstrate formulation-dependent tradeoffs among elastic recovery, tear resistance, oxidative stability, and hemocompatibility in TPU-based heart valve scaffolds. These findings provide practical material-selection criteria for future polymeric heart valve scaffold development.",
-      "url": "https://doi.org/10.1039/d6tb01865c",
+      "abstract": "<h4>Aim</h4>To analyze the healing effect of a new hyaluronic acid (HA) photo-crosslinked ocular adhesive for corneal and conjunctival wounds and evaluate its clinical potential in ocular surface reconstruction.<h4>Methods</h4>Male New Zealand rabbits were included. A full-thickness corneal wound was induced in the superior corneal limbus, and a 5×5 mm<sup>2</sup> conjunctival flap was dissected while leaving intact the lateral limbus of the cornea. The rabbits were randomly divided into corneal and conjunctival wound groups, each containing three subgroups. Histological findings and transmission electron microscopy (TEM) were used to compare wound healing parameters of inflammation and collagen remodeling at 7 and 14d post-injury.<h4>Results</h4>Thirty rabbits (14-16 weeks old, 3.0±0.5 kg) were included and were randomly assigned to either a corneal injury group (<i>n</i>=15) or a conjunctival injury group (<i>n</i>=15). Each group was further divided into three subgroups: control, enbucrilate, and HA photo-crosslinked adhesive (HPCA) groups (<i>n</i>=5 each). Anterior chamber leakage was observed until the first day in the control group, whereas corneal wound recovery was observed in the other two adhesive groups. Rabbits in the enbucrilate group exhibited significantly higher numbers of infiltrating inflammatory cells compared to HPCA group at both days 7 and 14 post-injury, along with irregular collagen fiber rearrangement. The HPCA group had fewer infiltrating inflammatory cells in the corneal wound area compared to the control (<i>P</i>=0.043, 0.033 on days 7 and 14 post-injury, respectively) and enbucrilate groups (<i>P</i>=0.004, 0.017 on days 7 and 14 post-injury, respectively). It displayed significantly fewer infiltrating inflammatory cells in conjunctival tissue wounds than the other two groups (<i>P</i>=0.043 and 0.033 on day 7 post-injury, both <i>P</i><0.001 on day 14 post-injury). The regenerated conjunctival tissue in the HPCA group displayed a uniform collagen arrangement, indicating smoother, regular wound healing.<h4>Conclusion</h4>The HPCA causes less inflammatory infiltration and more uniform collagen fiber arrangement during corneal and conjunctival tissue wound healing than control and enbucrilate groups, indicating its usefulness for ocular surface reconstruction.",
+      "url": "https://doi.org/10.18240/ijo.2026.11.03",
       "source": "MED",
-      "doi": "10.1039/d6tb01865c",
+      "doi": "10.18240/ijo.2026.11.03",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -1138,147 +1202,19 @@
       ]
     },
     {
-      "id": "MED:43044951",
-      "topic": "AI Embeddings",
-      "title": "Rotablator Burr Entrapment: A Systematic Review of 215 Published Cases, Mechanisms, and Management.",
-      "authors": "Kolotouros E, Lerakis V, Tsourous M, Vichos T, Carvalho PEP, Akyel A, Desai P, Alexandrou M, Strepkos D, Macy S, Gavlasova D, Milkas A, Egred M, Santos IJA, Sánchez JS, Mastrodemos OC, Rangan BV, Sandoval Y, Brilakis ES.",
+      "id": "MED:43041595",
+      "topic": "Long-acting PrEP",
+      "title": "Visible Light-Active Hyaluronic Acid Dermal Fillers for User-Demand Quick Molding and Local Drug Delivery.",
+      "authors": "Jang S, Kang HG, Lee SO, Kim S, Seong KY, Choi HD, Song YS, An BS, Yang SY.",
       "journal": "",
-      "date": "2026-11-17",
-      "abstract": "<h4>Background</h4>Burr entrapment is a rare but potentially life-threatening complication of rotational atherectomy. We reviewed all related publications, classified the mechanisms of entrapment, and summarized management strategies.<h4>Methods</h4>PubMed, Embase, and Google Scholar were searched for English-language publications reporting Rotablator burr entrapment or related retained-burr or device-loss events from inception through August 31, 2026.<h4>Results</h4>One hundred fourteen publications were included, representing 215 unique eligible cases after exclusion of one overlapping case. The mechanism was reported in 117 cases, management in 162, and final outcome in 160. Among 34 studies reporting the total number of rotational atherectomy procedures, burr entrapment occurred in 118 of 19,672 procedures (0.6%). The most common classified mechanism was intralesional embedding or wedging (32.5%), followed by the Kokeshi phenomenon (30.8%), stent-related entrapment (26.5%), and primary driveshaft fracture or burr disconnection (10.3%). Among the 162 cases with available management data, 86.4% were managed percutaneously, including 3.7% with intentional burr retention or exclusion (crushing or jailing), and 13.6% required surgical bailout. Management strategies shifted over time, with surgical bailout declining from 66.7% before 2010 to 22.7% in 2010-2019 and 5.5% in 2020-2026. Procedural outcomes differed according to mechanism. Successful burr resolution with completed or otherwise acceptable PCI was most frequent in Kokeshi-type entrapment (80.6%), whereas stent-related entrapment had the highest surgical bailout rate (29.0%).<h4>Conclusions</h4>Burr entrapment was reported in approximately 0.6% of rotational atherectomy procedures. Our findings support a mechanism-based, stepwise approach to burr retrieval. Percutaneous treatment is successful in most contemporary cases.",
-      "url": "https://doi.org/10.1016/j.amjcard.2026.11.019",
+      "date": "2026-11-16",
+      "abstract": "Injectable dermal fillers are increasingly used for tissue augmentation and local drug delivery, but conventional particulate fillers often require high injection forces, pose a risk of vascular occlusion, and offer limited moldability. Here, we report a visible light-responsive hyaluronic acid liquid dermal filler (HA photofiller) that enables on-demand molding and localized delivery of regenerative agents through biocompatible in-body photocrosslinking. The HA photofiller was prepared as a low-viscosity photocrosslinkable HA precursor that rapidly formed a mechanically stable hydrogel after short visible light exposure. Its liquid state allowed low-force injection (<3 N through a 27-gauge needle) and shaping before fixation, while the photocrosslinked hydrogels exhibited concentration-dependent mechanical tunability. Incorporation of α-ketoglutarate, selected as a regenerative agent that promotes collagen synthesis in dermal fibroblasts, enhanced dermal collagen deposition in vivo. The HA photofiller achieved rapid in situ fixation after molding, minimal initial swelling, excellent biocompatibility, and long-term volume maintenance (~90% retention over 28 d). In a rabbit ear intra-arterial injection model, the HA photofiller exhibited rapid vascular washout without visible signs of persistent vascular occlusion or ischemic tissue injury. By integrating on-demand moldability, improved vascular safety, and localized regenerative activity, this light-responsive HA photofiller provides a versatile platform for next-generation aesthetic and regenerative medicine applications.",
+      "url": "https://doi.org/10.34133/bmr.0429",
       "source": "MED",
-      "doi": "10.1016/j.amjcard.2026.11.019",
+      "doi": "10.34133/bmr.0429",
       "is_preprint": false,
       "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43044725",
-      "topic": "AI Embeddings",
-      "title": "RescQ&lt;sup&gt;TM&lt;/sup&gt;: One-year implementation and feasibility results of a digitally enabled support pathway for bystanders of out-of-hospital cardiac arrest.",
-      "authors": "Sajjad U, Mion M, Simpson R, Movio G, Khan S, Sharpe L, Davis J, Ibrahim A, Butt H, Tahir M, Jolapara N, Narang Y, Roberts-Andreou L, Grier G, Swindell P, Menzies S, Major R, Powell B, Watts M, Pareek N, Davies JR, Keeble TR.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "<h4>Background</h4>Bystanders to out-of-hospital cardiac arrest (OHCA) are at significant risk of psychological distress, yet no standardised support pathway exists for them in the UK. RescQ™ is a digital-first bystander support pathway embedded within regional prehospital and cardiac arrest care services.<h4>Aim</h4>To evaluate the feasibility of embedding RescQ™ into routine emergency medical services (EMS) practice leading to appropriate contact with bystanders involved in OHCA. Secondary aims were to describe digital access, demand for liaison officer (LO) support, identification of younger bystanders, and EMS clinician acceptability.<h4>Methods</h4>Prospective one-year regional service evaluation of RescQ™ across Essex, UK. Bystanders involved in eligible OHCA events were registered by EMS clinicians and provided with immediate access to secure digital resources. Bystanders could self-refer for additional support through LO.<h4>Results</h4>During the one-year evaluation, 220 of 432 eligible OHCA incidents had at least one bystander identified and the incident entered into the RescQ™ pathway, representing an incident-level capture rate of 50.9%. Across these incidents, 298 bystanders were identified, of whom 260 eligible adults were registered with RescQ™. Of registered adult bystanders, 96.2% accessed the digital resources at least once. Among all identified bystanders, 30/298 (10.1%) were aged under 18 years. Approximately 10% of registered bystanders self-referred for additional personalised LO support. Among 25 EMS clinician survey respondents who had used RescQ<sup>TM</sup> in clinical practice, ratings indicated acceptability.<h4>Conclusion</h4>RescQ™ demonstrated the feasibility of identifying and supporting bystanders following OHCA through a digitally enabled pathway, achieving incident-level capture above the pre-specified feasibility threshold and high website access among registered adults. These findings support further multi-region evaluation of implementation, sustainability and scalability across different EMS systems.",
-      "url": "https://doi.org/10.1016/j.resuscitation.2026.111404",
-      "source": "MED",
-      "doi": "10.1016/j.resuscitation.2026.111404",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43044140",
-      "topic": "AI Embeddings",
-      "title": "Designing High-Quality-Factor Electrospun Nanofiber Air Filters with Physics-Informed Machine Learning.",
-      "authors": "Sankaralingam D, S V, S A, Menon AR, Nimje R, Mahajan A.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "High filtration efficiency ($\\eta$) and low pressure drop ($\\Delta P$) are desirable performance parameters for an air filter, and the quality factor \\rev{(QF)} is the standard figure-of-merit that&#xD;balances particle capture against breathability. &#xD;In this work, we present a physics-informed machine-learning&#xD;framework that predicts efficiency, pressure drop, and the derived quality factor&#xD;for electrospun fibrous filters.&#xD;Two physics-informed neural networks \\rev{(PINNs), formulated as physics-constrained networks in which the filtration laws are imposed as hard constraints rather than as differential-equation residual penalties,} are constructed: a pressure-drop network constrained by Darcy's law and an efficiency network constrained by the classical exponential log-penetration relation. By embedding these filtration laws as differentiable constraints, the framework learns effective permeability and single-fiber efficiency, enabling physically consistent prediction and optimization of the quality factor.&#xD; &#xD;A dataset spanning multiple polymers, fiber diameters, packing fractions, membrane thicknesses, face&#xD;velocities, and filtration particle sizes is compiled from published&#xD;experimental studies. The pressure-drop PINN attains&#xD;$R^2=0.982$, outperforming all five purely data-driven&#xD;regressors, while the efficiency PINN attains $R^2=0.984$. Systematic variation of the input parameters identifies fiber diameter as the dominant lever for improving QF, shows that the optimal QF depends on particle size, and confirms the weak dependence of QF on membrane thickness. These results indicate that physics-guided learning offers a generalizable and physically consistent route to the predictive design of high-performance, energy-efficient electrospun filters.",
-      "url": "https://doi.org/10.1088/1361-6528/aec2fa",
-      "source": "MED",
-      "doi": "10.1088/1361-6528/aec2fa",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43044107",
-      "topic": "AI Embeddings",
-      "title": "Feasibility and Preliminary Outcomes of Gardening-Based Immersive Virtual Reality Cognitive Training in Older Adults With Dementia: Single-Group Pretest-Posttest Analysis.",
-      "authors": "Chuang IC, Wu HJ, Wu YR, Hsu JL, Wu CY.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "<h4>Background</h4>Nonpharmacological interventions for cognitive problems play a critical role in dementia care, yet maintaining engagement and adherence remains challenging. Immersive virtual reality (VR) provides a promising platform for cognitive training, particularly when integrated with personally meaningful leisure activities that may enhance therapeutic resonance.<h4>Objective</h4>This study aimed to examine the feasibility of gardening-based immersive VR cognitive training and to explore pre-post changes in clinical outcomes among older adults with dementia.<h4>Methods</h4>This study reports an analysis of intervention-phase data from an ongoing registered randomized crossover clinical trial (ClinicalTrials.gov NCT07033468). For this report, the available data were analyzed using a single-group pretest-posttest approach; data from the waitlist-control period were not included. Between September 2024 and December 2025, 16 older adults with mild-to-moderate dementia were recruited through referral-based convenience sampling from a hospital and a dementia day care center in Taiwan. Participants completed a 15-session VR intervention over 5 weeks, involving gardening-based activities targeting multiple cognitive domains. Feasibility outcomes included VR acceptance, simulator sickness, and observed emotional responses during the first VR session. Cognitive outcomes included global cognition assessed using the Montreal Cognitive Assessment (MoCA) and domain-specific cognitive measures. Secondary outcomes included activities of daily living, depressive symptoms, behavioral and psychological symptoms of dementia, quality of life, and well-being. Paired <i>t</i> tests were used to examine pre-post differences, and the Holm-Bonferroni procedure was applied to adjust for multiple comparisons.<h4>Results</h4>Sixteen participants (5 men and 11 women; mean age 78.12, SD 6.61 years) completed feasibility assessments, 15 participants (4 men, 11 women; mean age 78.57, SD 6.58 years) completed the intervention, and 5 occupational therapists evaluated the usability of the VR system. VR acceptance significantly increased after the first session (<i>t</i><sub>15</sub>=-5.40, 95% CI -0.61 to -0.26; <i>P</i><.001), while simulator sickness significantly decreased (<i>t</i><sub>15</sub>=2.42; 95% CI 0.34-5.27; <i>P</i>=.009). Emotional responses indicated high levels of pleasure (mean 3.38, SD 1.63) and alertness (mean 4.63, SD 0.89) with minimal negative affect. Usability was rated as acceptable (system usability scale: mean 70.5, SD 12.17). Global cognitive performance was higher at postintervention than at baseline (MoCA: Cohen <i>d</i>=1.03; 95% CI -3.28 to -0.99; <i>P</i>=.001). No statistically significant pre-post differences were observed in domain-specific cognitive measures, activities of daily living, quality of life, or psychosocial outcomes.<h4>Conclusions</h4>Gardening-based immersive VR cognitive training appears feasible, acceptable, and well tolerated among older adults with dementia. The program extends existing VR approaches by embedding familiar, goal-directed gardening activities within an interactive cognitive training environment. By combining participant-centered feasibility outcomes with occupational therapist-rated usability, this study provides preliminary evidence relevant to the development and implementation of person-centered VR cognitive training in clinical and community dementia care. The favorable pre-post change in global cognition further supports investigation of this approach in larger controlled studies.",
-      "url": "https://doi.org/10.2196/98062",
-      "source": "MED",
-      "doi": "10.2196/98062",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43043745",
-      "topic": "AI Embeddings",
-      "title": "Multi-View Synergistic Learning with Vision-Language Adaptation for Low-Resource Biomedical Image Classification.",
-      "authors": "Luo X, Xiao M, Xie T, Wang M, Qi H, Zhou JT, Zhang T, Wang X.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "Accurate biomedical image classification under limited supervision remains challenging due to scarce annotations, subtle inter-class differences, and complex disease semantics. Pretrained vision-language models offer a promising foundation for alleviating data scarcity through knowledge transfer, yet effectively adapting them to low-resource biomedical tasks remains nontrivial. To this end, we propose Multi-View Synergistic Learning (MVSL), a unified framework that jointly considers three complementary perspectives: adaptation paradigms, representation granularity, and disease semantic relationships. Specifically, MVSL adopts tailored adaptation strategies for visual and textual encoders, accommodating their distinct representational characteristics while preserving pretrained knowledge. To capture both holistic image semantics and localized pathological evidence, we introduce multi-granularity contrastive learning that aligns global image representations and local visual features with disease-specific textual embeddings. Furthermore, we develop a Disease Semantic Graph (DSG) that leverages disease descriptions generated by large language models to model class-level semantic relationships and regularize adapted textual representations, thereby complementing discriminative learning and helping mitigate excessive specialization toward observed categories. Through the synergy of these complementary perspectives, MVSL enhances fine-grained discrimination while supporting semantic consistency and generalization to unseen categories. Extensive experiments on 11 public biomedical datasets spanning 9 imaging modalities and 10 anatomical regions demonstrate the effectiveness of MVSL in few-shot classification and base-to-novel generalization. The implementation and detailed experimental results are publicly available at https://github.com/luoxiaoliu/MVSL.",
-      "url": "https://doi.org/10.1109/tip.2026.3753085",
-      "source": "MED",
-      "doi": "10.1109/tip.2026.3753085",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43043732",
-      "topic": "AI Embeddings",
-      "title": "One-Step Rectified Flow Reconstruction with Spectral Weighting for Limited-angle Cardiac CT.",
-      "authors": "Han S, Fang C, Morovati B, Zhou L, Li H, Ni S, Fan S, Terry JG, Carr JJ, Wang G, Yu H.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "Limited-angle cardiac computed tomography (CT) suffers from severe directional artifacts and resolution degradation due to missing wedges in the frequency domain. Diffusion-based reconstruction methods have demonstrated strong artifact suppression capabilities but typically require iterative sampling at a high computational cost. To accelerate limited-angle CT reconstruction, we propose a rectified-flow framework trained with paired supervision for fast inference. Instead of generating images from Gaussian noise, the model learns a deterministic transport from artifact-contaminated Feldkamp-Davis-Kress (FDK) reconstructions to full-view reference images. A 2.5D slice-context modeling strategy is introduced to exploit inter-slice information while reconstructing only the central slice, improving structural consistency. Furthermore, we introduce a reconstruction-aware spectral loss that applies frequency-domain supervision to an approximate endpoint reconstruction inferred from the predicted flow velocity. By embedding spectral priors into the learning objective and using one-step rectified-flow inference (a single network evaluation), the proposed framework achieves fast reconstruction while preserving image fidelity. Experiments on XCAT simulations and clinical cardiac CT data show superior quantitative performance and substantially reduced inference time compared to the state-of-the-art baselines. A qualitative review by an experienced cardiac radiologist further suggests improved visualization of motion-sensitive coronary structures with reduced motion blur.",
-      "url": "https://doi.org/10.1109/tmi.2026.3754715",
-      "source": "MED",
-      "doi": "10.1109/tmi.2026.3754715",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43043607",
-      "topic": "AI Embeddings",
-      "title": "Sustainability Strategies and Practices in the Management of Chronic Kidney Disease: A Narrative Review.",
-      "authors": "Yousafzai S, Mian HR, Stigant CE, MacNeill AJ, Hewage K, Sadiq R.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "Chronic kidney disease (CKD) affects over 850 million people worldwide and is projected to become a leading cause of death by 2040. Kidney care is resource-intensive, contributing to greenhouse gas (GHG) emissions, water and energy consumption, and healthcare costs. Addressing sustainability in CKD management is critical for aligning kidney health delivery systems with global climate and health goals. A multidisciplinary narrative review was undertaken to qualitatively synthesize literature on CKD management, integrating clinical nephrology, environmental sustainability, and planetary-health perspectives. Studies examining dialysis, kidney transplantation (KT), and preventive kidney management (PKM) were analyzed through the Triple Bottom Line (TBL) framework, encompassing environmental, economic, and social dimensions. Dialysis, though life-sustaining for people with CKD G4-G5, is the least sustainable option due to its high ecological footprint and cost. KT often provides superior survival and long-term cost-effectiveness but faces barriers such as donor availability, inequitable access, and procedural and pharmaceutical emissions. PKM, including early detection, lifestyle improvements, appropriate virtual care, and optimized pharmacologic management, is important for slowing disease progression and may reduce the need for resource-intensive kidney replacement therapy (KRT). Although the environmental and economic effects of PKM have not been consistently quantified, avoiding or delaying progression to advanced CKD may reduce healthcare resource use, costs, and environmental impacts. Findings support a coordinated, value-based model of kidney care that aligns preventive, interventional, and supportive practices, while recognizing gaps in environmental and economic evidence. Embedding sustainability into CKD care will necessitate technological innovation, policy reform, and equitable access. Future collaborative research should employ long-term life-cycle assessments to guide sustainable, patient-centered kidney care. It should account for variability in CKD pathways and balance effectiveness, sustainability, and equitable access worldwide.",
-      "url": "https://doi.org/10.1007/s12325-026-03850-7",
-      "source": "MED",
-      "doi": "10.1007/s12325-026-03850-7",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1370108",
-      "topic": "AI Embeddings",
-      "title": "SRAscout: Semantic discovery of public sequencing data through harmonized SRA and BioProject metadata",
-      "authors": "Grigoriadis D, Perdikopanis N, Chan CS, Pavlopoulos G, Georgakopoulos-Soares I.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "The rapid growth of public sequencing data has created great opportunities for data-driven discovery in the life sciences, but it has also made it harder to find relevant datasets. The NCBI Sequence Read Archive (SRA) hosts more than 45 million high-throughput sequencing runs, and the BioProject database, shared by NCBI, the European Nucleotide Archive (ENA) and the DNA Data Bank of Japan, describes the projects behind them. However, their metadata are often incomplete, inconsistently annotated and difficult to search using keywords alone. We present SRAscout, a web-based platform that enables semantic dataset retrieval by integrating SRA run metadata with the corresponding BioProject records. SRAscout collects and indexes metadata for about 714,000 BioProjects, and harmonizes sample attributes such as cell line, tissue, age, sex and treatment into a compact and consistent schema. For semantic embedding, SRAscout employs a biomedical sentence embedding model based on BioBERT, which generates dense vector representations from the title, name, organism and description of each project. Users can search in three modes, with the DOI or PubMed ID of an article, with free text, or with BioProject and SRA study accessions, and SRAscout finds the most related projects in each case. Free-text queries are processed through a hybrid of semantic and full-text search, which finds conceptually relevant studies even when different terms are used to describe the same biology, while exact terms such as gene names are still matched. Structured filters allow refinement by organism, assay type (for example RNA-seq and miRNA-seq), harmonized sample attributes such as tissue, cell type and disease, tag words, and many additional attributes. For each search, users can download a harmonized metadata table and ready-to-use scripts that fetch the sequencing files from ENA. SRAscout also offers a public API for programmatic access. By combining harmonized metadata with context-aware search in a single interface, SRAscout facilitates dataset discovery, meta-analysis and data reuse. The application is freely available at www.srascout.com.",
-      "url": "https://doi.org/10.64898/2026.11.15.766670",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.15.766670",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43043306",
-      "topic": "AI Embeddings",
-      "title": "Protein language model-assisted screening of bitter peptides from &lt;i&gt;Prunus dulcis&lt;/i&gt;.",
-      "authors": "Liu Y, Yu S, Zhang Y, Zheng J, Fu X, Jin Y.",
-      "journal": "",
-      "date": "2026-11-17",
-      "abstract": "Bitterness is a major limitation in the utilization of plant-derived proteins in food systems, while conventional identification of bitter peptides is labor-intensive and inefficient. Advances in food informatics, particularly protein language models, provide new opportunities for predicting the properties of food chemicals. In this study, we developed a protein language model-assisted workflow to screen and prioritize potential bitter peptides from <i>Prunus dulcis</i> proteins. Protein sequences were first subjected to <i>in silico</i> digestion to generate candidate peptides. Representations derived from ESM Cambrian (ESMC) embeddings were combined with amino acid index (AAI) descriptors and Binary Profile-based Numerical Coding (BPNC) features to construct a machine learning model for bitterness prediction. The resulting candidates were further prioritized based on their interaction with the bitter taste receptor TAS2R14 using the ConPLex framework. Three peptides, GECIL, GRPR, and GIPEV, were selected for further evaluation. HPLC analysis revealed hydrolysate peaks with retention times consistent with those of the corresponding synthetic standards, providing preliminary chromatographic evidence, and electronic tongue measurements indicated bitterness-related instrumental responses. CCK-8 assays indicated generally maintained cell viability, except for a decrease with GIPEV at 3.2 mg mL<sup>-1</sup>. Molecular docking and dynamics simulations suggested stable interaction profiles with TAS2R14, with residues S265 and Q266 likely involved in ligand recognition. This study presents an integrated food informatics workflow combining protein language models with structural and experimental evaluation. The proposed strategy provides a useful approach for discovering bitterness-related peptides from plant proteins and offers insight into the molecular basis of peptide bitterness.",
-      "url": "https://doi.org/10.1039/d6fo02313d",
-      "source": "MED",
-      "doi": "10.1039/d6fo02313d",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
+        "Long-acting PrEP"
       ]
     },
     {
@@ -1426,6 +1362,22 @@
       ]
     },
     {
+      "id": "MED:43008417",
+      "topic": "Long-acting PrEP",
+      "title": "Bridging the gap: HIV epidemiologic patterns and PrEP use inequities over the past decade in Rio de Janeiro, Brazil.",
+      "authors": "Coelho LE, Torres TS, Cardoso SW, Jalil EM, Coutinho C, Struchiner CJ, Goedert GT, Genari J, Grinsztejn B, Veloso VG, Luz PM.",
+      "journal": "",
+      "date": "2026-11-10",
+      "abstract": "<h4>Background</h4>In 2017, Brazil integrated Pre-Exposure Prophylaxis (PrEP) into its unified health system. This study aimed to analyze temporal trends in key HIV epidemiological indicators over the past decade to explore the extent to which PrEP expansion has influenced HIV diagnosis rates. We investigated whether disparities in PrEP use across demographic groups were temporally associated with differences in HIV incidence at the populational level.<h4>Methods</h4>We conducted a retrospective analysis of public surveillance data (2012‒2024) for Rio de Janeiro city, Brazil. We estimated annual trends in the proportion of people living with HIV, HIV identifications rates, ART coverage, viral suppression, and PrEP use, stratified by sex, age, race, and education. We used time-series analysis with 3-year moving averages and segmented regression models to identify significant trend changes and breakpoints.<h4>Results</h4>Exponential growth in PrEP use was observed from 2017‒2024, with PrEP use surpassing the number of new HIV identifications after 2021. Despite this expansion, HIV identification rates increased among most demographic subgroups since 2020, particularly among young, Black, and Pardo individuals. PrEP expansion disproportionately benefited older individuals rather than those aged 18‒24 years. Black individuals constituted the smallest racial group using PrEP. Males with ≥12-years of education accessed PrEP at rates nine times higher than males with the lowest education level.<h4>Conclusions</h4>Oral PrEP alone may be insufficient to curb HIV transmission without addressing structural barriers including racism, educational inequities, homophobia, and transphobia. Future prevention efforts should combine different PrEP modalities, community-centered approaches, anti-racism initiatives, LGBTQIAPN+-affirming care, and targeted outreach to younger populations.",
+      "url": "https://doi.org/10.1016/j.bjid.2026.105980",
+      "source": "MED",
+      "doi": "10.1016/j.bjid.2026.105980",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:43011617",
       "topic": "Long-acting PrEP",
       "title": "Lenacapavir in the Treatment and Prevention of HIV-1 Infection: A Narrative Review of Clinical Efficacy and Resistance Selection Risk.",
@@ -1538,6 +1490,22 @@
       ]
     },
     {
+      "id": "MED:43028755",
+      "topic": "Long-acting PrEP",
+      "title": "Congenital Syphilis in South Africa: A Narrative Review of Epidemiology, Health System Drivers, Prevention, and the Path to Elimination.",
+      "authors": "Phiri S, Skepu A, Nxumalo Z, Letsielo MJ, Oyekunle V.",
+      "journal": "",
+      "date": "2026-11-03",
+      "abstract": "Congenital syphilis (CS), caused by vertical transmission of <i>Treponema pallidum</i> subsp. <i>pallidum</i>, remains a major but preventable cause of foetal and neonatal morbidity and mortality globally. Despite established antenatal screening programmes and the availability of effective treatment with benzathine penicillin G (BPG), South Africa continues to experience a substantial burden of maternal and congenital syphilis, with a 2023 national case rate approximately four times the World Health Organization (WHO) elimination target. This narrative review synthesises evidence from peer-reviewed publications, national surveillance reports, and policy documents identified through systematic searches conducted up to September 2026 [searched through August 2026] on congenital syphilis in South Africa. It addresses the microbiology and pathogenesis, epidemiology, clinical burden, diagnostic approaches, health system determinants, and strategies for elimination. Persistent transmission is associated with documented gaps in antenatal booking, repeat screening, treatment completion and partner management, and with recurrent benzathine penicillin shortages; HIV co-infection, poverty and other social and structural factors are likely contributors, but direct evidence for them is more limited. Congenital syphilis remains associated with adverse pregnancy outcomes including miscarriage, stillbirth, prematurity, neonatal mortality, and long-term disability. The elimination of congenital syphilis in South Africa requires strengthening antenatal care coverage, universal and repeat syphilis screening, prompt and complete maternal treatment, partner services, enhanced surveillance systems, and closer integration with HIV programmes. Progress towards the country's 2028 elimination target will depend on a coordinated health systems approach aligned with WHO triple-elimination validation criteria.",
+      "url": "https://doi.org/10.3390/healthcare14213735",
+      "source": "MED",
+      "doi": "10.3390/healthcare14213735",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:42979201",
       "topic": "Long-acting PrEP",
       "title": "Optimizing Preexposure Prophylaxis Adherence: Evaluating Point-of-Care Urine Tenofovir Testing and Tailored Counseling Among Young South African Women.",
@@ -1564,6 +1532,22 @@
       "url": "https://doi.org/10.1111/hiv.70345",
       "source": "MED",
       "doi": "10.1111/hiv.70345",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43029724",
+      "topic": "Long-acting PrEP",
+      "title": "Molecularly Imprinted Polymer Biosensors for Sustainable Antiretroviral Drug Monitoring.",
+      "authors": "Animashaun C, Slaughter G.",
+      "journal": "",
+      "date": "2026-11-02",
+      "abstract": "Antiretroviral therapy (ART) and pre-exposure prophylaxis (PrEP) have transformed human immunodeficiency virus (HIV) treatment and prevention, but both depend on sustained adherence and accurate drug-exposure monitoring. Liquid chromatography-tandem mass spectrometry remains the reference method for antiretroviral quantification, but centralized instrumentation and multistep sample preparation limit decentralized, same-visit testing. This review evaluates molecularly imprinted polymers (MIPs) as synthetic recognition elements for optical and electrochemical antiretroviral sensing, situated within the broader case for green analytical chemistry in decentralized HIV care. MIP-based platforms are compared with direct electrochemical detection and aptamer-based sensing across selectivity, stability, fabrication complexity, regeneration, and matrix tolerance in plasma, dried blood spots, urine, saliva, and interstitial fluid. Although recent MIP sensors achieve nanomolar detection, none of the reviewed studies report standardized greenness metrics such as AGREE, GAPI, or the Analytical Eco-Scale, limiting comparison of their true environmental performance. Clinical value remains further constrained by limited validation in authentic specimens, nonspecific adsorption, and batch-to-batch variability. Future progress will depend on simpler MIP architectures, safer extraction chemistries, matrix-matched validation, and systematic sustainability assessment using established green analytical chemistry metrics.",
+      "url": "https://doi.org/10.3390/s26216926",
+      "source": "MED",
+      "doi": "10.3390/s26216926",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
@@ -1644,6 +1628,22 @@
       "url": "https://doi.org/10.1097/qai.0000000000003934",
       "source": "MED",
       "doi": "10.1097/qai.0000000000003934",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43031929",
+      "topic": "Long-acting PrEP",
+      "title": "Comparison of subcutaneous and intravenous administration of the monoclonal antibody CSX-1004 on fentanyl-induced respiratory depression in squirrel monkeys.",
+      "authors": "Kumar M, Burke EL, Zang Y, Sharma A, Bremer PT, Desai RI.",
+      "journal": "",
+      "date": "2026-10-30",
+      "abstract": "<h4>Background</h4>Fentanyl and related synthetic opioids remain major contributors to overdose mortality, primarily through opioid-induced respiratory depression. CSX-1004 is a fully human monoclonal antibody designed to bind fentanyl in the peripheral circulation and prevent its entry into the brain. This study evaluated the pharmacokinetic (PK) and pharmacodynamic (PD) equivalence of intravenous (IV) and subcutaneous (SC) administration of CSX-1004 in squirrel monkeys and established a population PK (PopPK) model to support route extrapolation.<h4>Methods</h4>Protection against fentanyl-induced respiratory depression was assessed after administration of 40 mg/kg CSX-1004 using whole-body plethysmography over 28 days. Serum antibody concentrations were quantified by enzyme-linked immunosorbent assay, and PK parameters were characterized using noncompartmental and PopPK analyses.<h4>Results</h4>Both IV and SC administration produced substantial and durable attenuation of fentanyl-induced respiratory depression, resulting in a greater than 10-fold rightward shift in fentanyl potency that persisted for up to 28 days. SC CSX-1004 administration exhibited a maximum concentration of 491.7 ± 50.4 μg/mL at 48.0 ± 19.6 h (T<sub>max</sub>) and an absolute bioavailability of 92.0% based on AUC0-∞ . Terminal half-life was comparable between routes (∼272 h). A two-compartment PopPK model with first-order absorption and elimination adequately described the concentration-time data and demonstrated robust predictive performance. Serum concentrations and respiratory protection were lower after SC than after IV administration during the first 24-48 h, reflecting the absorption phase, and converged from Day 2 onward. Simulations indicated that SC and IV administration achieved overlapping systemic exposures beyond the absorption phase and equivalent concentrations associated with sustained respiratory protection through Day 28.<h4>Conclusion</h4>These findings demonstrate that SC administration of CSX-1004 provides PK and PD outcomes comparable to IV dosing, once absorption is complete, supporting SC delivery as a practical and clinically feasible approach for long-acting prophylaxis against fentanyl-induced respiratory depression.",
+      "url": "https://doi.org/10.3389/fphar.2026.1964162",
+      "source": "MED",
+      "doi": "10.3389/fphar.2026.1964162",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
@@ -2240,89 +2240,7 @@
       "topics": [
         "Long-acting PrEP"
       ]
-    },
-    {
-      "id": "PPR:PPR1344103",
-      "topic": "Long-acting PrEP",
-      "title": "Readiness to start long acting injectable HIV treatment and prevention and conditions for acceptance among clinic clients in Uganda",
-      "authors": "Olet SC, Muluga WU, Musoki D, Kihumuro BR, Muluga F, Ssebandeke I, Among F, Stecher CD, Musoke D.",
-      "journal": "",
-      "date": "2026-10-15",
-      "abstract": "Long-acting injectable human immunodeficiency virus (HIV) medicines expand treatment and prevention choices, but willingness to use them does not establish readiness to begin. We examined readiness to start these options, associated factors and conditions for acceptance among people living with HIV and pre-exposure prophylaxis (PrEP)-service clients in Uganda. This cross-sectional study analysed 225 participants at Mildmay Hospital and Kajjansi Health Centre IV in central Uganda. Readiness meant preferring initiation immediately or within three months. Modified Poisson regression estimated adjusted prevalence ratios (aPRs) and 95% confidence intervals (CIs), including age-by-service-group interaction. Separate models examined informational, perceptual and financial factors, adjusting for service group, age and sex. Logistic marginal standardisation checked demographic and expanded age comparisons. Overall, 108 participants (48.0%) were ready to start injectable HIV treatment or prevention, 111 (49.3%) wanted more information about these options, and six (2.7%) preferred initiation in six to twelve months. Readiness was 80.8% among people living with HIV aged 15–24 years and 34.4% among those aged 25 years or older (aPR 2.35, 95% CI 1.63–3.38). Corresponding proportions among PrEP-service clients were 39.2% and 41.4% (aPR 0.95, 95% CI 0.60–1.50; interaction p=0.002). In separate adjusted models, clinic-staff information (aPR 1.94, 95% CI 1.42–2.66), belief in greater effectiveness (2.00, 1.43–2.80) and a one-point increase in benefit score (3.27, 2.36–4.55) were associated with higher readiness. A one-point increase in concern score (0.70, 0.60–0.80) and financial difficulty sometimes or more often (0.68, 0.48–0.96) were associated with lower readiness. Fewer side effects was the leading condition for accepting injectable HIV treatment or prevention across service and readiness groups. Nearly half of participants were ready to start, while a similar proportion wanted further information about injectable options. Programmes should assess intended initiation timing alongside willingness and address safety, appointment flexibility, privacy and affordability through counselling and service planning.",
-      "url": "https://doi.org/10.64898/2026.10.14.26365499",
-      "source": "PPR",
-      "doi": "10.64898/2026.10.14.26365499",
-      "is_preprint": true,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42892257",
-      "topic": "Long-acting PrEP",
-      "title": "Cryogenic sintering decellularized tissue particles creates porous scaffolds that support long-term alternative macrophage infiltration in large traumatic injuries.",
-      "authors": "Baurceanu I, Pal S, Orenuga IK, Kimmel AE, Anderson CF, Magidson V, Harned A, Narayan K, Cosgriff-Hernandez E, Wolf MT.",
-      "journal": "",
-      "date": "2026-10-13",
-      "abstract": "Decellularized extracellular matrix (ECM) biomaterials are widely utilized in soft tissue reconstruction, triggering a Type 2 inflammatory response that promotes repair. However, it remains challenging to manipulate the geometry and porosity of native ECM forms, like sheets and particulates, without chemically altering composition. We describe a controlled freeze-drying method to cryogenically sinter ECM particles into large, mechanically stable, porous 3D ECM scaffolds without altering matrix composition. Modulating small intestinal submucosa (SIS) ECM particle concentration (50 to 200 mg/mL) and freezing rate (-30 °C to -196 °C) during sintering enabled control over 3D porosity (934-3476 μm<sup>2</sup> pore area). Moderate ECM concentrations (100 mg/mL) and slow freezing rates (-80 °C) created scaffolds with the largest pores and high mechanical stability under large strain (storage modulus 4036 ± 172 Pa). In vivo, scaffolds bridged volumetric muscle and fat pad deficits, with fabrication conditions affecting degradation and immune response between 1 and 18 weeks. Rapid CD206<sup>+</sup> macrophage infiltration occurred, particularly in 100 mg/mL -80 °C scaffolds (4752 ± 1773 macrophages/mm<sup>2</sup>). All ECM forms induced interleukin-4 (Il4) expression during the first 2 weeks (over 10-fold vs untreated), though expression in 100 mg/mL -80 °C scaffolds persisted substantially longer (8 weeks) than non-sintered particles. Small-pored 100 mg/mL -196 °C scaffolds degraded faster and remodeled into adipose tissue after 8 to 18 weeks. This study shows that ECM particulate can be processed into mechanically robust 3D scaffolds with controllable porosity and degradation without altering biochemical composition, influencing Type 2 immune activation and tissue remodeling after volumetric injury.",
-      "url": "https://doi.org/10.1016/j.biomaterials.2026.124706",
-      "source": "MED",
-      "doi": "10.1016/j.biomaterials.2026.124706",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42867931",
-      "topic": "Long-acting PrEP",
-      "title": "International Bioethics Training Program Funded by the Fogarty International Center, 2013-2023: Overview and Trends.",
-      "authors": "Rid A, Sina B.",
-      "journal": "",
-      "date": "2026-10-13",
-      "abstract": "The National Institutes of Health Fogarty International Center has supported international bioethics training program funding for over two decades. This program aims to equip trainees with the knowledge and skills to serve as research ethics professionals and bioethics scholars in low- and middle-income countries (LMICs) and support the ethical conduct of socially valuable research in these countries. In this paper, we update a review of the program's first decade (2000-2012) and describe trends in its second decade (2013-2023), including the successful launch of PhD and post-doctoral training and increasing leadership by principal investigators from LMICs. Despite important progress, more research ethics professionals and bioethics scholars are needed to build and sustain strong bioethics infrastructure in LMICs.",
-      "url": "https://doi.org/10.1177/15562646261492746",
-      "source": "MED",
-      "doi": "10.1177/15562646261492746",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42867323",
-      "topic": "Long-acting PrEP",
-      "title": "Pre-exposure prophylaxis for HIV: a review for dermatovenereologists.",
-      "authors": "Pisano L, Turco M, Pimpinelli N.",
-      "journal": "",
-      "date": "2026-10-13",
-      "abstract": "Human immunodeficiency virus (HIV) infection remains a significant public health issue, with 112,883 new diagnoses reported in Europe in 2023. The rise is particularly notable in Eastern Europe, where new cases increased by 20% between 2010 and 2023. Late diagnosis is a major barrier to HIV control, with nearly 50% of new infections in Europe - and up to 60% in Italy - detected at an advanced stage. Dermatovenereologists are key in early detection, as over 90% of people living with HIV show at least one HIV-related dermatologic condition before diagnosis. Thus, dermatovenereology services are well-positioned to promote routine HIV testing and prevention. Pre-exposure prophylaxis (PrEP) is a highly effective HIV prevention method but is unevenly implemented across Europe. In Italy, PrEP is mostly prescribed by infectious disease specialists, except at a pioneering sexually transmitted infections (STI) center in Florence where dermatovenereologists can also prescribe it. Expanding this prescribing authority nationwide could improve access and prevention efforts among underserved populations. Integrating PrEP into dermatovenereology would enhance the continuum of care by linking STI screening, treatment, counseling, and HIV prevention, supporting UNAIDS' goal of ending AIDS by 2030. This narrative review summarizes key studies leading to PrEP approval, outlines approved administration methods for at-risk groups, discusses potential side effects, and highlights emerging therapeutic options under regulatory review (such as long-acting PrEP). It aims to equip dermatovenereologists with all the necessary tools to prescribe and manage PrEP effectively during follow-up.",
-      "url": "https://doi.org/10.23736/s2784-8671.26.08434-3",
-      "source": "MED",
-      "doi": "10.23736/s2784-8671.26.08434-3",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PMC:PMC9603422",
-      "topic": "Long-acting PrEP",
-      "title": "Poster Presentations",
-      "authors": "Forbes J, Hamandi B, Jin R, Kissoon M, Hota S, Poutanen S, Harvey-Lavoie S, Labbé A, Apelian H, Cox J, Messier-Peet M, Moodie E, Lambert G, Hughes J, Sobiesiak A, Charest M, MacPherson P, Leto D, Almohri H, Alexander D, Martin I, Demczuk W, Cole R, Caeseele P, Chernesky M, Jang D, Ratnam S, Shah A, Smieja M, Speicher D, Martin I, Arias M, Clavio A, Ranasinghe R, Short K, Croxen M, Azana R, Brodkin E, Hoang L, German G, Lee B, Frenette C, Katz K, Langley J, Comeau J, Lefebvre M, Minion J, Davis I, Ellis C, Suh K, Larios O, Thampi N, Slinger R, Dingle T, Grant J, Poutanen S, Smith S, Delport J, Lavallée C, Émond Y, Pelude L, Amaratunga K, Mulvey M, (CNISP) a, Hota S, Fruitman J, Kissoon M, Forbes J, Fung S, Poutanen S, Macri J, Ogunremi T, Johnston L, Embree J, Dunn K, Zhong Z, Jamal A, Farooqi L, Faheem A, Armstrong I, Borgundvaag E, Coleman B, Green K, Jayasinghe K, Johnstone J, Katz K, Kohler P, Li A, Melano R, Muller M, Nayani S, Patel S, Paterson A, Poutanen S, Rebbapragada A, Richardson D, Sarabia A, Shafinaz S, Simor A, Willey B, Wisely L, Geer A, Comeau J, Ivany A, Romeo T, Maxwell B, Nymark N, MacKinnon B, Doon E, Mailman T, Ogunremi T, Johnston L, Defalco K, Dunn K, Joffe M, Henry B, Baxi M, Chandran A, Chui L, Ferrato C, Li V, Mac S, Bahia S, Patel S, Pullenayegum E, Evans G, Sander B, Budhram D, Mac S, Patel S, Bielecki J, Sander B, Donald C, Manca S, Fryters S, Chandran A, Sadia H, Sidhu A, Alenezi O, Lytvyak E, Chandran A, Hasselback J, Zakhary M, Chandran A, Hasselback J, Tombindo P, O’Reilly R, Bielecki J, Boyle J, Erdman L, Miranda R, Morris S, Murphy K, Ramsay L, Whitehead C, Ximenes R, Sander B, Vojicic J, Dion S, Isturiz R, Laferriere C, Major M, Nepal R, Suaya J, Zhanel G, McLaughlin J, Leblanc D, Bartlett N, Lynch-Hill Y, MacNeil M, Goodall B, Oldford S, Barrett L, Stapleton P, Izydorczyk C, Blanchard A, Wang P, Caballero J, Yau Y, Guttman D, Li L, Sekirov I, Deans G, Plewes K, Masud S, Kanji J, Lachance L, Gill J, Wood H, Fonseca K, Patel M, Leto D, Haider S, Kanji J, Lee M, Lavoie G, Boychuk L, Marion D, Maciejewski J, Luinstra K, Bulir D, Jayaratne P, Mertz D, Smieja M, Lytvyak E, Trepanier K, Doroshenko A, Chandran A, Lewin A, Quach C, Rigourd V, Picaud J, Perreault T, Frange P, Domingo M, Lalancette C, Delage G, Germain M, Chung K, Muttalib F, Morris S, Pell L, Sander B, Frankel C, Whyte H, Chau V, MacGregor D, Mahant S, Branson H, Campigotto A, Bitnun A, Arends R, Shortridge D, Duncan L, Bousette N, Streit J, Flamm R, Whellams D, Imperial M, Kelly M, Liao R, Reyes R, Rajakumar I, Ondro C, Sabuda D, Bourassa-Blanchette S, Gillrie M, Conly J, Pogue J, Kaye K, Veve M, Gerlach A, Patel T, Davis S, Chaung E, Ray A, Bousette N, Puzniak L, Bonomo R, Perez F, Arends S, Shortridge D, Castanheira M, Bousette N, Streit J, Flamm R, Lagacé-Wiens P, Alexander D, Bharat A, Walkty A, Patriquin G, Sidairi H, Head J, Leblanc J, Davidson R, Hussain Z, Brooks A, Cahill J, O’Brien C, Lui M, Tran C, Raza S, Mertz D, Joyce J, Alex S, Shafer L, Wuerz T, Bader M, Irfan N, Brooks A, Langford B, Quirk J, Carey S, Daneman N, Garber G, Tong B, Masoudi S, Grant J, Malfair S, Shajari S, Lin Y, Intyre M, Perey R, Neary M, Lavrencic N, Jackson T, Sonpar A, Fryters S, Chandran A, Masoudi S, Tong B, Grant J, Malfair S, Shajari S, Lin Y, Davis I, McNeil S, Allen W, MacKinnon-Cameron D, Wilson K, Bernat K, Dibernardo A, Lindsay L, Hatchette T, Chan W, Pillai D, Chui L, Berenger B, Baxter M, Adam H, McCracken M, Golden A, Golding G, Karlowsky J, Zhanel G, Arsenault C, Martin P, Lévesque S, German G, Keenan R, Arseneau V, Tsang R, Petrich A, Drews S, LeBlanc J, ElSherif M, Mulpuru S, Warhuus M, Ambrose A, Andrew M, Biovin G, Chit A, Santos G, Green K, Halperin S, Hatchette T, Ibarguchi B, Johnstone J, Katz K, Langley J, Lagacé-Wiens P, Loeb M, Alexa L, MacKinnon-Cameron D, McCarthy A, McElhaney J, McGeer A, Poirier A, Powis J, Richardson D, Semret M, Shinde V, Smyth D, Trottier S, Valiquette L, Webster D, Ye L, McNeil S, Greenblatt M, Rutherford C, Luinstra K, Smieja M, Lowe C, Karakas L, Lawson T, Romney M, Ritchie G, Payne M, Kadatz M, Payne M, Kiaii M, Romney M, Karakas L, Lawson T, Marchuk S, Gill J, Lowe C, Locher K, Oller K, Fletcher C, Charles M, Stefanovic A, Whellams D, Tomalty C, Reyes R, Morshed M, Dibernardo A, Bernat K, Kwok C, Lindsay L, Patel S, Hasan M, Sundararaju S, Tsui K, Rawat A, Tang P, Tilley P, Slinger R, Amrud K, Sant N, Ramotar K, Desjardins M, Kozak R, Kerr E, Richardson D, Vermeiren C, Poutanen S, Jaswal B, Hoang L, Kibsey P, Kozak R, Acton E, Melano R, Kissoon M, McNamara I, Lowe D, Dewhurst N, Hamandi B, Goneau L, Clark S, Guttman D, Poutanen S, Chan T, Chan M, Chow R, Gunadasa K, Auk B, Jassem A, Krajden M, Levett P, Shabi Y, Jackson C, Sarty D, Heinstein C, MacDonald J, Mazzulli T, Hatchette T, LeBlanc J, Sidari H, Gilbert L, Ratnam S, Jang D, Alaghehbandan R, Schell M, Needle R, Wadhawan A, Costescu D, Zahariadis G, Chernesky M, Bharat A, Alexander D, Dingle T, Dufresne P, Hoang L, Kus J, Gade L, Litvintseva A, McGeer A, Mulvey M, Hazlett B, Sokolskyy Y, Lo P, Mazzulli T, McGeer A, Poutanen S, Farooqi L, Jamal A, Faheem A, Zhong Z, Armstrong I, Borgundvaag E, Coleman B, Green K, Jayasinghe K, Johnstone J, Katz K, Kohler P, Li A, Melano R, Muller M, Nayani S, Patel S, Paterson A, Poutanen S, Rebbapragada A, Richardson D, Sarabia A, Shafinaz S, Simor A, Willey B, Wisely L, McGeer A.",
-      "journal": "",
-      "date": "2026-10-12",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC9603422",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
     }
   ],
-  "errors": [
-    "Long-acting PrEP: The read operation timed out"
-  ]
+  "errors": []
 }
