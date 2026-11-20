@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:49:05.675323+00:00",
+  "updated": "2026-11-20T00:45:37.995204+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -12,6 +12,22 @@
       "url": "https://doi.org/10.1142/s0129065727500262",
       "source": "MED",
       "doi": "10.1142/s0129065727500262",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43052651",
+      "topic": "AI Embeddings",
+      "title": "Genome Sequencing and Analysis for Assessing Genetic Disease Risk: AI-Driven Frontiers and Breakthrough Directions.",
+      "authors": "Chen W, Hong Y, Zhang D.",
+      "journal": "",
+      "date": "2027-01-01",
+      "abstract": "Recent advances at the intersection of artificial intelligence (AI) and genomics are transforming approaches to assessing genetic disease risk. The scale and complexity of genomic, transcriptomic, and related datasets demand methods capable of integrating information across multiple modalities while preserving biological context. This review begins with the emerging concept of the \"genomic language paradigm,\" which frames DNA and RNA sequences as structured codes interpretable by large-scale machine learning models. We then examine the use of graph neural networks to map molecular interaction networks and attention-based methods for detecting functionally important noncoding elements. Approaches that bring together multi-omics resources and longitudinal data are discussed for their ability to reveal how diseases unfold over time. Interpretability is considered in relation to the shift from observing statistical patterns to uncovering causal mechanisms, alongside privacy-preserving strategies such as federated learning that make it possible for institutions to work with sensitive genomic data without exchanging raw files. We also look at developments that could extend AI-enabled genomics into everyday clinical practice, such as on-site analysis through edge computing, and experimental computing architectures that may accelerate large-scale modeling. Finally, we outline factors that will shape clinical adoption-not only regulatory approval, but also the practical challenge of embedding these tools into established healthcare systems. The trajectory of these innovations suggests a move toward genomic medicine that is more predictive, personally relevant, and available to a wider range of patients.",
+      "url": "https://doi.org/10.1007/978-1-0716-5695-2_7",
+      "source": "MED",
+      "doi": "10.1007/978-1-0716-5695-2_7",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -610,6 +626,118 @@
       ]
     },
     {
+      "id": "MED:43053495",
+      "topic": "AI Embeddings",
+      "title": "A short embedding protocol for diagnostic electron microscopy: long-term implementation and diagnostic outcomes in a high-volume clinical series.",
+      "authors": "Zhou H, Zhou XJJ.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Epoxy resin polymerization is a lengthy step in tissue preparation for transmission electron microscopy (TEM). We evaluated whether reducing the polymerization step alone to 40 minutes at 120 °C, with upstream processing unchanged, could maintain diagnostic quality. The protocol has been the sole routine method in a high-volume, accredited clinical TEM laboratory for more than 10 years. Among more than 30,000 consecutive cases, no embedding-related diagnostic inadequacy was identified in consultant pathologist sign-out records. In a prospective, blinded, split-specimen comparison of renal biopsies, both pathologists scored 4 or 5 on every feature for both methods. Nearly all scores were at the upper end of the scale, indicating comparable performance but not establishing statistical equivalence. Glomerular basement membrane thickness was closely similar (mean difference -12.7 nm, ~4%), within measurement variability and below diagnostic detection thresholds. Because curing behavior depends on the resin formulation and oven conditions, local validation is required before implementation.",
+      "url": "https://doi.org/10.1080/01913123.2026.2739247",
+      "source": "MED",
+      "doi": "10.1080/01913123.2026.2739247",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43051243",
+      "topic": "AI Embeddings",
+      "title": "Hope in the Clinical Process: A Tribute to Sandra Glista.",
+      "authors": "Patterson JP, Hinckley JJ.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<h4>Abstract</h4>Hope has been identified as important to individuals with aphasia and their care partners, and realistic hope is crucial to achieving optimal rehabilitation outcomes. However, little attention has been paid to incorporating hope into the clinical process by measuring it, engaging in difficult conversations about hope for the future, and helping clients build realistic hopes. The science of hope has much to offer aphasiology through guidance for embedding hope into the clinical process. We begin this clinical seminar by presenting a clinically relevant review of the science and practice of hope. Next, we discuss how hope can be measured and how information from these measures can help clinicians talk with clients about hope and develop realistic hope. Finally, we turn our attention to evidence-based practices for how health care professionals can support realistic hope and offer examples and suggestions to embed hope into the clinical process.",
+      "url": "https://doi.org/10.1055/a-2993-5238",
+      "source": "MED",
+      "doi": "10.1055/a-2993-5238",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43050803",
+      "topic": "AI Embeddings",
+      "title": "Multiview Integration for Robust Echocardiographic Embeddings: Accessible AI for Clinical Practice.",
+      "authors": "Tohyama T, Han A, Yoon D, Paik K, Gow B, Izath N, Celi LA, Kpodonu J.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<h4>Background</h4>Although recent artificial intelligence (AI) foundation models have shown superior performance in medical imaging, their high computational demands and reliance on large data sets limit accessibility. These issues are especially pronounced in echocardiography, where integrating complex multiview measurements for individual cases hinders AI development and clinical translation. Vector embedding approaches offer promising solutions by leveraging compact representations in AI applications.<h4>Objectives</h4>We aimed to develop a transformer-based multiview encoder that integrates multiple echocardiographic videos into unified vector embeddings and uses adversarial learning to reduce reliance on demographic shortcuts.<h4>Methods</h4>Using the MIMIC-IV-ECHO (Medical Information Mart for Intensive Care IV-Echocardiography) data set (7,169 studies), we trained a multiview encoder to produce study-level embeddings and evaluated them on 21 binary classification tasks covering echocardiographic measurements and clinical diagnoses. We varied adversarial weights to assess their impact on demographic shortcut reliance and overall performance.<h4>Results</h4>The multiview encoder raised the mean area under the curve (AUC) across clinical tasks from 0.742 to 0.831 compared with the foundation model embedding (ΔAUC +0.090; 95% CI: 0.078-0.100), with significant gains in 20 of 21 tasks. The embeddings remained robust with a limited number of views (mean ΔAUC +0.071; 95% CI: 0.043-0.113). Adversarial learning reduced sex and race predictability only at strong weights and at substantial cost to clinical performance.<h4>Conclusions</h4>The multiview encoder framework integrates multiple echocardiographic views into unified study-level embeddings, enabling substantial diagnostic improvements across diverse cardiac tasks. By producing compact, informative embeddings without requiring extensive computational resources, this approach lowers the cost of building echocardiographic AI on an existing foundation model.",
+      "url": "https://doi.org/10.1016/j.jacadv.2026.103488",
+      "source": "MED",
+      "doi": "10.1016/j.jacadv.2026.103488",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43050771",
+      "topic": "AI Embeddings",
+      "title": "Capturing reader-specific annotation biases in ordinal classification: a controlled simulation study.",
+      "authors": "Ripaud E, Jailin C, Milioni de Carvalho P, Vancamberg L, Bloch I.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<i>Objective.</i>Inter-reader variability remains a major challenge in medical image classification, particularly for tasks involving ordinal labels, due to subjective interpretation and institutional biases. While deep learning is widely used to automate and standardize such classification tasks, including breast density assessment, handling reader-dependent annotation behavior remains an open problem. This study introduces a controlled setting to assess the extent to which such variability can be captured by a reader-adaptive model.<i>Approach.</i>This work builds on ReaderAdaptNet, a recently proposed reader-adaptive framework that models individual annotation styles through jointly learned reader-specific embeddings. Through a simulation study, it aims to deepen the understanding of this framework and to address the evaluation limitations imposed by small expert-annotated datasets, for which the underlying bias mechanisms are neither known nor controllable. Synthetic reader profiles are generated to reproduce realistic annotation behaviors, enabling a controlled analysis of the model's ability to adapt to diverse annotation biases. The effects of the embedding dimension and of the fusion strategy of image-reader features on classification accuracy are assessed. The structure of the embedding space is also analyzed.<i>Main results.</i>Results show that reader embeddings effectively capture identifiable, systematic biases, with moderate embedding dimensionality being sufficient. Systematic threshold shifts are recovered, whereas stochastic variability is not learnable. Conditioning image-reader fusion through feature-wise linear modulation or cross-attention mechanisms enables the correction of view-related discrepancies. The learned embedding space further reveals meaningful clustering of annotation profiles, reflecting similarity in reader behavior.<i>Significance.</i>Overall, the proposed synthetic framework identifies which aspects of inter-reader variability are learnable by ReaderAdaptNet and provides a controlled proxy for anticipating model behavior in clinical settings.",
+      "url": "https://doi.org/10.1088/1361-6560/aec40c",
+      "source": "MED",
+      "doi": "10.1088/1361-6560/aec40c",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43050633",
+      "topic": "AI Embeddings",
+      "title": "Bridging a care gap under sustained threat: A forward psychological support capability for acute stress reactions in combat.",
+      "authors": "Pikelner M, Gaon A, Farchi MU, Cohen R, Kula Y.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Acute stress reactions (ASR) frequently emerge during combat operations and can rapidly impair attention, decision-making, leadership, and unit functioning. Although peer-based stabilization protocols provide an important first-line response, situations may arise in which symptoms exceed the capacity of peer responders while evacuation is neither feasible nor operationally desirable. This creates a critical operational gap in managing performance-impairing acute stress in forward combat environments. The present Brief Report introduces Combat-Adapted Psychological First Aid (CA-PFA), a frontline psychological support capability designed to restore functional performance under sustained threat. CA-PFA adapts core elements of Psychological First Aid to combat conditions and emphasizes rapid stabilization, cognitive clarification, reinforcement of functional identity, and return to operational engagement. Two illustrative cases from forward operational zones are presented to demonstrate the clinical indications, intervention components, and immediate operational outcomes associated with CA-PFA. In both cases, brief interventions delivered near the point of combat exposure were followed by observable improvements in functional control and operational engagement without evacuation. These examples illustrate the feasibility of embedding a forward psychological support tier within stepped-care responses to acute stress reactions. By focusing on rapid restoration of functional performance rather than distress reduction alone, CA-PFA may provide a practical approach for managing acute stress reactions in high-threat operational environments. Further empirical research is needed to evaluate its effectiveness, scalability, and potential role within broader military stress-management systems.",
+      "url": "https://doi.org/10.1080/08995605.2026.2760603",
+      "source": "MED",
+      "doi": "10.1080/08995605.2026.2760603",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43050487",
+      "topic": "AI Embeddings",
+      "title": "Manifold learning and inverse processes for multimodal superresolution in T1 and T2 weighted magnetic resonance imaging.",
+      "authors": "Czaja W, Emidih J, Spencer RG.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "We propose a novel multimodal superresolution algorithm based on the analysis of graph Laplacian representations of image data. The algorithm is inspired by a model for heterogeneous data fusion. We demonstrate its application to the problem of magnetic resonance imaging, where superresolution can be used to decrease acquisition times or to improve signal-to-noise ratio. At the core of the proposed algorithm is a joint modality feature matching, performed in the Laplacian eigenmaps embedding space. A sparse L1-regularized preimage reconstruction is then required, in order to produce a high resolution image from its graphical features. To optimize the algorithm's performance, we integrate the spatial information of the image data to improve local correlations. To illustrate the performance of this new method we apply it to the problem of reconstructing high-resolution T1-weighted magnetic resonance images from a combination of high resolution T2-weighted and low resolution T1-weighted images. Our results indicate that the improvement, as compared to conventional single image interpolation schemes, is proportionally greater for low-resolution images. Our results support the use of the manifold learning embedding approach to multimodal superresolution, by demonstrating superior numerical performance over state-of-the-art image superresolution algorithms.",
+      "url": "https://doi.org/10.1371/journal.pone.0361585",
+      "source": "MED",
+      "doi": "10.1371/journal.pone.0361585",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43050104",
+      "topic": "AI Embeddings",
+      "title": "DISC-OSA: A European Delphi Consensus on OSA Screening in People with Obesity.",
+      "authors": "Gordon J, Pollock KG, Lau E, Manco M, Yumuk V, Baker JL, Dicker D, Helgason T, Idris I.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<h4>Introduction</h4>Obstructive sleep apnea (OSA) is common among people with obesity (PwO) but remains frequently underrecognized and undertreated. The absence of harmonized screening frameworks in Europe leads to delayed diagnosis, preventable cardiometabolic complications, and increased strain on health systems. This study aimed to establish a Europe-wide expert consensus on the principles, target populations, and practical approaches to OSA screening in adults with obesity, thereby providing a structured framework to guide clinical and policy decisions.<h4>Methods</h4>A two-round, modified mixed-methods Delphi study was conducted in accordance with the ACcurate COnsensus Reporting Document (ACCORD) 2024 reporting guidelines. A total of 20 draft statements across nine domains, informed by a pragmatic literature review, were considered by 26 multidisciplinary experts from European Association for the Study of Obesity (EASO) Collaborating Centres for Obesity Management. An independent Steering Committee oversaw governance and ethics. Consensus was defined as 70% or greater agreement and an interquartile range (IQR) of ≤ 1 on a 5-point Likert scale.<h4>Results</h4>All 20 statements met the predefined consensus criteria, particularly those emphasizing prioritization of PwO with cardiometabolic comorbidities, embedding screening within structured care pathways, and timely referral for diagnostic assessment. The STOP-Bang questionnaire was recommended as a first-line tool, with nocturnal oximetry or polysomnography as supplementary options. Consensus-endorsed statements informed a European consensus algorithm detailing who, how, and when to screen.<h4>Conclusions</h4>This expert consensus provides a practical, scalable, and evidence-informed framework for systematic OSA screening within obesity care, supporting harmonized practice, early detection, and multidisciplinary management across European health care.",
+      "url": "https://doi.org/10.1007/s12325-026-03853-4",
+      "source": "MED",
+      "doi": "10.1007/s12325-026-03853-4",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1371136",
       "topic": "AI Embeddings",
       "title": "Elflow: Automated Quality Control and Self-Supervised Representation Learning for High-Dimensional Cytometry",
@@ -799,6 +927,54 @@
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43051964",
+      "topic": "Long-acting PrEP",
+      "title": "Initiation of lenacapavir with dose escalation in a patient receiving rifabutin: A case report with therapeutic drug monitoring.",
+      "authors": "McIntyre M, Tseng A, Cheung A, Leung F, Hempel A, Marzolini C, Devanathan AS.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Lenacapavir is a first-in-class HIV-1 capsid inhibitor with long-acting pharmacokinetics that enable 6-monthly subcutaneous dosing after initiation with oral lead-in. Lenacapavir is a CYP3A4, UGT1A1 and P-gp substrate; inducers of these enzymes and P-gp can significantly decrease lenacapavir concentrations. In patients receiving lenacapavir for HIV pre-exposure prophylaxis (PrEP), supplemental lenacapavir doses can be administered if rifabutin (moderate inducer) or rifampin (potent inducer) are initiated. However, these recommendations have not been extended to lenacapavir when used for HIV treatment, and little is known about initiating lenacapavir in patients on stable therapy with inducers. We describe a 30-year-old man with advanced HIV infection and disseminated Mycobacterium avium complex infection receiving rifabutin and concurrent darunavir/ritonavir in whom lenacapavir was initiated with a 50% increase in both oral (900 mg on Days 1 and 2) and subcutaneous loading doses (1390.5 mg on Day 1). Therapeutic drug monitoring using validated UPLC-MS/MS method demonstrated that lenacapavir plasma concentrations remained above the target of 15.5 ng/mL (4× protein-adjusted 95% effective concentration [PA-EC<sub>95</sub>]) over the dosing interval, with C<sub>max</sub> of 245.7 ng/mL and a projected C<sub>min</sub> of 19.5 ng/mL at 6 months. HIV viral load remained suppressed. This case demonstrates that dose-adjusted lenacapavir can achieve therapeutic exposures in the presence of pre-existing moderate induction. These findings provide clinically relevant pharmacological insight to support the use of lenacapavir in complex patients requiring rifamycin therapy.",
+      "url": "https://doi.org/10.1002/bcp.70932",
+      "source": "MED",
+      "doi": "10.1002/bcp.70932",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43050396",
+      "topic": "Long-acting PrEP",
+      "title": "Retention in HIV Oral and Injectable HIV Pre-exposure Prophylaxis (PrEP) Care in Milan, Italy.",
+      "authors": "Raccagni AR, Tiani A, Capra N, Lolatto R, Loi G, Bruzzesi E, Muccini C, Maci C, Candela C, Castagna A, Nozza S.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<h4>Background</h4>The aims of this study are to estimate retention in HIV PrEP care in a large Italian centre and identify factors associated with discontinuation.<h4>Setting</h4>Tertiary infectious diseases centre in Milan, Italy.<h4>Methods</h4>This is a retrospective study including PrEP users with ≥1 follow-up visit between July 2017-January 2025; follow-up through June 2025. Retention was defined as ongoing follow-up at the centre or confirmed transfer while continuing PrEP; discontinuation as loss to follow-up (>12 months) or documented decision to stop PrEP. Users' characteristics were compared using non-parametrical tests. Kaplan-Meier method was used to assess retention probability.<h4>Results</h4>Among 1.781 PrEP users, 1.612 with ≥1 follow-up visit were included (median follow-up 1.7 years, IQR=0.7-2.9). Regimens at initiation were daily FTC/TDF (41.5%), on-demand FTC/TDF (58.3%), and long-acting cabotegravir (0.1%). Over follow-up, 77 users switched to cabotegravir. At data-freeze, 1142/1612 (70.8%) were in active follow-up, 22/1612 (1.4%) had transferred, 357/1612 (22.2%) were lost to follow-up, and 91/1612 (5.7%) had discontinued PrEP. The probability of retention was 84.7% (95%CI=82.9-86.6) at 1 year and 74.9% (95%CI=72.6-77.4) at 2 years. Older age (retained: 35.5 years, IQR=30.7-42.2 vs not retained: 32.9, IQR=28.6-38.0, p<0.001), DoxyPEP use (178/1164, 15.3% vs 17/448, 3.8%, p<0.001) and the number of STIs over follow-up (IRR 1.14, 95%CI=1.02-1.28, p=0.018) were associated with higher retention.<h4>Conclusion</h4>Retention in this Italian PrEP centre was moderately high. Older individuals and DoxyPEP users were more likely to be retained. These findings support targeted retention strategies and integrated sexual health services to reduce disengagement from PrEP care.",
+      "url": "https://doi.org/10.1097/qai.0000000000004003",
+      "source": "MED",
+      "doi": "10.1097/qai.0000000000004003",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43050029",
+      "topic": "Long-acting PrEP",
+      "title": "The Philadelphia TelePrEP Program: A Clinical-Public Health Partnership for Telehealth PrEP Delivery.",
+      "authors": "Safa H, Nassau T, Brady KA, Spiegel N, Hernandez B, Williams J, Bonett S.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Inequities in HIV acquisition and pre-exposure prophylaxis (PrEP) uptake persist in the United States. We present an innovative program that leverages telehealth to increase PrEP access through a unique public health and academic partnership. The Philadelphia TelePrEP Program (PTP) provides free, comprehensive, and accessible PrEP. Patients access the program through a public health sexual wellness website; patients are evaluated via telehealth, labs are completed using at-home testing kits or in-person at a local lab, and both oral and injectable PrEP modalities are prescribed through the program. Uninsured patients are covered through various patient assistance programs. We used patient data from the initial implementation of the PTP from October 2022 to December 2024 to describe the PrEP continuum to assess program reach and engagement by demographic groups. Of 576 unique individuals who scheduled appointments through the PTP website, 474 (82%) attended telehealth visits, 399 (69%) completed lab testing, and 386 (67%) were prescribed PrEP. Most patients who scheduled an appointment were cisgender men (85%), aged 18-34 (71%), and identified as non-Hispanic White (38%) or non-Hispanic Black (26%). Significant disparities in PrEP uptake emerged by gender (cisgender women: 39% vs. men: 70%), race/ethnicity (Black: 59% vs. White: 75%), and HIV risk group (MSM: 80% vs. heterosexual: 59%). The PTP successfully implemented a telehealth model for PrEP delivery, reaching a diverse cohort of Philadelphians. However, significant challenges to expanding access to telePrEP and PrEP more broadly remain, including lower rates of PrEP prescription for Black and Hispanic/Latine populations as well as cisgender women in the program.",
+      "url": "https://doi.org/10.1007/s10461-026-05321-0",
+      "source": "MED",
+      "doi": "10.1007/s10461-026-05321-0",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
       ]
     },
     {
@@ -1004,134 +1180,6 @@
       "url": "https://doi.org/10.1039/d6cc03538h",
       "source": "MED",
       "doi": "10.1039/d6cc03538h",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43044479",
-      "topic": "AI Embeddings",
-      "title": "DMM-Net: A dual-stage multimodal modulation network for Alzheimer's disease diagnosis.",
-      "authors": "Wu Q, Zhang J, Lu M, Wang C, Liu Z.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "<h4>Background</h4>Alzheimer's disease (AD) typically progresses from cognitively normal (CN) to mild cognitive impairment (MCI) and eventually to AD. Due to the overlap of imaging manifestations and clinical indicators across different stages, accurate multi-class diagnosis remains challenging. Although structured clinical data can provide complementary information to imaging modalities, effective collaborative modeling between three-dimensional structural magnetic resonance imaging (3D sMRI) and structured clinical data remains insufficiently explored. This study aims to develop a cross-modal modulation approach for AD diagnosis.<h4>Methods</h4>In this study, a Dual-stage Multimodal Modulation Network (DMM-Net) was proposed for AD cognitive state classification by integrating 3D sMRI and structured clinical data. The proposed framework consists of a Position-aware Clinical Spatial Modulation (PCSM) module, a transfer learning-based three-dimensional imaging feature extraction network MedNet, and a Feature-Clinical Cross-modal Modulation (FCCM) module. At the shallow stage, PCSM combines an image-derived spatial response with a subject-level clinical bias to modulate early imaging features. At deeper stages, FCCM jointly uses the intermediate Layer2 imaging representation and the clinical embedding to generate stage-specific calibration parameters for Layer3 and Layer4.<h4>Results</h4>Experimental results on the ADNI dataset demonstrated the effectiveness of DMM-Net for the CN/MCI/AD three-class classification task. The combined PCSM-FCCM configuration achieved a BA of 75.1%, outperforming either module alone. Compared with the adapted HyperFusion baseline under the unified evaluation protocol, DMM-Net improved BA and precision by 9.0 and 7.7 percentage points, respectively. Post hoc Grad-CAM and SHAP analyses were used to characterize the imaging regions and structured clinical features associated with the model predictions.<h4>Conclusion</h4>The framework enhances joint modeling between 3D sMRI and structured clinical data through a coordinated dual-stage multimodal modulation mechanism, demonstrating its effectiveness for multimodal computer-aided classification of Alzheimer's disease under the evaluated setting.",
-      "url": "https://doi.org/10.1016/j.cmpb.2026.109713",
-      "source": "MED",
-      "doi": "10.1016/j.cmpb.2026.109713",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43041025",
-      "topic": "AI Embeddings",
-      "title": "The strategic integration of emergency obstetric and neonatal care with contraceptive services.",
-      "authors": "Koch M, Kasliwal A, Ahsan A, Elkholy N, Sridhar A.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "Comprehensive Emergency Obstetric and Neonatal Care (CEmONC) indicators have strengthened health systems' capacity to manage acute obstetric emergencies and remain central to global maternal health monitoring. However, current EmONC frameworks omit contraception, despite its established role in preventing unintended pregnancy, supporting healthy interpregnancy intervals, and reducing recurrent exposure to obstetric risk. This gap reflects an artificial divide between emergency response and preventive care. This commentary argues that contraception should be recognized as an essential, integrated component of EmONC rather than a separate postpartum service. We outline the clinical rationale for embedding contraceptive counseling and provision within each EmONC signal function, noting that the nature of an obstetric emergency-hemorrhage, infection, hypertensive disease-often directly informs contraceptive eligibility and method selection. We further describe why the postpartum period after an obstetric emergency represents a critical, frequently missed opportunity for contraceptive counseling, particularly in low-resource and humanitarian settings where subsequent access to care is uncertain. We propose practical strategies for integration at the facility, health system, and global levels, including standardized counseling prompts, aligned supply chains, updated training curricula, and incorporation of contraceptive indicators into EmONC guidance and monitoring tools. Embedding contraception within EmONC would strengthen continuity across the maternal health continuum and better align global frameworks with the clinical realities of obstetric risk.",
-      "url": "https://doi.org/10.1002/ijgo.71489",
-      "source": "MED",
-      "doi": "10.1002/ijgo.71489",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43040130",
-      "topic": "AI Embeddings",
-      "title": "Tumor Semantic Modeling with Vascular Morphology Prior Correction Reduces False-Positive Malignant Predictions on Contrast-Enhanced Lung CT.",
-      "authors": "Wang J, Sun Y, Lv Z, Xue Z, Wang Z, Yan Y, Zhao X.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "To develop an interpretable contrast-enhanced CT-based framework for benign-malignant lung tumor classification by integrating radiology-style semantic representations with global pulmonary vascular morphology features. Two particular difficulties with this task lie in (1) establishing an interpretable model to distinguish tumor data that are difficult to differentiate between benign and malignant in clinical practice, and (2) based on clinical experience, incorporate the vascular characteristics around the tumor into the decision-making process. We propose a vascular knowledge-enhanced classification framework that integrates semantic tumor representations extracted by large multimodal models with peritumoral vascular morphological features. The framework consists of three components: (1) an interpretable feature extractor for tumor representation learning, (2) vascular morphology modeling derived from vessel segmentation, and (3) a feature fusion module combining tumor and vascular information for classification. In a retrospective cohort of 420 patients with pathologically confirmed pulmonary tumors, the proposed method was assessed using patient-level, stratified five-fold cross-validation. Relative to the semantic-only branch, decision-level fusion increased accuracy (71.4% vs. 75.5%), AUC (0.764 vs. 0.816), and specificity (57.3% vs. 77.8%), but decreased sensitivity (81.1% vs. 73.9%). These findings indicate that vascular prior-guided correction primarily enhanced benign-case recognition and suppressed false-positive malignant predictions, at the expense of sensitivity for malignant cases. In single-center validation, pulmonary vascular morphology offered complementary structural evidence for differentiating benign from malignant pulmonary tumors larger than 3 cm. The proposed AND-like decision-level correction rule enhanced specificity by reducing false-positive malignant predictions.",
-      "url": "https://doi.org/10.1007/s10278-026-02504-y",
-      "source": "MED",
-      "doi": "10.1007/s10278-026-02504-y",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43040129",
-      "topic": "AI Embeddings",
-      "title": "Embedding a Consolidated Resource Panel in the PACS Worklist: Implementation and First-Year Adoption.",
-      "authors": "McBee MP, Ketchum W, Gaspard D.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "Radiologists rely on many resources during a shift, including imaging protocols, policies, call schedules, phone directories, and IT support tools. At our institution, each lives in a separate location outside the picture archiving and communication system (PACS), so reaching any of them meant leaving PACS. We built a static web page that gathers the links and reference material radiologists use most often, styled it to match the PACS interface, and embedded it in the worklist window by repurposing a display panel the PACS vendor provides for messages and alerts. Self-hosted web analytics recorded how it was used. Over the first 12 months, the panel recorded 58,524 visits and 10,253 outbound resource clicks. It was available to approximately 200 attending radiologists, residents, and fellows, roughly 90 of whom work on a typical weekday, and generated a median of 40 outbound clicks per steady-state weekday. Because the analytics identify workstations rather than people, unique-visitor counts exceed headcount and cannot be expressed as a per-person adoption rate. Clicks concentrated in a few everyday tools; paging, the report database, and the call schedule accounted for about two-thirds. These data document sustained use. This implementation and adoption report describes how the platform was built, embedded, and measured, and how other departments can reproduce it. The source code is publicly available.",
-      "url": "https://doi.org/10.1007/s10278-026-02473-2",
-      "source": "MED",
-      "doi": "10.1007/s10278-026-02473-2",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43039967",
-      "topic": "AI Embeddings",
-      "title": "Artificial intelligence aids multi-omics data integration in cancer drug discovery and development: from targets to drug synergy.",
-      "authors": "Yang YL, Wang QY, Zhou YQ, Zhang XY, Chen ZB, Liu Y, Hu YH, Wang JW, Qin J.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "The emergence of multi-omics technologies has enabled the integration of genomic, transcriptomic, epigenomic, proteomic, and metabolomic data to characterize the molecular complexity of cancer. Single-cell and spatial profiling further resolve intratumoral heterogeneity, cell-cell interactions, and the microenvironmental determinants of therapeutic responses. In parallel, artificial intelligence (AI) provides computational approaches for integrating these heterogeneous data types across target identification, drug response prediction, toxicity assessment, and drug-combination modeling. Across these domains, the available evidence indicates that multi-omics integration is most beneficial when the included layers provide complementary biological information; that single-cell and spatial omics analyses reveal treatment-resistant populations and niches but remain largely research-grade and thus not ready for routine clinical deployment; and that although foundation models support some representation-learning tasks, their advantages in perturbation-response prediction require confirmation via stringent evaluation. By distinguishing externally validated advances from retrospective proof-of-concept studies, we provide a practical framework for evaluating the translational readiness of AI-driven multi-omics tools in precision oncology.",
-      "url": "https://doi.org/10.1038/s41401-026-01958-8",
-      "source": "MED",
-      "doi": "10.1038/s41401-026-01958-8",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43039660",
-      "topic": "AI Embeddings",
-      "title": "Label-free multi-metric pipeline for reproducible clustering of single-cell RNA-seq cell types.",
-      "authors": "Yousef Z, Simone J, Klein D, Bhuyan A, Cho HJ, Bhatt P, Wu J, Wang H, Cai L.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "Single-cell RNA sequencing has transformed our ability to identify cell types and explore cellular diversity. However, determining whether apparent cell subtypes represent true biological populations or artifacts of data analysis remains a major challenge. To address this issue, we developed scClustBench, an open-source benchmarking framework that evaluates cluster quality, stability, and reproducibility across multiple analytical approaches. Rather than relying on a single clustering method, scClustBench tests whether proposed cell subtypes can be consistently recovered. We applied scClustBench to a mouse retinal dataset containing bipolar cells, which are known to exhibit subtype diversity, and rod photoreceptors, for which subtype classification remains controversial. The framework consistently identified reproducible bipolar cell subtypes across analytical methods. In contrast, while some rod photoreceptor clusters appeared stable during resampling analyses, they could not be reproduced across embedding methods, suggesting that these partitions do not represent robust biological subtypes. Additional analyses using simulated and external datasets demonstrated that scClustBench reliably distinguishes meaningful cellular heterogeneity from analytical artifacts. These findings provide a practical framework for rigorous interpretation of single-cell transcriptomic data.",
-      "url": "https://doi.org/10.26508/lsa.202603861",
-      "source": "MED",
-      "doi": "10.26508/lsa.202603861",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43038548",
-      "topic": "AI Embeddings",
-      "title": "Cross-Domain Transfer of Depression Voice Biomarkers Depends on the Outcome Instrument: Leakage-Controlled Cross-Sectional Evaluation Study.",
-      "authors": "Wiley R, Schwoebel J, Caccia M, Shor J, Garcia AM, Fisher SD, Frasch MG.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "<h4>Background</h4>Voice-based depression screening is commercializing rapidly, yet whether voice biomarkers generalize across clinical settings is largely untested. Generalization is usually framed as a question about populations, but it is also a question about the outcome instrument a model is scored against, an effect confounded with other between-study differences in the literature.<h4>Objective</h4>We tested whether depression voice biomarkers transfer between perinatal and general-psychiatric speech in both directions under strict leakage control and whether transfer depends on the screening instrument.<h4>Methods</h4>In a cross-sectional, online US study, 390 pregnant participants at a mean of 22 (SD 1) weeks' gestation (analytical sample n=316) participated in 446 sessions; each participant provided 4 voice recordings and completed the modified 8-item Patient Health Questionnaire (PHQ-8) and modified 9-item Edinburgh Postnatal Depression Scale (mEPDS-9). We extracted 375 acoustic descriptors and 330-dimensional Population Dynamics Foundation Model community-health embeddings. Discrimination area under the curve (AUC) was assessed under leakage-controlled cross-validation, with feature and classifier selection inside training folds only and a permutation negative-control harness, across a prespecified grid of 4 speech tasks×4 outcome definitions. The prenatal-trained model was applied to 2 general-psychiatric corpora (Distress Analysis Interview Corpus-Wizard-of-Oz, n=189; Extended Distress Analysis Interview Corpus, n=219) under pure held-out inference, and the open-source Kintsugi Depression/Anxiety Model (DAM), trained on 35,000 individuals, was applied to all 3 cohorts without refitting, with Benjamini-Hochberg multiplicity control.<h4>Results</h4>In the prenatal cohort, the preregistered outcome was at chance (AUC 0.494, 95% CI 0.431-0.560); no cell in the 16-cell grid survived adjustment under either modeling paradigm. The prenatal-trained model did not transfer to either general-psychiatric corpus (AUCs 0.505 and 0.478). Reverse transfer depended on the screening instrument. The DAM reached an AUC of 0.706 to 0.708 on general-psychiatric speech. In the same participants, it performed at chance against the PHQ-8 (AUC 0.510, 95% CI 0.411-0.609) but discriminated against the mEPDS-9 (AUC 0.645, 95% CI 0.541-0.744), a paired difference of 0.135 (95% CI 0.019-0.248; unadjusted post hoc <i>P</i>=0.02). Exploratory item-level analysis suggests a mechanism: the DAM tracked affective-distress items (crying <i>r</i>=0.26, sadness <i>r</i>=0.21, and overwhelmed <i>r</i>=0.20) but not somatic PHQ-8 items; only crying survived adjustment across 17 tests. Transfer varied by elicitation task (pregnancy narrative 0.653, 95% CI 0.550-0.753; open-ended speech 0.597, 95% CI 0.486-0.699; scripted reading 0.544, 95% CI 0.434-0.651), though these were not formally compared.<h4>Conclusions</h4>Cross-domain comparison showed a compound shift: population, elicitation task, and outcome instrument differed together, while only the instrument could be varied on its own. Whether a depression voice biomarker transfers may depend not only on the population but also on whether the outcome instrument captures what the model can detect. Validation should state the population, elicitation task, and outcome instrument together; a tool validated against one instrument should not be assumed to work against another.",
-      "url": "https://doi.org/10.2196/105737",
-      "source": "MED",
-      "doi": "10.2196/105737",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43038261",
-      "topic": "AI Embeddings",
-      "title": "Intelligent classification of medically and veterinary important mosquito vectors using self-distillation-enhanced supervised learning.",
-      "authors": "Chuwongin S, Kaewthamasorn M, Chaiphongpachara T, Laojun S, Saiwichai T, Soiphet N, Boonsang S, Kittichai V.",
-      "journal": "",
-      "date": "2026-11-16",
-      "abstract": "Mosquito-borne diseases remain a persistent global public health burden, with effective control strategies depending on the accurate and timely identification of mosquito species and estimation of their population density. The current gold standard, morphological identification via microscopic examination, is limited by inter-observer variability and a scarcity of local taxonomic expertise. While highly accurate, molecular techniques like polymerase chain reaction and DNA barcoding are often impractical for widespread field use due to their cost, procedural complexity, and reliance on specialized equipment and technicians. In response to these challenges, this study harnesses the potential of artificial intelligence (AI) to develop a robust, accessible diagnostic tool. We introduce an innovative application of the Distillation of knowledge with NO labels v2 (DINOv2-l14) algorithm, a self-supervised learning (SSL) model, for the classification of 30 distinct mosquito species from image data. A key focus was enabling the model to learn effectively from a highly imbalanced dataset, where the number of images per class ranged from 15 to 124. We also investigated the data efficiency of SSL by determining the minimum data partition required to match the performance of a conventional supervised model. Our image processing pipeline involved cropping, padding, and dividing images into 14 × 14 patches before converting them into embedded vectors for classification. The fully trained DINOv2-l14 model significantly outperformed a selected ResNet101 baseline, achieving 99.2% accuracy, 97.7% specificity, an F1 score of 86.1%, and a robust area under the curve (AUC) value of 0.996. Most notably, when fine-tuned on just 20% of the available data (averaging 11-13 images per class), the SSL model achieved performance comparable to the baseline model trained on the entire dataset, demonstrating exceptional data efficiency. Although limitations exist, including dataset imbalance and a lack of standardization for broader application, the model's high performance across five-fold cross-validation and strong Cohen's Kappa coefficients (up to 0.836) confirm its reliability. This work validates a novel, efficient, and highly accurate AI-driven approach to mosquito identification. By integrating such a model into a mobile application using an embedding AI framework, this technology holds significant promise for empowering field personnel with a practical, powerful tool to enhance vector surveillance and control programs worldwide.",
-      "url": "https://doi.org/10.1371/journal.pone.0362945",
-      "source": "MED",
-      "doi": "10.1371/journal.pone.0362945",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -2188,54 +2236,6 @@
       "url": "https://doi.org/10.3389/fepid.2026.1991472",
       "source": "MED",
       "doi": "10.3389/fepid.2026.1991472",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42859365",
-      "topic": "Long-acting PrEP",
-      "title": "Formulation-Specific Safety Issues of HIV Pre-exposure Prophylaxis Drugs: A Disproportionality Analysis of the FAERS Database.",
-      "authors": "Rozza D, Poluzzi E, Antonazzo IC, Boccia A, Paccini M, Gallucci F, Ponticelli D, Geraci G, Agüero F, Mazzaglia G, Mantovani LG, Raschi E, Ferrara P.",
-      "journal": "",
-      "date": "2026-10-10",
-      "abstract": "<h4>Background and objective</h4>As human immunodeficiency virus (HIV) pre-exposure prophylaxis (PrEP) use expands, real-world post-marketing safety evidence remains limited, particularly regarding potential formulation-specific adverse-event patterns across oral and long-acting agents. We aimed to characterise the post-marketing safety profiles of FDA-approved PrEP drugs using the FDA Adverse Event Reporting System (FAERS).<h4>Methods</h4>We conducted a disproportionality analysis using the FDA Adverse Event Reporting System (FAERS) data from 2012 to 2024. Individual Case Safety Reports (ICSRs) listing emtricitabine/tenofovir disoproxil fumarate (FTC/TDF), emtricitabine/tenofovir alafenamide (FTC/TAF) or cabotegravir (CAB) as suspected PrEP drugs were included. Two comparator groups were used: all non-PrEP ICSRs and ICSRs involving non-PrEP HIV drugs. Disproportionality was evaluated at the MedDRA high-level term (HLT) level using reporting odds ratios and 95% confidence intervals (CIs), identifying signals of disproportionate reporting (SDRs) with a lower bound of the 95%CIs > 1. Sensitivity analyses explored sex, reporter type, and indication.<h4>Results</h4>We identified 3201 PrEP-related ICSRs (FTC/TDF: 2688; FTC/TAF: 463; CAB: 50), predominantly involving young adult males. FTC/TDF exhibited a broad pattern of SDRs-including renal/metabolic abnormalities, muscular signals, mucosal disorders and some previously under-characterised signals-many of which attenuated when using HIV-treated comparators. FTC/TAF showed a narrower, highly consistent pattern dominated by hepatobiliary and metabolic monitoring procedures, renal function evaluations and neurosensory disturbances. CAB showed specific, reproducible signals for injection-site, dermatologic and procedure-related events.<h4>Conclusions</h4>PrEP agents display distinct, formulation-specific and reproducible safety patterns in FAERS. Comparator choice substantially influences the detection and interpretation of SDRs and can help distinguish reproducible formulation-related reporting patterns from findings that may be driven by the clinical and reporting context. These insights highlight priority areas for future research.",
-      "url": "https://doi.org/10.1007/s40261-026-01602-7",
-      "source": "MED",
-      "doi": "10.1007/s40261-026-01602-7",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42858263",
-      "topic": "Long-acting PrEP",
-      "title": "HIV risk, sexual behavior and PrEP uptake, adherence and discontinuation among adolescent girls and young women in low- and middle-income countries: a scoping review.",
-      "authors": "Ogello V, Gesesew HA, Dzando G, Ward PR.",
-      "journal": "",
-      "date": "2026-10-10",
-      "abstract": "Adolescent girls and young women (AGYW) bear a disproportionate burden of HIV/AIDS. Pre-exposure prophylaxis (PrEP) for HIV prevention is limited to individuals identified as high risk following a prior risk assessment. However, AGYW with epidemiologically assessed HIV risk still struggle to align PrEP use with their sexual behaviors. This review examines how HIV risk and sexual behavior influence decisions to initiate, adhere to or discontinue PrEP. A search was conducted across five databases in November 2025. The search was registered in the Open Science Framework and followed PRISMA-SCR guidelines. A thematic content analysis approach was used to synthesize findings guided by the health belief model and COM-B framework. Forty-nine articles were eligible for synthesis. Knowledge of HIV risk and sexual behaviors motivated PrEP initiation and adherence. There were consistently low adherence and high discontinuation rates among AGYW with objective HIV risk behaviors. Prevention effectiveness and adherence varied with alignment and misalignment of behavioral risk and PrEP adherence. Decisions to use the vaginal ring instead of oral PrEP aligned with individual behavior. Dynamic changes in sexual behavior during PrEP use and decisions to switch to injectable PrEP where multiple alternatives are offered may be explored to support PrEP uptake and persistence.",
-      "url": "https://doi.org/10.1080/09540121.2026.2732792",
-      "source": "MED",
-      "doi": "10.1080/09540121.2026.2732792",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42931215",
-      "topic": "Long-acting PrEP",
-      "title": "Current Status of Tuberculosis and Human Immunodeficiency Virus Co-Infection in the Philippines: A Narrative Review.",
-      "authors": "Teh TRD, Chua JJR, De Sagon SDP, Grecia MNI, Malaluan MV, Salvador PBU, Sanico TCF, Dalmacio LMM.",
-      "journal": "",
-      "date": "2026-10-08",
-      "abstract": "Tuberculosis (TB) and human immunodeficiency virus (HIV) co-infection remains a major public health concern globally and in the Philippines. The country continues to face a high burden of TB, multidrug- and rifampicin-resistant TB (MDR/RR-TB), HIV, and HIV-associated TB. Since HIV increases the risk of TB and TB worsens HIV outcomes, co-infection hinders progress toward the End TB Strategy and the UNAIDS 95-95-95 targets. This review summarizes the current knowledge on the epidemiology, prevention, and treatment of TB-HIV co-infection with a focus on the Philippine setting. Key challenges include socioeconomic barriers to care and rising drug resistance. In addition, the lack of an integrated TB-HIV data system disrupts continuity of care and weakens surveillance. Closing these gaps requires a coordinated national response that integrates effective policy with active community engagement. Research-driven and locally adapted strategies will be essential to bring the Philippines closer to its elimination goals.",
-      "url": "https://doi.org/10.3390/pathogens15101063",
-      "source": "MED",
-      "doi": "10.3390/pathogens15101063",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
