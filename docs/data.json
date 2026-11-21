@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T18:50:27.781143+00:00",
+  "updated": "2026-11-21T06:54:16.119448+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -818,6 +818,70 @@
       ]
     },
     {
+      "id": "MED:43051964",
+      "topic": "Long-acting PrEP",
+      "title": "Initiation of lenacapavir with dose escalation in a patient receiving rifabutin: A case report with therapeutic drug monitoring.",
+      "authors": "McIntyre M, Tseng A, Cheung A, Leung F, Hempel A, Marzolini C, Devanathan AS.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Lenacapavir is a first-in-class HIV-1 capsid inhibitor with long-acting pharmacokinetics that enable 6-monthly subcutaneous dosing after initiation with oral lead-in. Lenacapavir is a CYP3A4, UGT1A1 and P-gp substrate; inducers of these enzymes and P-gp can significantly decrease lenacapavir concentrations. In patients receiving lenacapavir for HIV pre-exposure prophylaxis (PrEP), supplemental lenacapavir doses can be administered if rifabutin (moderate inducer) or rifampin (potent inducer) are initiated. However, these recommendations have not been extended to lenacapavir when used for HIV treatment, and little is known about initiating lenacapavir in patients on stable therapy with inducers. We describe a 30-year-old man with advanced HIV infection and disseminated Mycobacterium avium complex infection receiving rifabutin and concurrent darunavir/ritonavir in whom lenacapavir was initiated with a 50% increase in both oral (900 mg on Days 1 and 2) and subcutaneous loading doses (1390.5 mg on Day 1). Therapeutic drug monitoring using validated UPLC-MS/MS method demonstrated that lenacapavir plasma concentrations remained above the target of 15.5 ng/mL (4× protein-adjusted 95% effective concentration [PA-EC<sub>95</sub>]) over the dosing interval, with C<sub>max</sub> of 245.7 ng/mL and a projected C<sub>min</sub> of 19.5 ng/mL at 6 months. HIV viral load remained suppressed. This case demonstrates that dose-adjusted lenacapavir can achieve therapeutic exposures in the presence of pre-existing moderate induction. These findings provide clinically relevant pharmacological insight to support the use of lenacapavir in complex patients requiring rifamycin therapy.",
+      "url": "https://doi.org/10.1002/bcp.70932",
+      "source": "MED",
+      "doi": "10.1002/bcp.70932",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43050396",
+      "topic": "Long-acting PrEP",
+      "title": "Retention in HIV Oral and Injectable HIV Pre-exposure Prophylaxis (PrEP) Care in Milan, Italy.",
+      "authors": "Raccagni AR, Tiani A, Capra N, Lolatto R, Loi G, Bruzzesi E, Muccini C, Maci C, Candela C, Castagna A, Nozza S.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "<h4>Background</h4>The aims of this study are to estimate retention in HIV PrEP care in a large Italian centre and identify factors associated with discontinuation.<h4>Setting</h4>Tertiary infectious diseases centre in Milan, Italy.<h4>Methods</h4>This is a retrospective study including PrEP users with ≥1 follow-up visit between July 2017-January 2025; follow-up through June 2025. Retention was defined as ongoing follow-up at the centre or confirmed transfer while continuing PrEP; discontinuation as loss to follow-up (>12 months) or documented decision to stop PrEP. Users' characteristics were compared using non-parametrical tests. Kaplan-Meier method was used to assess retention probability.<h4>Results</h4>Among 1.781 PrEP users, 1.612 with ≥1 follow-up visit were included (median follow-up 1.7 years, IQR=0.7-2.9). Regimens at initiation were daily FTC/TDF (41.5%), on-demand FTC/TDF (58.3%), and long-acting cabotegravir (0.1%). Over follow-up, 77 users switched to cabotegravir. At data-freeze, 1142/1612 (70.8%) were in active follow-up, 22/1612 (1.4%) had transferred, 357/1612 (22.2%) were lost to follow-up, and 91/1612 (5.7%) had discontinued PrEP. The probability of retention was 84.7% (95%CI=82.9-86.6) at 1 year and 74.9% (95%CI=72.6-77.4) at 2 years. Older age (retained: 35.5 years, IQR=30.7-42.2 vs not retained: 32.9, IQR=28.6-38.0, p<0.001), DoxyPEP use (178/1164, 15.3% vs 17/448, 3.8%, p<0.001) and the number of STIs over follow-up (IRR 1.14, 95%CI=1.02-1.28, p=0.018) were associated with higher retention.<h4>Conclusion</h4>Retention in this Italian PrEP centre was moderately high. Older individuals and DoxyPEP users were more likely to be retained. These findings support targeted retention strategies and integrated sexual health services to reduce disengagement from PrEP care.",
+      "url": "https://doi.org/10.1097/qai.0000000000004003",
+      "source": "MED",
+      "doi": "10.1097/qai.0000000000004003",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43050029",
+      "topic": "Long-acting PrEP",
+      "title": "The Philadelphia TelePrEP Program: A Clinical-Public Health Partnership for Telehealth PrEP Delivery.",
+      "authors": "Safa H, Nassau T, Brady KA, Spiegel N, Hernandez B, Williams J, Bonett S.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Inequities in HIV acquisition and pre-exposure prophylaxis (PrEP) uptake persist in the United States. We present an innovative program that leverages telehealth to increase PrEP access through a unique public health and academic partnership. The Philadelphia TelePrEP Program (PTP) provides free, comprehensive, and accessible PrEP. Patients access the program through a public health sexual wellness website; patients are evaluated via telehealth, labs are completed using at-home testing kits or in-person at a local lab, and both oral and injectable PrEP modalities are prescribed through the program. Uninsured patients are covered through various patient assistance programs. We used patient data from the initial implementation of the PTP from October 2022 to December 2024 to describe the PrEP continuum to assess program reach and engagement by demographic groups. Of 576 unique individuals who scheduled appointments through the PTP website, 474 (82%) attended telehealth visits, 399 (69%) completed lab testing, and 386 (67%) were prescribed PrEP. Most patients who scheduled an appointment were cisgender men (85%), aged 18-34 (71%), and identified as non-Hispanic White (38%) or non-Hispanic Black (26%). Significant disparities in PrEP uptake emerged by gender (cisgender women: 39% vs. men: 70%), race/ethnicity (Black: 59% vs. White: 75%), and HIV risk group (MSM: 80% vs. heterosexual: 59%). The PTP successfully implemented a telehealth model for PrEP delivery, reaching a diverse cohort of Philadelphians. However, significant challenges to expanding access to telePrEP and PrEP more broadly remain, including lower rates of PrEP prescription for Black and Hispanic/Latine populations as well as cisgender women in the program.",
+      "url": "https://doi.org/10.1007/s10461-026-05321-0",
+      "source": "MED",
+      "doi": "10.1007/s10461-026-05321-0",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43049376",
+      "topic": "Long-acting PrEP",
+      "title": "Investigation of anti-SARS-CoV-2 multimeric bicyclic peptide inhibitors in a range of preclinical therapeutic settings.",
+      "authors": "Harman MAJ, Gaynor KU, Papa G, Pellegrino S, Bezerra GA, McGuinness B, Jeffrey P, Beswick P, Stanway S, Van Rietschoten K, Chen L, Albecka A, Drulyte I, Herriott J, Kijak E, Gallardo-Toledo E, Tatham L, Sharma P, Bentley E, Sharp J, Kirby A, James LC, Owen A, Stewart JP, Skynner MJ.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "The spread of respiratory viruses, such as influenza and SARS-CoV-2, has presented significant challenges over the last 30 years, with few effective therapeutic options available to this day. Bicyclic peptides represent a unique, modular modality in the antiviral armamentarium against future pandemics. This study utilizes tool molecules to provide a deeper evaluation of multivalent bicyclic (Bicycle) molecule efficacy in several preclinical SARS-CoV-2 challenge settings. We explore both pre-exposure prophylaxis and post-exposure therapeutic settings via subcutaneous and intranasal routes of administration. We contextualize this further in bespoke scenarios where the immune system is compromised, as well as viral transmission. Promisingly, in all studies, we observe efficacy, significantly reducing infectious viral burden at each study endpoint. These data further support the candidacy of Bicycle molecules as a differentiated antiviral therapeutic class in the context of pandemic preparedness.<h4>Importance</h4>The COVID-19 pandemic triggered a rapid wave of innovation, accelerating the delivery of new vaccine technology and antiviral treatments. In our first paper, we described the discovery and molecular optimization of Bicycle molecules as a novel drug class for the potential treatment of SARS-CoV-2. Here, we have performed deeper characterization of these tool molecules in established animal models to evaluate scenarios for deployment, simulating SARS-CoV-2 transmission, testing more convenient delivery routes, such as intranasal, as well as looking at immunocompromised animals. The Bicycle molecules demonstrated positive outcomes in each of these studies and suggest that Bicycle molecules, as convenient and effective antiviral treatments, could be an important addition to help future preparedness against new viral pandemics.",
+      "url": "https://doi.org/10.1128/jvi.01224-26",
+      "source": "MED",
+      "doi": "10.1128/jvi.01224-26",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:43054420",
       "topic": "AI Embeddings",
       "title": "Adaptation of DECIDE, a Shared Decision Making Intervention, to Improve Perinatal Mental Health Care in Health Systems.",
@@ -1138,70 +1202,6 @@
       ]
     },
     {
-      "id": "MED:43051964",
-      "topic": "Long-acting PrEP",
-      "title": "Initiation of lenacapavir with dose escalation in a patient receiving rifabutin: A case report with therapeutic drug monitoring.",
-      "authors": "McIntyre M, Tseng A, Cheung A, Leung F, Hempel A, Marzolini C, Devanathan AS.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "Lenacapavir is a first-in-class HIV-1 capsid inhibitor with long-acting pharmacokinetics that enable 6-monthly subcutaneous dosing after initiation with oral lead-in. Lenacapavir is a CYP3A4, UGT1A1 and P-gp substrate; inducers of these enzymes and P-gp can significantly decrease lenacapavir concentrations. In patients receiving lenacapavir for HIV pre-exposure prophylaxis (PrEP), supplemental lenacapavir doses can be administered if rifabutin (moderate inducer) or rifampin (potent inducer) are initiated. However, these recommendations have not been extended to lenacapavir when used for HIV treatment, and little is known about initiating lenacapavir in patients on stable therapy with inducers. We describe a 30-year-old man with advanced HIV infection and disseminated Mycobacterium avium complex infection receiving rifabutin and concurrent darunavir/ritonavir in whom lenacapavir was initiated with a 50% increase in both oral (900 mg on Days 1 and 2) and subcutaneous loading doses (1390.5 mg on Day 1). Therapeutic drug monitoring using validated UPLC-MS/MS method demonstrated that lenacapavir plasma concentrations remained above the target of 15.5 ng/mL (4× protein-adjusted 95% effective concentration [PA-EC<sub>95</sub>]) over the dosing interval, with C<sub>max</sub> of 245.7 ng/mL and a projected C<sub>min</sub> of 19.5 ng/mL at 6 months. HIV viral load remained suppressed. This case demonstrates that dose-adjusted lenacapavir can achieve therapeutic exposures in the presence of pre-existing moderate induction. These findings provide clinically relevant pharmacological insight to support the use of lenacapavir in complex patients requiring rifamycin therapy.",
-      "url": "https://doi.org/10.1002/bcp.70932",
-      "source": "MED",
-      "doi": "10.1002/bcp.70932",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:43050396",
-      "topic": "Long-acting PrEP",
-      "title": "Retention in HIV Oral and Injectable HIV Pre-exposure Prophylaxis (PrEP) Care in Milan, Italy.",
-      "authors": "Raccagni AR, Tiani A, Capra N, Lolatto R, Loi G, Bruzzesi E, Muccini C, Maci C, Candela C, Castagna A, Nozza S.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<h4>Background</h4>The aims of this study are to estimate retention in HIV PrEP care in a large Italian centre and identify factors associated with discontinuation.<h4>Setting</h4>Tertiary infectious diseases centre in Milan, Italy.<h4>Methods</h4>This is a retrospective study including PrEP users with ≥1 follow-up visit between July 2017-January 2025; follow-up through June 2025. Retention was defined as ongoing follow-up at the centre or confirmed transfer while continuing PrEP; discontinuation as loss to follow-up (>12 months) or documented decision to stop PrEP. Users' characteristics were compared using non-parametrical tests. Kaplan-Meier method was used to assess retention probability.<h4>Results</h4>Among 1.781 PrEP users, 1.612 with ≥1 follow-up visit were included (median follow-up 1.7 years, IQR=0.7-2.9). Regimens at initiation were daily FTC/TDF (41.5%), on-demand FTC/TDF (58.3%), and long-acting cabotegravir (0.1%). Over follow-up, 77 users switched to cabotegravir. At data-freeze, 1142/1612 (70.8%) were in active follow-up, 22/1612 (1.4%) had transferred, 357/1612 (22.2%) were lost to follow-up, and 91/1612 (5.7%) had discontinued PrEP. The probability of retention was 84.7% (95%CI=82.9-86.6) at 1 year and 74.9% (95%CI=72.6-77.4) at 2 years. Older age (retained: 35.5 years, IQR=30.7-42.2 vs not retained: 32.9, IQR=28.6-38.0, p<0.001), DoxyPEP use (178/1164, 15.3% vs 17/448, 3.8%, p<0.001) and the number of STIs over follow-up (IRR 1.14, 95%CI=1.02-1.28, p=0.018) were associated with higher retention.<h4>Conclusion</h4>Retention in this Italian PrEP centre was moderately high. Older individuals and DoxyPEP users were more likely to be retained. These findings support targeted retention strategies and integrated sexual health services to reduce disengagement from PrEP care.",
-      "url": "https://doi.org/10.1097/qai.0000000000004003",
-      "source": "MED",
-      "doi": "10.1097/qai.0000000000004003",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:43050029",
-      "topic": "Long-acting PrEP",
-      "title": "The Philadelphia TelePrEP Program: A Clinical-Public Health Partnership for Telehealth PrEP Delivery.",
-      "authors": "Safa H, Nassau T, Brady KA, Spiegel N, Hernandez B, Williams J, Bonett S.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "Inequities in HIV acquisition and pre-exposure prophylaxis (PrEP) uptake persist in the United States. We present an innovative program that leverages telehealth to increase PrEP access through a unique public health and academic partnership. The Philadelphia TelePrEP Program (PTP) provides free, comprehensive, and accessible PrEP. Patients access the program through a public health sexual wellness website; patients are evaluated via telehealth, labs are completed using at-home testing kits or in-person at a local lab, and both oral and injectable PrEP modalities are prescribed through the program. Uninsured patients are covered through various patient assistance programs. We used patient data from the initial implementation of the PTP from October 2022 to December 2024 to describe the PrEP continuum to assess program reach and engagement by demographic groups. Of 576 unique individuals who scheduled appointments through the PTP website, 474 (82%) attended telehealth visits, 399 (69%) completed lab testing, and 386 (67%) were prescribed PrEP. Most patients who scheduled an appointment were cisgender men (85%), aged 18-34 (71%), and identified as non-Hispanic White (38%) or non-Hispanic Black (26%). Significant disparities in PrEP uptake emerged by gender (cisgender women: 39% vs. men: 70%), race/ethnicity (Black: 59% vs. White: 75%), and HIV risk group (MSM: 80% vs. heterosexual: 59%). The PTP successfully implemented a telehealth model for PrEP delivery, reaching a diverse cohort of Philadelphians. However, significant challenges to expanding access to telePrEP and PrEP more broadly remain, including lower rates of PrEP prescription for Black and Hispanic/Latine populations as well as cisgender women in the program.",
-      "url": "https://doi.org/10.1007/s10461-026-05321-0",
-      "source": "MED",
-      "doi": "10.1007/s10461-026-05321-0",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:43049376",
-      "topic": "Long-acting PrEP",
-      "title": "Investigation of anti-SARS-CoV-2 multimeric bicyclic peptide inhibitors in a range of preclinical therapeutic settings.",
-      "authors": "Harman MAJ, Gaynor KU, Papa G, Pellegrino S, Bezerra GA, McGuinness B, Jeffrey P, Beswick P, Stanway S, Van Rietschoten K, Chen L, Albecka A, Drulyte I, Herriott J, Kijak E, Gallardo-Toledo E, Tatham L, Sharma P, Bentley E, Sharp J, Kirby A, James LC, Owen A, Stewart JP, Skynner MJ.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "The spread of respiratory viruses, such as influenza and SARS-CoV-2, has presented significant challenges over the last 30 years, with few effective therapeutic options available to this day. Bicyclic peptides represent a unique, modular modality in the antiviral armamentarium against future pandemics. This study utilizes tool molecules to provide a deeper evaluation of multivalent bicyclic (Bicycle) molecule efficacy in several preclinical SARS-CoV-2 challenge settings. We explore both pre-exposure prophylaxis and post-exposure therapeutic settings via subcutaneous and intranasal routes of administration. We contextualize this further in bespoke scenarios where the immune system is compromised, as well as viral transmission. Promisingly, in all studies, we observe efficacy, significantly reducing infectious viral burden at each study endpoint. These data further support the candidacy of Bicycle molecules as a differentiated antiviral therapeutic class in the context of pandemic preparedness.<h4>Importance</h4>The COVID-19 pandemic triggered a rapid wave of innovation, accelerating the delivery of new vaccine technology and antiviral treatments. In our first paper, we described the discovery and molecular optimization of Bicycle molecules as a novel drug class for the potential treatment of SARS-CoV-2. Here, we have performed deeper characterization of these tool molecules in established animal models to evaluate scenarios for deployment, simulating SARS-CoV-2 transmission, testing more convenient delivery routes, such as intranasal, as well as looking at immunocompromised animals. The Bicycle molecules demonstrated positive outcomes in each of these studies and suggest that Bicycle molecules, as convenient and effective antiviral treatments, could be an important addition to help future preparedness against new viral pandemics.",
-      "url": "https://doi.org/10.1128/jvi.01224-26",
-      "source": "MED",
-      "doi": "10.1128/jvi.01224-26",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
       "id": "MED:43041595",
       "topic": "Long-acting PrEP",
       "title": "Visible Light-Active Hyaluronic Acid Dermal Fillers for User-Demand Quick Molding and Local Drug Delivery.",
@@ -1316,11 +1316,11 @@
     {
       "id": "MED:43020255",
       "topic": "Long-acting PrEP",
-      "title": "Real-World Durability of Long-Acting Cabotegravir PrEP in Choice-Driven and Indication-Driven Users.",
+      "title": "Real-world durability of long-acting cabotegravir PrEP in choice-driven and indication-driven users.",
       "authors": "Moschese D, Esvan R, Fusetti C, Micheli G, Lazzarin S, Farinacci D, Giacomelli A, Barchi V, Cossu MV, Giacinta A, Oreni L, Caruso F, Antinori A, Gori A, Mazzotta V.",
       "journal": "",
       "date": "2026-11-12",
-      "abstract": "<h4>Objectives</h4>To evaluate real-world adherence, persistence, and discontinuation of CAB-LA PrEP among individuals accessing this strategy either by choice or due to clinical or behavioural indications associated with challenges to oral PrEP.<h4>Methods</h4>We conducted an observational cohort study including 388 individuals initiating CAB-LA PrEP between December 2024 and November 2025 at two Italian referral centres. Adherence to the injection schedule, persistence over time, and all-cause and drug-related discontinuations were assessed overall and stratified by access modality.<h4>Results</h4>Adherence exceeded 94.9% across almost all assessed injection time points. Overall persistence remained high, with 87.9% (95% CI 84.7-91.2%) of participants remaining on CAB-LA PrEP at week 52 [84.1% (95% CI 77.0-91.3%) in choice- and 89.3% (95% CI 85.7-92.9%) in indication-driven users; p=0.191]. All-cause discontinuation occurred in 12.1% of participants, while drug-related discontinuations were uncommon (6.9%).<h4>Conclusions</h4>CAB-LA PrEP demonstrated high adherence, sustained persistence, and low rates of drug-related discontinuation in routine clinical practice. Durable performance regardless of access modality supports its feasibility both as a preference-sensitive option and as an alternative for populations experiencing difficulties with oral prevention.",
+      "abstract": "<h4>Objectives</h4>To evaluate real-world adherence, persistence, and discontinuation of CAB-LA PrEP among individuals accessing this strategy either by choice or due to clinical or behavioural indications associated with challenges to oral PrEP.<h4>Methods</h4>We conducted an observational cohort study including 388 individuals initiating CAB-LA PrEP between December 2024 and November 2025 at two Italian referral centres. Adherence to the injection schedule, persistence over time, and all-cause and drug-related discontinuations were assessed overall and stratified by access modality.<h4>Results</h4>Adherence exceeded 94.9% across almost all assessed injection time points. Overall persistence remained high, with 87.9% (95% CI 84.7-91.2%) of participants remaining on CAB-LA PrEP at week 52 [84.1% (95% CI 77.0-91.3%) in choice- and 89.3% (95% CI 85.7-92.9%) in indication-driven users; P = 0.191]. All-cause discontinuation occurred in 12.1% of participants, while drug-related discontinuations were uncustomary (6.9%).<h4>Conclusions</h4>CAB-LA PrEP demonstrated high adherence, sustained persistence, and low rates of drug-related discontinuation in routine clinical practise. Durable performance regardless of access modality supports its feasibility both as a preference-sensitive option and as an alternative for populations experiencing difficulties with oral prevention.",
       "url": "https://doi.org/10.1016/j.ijid.2026.109251",
       "source": "MED",
       "doi": "10.1016/j.ijid.2026.109251",
@@ -2242,5 +2242,7 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    "AI Embeddings: The read operation timed out"
+  ]
 }
