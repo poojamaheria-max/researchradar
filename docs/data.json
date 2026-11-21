@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T12:41:52.088754+00:00",
+  "updated": "2026-11-21T18:33:14.628553+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -690,6 +690,22 @@
       ]
     },
     {
+      "id": "MED:42843401",
+      "topic": "AI Embeddings",
+      "title": "Machine Learning in Causal Effect Estimation and Causal Evaluation of ML-Enabled Interventions in Nursing-Related Research: A Scoping Review.",
+      "authors": "Kosmidis D, Vlachopoulos G, Nashwan AJ, de Carvalho RLR, Araujo BS, Armeni D, Sertaridou E, Koutsouki S.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "Machine learning (ML) informs nursing practice, but prediction cannot establish intervention or workflow effects. Aim To map ML use within causal effect estimation and causal evaluations of ML-enabled interventions in nursing and midwifery. Eight electronic sources were searched for reports published January 2015-June 2026, followed by backward citation searching. Eligibility required a causal estimand, corresponding identification strategy, substantive ML role, and nursing or midwifery relevance. Two reviewers independently screened records and full texts. Fifteen studies (17 reports) were included. Five addressed acute deterioration or sepsis; others covered care prioritization, falls, post-discharge care, and nurse- or midwife-led services. Five used ML within causal effect estimation to examine longitudinal and spillover effects, treatment-effect heterogeneity, and targeting strategies. Ten evaluated ML-enabled interventions or workflows; reported favorable effects on mortality, care escalation, message-review time, and nursing processes, while several controlled estimates were null or imprecise. Evidence remains small and methodologically uneven. Future studies should align estimands, identification strategies, analytic methods, and workflows and evaluate model-plus-workflow effects on nursing processes and patient outcomes.",
+      "url": "https://doi.org/10.1111/nhs.70431",
+      "source": "MED",
+      "doi": "10.1111/nhs.70431",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:42826126",
       "topic": "AI Embeddings",
       "title": "Concordance of Microbiological and Histopathological Examination of Bone Biopsies in Diagnosing Diabetic Foot Osteomyelitis, a Systematic Review.",
@@ -738,6 +754,70 @@
       ]
     },
     {
+      "id": "PMC:PMC13787140",
+      "topic": "AI Embeddings",
+      "title": "How to Build Machine-Learning Models for Molecular Science: A Step-by-Step, Annotated Tutorial",
+      "authors": "",
+      "journal": "",
+      "date": "2026-11-21",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13787140",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13787458",
+      "topic": "AI Embeddings",
+      "title": "Complex IV maturation coordinates postnatal mitochondrial and metabolic development",
+      "authors": "Popovic M, Cabrera-Orefice A, Isermann L, Croon M, Zecic A, Meisterknecht J, Alameldin Y, Hanehalli V, Siibak T, Frezza C, Wittig I, Trifunovic A.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13787458",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13787479",
+      "topic": "AI Embeddings",
+      "title": "Immune infiltrate predicts response to αPD1/αCTLA4 but not αPD1 and distinguishes programs of primary resistance in metastatic melanoma",
+      "authors": "Huang A, Burke K, Glettig M, Porter R, Fatouros P, Li J, Meiger L, Rosado V, Xu S, Yang J, Robitschek E, Vokes N, Ricker C, Tarantino G, Chen J, Aprati T, He Y, Wang C, Fu D, Ho L, Galani K, Freeman G, Buchbinder E, Hodi F, Lian C, Kellis M, Boland G, Sharpe A, Liu D.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13787479",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13787478",
+      "topic": "AI Embeddings",
+      "title": "Psychedelics shift decision strategies and reconfigure orbitofrontal dynamics",
+      "authors": "Delgado-Sallent C, Ahmed S, Khawaja-Lopez A, Lee B, Mishra U, Senne R, Ramirez S, Scott B.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13787478",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43064728",
       "topic": "AI Embeddings",
       "title": "velotest: statistical assessment of RNA velocity embeddings reveals quality differences for reliable trajectory visualizations.",
@@ -764,6 +844,22 @@
       "url": "https://doi.org/10.11607/jomi.11898",
       "source": "MED",
       "doi": "10.11607/jomi.11898",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43063205",
+      "topic": "AI Embeddings",
+      "title": "CogD-ML: Cognitive determinants of social commerce purchase intention in Bangladesh using machine learning and explainable AI.",
+      "authors": "Barua S, Rahman R, Azad AKA, Momen S.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Cognitive factors are associated with online purchase intentions in developing economies, and the linear models conventionally used to study them can miss non-linear patterns. We report an applied integration of the Theory of Planned Behavior (TPB) with machine learning and explainable AI (XAI) to predict social media-driven e-commerce purchase intentions in Bangladesh. Survey data from 352 young, student-dominated consumers captured attitudes, subjective norms, perceived behavioral control, and purchase behavior on validated Likert scale items. After reliability-based labeling and feature selection, we ran an ablation across seven classical classifiers and one multilayer perceptron, with stratified five-fold cross-validation, threshold sensitivity analysis, and a cross-domain check. With all TPB constructs included, support vector machines and AdaBoost reached 92% accuracy on the held-out test set, and cross-validated mean accuracy ranged from 0.84 to 0.88 for every model except the decision tree. These figures should be read against a positive-class prevalence of 82.1%, which inflates accuracy and F1 relative to imbalance-robust measures. Transfer to an independent North Indian sample was weak, with SVM MCC falling from 0.522 to 0.315 and AUROC from 0.923 to 0.775. In SHAP analyses, the four items the model relied on most were PBC1 (motivation from frequent advertising), SN3 (approval when many others buy through social media), ATTD4 (past purchase), and SN1 (family influence). Bivariate correlations and pathway-level regression with Benjamini-Hochberg correction are interpreted as associations, not causal effects, and Brier score and log loss are reported alongside SHAP and LIME to show whether predicted probabilities are calibrated. These findings are exploratory and specific to the sampled population; given the convenience sample, the class imbalance, and the weak transfer, they are not evidence of robust generalization or of readiness for deployment.",
+      "url": "https://doi.org/10.1371/journal.pone.0362973",
+      "source": "MED",
+      "doi": "10.1371/journal.pone.0362973",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -994,6 +1090,22 @@
       ]
     },
     {
+      "id": "MED:43058360",
+      "topic": "AI Embeddings",
+      "title": "Addressing Disparities in Hypertension Control: The Potential Role of New Drugs and Devices in 2026 and Beyond.",
+      "authors": "Odo CC, Reddy T, Ogunniyi MO, Ferdinand KC, Ilonze OJ.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<h4>Purpose of review</h4>Hypertension is the leading modifiable cardiovascular risk factor in the United States, with racially/ethnically diverse populations experiencing a disproportionate burden, associated with social, structural, and potentially biological determinants. This review examines how recently approved and investigational pharmacologic therapies and device-based interventions may advance hypertension control in 2026 and beyond, with deliberate attention to the strength and applicability of the available evidence in racially/ ethnically diverse populations.<h4>Recent findings</h4>Aldosterone synthesis and mineralocorticoid receptor signaling represent important advances beyond the present guidelines for resistant hypertension and cardiovascular-kidney-metabolic risk reduction. For instance, baxdrostat, a recently approved aldosterone synthase inhibitor (ASI), has demonstrated clinically meaningful blood pressure reductions. In addition, lorundrostat, an investigational ASI, provides a model for racially representative trial design through the intentional enrollment of Black and Hispanic/Latino participants and consistent efficacy across racial subgroups. In contrast, pivotal finerenone trials demonstrated improved cardiac and renal outcomes but included limited representation of Black adults. Additional approved therapies include an agent targeting the endothelin pathway, aprocitentan, and device-based interventions via renal denervation therapy, although their effectiveness in diverse populations remains unknown. Therapies targeting natriuretic peptide signaling remain investigational but could potentially expand the therapeutic landscape. Advances in antihypertensive therapy offer new opportunities to improve blood pressure control and reduce cardiovascular risk beyond the 2025 American Heart Association (AHA) and American College of Cardiology (ACC) AHA/ACC High Blood Pressure Guideline-directed approach. Ensuring equitable benefit from these innovations requires that therapeutic innovation be coupled with deliberate efforts to ensure equitable delivery and benefit across populations.",
+      "url": "https://doi.org/10.1007/s11906-026-01403-5",
+      "source": "MED",
+      "doi": "10.1007/s11906-026-01403-5",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1371321",
       "topic": "Long-acting PrEP",
       "title": "Financial distress, clinic attendance concerns and transport-support requests for long-acting injectable HIV options among people living with HIV and clients recruited through PrEP services in Uganda: a cross- sectional study",
@@ -1020,118 +1132,6 @@
       "url": "https://doi.org/10.64898/2026.11.16.26368224",
       "source": "PPR",
       "doi": "10.64898/2026.11.16.26368224",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43057368",
-      "topic": "AI Embeddings",
-      "title": "Protocol for an EHR-embedded pragmatic randomized controlled trial of ambient AI to reduce nursing staff documentation time.",
-      "authors": "Wieben A, Pfaff J, Baumann MR, Resnik F, Brzozowski S, Langer C, Stine K, Gillis C, Sullivan AG, Voegele C, Mrotek LA, Afshar M, Burnside ES, Hankwitz J, Rasmussen S, Jackson R, Kohler B.",
-      "journal": "",
-      "date": "2026-11-19",
-      "abstract": "<h4>Background</h4>Documentation burden significantly impacts nursing workload and well-being, with nurses spending an estimated 20-40% of their time on documentation. Ambient AI technologies offer potential to reduce documentation time by mapping real-time nurse-patient conversations to structured EHR data entries with human-in-the-loop verification.<h4>Methods</h4>This protocol describes a pragmatic, EHR-embedded randomized controlled trial evaluating the effectiveness of an Ambient AI tool in reducing nursing documentation time across three inpatient medical/surgical units. The study employs a closed-cohort, stepped-wedge, unit-randomized design, integrating the intervention into routine clinical workflows. The primary outcome is documentation time per shift hour, derived from EHR audit logs. Secondary outcomes include documentation burden, professional well-being, and perceived usability.<h4>Results</h4>The trial is being implemented within a shared governance model that integrates executive oversight, operational feasibility, and research rigor. Multidisciplinary workgroups coordinate technical integration, user experience, and analytics, ensuring alignment between operational priorities and pragmatic trial objectives. Early implementation has highlighted the importance of adapting training and analytic strategies to address differential intervention exposure, as well as the need for rapid operational responses to late-emerging technical issues.<h4>Discussion</h4>This protocol demonstrates the feasibility of embedding a randomized pragmatic trial within a health system-led operational deployment of Ambient AI for inpatient nursing documentation. The approach highlights the necessity of adapting existing outpatient provider-focused AI implementation strategies for inpatient nursing, emphasizing the unique nature of different nursing care environments. Recruitment challenges and the integration of research with operational workflows are discussed as key considerations for future pragmatic AI trials in nursing.<h4>Clinicaltrials</h4><h4>Gov identifier</h4>NCT07456241V3: 2026-05-12 (https://clinicaltrials.gov/study/NCT07456241).",
-      "url": "https://doi.org/10.1016/j.cct.2026.108534",
-      "source": "MED",
-      "doi": "10.1016/j.cct.2026.108534",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43056161",
-      "topic": "AI Embeddings",
-      "title": "Barriers and Facilitators to Vaccination in Hemodialysis: A Mixed-Methods Survey of Australian Clinicians.",
-      "authors": "Vaughan E, Wyburn K, Saunders J, Kim S, Jesudason S, Marinelli T, Chadban S, Wyld M.",
-      "journal": "",
-      "date": "2026-11-19",
-      "abstract": "<h4>Background</h4>People receiving hemodialysis are vulnerable to vaccine-preventable infections, yet vaccination uptake remains suboptimal. Patient-level barriers are well described, but the clinical and service-level factors shaping vaccine delivery have received less attention. We examined clinician perspectives and vaccination practices in hemodialysis care to identify barriers, facilitators and clinician-proposed strategies for improvement.<h4>Methods</h4>A convergent mixed-methods design combined an Australian cross-sectional online survey with qualitative content analysis of free-text responses (August 2024 -January 2025) of nephrologists, trainees and dialysis nurses. The survey covered vaccination beliefs, practice patterns, barriers and facilitators, and proposed solutions. Free-text responses were dual-coded and quantitative and qualitative findings were integrated during interpretation.<h4>Results</h4>A total of 89 clinicians participated (71 (80%) nephrologists, 12 (14%) dialysis nurses, 6 (7%) nephrology trainees. Confidence in vaccine safety was high (96%), while confidence in vaccine efficacy was moderate (54% confident, 36% neither). Clinicians perceived patients to have limited understanding of their vaccination needs (54% little or no understanding). Although many clinicians (40%) indicated a preference for nephrologists to assume responsibility for vaccination, delivery within dialysis units was limited; vaccination review was predominantly nursing-led (28%) or ad-hoc (28%) and reminders were largely manually generated. Top barriers included logistical challenges (57%), clinician-perceived patient hesitancy (52%), poor communication with external vaccine-providers (46%) and time constraints (39%). Perceived hesitancy was attributed to misinformation (76%), mistrust (61%), complacency (56%) and previous adverse experiences (51%). Free-text findings described patient-centered approaches to perceived hesitancy, including repeated dialogue, shared decision making and respect for autonomy, alongside clinician-proposed strategies for better vaccination delivery through protocolized care and integrated digital systems.<h4>Conclusions</h4>Clinicians strongly support vaccination yet face substantial structural barriers - fragmented delivery, ambiguous responsibility at the primary-tertiary interface, and underdeveloped digital infrastructure. Improving vaccination uptake may require embedding vaccination within routine dialysis care and strengthening digital coordination.",
-      "url": "https://doi.org/10.34067/kid.0000001447",
-      "source": "MED",
-      "doi": "10.34067/kid.0000001447",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1372107",
-      "topic": "AI Embeddings",
-      "title": "DELTA: Training-free and label-free correction of pathology foundation model embeddings through paired counterfactual stain-appearance interventions",
-      "authors": "Choi YH, Kang J, Shin S, Kim C.",
-      "journal": "",
-      "date": "2026-11-19",
-      "abstract": "Staining and scanning variation impairs pathology foundation model (FM) generalization. We propose DELTA, a training-free, label-free method for post-hoc correction of FM embeddings. DELTA estimates recurrent directions from paired embedding differences between original patches and counterfactual stain-appearance variants preserving spatial structure, then attenuates aligned components through a fixed projection. Estimation from 4% of eligible patches per source dataset required no separately acquired matched images. Operators directly correct stored embeddings. On PathoROB, DELTA improved patch-level representation robustness over raw embeddings in all 20 FMs. Mean classification gains over established correction methods persisted after patch aggregation. DELTA provided additional gains after stain normalization. Whole-slide analyses showed improved in-distribution survival discrimination in TCGA-BRCA and normative cancer screening in a clinical cohort. Operators from TCGA-BRCA reduced embedding variation in the PLISM dataset across 13 staining conditions and 7 scanners without refitting. With projection rank and center matched, DELTA outperformed projections from mismatched pairs in retrieval and tissue-category concordance. Corrected embeddings retained information for spatial gene-expression prediction in the STP-BENCH datasets, with gains for tumor microenvironment markers in selected cohorts.",
-      "url": "https://doi.org/10.64898/2026.11.18.767727",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.18.767727",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1371556",
-      "topic": "AI Embeddings",
-      "title": "LG-MIL: Language-Guided Multiple Instance Learning for Coordinate-Aligned Attention Analysis in Whole-Slide Images",
-      "authors": "Hassan MM, Bashar MR.",
-      "journal": "",
-      "date": "2026-11-19",
-      "abstract": "<title>Abstract</title>  <p>Language-Guided Multiple Instance Learning (LG-MIL) is introduced as a weakly supervised framework for whole-slide image (WSI) analysis. The proposed approach integrates visual and textual information to support interpretable slide-level prediction. Patch-level features extracted from WSIs are combined with class-level textual prompts encoded in a shared multimodal space. To enable semantically informed aggregation under weak supervision, text embeddings guide patch weighting through a cross-modal attention mechanism. A coordinate retrofit strategy is further employed to recover per-patch (x,y) locations at inference, enabling the generation of attention heatmaps, top-K tile visualizations, and saliency-based summaries for spatial interpretability. To regulate the sharpness and semantic alignment of attention distributions, the framework incorporates two interpretable controls: the attention temperature τ(tau) and the contrastive loss weight α. Experiments on patient-exclusive validation and test splits demonstrate competitive slide-level classification performance, with measurable variation across random initializations and hyperparameter settings. Saliency analyses further investigate the relationship between model confidence and attention dispersion, while ablation studies show that attention temperature influences both attention concentration and predictive performance. Lower temperature values produce more concentrated attention distributions, whereas higher values result in more diffuse attention patterns. Overall, LG-MIL provides a reproducible pipeline for language-guided, coordinate-aligned attention analysis in WSIs, enabling transparent investigation of model behavior under weak supervision. The framework highlights the potential of text guidance, spatial alignment, and saliency quantification for advancing interpretability in large-scale WSI modeling without requiring dense or clinical annotations.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11763838/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11763838/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1371354",
-      "topic": "AI Embeddings",
-      "title": "Pre-clinical medical school curriculum on trauma-informed care improved confidence in caring for survivors of sexual assault",
-      "authors": "Mackey-Alfonso SE, Greenwald JR, Daily KP, Thompson R, Boulger C, Fernandes AK.",
-      "journal": "",
-      "date": "2026-11-19",
-      "abstract": "<title>Abstract</title>  <p>Background  Survivors of sexual assault (SA) and intimate partner violence (IPV) frequently experience re-traumatization within the healthcare system, leading to medical mistrust and increased loss to follow-up. Provider discomfort and inadequate training are recognized barriers to trauma-informed care, yet mandatory medical school curriculum addressing SA/IPV remains critically underdeveloped. This study evaluated the effectiveness of pre-clinical trauma-informed SA/IPV curriculum via confidence scores and self-identified challenges in caring for survivors. Methods  A one-week long, three-part curriculum was delivered to first-year students at The Ohio State University College of Medicine between 2021–2023. This included a 15-minute pre-recorded lecture on the neurobiology of trauma and physician role, a 2-hour in-person panel featuring male and female survivors, and a faculty-led session with a standardized patient (SP) encounter. Students completed pre- and post-intervention surveys rating Likert-scale confidence in supporting a friend and a patient. Free responses were analyzed via qualitative thematic analysis mapped to ACGME core competencies. Results  Among 257 included students, confidence increased significantly from pre- to post-intervention for supporting a friend and a future patient (p < 0.01), with higher baseline confidence for supporting a friend. Students with prior trauma-informed care or advocacy experience had greater baseline confidence but still improved significantly, as did those without prior exposure. No significant difference was observed between gender groups (p > 0.01). Of 18 identified challenge themes, interpersonal communication concerns decreased most, while systems-based practice concerns and the desire for additional practice increased. Lastly, \"difficulty relating to the patient\" was unchanged. Conclusions  Our practice-based SA/IPV curriculum significantly improved student confidence regardless of prior training and shifted challenges from foundational communication fears toward systems-based practice concerns. Combining knowledge acquisition, survivor panels, and low-stakes SP practice within existing curricular structures offers a feasible and easily replicable model for embedding trauma-informed care education early in training.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11485939/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11485939/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43051234",
-      "topic": "AI Embeddings",
-      "title": "Surgical versus non-surgical treatment for metacarpal shaft fractures : a prospective feasibility study.",
-      "authors": "Taha R, Leighton P, Davis T, Montgomery A, Karantana A, FACTS Study Group, Murray A, Reed A, Selby A, Sanghera B, Chan C, Bainbridge C, Lane G, Hambrook G, Bourke G, Riyat H, Burn I, Yang J, Rodrigues J, Wen J, Rocha J, Abrahams J, Manso K, Gardiner M, Ip M, Goodall R, Owdziej S, Oxley S.",
-      "journal": "",
-      "date": "2026-11-19",
-      "abstract": "<h4>Aims</h4>The aims of this study were to assess the feasibility of a randomized controlled trial (RCT) comparing surgical and non-surgical treatment for metacarpal shaft fractures (MSFs), identify appropriate outcome measures for use in a future trial, and provide person-centred insight to inform trial design and identify barriers to participation.<h4>Methods</h4>We carried out a prospective, multicentre, observational feasibility study at five UK sites, and an embedded qualitative study. Adults (aged ≥ 16 years) with an acute displaced MSF were screened and prospectively recruited between July 2020 and July 2021. Clinical (grip strength, range of motion, and radiological parameters) and patient-reported outcome measures (Patient Evaluation Measure, the abbreviated version of the Disabilities of the Arm, Shoulder and Hand questionnaire (QuickDASH), Patient-Reported Outcomes Measurement Information System Upper Extremity (PROMIS-UE), EQ-5D-5L, and the seven-point Global Rating of Change) were collected at study enrollment, six weeks, and at three, and six months. Semistructured interviews and focus groups were conducted with participants selected from the main study cohort using purposive sampling, and analyzed using a thematic inductive approach.<h4>Results</h4>Of 5,863 patients screened, 201 were eligible and 108 were recruited. The median age was 32 years (IQR 22 to 48); 68% (n = 73/108) patients were male, 84% (n = 65/108) were treated non-surgically, and 16% (n = 12/108) surgically. Treatment was unknown for 31 patients (29%) who failed to attend the six-week follow-up. Retention was 71% (n = 77/108) at six weeks and 45% (n = 49/108) at six months. In total, 20 interviews were conducted, with 13 participants and three focus groups (eight participants per group). Five key themes and 30 sub-themes were identified. Participants selected the QuickDASH and PROMIS-UE as optimal outcome measures and recommended increased follow-up in the first four to six weeks post-injury. Interventions, data collection methods, and follow-up were acceptable to participants.<h4>Conclusion</h4>A multicentre RCT comparing surgical and non-surgical management of MSF appears feasible. Recruitment across sites was achievable and suitable primary outcome measures were identified. However, declining retention beyond six weeks highlights the need for targeted strategies to enhance engagement and retention in a definitive trial.",
-      "url": "https://doi.org/10.1302/2633-1462.711.bjo-2026-0140.r1",
-      "source": "MED",
-      "doi": "10.1302/2633-1462.711.bjo-2026-0140.r1",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1370178",
-      "topic": "AI Embeddings",
-      "title": "MelanoFusion: An Explainable and Uncertainty-Aware Hybrid CNN–Transformer Framework for Dermoscopic Melanoma Detection",
-      "authors": "Raju VP, R S, Kumar TB, Nirkhi S, Motghare M.",
-      "journal": "",
-      "date": "2026-11-19",
-      "abstract": "<title>Abstract</title>  <p>Melanoma is an aggressive skin cancer requiring early detection, yet automated analysis remains affected by lesion variation, calibration errors, uncertainty, and subgroup disparities. This study presents MelanoFusion, a hybrid framework integrating explainability, uncertainty estimation, and fairness-oriented representation learning for melanoma detection. It combines EfficientNetV2-S and Swin Transformer encoders with cross-attention, lesion attention, feature-pyramid processing, multi-scale transformer layers, and an uncertainty head. Images were resized to 224 × 224 and processed using hair removal, median filtering, contrast enhancement, colour normalization, and watershed-based lesion priors; U-Net was used for lesion segmentation. MelanoFusion was evaluated against DenseNet121, ResNet101, EfficientNetV2-S, ConvNeXt-Tiny, and Swin Transformer on HAM10000, ISIC 2018, and PH². Segmentation Dice was 0.878 on HAM10000 and 0.830 on PH². MelanoFusion achieved ROC-AUC values of 0.687, 0.740, and 0.844 on HAM10000, ISIC 2018, and PH², respectively. Calibration was favourable on HAM10000, with an expected calibration error of 0.116. Uncertainty was significantly associated with classification error, while subgroup analysis showed significant sensitivity differences across age groups but not sex. Ablation results indicated that several proposed components did not improve discrimination. The findings support joint evaluation of discrimination, calibration, uncertainty, explainability, and subgroup behaviour, while indicating the need for external validation and clinical evaluation before deployment.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11208377/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11208377/v1",
       "is_preprint": true,
       "topics": [
         "AI Embeddings"
@@ -1628,6 +1628,22 @@
       "url": "https://doi.org/10.1097/qai.0000000000003934",
       "source": "MED",
       "doi": "10.1097/qai.0000000000003934",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:42966498",
+      "topic": "Long-acting PrEP",
+      "title": "Differentiated obesity treatment: Pharmacological CRF2 agonism drives fat loss, skeletal muscle hypertrophy and improved glucose metabolism in preclinical obesity.",
+      "authors": "Niss K, Lundh S, Patel R, Fels JJ, Gruhler A, Madsen SH, Chimienti F, Bau S, Åsberg D, Lykke L, Cox N, Wulff BS, Roed NK, Li C, Christoffersen BØ.",
+      "journal": "",
+      "date": "2026-10-31",
+      "abstract": "<h4>Objective</h4>Loss of lean mass during weight reduction may compromise metabolic health and physical function. Urocortin 2 (UCN2) activates corticotropin-releasing factor receptor 2 (CRF2) and has been linked to beneficial effects on skeletal muscle and glucose metabolism. We evaluated an acylated UCN2 analogue (acyUCN2), alone or combined with an acylated GLP-1 analogue (acyGLP-1), in preclinical obesity models.<h4>Methods</h4>Diet-induced obese (DIO) Sprague Dawley rats and DIO Göttingen Minipigs were treated with vehicle or acyUCN2 (rats, pigs) or acyGLP-1 or combination therapy (rats only). Food intake, body weight (BW), body composition, glucose tolerance and energy expenditure (rats only) were assessed. Histology and RNA-sequencing were used to characterize muscle remodelling and transcriptional responses.<h4>Results</h4>In rats, acyUCN2 reduced food intake and fat mass, increased lean mass and muscle weight, and improved glucose tolerance despite limited effects on BW. Energy expenditure was not affected. Histology demonstrated hypertrophy across fibre types and a shift from type 2A to type 2X/B fibres. Transcriptomic analyses supported muscle growth and fibre type switch, relative reduced vasculature, regulation of neuromuscular junction-associated genes, and overlap to human acute exercise-response signatures. In obese minipigs, acyUCN2 increased lean mass and improved insulin sensitivity, with modest effects on BW and fat mass, alongside regulation of genes linked to muscle biology and metabolism.<h4>Conclusions</h4>Pharmacological CRF2 agonism promotes favourable body composition, muscle hypertrophy, and improved glucose metabolism despite limited weight loss, supporting clinical development of UCN2 analogues as a differentiated obesity treatment, particularly in combination with appetite-regulating therapies and in settings where preservation of functional muscle mass is critical.",
+      "url": "https://doi.org/10.1016/j.molmet.2026.102468",
+      "source": "MED",
+      "doi": "10.1016/j.molmet.2026.102468",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
@@ -2220,22 +2236,6 @@
       "url": "https://doi.org/10.1016/j.lana.2026.101652",
       "source": "MED",
       "doi": "10.1016/j.lana.2026.101652",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42878002",
-      "topic": "Long-acting PrEP",
-      "title": "Methodological considerations for indirect treatment comparisons of HIV incidence for long-acting injectable pre-exposure prophylaxis.",
-      "authors": "Curteis T, Franklin AN, Judge RK, Zolotor A, Jarrett J, Carter CC, Ebrahimi R, Mezzio D.",
-      "journal": "",
-      "date": "2026-10-15",
-      "abstract": "<b>Background:</b> Given the effectiveness of pre-exposure prophylaxis (PrEP), the HIV prevention landscape is expanding rapidly - including recently approved injectable options which have shown high efficacy in clinical trials. As head-to-head trials of injectable PrEPs are not feasible, indirect treatment comparisons (ITCs) are of value to generate comparative estimates of efficacy and safety. However, several methodological challenges must be carefully considered when conducting these ITCs. This review outlines these complexities to support informed decision-making. <b>Main text:</b> We identified methodological considerations through a narrative review of available literature (including leveraging published systematic reviews), evidence from PrEP trials and, where applicable, reference to methodological guidelines. Our review suggests treatment effect modifiers (TEMs) for PrEP are poorly defined in the HIV PrEP literature and, due to the high efficacy of injectable compared with oral PrEP, encompass potential prognostic factors (such as background HIV incidence). Challenges in comparing potential TEMs across trials were also noted due to, for example, differences in measurement methodology and reporting timepoint for adherence. Accounting for variation in follow-up across studies within potential ITCs is critical as HIV acquisition is a rare, time-dependent event. Additionally, zero or few events occur within injectable PrEP trials in HIV, challenging variance estimation and necessitating alternative statistical approaches. Population-adjustment methods are similarly complicated. <b>Conclusions:</b> This review outlines key considerations and offers practical recommendations to inform robust conduct of ITCs of PrEP, and support the interpretation of results. Areas of further research to strengthen future comparative evidence are also highlighted.",
-      "url": "https://doi.org/10.57264/cer-2026-0103",
-      "source": "MED",
-      "doi": "10.57264/cer-2026-0103",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
