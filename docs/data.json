@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T06:54:16.119448+00:00",
+  "updated": "2026-11-21T12:41:52.088754+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -220,6 +220,22 @@
       "url": "https://doi.org/10.1097/phh.0000000000002227",
       "source": "MED",
       "doi": "10.1097/phh.0000000000002227",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43049581",
+      "topic": "AI Embeddings",
+      "title": "Data-Driven EEG-fMRI Fusion: From Multimodal Integration to Latent Neural Inference.",
+      "authors": "Phadikar S, Li X, Geenjaar E, Hassanzadeh R, Wu L, Fouladivanda M, Baker B, Calhoun VD.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "Simultaneous electroencephalography (EEG) and functional magnetic resonance imaging (fMRI) capture neural dynamics across complementary temporal and spatial scales, but analyzing them jointly is difficult: the two modalities differ in measurement mechanisms, temporal resolution, and neurovascular coupling. EEG-fMRI fusion can be framed as an inverse problem, where the goal is to recover latent neural processes only partially observed through electrophysiological and hemodynamic signals. Here, we review data-driven fusion methods published between 2000 and 2025, focusing on techniques that identify shared neural representations across modalities. We organize methods by fusion strategies (symmetric vs. asymmetric), methodological objectives (factorization vs. translation), and modeling assumptions (linear vs. nonlinear), and discuss evaluation metrics and visualization strategies in current use. A recurring finding is the absence of a universal validation standard and the difficulty of interpreting latent multimodal components. Across neurological, psychiatric, and cognitive applications, EEG-fMRI fusion has revealed distributed network dynamics not accessible through unimodal analyses, though temporal misalignment, noise-induced coupling, and model-dependent interpretation remain persistent challenges. We close by discussing directions including nonlinear modeling, flexible coupling frameworks, and large-scale group-level fusion, and situate the field within a broader view of EEG-fMRI fusion as a problem of latent neural inference.",
+      "url": "https://doi.org/10.1002/hbm.70696",
+      "source": "MED",
+      "doi": "10.1002/hbm.70696",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -706,6 +722,278 @@
       ]
     },
     {
+      "id": "MED:42784704",
+      "topic": "AI Embeddings",
+      "title": "Artificial intelligence-based diagnostic decision support for primary care of older adults using collective intelligence and imitation learning.",
+      "authors": "Streiffer CD, Press MJ, Bishop NS, Schmid BE, Sliwa A, Vyas AL, Ungar LH, Peifer M, Weissman GE.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "<h4>Objective</h4>Older adults face disproportionate risk of diagnostic errors in primary care, yet effective diagnostic decision support systems (DDSSs) remain lacking. Existing artificial intelligence (AI)-based DDSSs rely on gold-standard labels infeasible to obtain, have narrow diagnostic scope, and fail to reflect real-world uncertainty. We developed and validated a deep learning DDSS using imitation learning and collective clinician intelligence to generate diagnostic and order recommendations.<h4>Materials and methods</h4>We trained a multi-label neural network on structured and unstructured electronic health record data from primary care encounters of adults ≥65 years old to imitate clinician decisions. Models were evaluated using discrimination, calibration, threshold-based, and composite metrics on a temporally held-out test set. Clinical validity was assessed using a randomized, blinded equivalence study comparing model-generated recommendations with observed clinician decisions.<h4>Results</h4>The study included 707 598 primary care encounters, generating recommendations across 669 diagnoses and 1000 orders. The general model demonstrated excellent performance (micro c-statistic 0.995 [95% CI 0.995-0.996], macro c-statistic 0.896 [0.888-0.897], micro F1-score 0.904 [0.903-0.905], macro F1-score 0.384 [0.381-0.385], integrated calibration index (ICI) 0.0025 [0.0024-0.0026]). Order prediction was lower (micro c-statistic 0.812 [0.811-0.814], macro c-statistic 0.786 [0.777-0.786], micro F1-score 0.305 [0.303-0.307], macro F1-score 0.0286 [0.0277-0.0294], ICI 0.0145 [0.0141-0.0150]). In clinician-validation, diagnostic disagreements were statistically equivalent between model recommendations and observed practice while order disagreements were not.<h4>Conclusion</h4>Imitation learning and collective clinician intelligence provide a feasible framework for generating diagnostic and ordering recommendations that reflect real-world practice without expert-adjudicated training labels. Randomized, blinded clinician evaluation pragmatically establishes preliminary clinical validity beyond traditional retrospective metrics.",
+      "url": "https://doi.org/10.1093/jamia/ocag132",
+      "source": "MED",
+      "doi": "10.1093/jamia/ocag132",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43064728",
+      "topic": "AI Embeddings",
+      "title": "velotest: statistical assessment of RNA velocity embeddings reveals quality differences for reliable trajectory visualizations.",
+      "authors": "Bischoff S, Poličar PG, Mukherjee S, Macke JH, Claassen M, Schröder C.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Contemporary single-cell RNA-sequencing studies typically use RNA velocity analyses to investigate cellular dynamics. Commonly, RNA velocities are assessed with two-dimensional projections. Although it is well established that nonlinear embeddings of gene expression data cannot comprehensively preserve the structure of the original high-dimensional data across scales, there is no tool that systematically assesses and quantifies the faithfulness of velocity embeddings. This situation potentially leads to misleading velocity visualizations and putative cell state transitions. To this end, we introduce velotest, a cell-level statistical test that quantifies the faithfulness of a velocity embedding with respect to its high-dimensional counterpart. Applying velotest across multiple datasets and embedding methods, we find strong differences in the embedding qualities between embedding methods, datasets, and regions in individual datasets. velotest thus provides an essential validation step and enables researchers to select a suitable visualization of high-dimensional velocities, ensuring that hypotheses drawn from velocity projections are grounded in accurately represented dynamics.",
+      "url": "https://doi.org/10.1038/s41467-026-78669-5",
+      "source": "MED",
+      "doi": "10.1038/s41467-026-78669-5",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43063500",
+      "topic": "AI Embeddings",
+      "title": "Nonlinear Dimensionality Reduction Reveals Distinct Phenotypic Clusters Among Immediately Placed Dental Implants: A UMAP Analysis of 5-Year Outcomes.",
+      "authors": "Cheng YC, Puisys A, Gallucci GO, Vindasiute-Narbute E, Nasseri A, Zvirblis T, Pala K.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "This study applied uniform manifold approximation and projection (UMAP), a nonlinear dimensionality reduction algorithm, to high-dimensional data from immediately placed and immediately loaded dental implants in the anterior maxilla to identify distinct phenotypic clusters and explore whether preoperative characteristics are associated with 5-year esthetic outcomes in this exploratory proof-of-concept study. Twenty-two patients who received immediately placed and immediately loaded implants in the anterior maxilla were analyzed. A total of 103 clinical, radiographic, and patient-reported parameters were collected across preoperative, baseline, 1-year, and 5-year time points. UMAP and principal component analysis (PCA) were used to generate two-dimensional representations of the data. K-means clustering was applied to the UMAP embeddings, and Mann-Whitney U tests with Bonferroni correction were used for inter-cluster comparisons. UMAP fitted on all 103 parameters separated the 22 implants into four clearly defined clusters. Clusters differed significantly in 5-year white esthetic score (WES; P < .001 after Bonferroni correction), as well as in pink esthetic score (PES), orofacial esthetic scale (OES), soft tissue height, and buccal bone thickness (all P < .05). PCA did not generate separable clusters. UMAP fitted on 24 preoperative parameters alone separated implants into three clusters that differed significantly in tooth location (P < .001) and showed divergent 5-year outcomes in OES and periodontal probing depth (PPD). UMAP identified clinically meaningful phenotypic clusters among immediately placed and immediately loaded implants that were not apparent using conventional linear methods. Clusters characterized by favorable initial bone conditions achieved superior long-term esthetic outcomes. Preoperative UMAP clustering was associated with 5-year outcomes in this exploratory proof-of-concept analysis; validation in independent cohorts is needed.",
+      "url": "https://doi.org/10.11607/jomi.11898",
+      "source": "MED",
+      "doi": "10.11607/jomi.11898",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43063138",
+      "topic": "AI Embeddings",
+      "title": "Online unsupervised industrial anomaly detection with adaptive resonance patch prototype memory and multi-level views.",
+      "authors": "Zhu Y, Li P, Zhang Q, Jin G.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Unsupervised industrial anomaly detection is widely used because defective samples are scarce while normal data are abundant. Many recent methods follow a feature-embedding pipeline that models patch-level deep features, but they often (i) introduce cross-layer interference when multi-level features are fused and (ii) risk losing fine-grained information when reference features are aggressively reduced. This paper proposes ART-IAD, an online patch-based framework that treats multi-level CNN features as independent views and models each view with an incremental Fuzzy Adaptive Resonance Theory (Fuzzy ART) prototype memory. For each ART prototype, sufficient statistics, including the mean and covariance, are maintained, and Mahalanobis-based anomaly scores are computed, enabling anomaly detection and localization without storing all patch embeddings. On MVTec AD, ART-IAD achieves an average image-level AUROC of 99.4% and pixel-level AUROC of 98.2%, slightly outperforming the strong baseline PatchCore by +0.3% in image-level AUROC and +0.1% in pixel-level AUROC. These results indicate that ART-based online prototype modeling and multi-view separation can provide accurate detection and localization with a compact reference memory.",
+      "url": "https://doi.org/10.1371/journal.pone.0362092",
+      "source": "MED",
+      "doi": "10.1371/journal.pone.0362092",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1373676",
+      "topic": "AI Embeddings",
+      "title": "NeuroSim: a clinically informed multi-disorder EEG simulator with personalized pattern injection and AI-driven neurological modeling",
+      "authors": "Bunterngchit C, Aslam S, Sattar A, Rasool A, Wang Y.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Deep learning for electroencephalography (EEG) based neurodiagnostics is constrained  by the limited availability of labeled clinical recordings. Datasets covering Alzheimer’s  disease (AD), Parkinson’s disease (PD), schizophrenia (SCZ), epilepsy (EPI), and  frontotemporal dementia (FTD) are scarce, demographically narrow, and heterogeneous  across acquisition sites, while privacy requirements restrict data sharing. Existing EEG  simulators typically address a single disorder or trade biological interpretability for  statistical fidelity. This study presents NeuroSim, a simulation framework that  generates synthetic multichannel EEG with user-controlled injection of disease-specific  patterns across five disorders and multiple severity levels. A physiologically motivated  baseline generator produces band-limited rhythms, event-related potentials, artifacts,  and hierarchical subject-level and trial-level variability. Disease patterns are introduced  through region-specific and severity-specific spectral modulation that encodes  established biomarkers, including posterior alpha suppression in AD, motor beta  enhancement in PD, and spike-wave discharges in EPI. An interactive interface exposes  montage, sampling rate, duration, artifacts, stimuli, affected regions, and severity, and  exports signals with reproducible metadata. The simulated signals reproduced the  expected biomarker directionality under spectral, topographic, and multivariate  statistical analysis. A convolutional-attention classifier trained on simulated data  reached 95.3 to 96.8 percent hold-out accuracy, and post hoc explainability analyses  produced class-separable embeddings with attributions concentrated on  pathophysiologically expected electrodes. Application of the analysis pipeline to  recordings from the Temple University Hospital EEG Corpus confirmed compatibility  with heterogeneous clinical data. In subject-level augmentation experiments on real  clinical EEG, supplementing real training data with NeuroSim samples increased  classification accuracy from 91.6 to 94.5 percent for AD versus healthy controls and  from 90.9 to 94.0 percent for PD versus healthy controls, exceeding the improvement  obtained with conventional signal-level augmentation. NeuroSim is released as open-source software to support augmentation, benchmarking, and explainable artificial  intelligence in neurological diagnostics.",
+      "url": "https://doi.org/10.64898/2026.11.19.767788",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.19.767788",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1373602",
+      "topic": "AI Embeddings",
+      "title": "BrainRoute integrates machine learning prediction with community-driven verification of blood-brain barrier permeability",
+      "authors": "Shirolkar SA, Bueh LT, Cerere LW, Ahmed NE, Some G, Awe OI.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "The blood-brain barrier (BBB) is a highly selective barrier that restricts the entry of many therapeutic agents into the brain. The lack of efficient methods for BBB permeability research and data management remains a significant challenge for central nervous system drug-development pipelines. Although BBB permeability data are available from multiple open sources, few platforms integrate these datasets with molecular exploration, predictive tools, and a structured process for community-supported data verification. Here, we present BrainRoute, an open platform for BBB molecular data collection, exploration, prediction, and community-supported verification. BrainRoute provides searchable and filterable molecular records, physicochemical and structural information, source-linked data, single-molecule and batch prediction, and a structured workflow through which users can submit additional evidence for review. The prediction tool model-development cohort contained 7,888 unique molecules, including 5,424 BBB+ and 2,464 BBB- molecules. Six machine-learning classifiers were evaluated using PaDEL descriptors, Morgan fingerprints, frozen ChemBERTa embeddings, and combined feature representations. The three selected models were integrated into the platform as a probability-averaged ensemble. The primary five-fold scaffold-grouped analysis achieved a best mean balanced accuracy of 0.783 ± 0.026. On an independent external set containing 410 non-overlapping molecules, the deployed ensemble achieved a balanced accuracy of 0.659 (95% CI 0.600 - 0.712) and an AUPRC of 0.670 (95% CI 0.583 - 0.752). BrainRoute serves as a platform for exploring BBB-related molecular data and computational predictions while supporting the continued growth and verification of the underlying dataset. BrainRoute is freely accessible online (https://github.com/omicscodeathon/brainroutedb).",
+      "url": "https://doi.org/10.64898/2026.11.19.767839",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.19.767839",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1373484",
+      "topic": "AI Embeddings",
+      "title": "The ITE-Transformer: A pre-trained foundation model for predicting individualized treatment effects from electronic health records",
+      "authors": "Arceri C, Angelis E, Heesen P, Melnychuk V, Bendszus M, Bauer S, Feuerriegel S.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Transformer-based foundation models have shown strong potential for modeling longitudinal electronic health records (EHRs), yet existing models focus primarily on risk prediction rather than treatment effect estimation, which limits evidence generation. Here, we introduce the ITE-Transformer, a transformer-based framework that combines self-supervised representation learning from longitudinal patient trajectories with doubly robust causal machine learning for predicting individualized treatment effects (ITEs). As a result, our ITE-Transformer allows to study counterfactual questions of how an individual patient's outcome may differ under alternative treatment strategies. The ITE-Transformer learns temporally contextualized representations of patients' diagnosis and medication histories and subsequently uses these representations to predict treatment assignment, treatment-specific outcome risks, and patient-specific ITEs. The ITE-Transformer is trained using structured EHR data from ~350,000 participants in the All of Us Research Program and evaluated in two clinically different comparative-effectiveness tasks: (i) GLP-1 receptor agonists versus DPP-4 inhibitors among patients with type 2 diabetes, with major adverse cardiovascular events as the outcome, and (ii) immunotherapy versus chemotherapy in a pan-cancer cohort, with all-cause mortality as the outcome. Across both applications, the ITE-Transformer improves the discrimination and calibration of treatment assignment and outcome models compared with existing tabular machine learning approaches and an otherwise identical transformer trained without self-supervised pre-training. The ITE-Transformer further identifies substantial heterogeneity in predicted ITEs and yields interpretable patterns of treatment response associated with patients' diagnoses, medication histories, and comorbidities. Together, our work demonstrates how clinical foundation models can be developed for analyzing heterogeneity in treatment effects and thus support real-world evidence generation.",
+      "url": "https://doi.org/10.64898/2026.11.19.26368479",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.19.26368479",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1373410",
+      "topic": "AI Embeddings",
+      "title": "Examining HiTOP Through Naturalistic Symptom Descriptions in Anonymous Online Mental Health Forums: A Mixed-Methods Study Protocol",
+      "authors": "Ferizaj D.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<p>AbstractBackground: The Hierarchical Taxonomy of Psychopathology (HiTOP) organises covarying symptoms and maladaptive traits into transdiagnostic dimensions to address limitations of categorical diagnosis. Naturalistic symptom descriptions may complement structured assessments. <h4>Objective:</h4> This protocol describes a reproducible mixed-methods workflow to derive symptom indicators from forum posts and examine their organisation relative to HiTOP. Methods and analysis: The target sample is 80,000 public Reddit posts. After local de-identification, a large language model (LLM) will extract symptom labels and supporting paraphrases. Two human experts will independently review outputs for up to 250 posts. Three embedding models will flag potentially equivalent symptom labels for local LLM assessment. Two experts will qualitatively review the most frequent canonical symptom labels (at least 1,000) and develop a codebook of symptom categories, continuing until a prespecified saturation criterion is met. An LLM will assign canonical symptom labels to these categories, producing binary post-level indicators. Multiverse-inspired structural analyses will compare network, component, factor, and clustering representations across discovery, internal tuning, and holdout partitions. Evaluation will assess interpretability, stability, and agreement with expert mapping to HiTOP. Supplementary analyses will include agent-assisted exploration, codebook application to DepressionEmo and the Reddit Mental Health Dataset, and pooled integrative analysis that may include additional comparable corpora. <h4>Discussion:</h4> The study will examine whether symptom co-expression within posts forms interpretable patterns corresponding to HiTOP.Ethics: The Ethics Committee of Charité – Universitätsmedizin Berlin approved the study (EA2/274/25). The study was preregistered on 8 May 2026 (German Clinical Trials Register, DRKS00040244). <h4>Keywords:</h4> Hierarchical Taxonomy of Psychopathology, natural language processing, large language models, Reddit, mixed methods, study protocol</p>",
+      "url": "https://doi.org/10.31234/osf.io/ahrts_v1",
+      "source": "PPR",
+      "doi": "10.31234/osf.io/ahrts_v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1373409",
+      "topic": "AI Embeddings",
+      "title": "Examining HiTOP Through Naturalistic Symptom Descriptions in Anonymous Online Mental Health Forums: A Mixed-Methods Study Protocol",
+      "authors": "Ferizaj D.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<p>AbstractBackground: The Hierarchical Taxonomy of Psychopathology (HiTOP) organises covarying symptoms and maladaptive traits into transdiagnostic dimensions to address limitations of categorical diagnosis. Naturalistic symptom descriptions may complement structured assessments. <h4>Objective:</h4> This protocol describes a reproducible mixed-methods workflow to derive symptom indicators from forum posts and examine their organisation relative to HiTOP. Methods and analysis: The target sample is 80,000 public Reddit posts. After local de-identification, a large language model (LLM) will extract symptom labels and supporting paraphrases. Two human experts will independently review outputs for up to 250 posts. Three embedding models will flag potentially equivalent symptom labels for local LLM assessment. Two experts will qualitatively review the most frequent canonical symptom labels (at least 1,000) and develop a codebook of symptom categories, continuing until a prespecified saturation criterion is met. An LLM will assign canonical symptom labels to these categories, producing binary post-level indicators. Multiverse-inspired structural analyses will compare network, component, factor, and clustering representations across discovery, internal tuning, and holdout partitions. Evaluation will assess interpretability, stability, and agreement with expert mapping to HiTOP. Supplementary analyses will include agent-assisted exploration, codebook application to DepressionEmo and the Reddit Mental Health Dataset, and pooled integrative analysis that may include additional comparable corpora. <h4>Discussion:</h4> The study will examine whether symptom co-expression within posts forms interpretable patterns corresponding to HiTOP.Ethics: The Ethics Committee of Charité – Universitätsmedizin Berlin approved the study (EA2/274/25). The study was preregistered on 8 May 2026 (German Clinical Trials Register, DRKS00040244). <h4>Keywords:</h4> Hierarchical Taxonomy of Psychopathology, natural language processing, large language models, Reddit, mixed methods, study protocol</p>",
+      "url": "https://doi.org/10.31234/osf.io/ahrts",
+      "source": "PPR",
+      "doi": "10.31234/osf.io/ahrts",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1373227",
+      "topic": "AI Embeddings",
+      "title": "Bayesian Physics-Informed Neural Networks Embedded in Finite Element Analysis: A Probabilistic Digital Twin for Reliability-Based Design of FDM Polymer Components",
+      "authors": "Zahmatkeshan MH, Biglari FR, Dariani BM.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<title>Abstract</title>  <p>Digital twin technology presents revolutionary possibilities for additive manufacturing, but current applications are limited to deterministic forecasting that does not capture manufacturing uncertainties. This study introduces a probabilistic digital twin system that uses machine learning and finite element analysis in two synergistic innovations. First, a Bayesian physics-informed neural network predicts material properties as Abaqus input with quantified uncertainty by embedding Euler-Bernoulli beam theory within a Monte Carlo dropout architecture. Second, the trained network's deterministic forward pass is embedded directly within an Abaqus user material subroutine, enabling material property evaluation at each integration point for a given sampled modulus value, while the probabilistic Monte Carlo dropout sampling is performed externally prior to each finite element run. This framework was constructed based on experimental data of sixty 3D-printed polylactic acid specimen groups subjected to three-point bending in accordance with ISO 178, with validation against ten independent configurations with raster angles ranging from zero to ninety degrees. Monte Carlo finite element analysis propagated material property uncertainty through the simulation, yielding stress predictions with calibrated confidence intervals. The framework achieved a coefficient of determination of 0.9935 with a mean absolute percentage error of 1.85%, and 95% confidence intervals contained experimental values in all ten validation cases, consistent with (though not sufficient to precisely confirm, given the limited sample size) well-calibrated uncertainty estimates. Reliability analysis revealed that the 60° raster angle (8.0% CV) and 90°/80% reduced infill configuration (9.0% CV) exhibit more than double the prediction uncertainty compared to the optimal 0° orientation (3.8% CV), informing correspondingly adjusted safety factors. The computational overhead of the embedded neural network added only 15% to simulation time while eliminating the need for external property pre-computation. This work demonstrates a full probabilistic digital twin framework for additively manufactured polymer components under flexural loading, enabling reliability-based design choices that are challenging to implement under deterministic methods. The framework provides a foundation for advancing additive manufacturing toward structural applications that require a quantified performance margin.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11305412/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11305412/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1373039",
+      "topic": "AI Embeddings",
+      "title": "AOPedex: AOP-based endocrine disruption extrapolation as white-box mechanism maps for zero-data species",
+      "authors": "Gao Y, Zhang Y, Chen G, Luo N, Ji Y, Gu Y.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<title>Abstract</title>  <p>Endocrine disruption evidence is concentrated in a handful of model species, leaving risk assessment for ‘zero-data species’ unresolved; scarce toxicity records and biologically untraceable black-box extrapolation constrain machine learning. We present AOPedex, a knowledge-driven white-box framework embedding ToxCast in vitro activity, receptor binding-pocket conservation and traceable close-relative evidence in a deterministic AOP event-network propagation skeleton, so that mechanistic maps share one source for prediction, attribution and audit. Across 5,387 compounds and 756 vertebrate species, 94.4% of species are high-confidence or predictable, including 123 IUCN threatened species. Under identical protocols, EBM matches TabPFN in macro out-of-fold ROC-AUC on seven general-toxicity endpoints (0.810 versus 0.812) and outperforms it on data-sparse Morphology (0.698 versus 0.661). Controlled AON polarity randomisation barely changes ROC-AUC but disrupts mechanistic ordering, showing that predictive performance does not imply mechanistic validity. AOPedex audits receptor inputs, AON propagation, model readouts and literature evidence, yielding applicability-domain-conditioned mechanistic predictions, candidate screening regions and testable molecular entry points and event chains. Experimental feedback revises priors for iterative computation–experiment calibration. AOPedex aims to turn observations of model species into knowledge of many more so that toxicological knowledge serves biodiversity.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11579523/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11579523/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1373024",
+      "topic": "AI Embeddings",
+      "title": "Discourse coherence in first-episode psychosis and depression: shared referential alterations and links to cortical hierarchy",
+      "authors": "ÇOKAL D, Villalba M, vogeley k, Böke A, He R, von Heusinger K, Hinzen W, Kambeitz J.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<title>Abstract</title>  <p>Disrupted discourse coherence is documented in psychosis, but whether depression shows similar alterations, and how these relate to cortical hierarchical organization, remains unclear. This is the first study to examine conceptual and referential dimensions of coherence and their associations with cortical hierarchy across first-episode psychosis and depression. We analysed spontaneous speech from 85 German speakers (29 controls, 28 with first-episode psychosis, 28 with first-episode depression), of whom 80 underwent resting-state fMRI. Using large-model embeddings, automated coreference resolution, and graph-theoretical measures, we quantified conceptual relations (i.e., how ideas are linked) and referential relations (i.e., how entities are introduced and maintained), and related them to gradient dispersion between networks and within the semantic-associative network. Both clinical groups showed reduced referential continuity, and less small-world organization of conceptual content than controls, whereas differences in local semantic similarity depended on diagnosis and language model. Negative symptom severity was associated with altered conceptual and referential relations. Between-network gradient dispersion did not differ between groups. However, after controlling for diagnosis, individual variation in gradient organization was associated with distinct conceptual and referential relations. Visual-default mode network dispersion was associated with conceptual network organization, while somatomotor-default mode network dispersion was associated with local conceptual and referential coherence. Dispersion within the semantic-associative network was linked with topic reorganization. These findings identify reduced referential continuity as a shared, automatically measurable speech alteration across early psychosis and depression, linked to negative symptoms and cortical hierarchy, and support developing scalable speech-based markers for transdiagnostic assessment and differential diagnosis.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11777052/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11777052/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1372852",
+      "topic": "AI Embeddings",
+      "title": "Lynch syndrome and other hereditary cancer predisposition syndromes: insights from establishing an oncogenetic tertiary centre in Romania",
+      "authors": "Munteanu CV, Perva IT, Simina IE, Nagy ED, Barna R, Geana VO, Nacov F, Negru S, Chirita-Emandi A, Trifa AP.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<title>Abstract</title>  <p>  Lynch syndrome (LS) is among the most common hereditary cancer predisposition syndromes, caused by germline variants in the mismatch repair genes  <italic>MLH1</italic>  ,  <italic>MSH2</italic>  ,  <italic>MSH6</italic>  and  <italic>PMS2</italic>  , or by  <italic>EPCAM</italic>  3' deletions. Its clinical utility is well established, yet Romanian data remain scarce and germline testing is poorly covered by public healthcare. We retrospectively reviewed 481 consecutive patients referred to a large oncology centre in Timișoara, Romania (2023–2025) for suspected LS or another hereditary cancer syndrome, assessing germline testing yield. Each patient was assessed against the NCCN Colorectal criteria (v1.2023) and their 2026 update (Colorectal, Endometrial and Gastric, v1.2026). A subset of urothelial tract carcinomas was further characterised by whole exome sequencing, MMR immunohistochemistry and  <italic>FGFR3</italic>  hotspot analysis. The cohort comprised 481 patients (56.3% female), with gastrointestinal (46.2%), gynaecological (23.0%) and reno-urinary (20.3%) malignancies accounting for nearly 90% of cases. Germline testing was performed in 153 patients (31.8%) and identified pathogenic/likely pathogenic variants in 37 (24.2%): 21 in LS genes and 16 in other predisposition genes, predominantly  <italic>BRCA1</italic>  . Retrospective application of NCCN 2026 core criteria increased eligibility from 183 (38.0%) to 209 patients (43.5%). Category 2B (colorectal and gastric cancer ≥ 50 years) added 109 further eligible patients but no additional Lynch cases, instead capturing three non-Lynch variants (  <italic>BRCA1</italic>  ,  <italic>ATM</italic>  , biallelic  <italic>MUTYH</italic>  ). Urothelial carcinomas represented 3.9% of the cohort, with two uncertain germline  <italic>BRCA2</italic>  variants identified, consistent with emerging evidence of a broader  <italic>BRCA2</italic>  -associated cancer spectrum. Category 2B thus widened eligibility without improving LS detection, though it captured hereditary variants that would otherwise have been missed. Urothelial cancers were strikingly underrepresented despite ranking third among LS-associated malignancies. Germline testing carries clear diagnostic value in this setting, but referral and access remain uneven, an argument for broader reimbursement and for embedding oncogenetic evaluation into routine Romanian oncology care.  </p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-10943145/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-10943145/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1372658",
+      "topic": "AI Embeddings",
+      "title": "Implementing risk stratification in UK glaucoma services: a qualitative study of barriers and facilitators",
+      "authors": "Jones L, Sii F, Shah P.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<title>Abstract</title>  <p>  <bold>Background / Objectives:</bold>  Rising demand for glaucoma services has intensified the need for effective prioritisation of patients according to clinical risk. This study explored clinicians’ perspectives on glaucoma risk stratification and identified barriers and facilitators to implementing stratification systems within UK glaucoma services.  <bold>Subjects / Methods:</bold>  A qualitative study using semi-structured interviews was conducted with ophthalmologists, allied health professionals, and service managers involved in glaucoma care. Participants were recruited using purposive sampling. The interview topic guide was informed by the Theoretical Domains Framework, and transcripts were analysed using inductive thematic analysis.  <bold>Results:</bold>  Eighteen participants from nine institutions were interviewed. Four major themes were identified: (1) reflections on glaucoma management and the role of risk stratification; (2) barriers to implementation; (3) facilitators supporting adoption; and (4) perceived benefits of risk stratification. Key barriers included the clinical heterogeneity of glaucoma, limitations in electronic medical record systems, time constraints, and variation in organisational support. Facilitators included educational initiatives, embedding stratification within electronic patient records, leadership endorsement, and demonstrating measurable service benefits. Participants highlighted potential advantages including improved prioritisation of high-risk patients, more efficient allocation of clinical resources, and potential for enhanced patient safety.  <bold>Conclusions</bold>  : Systematic risk stratification is perceived as valuable for improving glaucoma service delivery; however, successful implementation requires coordinated technological, organisational and behavioural change. Embedding stratification within digital systems, supported by education, leadership and robust evidence, will be critical to achieving sustainable adoption within routine clinical practice.  </p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11597647/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11597647/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1372591",
+      "topic": "AI Embeddings",
+      "title": "MedCapVQA: A Two-Stage Explainable Framework for Medical Visual Question Answering",
+      "authors": "Perera N, Nummenmaa J, Stefanidis K.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<title>Abstract</title>  <p>Medical Visual Question Answering (Med-VQA) aims to answer natural language questions about clinical images and has significant potential for diagnostic support, medical education, and improved access to expert interpretation. Most Med-VQA systems fuse image features and question embeddings directly, a mapping that is hard to learn from the few thousand question--answer pairs that medical benchmarks provide and that is usually compensated for with large-scale domain pre-training. We propose \\modelname{}, a two-stage, caption-driven framework that describes the image first and answers the question second. A MedGemma captioner, adapted with parameter-efficient fine-tuning on ROCOv2, converts each medical image into a clinically meaningful caption; a BioBERT-based reasoner with dedicated caption and question encoders and question-to-caption cross-attention then predicts the answer from text alone. We evaluate \\modelname{} on the closed-ended questions of the VQA-Med 2019 benchmark, training on the official training set (3,200 medical images, 12,792 question--answer pairs) and evaluating on the official validation set (500 images, 2,000 question--answer pairs), against six baselines that represent the main prior design families: a convolutional--recurrent fusion model, BioBERT and Med3D domain-adapted variants, a self-attention fusion network, a Vision Transformer model with cross-attention, and an end-to-end fine-tuned vision-language model. All models are trained under the same protocol and across training-set proportions from 5\\% to 100\\%, with each data-size result averaged over ten random training subsets. \\modelname{} achieves the highest validation accuracy on both tasks: 81.9\\% on binary (yes/no) questions, 11.6 percentage points above the strongest baseline, and 73.9\\% on 71-category multiclass questions, 5.4 points above the fine-tuned vision-language model and 13.5 points above the Vision Transformer model. The vision-language model attains a higher multiclass training accuracy but lower validation accuracy compared to \\modelname{} and none of the baseline models are strong on both tasks. The \\modelname{} reasoner trains on a single GPU in $\\sim$5 hours. These results show that converting medical images into textual captions before reasoning is an effective and resource-efficient alternative to direct multimodal fusion, and they highlight the value of intermediate semantic representations for the design of next-generation Med-VQA systems.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11622355/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11622355/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1372589",
+      "topic": "AI Embeddings",
+      "title": "Toward Unified Efficient Sequence Modeling from Kernelized Attention to State Space Transformers via Spectral Operator Theory",
+      "authors": "Xu J.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<title>Abstract</title>  <p>Creating efficient models of long sequences has become a primary challenge within many modern applications of AI such as: natural language processing (NLP), scientific computing, large-scale time series forecasting, and multimodal learning. The Transformer architecture has shown state-of-the-art performance across a wide variety of sequence modelling tasks, but the computational and memory complexity due to its reliance on an attention-based mechanism poses significant scalability limitations for long-context applications. In anticipation of overcoming the limitations of the existing models, this research proposes the Unified Spectral Operator (USO-Former) framework for modelling sequences. The proposed architecture consists of five principle components: (1) A Multi-Scale Embedding Layer for computing the sequence representations at different resolutions to learn a hierarchy of sequence representations; (2) A Kernelized Spectral Attention Module for efficiently modelling the contextual interactions of the input sequence elements; (3) A Spectral State Space Memory Block for ensuring long-range dependency preservation; (4) An Adaptive Fusion Mechanism to effectively integrate the contextual and memory-based representations of the input sequence; and (5) An Adaptive Multi-Objective Spectral Swarm Optimization (AMOSSO) strategy for simultaneously optimizing predictive accuracy, memory usage, computational efficiency, and training stability. We conducted extensive experiments on the Long Range Arena (LRA), PG-19, and WikiText-103 benchmark datasets and compared the predictive performance of the USO-Former to that of the conventional Transformer, Performer, Longformer, Mamba, and RWKV architectures. The USO-Former produced the highest predictive accuracy across all test datasets, achieving an accuracy of 89.7% on LRA, 92.1% on PG-19, and 93.4% on WikiText-103, exceeding the accuracy of the conventional Transformer baseline models by 6.5%, 6.1%, and 5.6%, respectively. Additionally, the proposed framework produced superior resource efficiency; requiring only 4.60GB of RAM as compared to the 12.40GB required by the Transformer, while also reducing the total computational workload to 96GFLOPs and achieving the fastest inference speed of 71ms of all evaluated architectures.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11448172/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11448172/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43059362",
+      "topic": "AI Embeddings",
+      "title": "Integrating social work into interdisciplinary pain management: advancing equitable care for women with chronic pain.",
+      "authors": "Moorehead LA.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Chronic pain is one of the most common causes of disability in the United States and disproportionately affects women, particularly those experiencing gender, racial, and socioeconomic inequities. Biomedical paradigms continue to dominate pain care, neglecting the social and structural determinants that shape women's pain experiences. This integrative review examines the potential role of social workers in advancing equitable, trauma-informed, and person-centered pain management for women within interdisciplinary health care systems. Peer-reviewed literature across pain medicine, behavioral health, and social work was synthesized to identify theoretical frameworks, practice competencies, and equity considerations that position social workers to address inequities in pain assessment and treatment. Evidence from interdisciplinary pain management broadly suggests improvements in patient satisfaction, functional outcomes, and health equity, particularly among women from marginalized populations; direct evidence isolating social work's specific contribution to these outcomes remains limited. Core competencies include biopsychosocial assessment, care coordination, advocacy, and culturally responsive education. Embedding social workers in interdisciplinary pain teams and institutionalizing trauma-informed and equity-driven standards may reduce disparities and may support a redefinition of healing as the restoration of agency, dignity, and justice for women living with chronic pain.",
+      "url": "https://doi.org/10.1080/00981389.2026.2766132",
+      "source": "MED",
+      "doi": "10.1080/00981389.2026.2766132",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1371321",
       "topic": "Long-acting PrEP",
       "title": "Financial distress, clinic attendance concerns and transport-support requests for long-acting injectable HIV options among people living with HIV and clients recruited through PrEP services in Uganda: a cross- sectional study",
@@ -722,13 +1010,29 @@
       ]
     },
     {
+      "id": "PPR:PPR1373773",
+      "topic": "AI Embeddings",
+      "title": "ADSMoE: A mixture-of-experts-based transformer autoencoder for discovering multimodal Alzheimer's disease subtypes",
+      "authors": "Meng W, Pan J, Yin M, Zhuang P, Gong K, Lin M, Xu J, Burns M, Wu Y, Yin R.",
+      "journal": "",
+      "date": "2026-11-19",
+      "abstract": "Alzheimer's disease (AD) exhibits substantial biological and clinical heterogeneity, posing critical challenges for advancing precision medicine. Existing data-driven approaches often rely on modality-specific clustering or predefined biomarker trajectories, limiting their ability to discover disease subtypes from incomplete, heterogeneous real-world data. In this study, we introduce ADSMoE, a mixture-of-experts (MoE)-based multimodal representation learning framework that jointly identifies AD subtypes as latent disease signatures while accommodating incomplete modality combinations. ADSMoE integrates a Fleximodal MoE encoder that accommodates arbitrary combinations of available modalities with a novel subtype-specific MoE decoder to capture complementary disease characteristics through expert specialization. Using data from 5,422 participants across three independent cohorts, we trained ADSMoE on the ADNI cohort and externally validated the identified subtypes in NACC and UKB without model retraining. The proposed ADSMoE identified four AD subtypes with distinct neuroimaging patterns, genetic and proteomic associations, and clinical characteristics. Benchmarking analyses demonstrated robust subtype discovery and strong biological and clinical relevance, while external validation revealed consistent subtype-associated characteristics across independent cohorts. ADSMoE advances AD subtyping by uncovering biologically and clinically meaningful AD heterogeneity from incomplete multimodal data, providing a scalable framework for disease stratification, biomarker discovery, and future precision medicine applications in AD.",
+      "url": "https://doi.org/10.64898/2026.11.16.26368224",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.16.26368224",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43057368",
       "topic": "AI Embeddings",
       "title": "Protocol for an EHR-embedded pragmatic randomized controlled trial of ambient AI to reduce nursing staff documentation time.",
       "authors": "Wieben A, Pfaff J, Baumann MR, Resnik F, Brzozowski S, Langer C, Stine K, Gillis C, Sullivan AG, Voegele C, Mrotek LA, Afshar M, Burnside ES, Hankwitz J, Rasmussen S, Jackson R, Kohler B.",
       "journal": "",
       "date": "2026-11-19",
-      "abstract": "Documentation burden significantly impacts nursing workload and well-being, with nurses spending an estimated 20-40% of their time on documentation. Ambient AI technologies offer potential to reduce documentation time by mapping real-time nurse-patient conversations to structured EHR data entries with human-in-the-loop verification. This protocol describes a pragmatic, EHR-embedded randomized controlled trial evaluating the effectiveness of an Ambient AI tool in reducing nursing documentation time across three inpatient medical/surgical units. The study employs a closed-cohort, stepped-wedge, unit-randomized design, integrating the intervention into routine clinical workflows. The primary outcome is documentation time per shift hour, derived from EHR audit logs. Secondary outcomes include documentation burden, professional well-being, and perceived usability. The trial is being implemented within a shared governance model that integrates executive oversight, operational feasibility, and research rigor. Multidisciplinary workgroups coordinate technical integration, user experience, and analytics, ensuring alignment between operational priorities and pragmatic trial objectives. Early implementation has highlighted the importance of adapting training and analytic strategies to address differential intervention exposure, as well as the need for rapid operational responses to late-emerging technical issues. This protocol demonstrates the feasibility of embedding a randomized pragmatic trial within a health system-led operational deployment of Ambient AI for inpatient nursing documentation. The approach highlights the necessity of adapting existing outpatient provider-focused AI implementation strategies for inpatient nursing, emphasizing the unique nature of different nursing care environments. Recruitment challenges and the integration of research with operational workflows are discussed as key considerations for future pragmatic AI trials in nursing. NCT07456241V3: 2026-05-12 (https://clinicaltrials.gov/study/NCT07456241).",
+      "abstract": "<h4>Background</h4>Documentation burden significantly impacts nursing workload and well-being, with nurses spending an estimated 20-40% of their time on documentation. Ambient AI technologies offer potential to reduce documentation time by mapping real-time nurse-patient conversations to structured EHR data entries with human-in-the-loop verification.<h4>Methods</h4>This protocol describes a pragmatic, EHR-embedded randomized controlled trial evaluating the effectiveness of an Ambient AI tool in reducing nursing documentation time across three inpatient medical/surgical units. The study employs a closed-cohort, stepped-wedge, unit-randomized design, integrating the intervention into routine clinical workflows. The primary outcome is documentation time per shift hour, derived from EHR audit logs. Secondary outcomes include documentation burden, professional well-being, and perceived usability.<h4>Results</h4>The trial is being implemented within a shared governance model that integrates executive oversight, operational feasibility, and research rigor. Multidisciplinary workgroups coordinate technical integration, user experience, and analytics, ensuring alignment between operational priorities and pragmatic trial objectives. Early implementation has highlighted the importance of adapting training and analytic strategies to address differential intervention exposure, as well as the need for rapid operational responses to late-emerging technical issues.<h4>Discussion</h4>This protocol demonstrates the feasibility of embedding a randomized pragmatic trial within a health system-led operational deployment of Ambient AI for inpatient nursing documentation. The approach highlights the necessity of adapting existing outpatient provider-focused AI implementation strategies for inpatient nursing, emphasizing the unique nature of different nursing care environments. Recruitment challenges and the integration of research with operational workflows are discussed as key considerations for future pragmatic AI trials in nursing.<h4>Clinicaltrials</h4><h4>Gov identifier</h4>NCT07456241V3: 2026-05-12 (https://clinicaltrials.gov/study/NCT07456241).",
       "url": "https://doi.org/10.1016/j.cct.2026.108534",
       "source": "MED",
       "doi": "10.1016/j.cct.2026.108534",
@@ -744,7 +1048,7 @@
       "authors": "Vaughan E, Wyburn K, Saunders J, Kim S, Jesudason S, Marinelli T, Chadban S, Wyld M.",
       "journal": "",
       "date": "2026-11-19",
-      "abstract": "People receiving hemodialysis are vulnerable to vaccine-preventable infections, yet vaccination uptake remains suboptimal. Patient-level barriers are well described, but the clinical and service-level factors shaping vaccine delivery have received less attention. We examined clinician perspectives and vaccination practices in hemodialysis care to identify barriers, facilitators and clinician-proposed strategies for improvement. A convergent mixed-methods design combined an Australian cross-sectional online survey with qualitative content analysis of free-text responses (August 2024 -January 2025) of nephrologists, trainees and dialysis nurses. The survey covered vaccination beliefs, practice patterns, barriers and facilitators, and proposed solutions. Free-text responses were dual-coded and quantitative and qualitative findings were integrated during interpretation. A total of 89 clinicians participated (71 (80%) nephrologists, 12 (14%) dialysis nurses, 6 (7%) nephrology trainees. Confidence in vaccine safety was high (96%), while confidence in vaccine efficacy was moderate (54% confident, 36% neither). Clinicians perceived patients to have limited understanding of their vaccination needs (54% little or no understanding). Although many clinicians (40%) indicated a preference for nephrologists to assume responsibility for vaccination, delivery within dialysis units was limited; vaccination review was predominantly nursing-led (28%) or ad-hoc (28%) and reminders were largely manually generated. Top barriers included logistical challenges (57%), clinician-perceived patient hesitancy (52%), poor communication with external vaccine-providers (46%) and time constraints (39%). Perceived hesitancy was attributed to misinformation (76%), mistrust (61%), complacency (56%) and previous adverse experiences (51%). Free-text findings described patient-centered approaches to perceived hesitancy, including repeated dialogue, shared decision making and respect for autonomy, alongside clinician-proposed strategies for better vaccination delivery through protocolized care and integrated digital systems. Clinicians strongly support vaccination yet face substantial structural barriers - fragmented delivery, ambiguous responsibility at the primary-tertiary interface, and underdeveloped digital infrastructure. Improving vaccination uptake may require embedding vaccination within routine dialysis care and strengthening digital coordination.",
+      "abstract": "<h4>Background</h4>People receiving hemodialysis are vulnerable to vaccine-preventable infections, yet vaccination uptake remains suboptimal. Patient-level barriers are well described, but the clinical and service-level factors shaping vaccine delivery have received less attention. We examined clinician perspectives and vaccination practices in hemodialysis care to identify barriers, facilitators and clinician-proposed strategies for improvement.<h4>Methods</h4>A convergent mixed-methods design combined an Australian cross-sectional online survey with qualitative content analysis of free-text responses (August 2024 -January 2025) of nephrologists, trainees and dialysis nurses. The survey covered vaccination beliefs, practice patterns, barriers and facilitators, and proposed solutions. Free-text responses were dual-coded and quantitative and qualitative findings were integrated during interpretation.<h4>Results</h4>A total of 89 clinicians participated (71 (80%) nephrologists, 12 (14%) dialysis nurses, 6 (7%) nephrology trainees. Confidence in vaccine safety was high (96%), while confidence in vaccine efficacy was moderate (54% confident, 36% neither). Clinicians perceived patients to have limited understanding of their vaccination needs (54% little or no understanding). Although many clinicians (40%) indicated a preference for nephrologists to assume responsibility for vaccination, delivery within dialysis units was limited; vaccination review was predominantly nursing-led (28%) or ad-hoc (28%) and reminders were largely manually generated. Top barriers included logistical challenges (57%), clinician-perceived patient hesitancy (52%), poor communication with external vaccine-providers (46%) and time constraints (39%). Perceived hesitancy was attributed to misinformation (76%), mistrust (61%), complacency (56%) and previous adverse experiences (51%). Free-text findings described patient-centered approaches to perceived hesitancy, including repeated dialogue, shared decision making and respect for autonomy, alongside clinician-proposed strategies for better vaccination delivery through protocolized care and integrated digital systems.<h4>Conclusions</h4>Clinicians strongly support vaccination yet face substantial structural barriers - fragmented delivery, ambiguous responsibility at the primary-tertiary interface, and underdeveloped digital infrastructure. Improving vaccination uptake may require embedding vaccination within routine dialysis care and strengthening digital coordination.",
       "url": "https://doi.org/10.34067/kid.0000001447",
       "source": "MED",
       "doi": "10.34067/kid.0000001447",
@@ -797,6 +1101,22 @@
       "source": "PPR",
       "doi": "10.21203/rs.3.rs-11485939/v1",
       "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43051234",
+      "topic": "AI Embeddings",
+      "title": "Surgical versus non-surgical treatment for metacarpal shaft fractures : a prospective feasibility study.",
+      "authors": "Taha R, Leighton P, Davis T, Montgomery A, Karantana A, FACTS Study Group, Murray A, Reed A, Selby A, Sanghera B, Chan C, Bainbridge C, Lane G, Hambrook G, Bourke G, Riyat H, Burn I, Yang J, Rodrigues J, Wen J, Rocha J, Abrahams J, Manso K, Gardiner M, Ip M, Goodall R, Owdziej S, Oxley S.",
+      "journal": "",
+      "date": "2026-11-19",
+      "abstract": "<h4>Aims</h4>The aims of this study were to assess the feasibility of a randomized controlled trial (RCT) comparing surgical and non-surgical treatment for metacarpal shaft fractures (MSFs), identify appropriate outcome measures for use in a future trial, and provide person-centred insight to inform trial design and identify barriers to participation.<h4>Methods</h4>We carried out a prospective, multicentre, observational feasibility study at five UK sites, and an embedded qualitative study. Adults (aged ≥ 16 years) with an acute displaced MSF were screened and prospectively recruited between July 2020 and July 2021. Clinical (grip strength, range of motion, and radiological parameters) and patient-reported outcome measures (Patient Evaluation Measure, the abbreviated version of the Disabilities of the Arm, Shoulder and Hand questionnaire (QuickDASH), Patient-Reported Outcomes Measurement Information System Upper Extremity (PROMIS-UE), EQ-5D-5L, and the seven-point Global Rating of Change) were collected at study enrollment, six weeks, and at three, and six months. Semistructured interviews and focus groups were conducted with participants selected from the main study cohort using purposive sampling, and analyzed using a thematic inductive approach.<h4>Results</h4>Of 5,863 patients screened, 201 were eligible and 108 were recruited. The median age was 32 years (IQR 22 to 48); 68% (n = 73/108) patients were male, 84% (n = 65/108) were treated non-surgically, and 16% (n = 12/108) surgically. Treatment was unknown for 31 patients (29%) who failed to attend the six-week follow-up. Retention was 71% (n = 77/108) at six weeks and 45% (n = 49/108) at six months. In total, 20 interviews were conducted, with 13 participants and three focus groups (eight participants per group). Five key themes and 30 sub-themes were identified. Participants selected the QuickDASH and PROMIS-UE as optimal outcome measures and recommended increased follow-up in the first four to six weeks post-injury. Interventions, data collection methods, and follow-up were acceptable to participants.<h4>Conclusion</h4>A multicentre RCT comparing surgical and non-surgical management of MSF appears feasible. Recruitment across sites was achievable and suitable primary outcome measures were identified. However, declining retention beyond six weeks highlights the need for targeted strategies to enhance engagement and retention in a definitive trial.",
+      "url": "https://doi.org/10.1302/2633-1462.711.bjo-2026-0140.r1",
+      "source": "MED",
+      "doi": "10.1302/2633-1462.711.bjo-2026-0140.r1",
+      "is_preprint": false,
       "topics": [
         "AI Embeddings"
       ]
@@ -879,326 +1199,6 @@
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:43054420",
-      "topic": "AI Embeddings",
-      "title": "Adaptation of DECIDE, a Shared Decision Making Intervention, to Improve Perinatal Mental Health Care in Health Systems.",
-      "authors": "Kang-Yi CD, Suresh C, Carson N, Falgas-Bague I, Spernal S, Nakash O.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "Effectively engaging and communicating with perinatal individuals is crucial in meeting the unique decision needs of perinatal individuals, particularly those with anxiety, depression, or other mental health disorders. This study adapted DECIDE, a shared decision making intervention proven to be effective in behavioral health care for adults with psychiatric disorders. The adaptation was to improve perinatal care providers' competency in patient engagement and communication in health systems' perinatal care delivery. In this paper, we report on the adaptation strategies and processes for embedding DECIDE provider training into perinatal health and mental health care delivery. The Iterative Decision-making for Evaluation of Adaptation (IDEA) and the Framework for Reporting Adaptations and Modifications-Enhanced (FRAME) guided the adaptation of the DECIDE provider training. The adaptation of the DECIDE provider training was conducted in four phases: (1) conducting a literature review of empirical evidence, (2) engaging perinatal health and mental health care providers and content experts, (3) identifying and making specific content adaptations and developing clinical vignettes to fit perinatal care settings, and (4) recording the adapted training and new video illustrations and launching the adapted DECIDE for MOM provider training. The adaptation process engaged perinatal mental health and healthcare providers and experts in health systems as well as those who were part of the original DECIDE development and implementation team. After the two rounds of feedback, revision and consensus process, we finalized the training content, created clinical vignettes and filmed case illustrations based on the vignettes. After the iterative editing process of recorded modules and case illustration videos, the finalized DECIDE for MOM provider training was launched on Canvas in August 2025. The next step is to conduct feasibility evaluation of the adapted training by implementing the DECIDE for MOM provider training in health systems.",
-      "url": "https://doi.org/10.1002/lrh2.70134",
-      "source": "MED",
-      "doi": "10.1002/lrh2.70134",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1372243",
-      "topic": "AI Embeddings",
-      "title": "Benchmarking Machine Learning Methods for Antimicrobial Peptide Prediction and Discovery in Ancient Microbiomes",
-      "authors": "Zhao Q, Ma Q, Luo J, Chen C, Ke S.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "Antimicrobial peptides (AMPs) offer a promising alternative to conventional antibiotics amid the growing global threat of antimicrobial resistance. Expanding AMP discovery requires both effective computational tools to accurately identify candidate peptides and access to underexplored biological resources that may harbor novel AMPs. However, the comparative performance of existing computational methods remains poorly understood, while ancient microbiomes have received limited attention as potential reservoirs of AMPs. Here, we systematically benchmarked six machine learning methods across with twelve feature configurations spanning sequence, structural, and protein language model features under a unified framework using eight curated AMP datasets. The best-performing methods were subsequently applied to three ancient metagenomic datasets representing the human gut (archaeological fecal sediments), human oral cavity (dental calculus), and mammoth-associated communities (teeth, skulls, and skin). In parallel, we employed reinforcement learning to select candidate peptides directly from ancient sequence pools without relying on modern AMP labels. Our benchmarking shows that protein language model embeddings provide the most informative features, and deep learning models, including convolutional, transformer-based, and recurrent architectures, outperform classical methods. Applying these models to ancient microbiomes identified candidates occupied the physicochemical space characteristic of AMPs but differed from those of candidates predicted from modern microbiome catalogs. We identified 111, 76, and 50 high-confidence candidate AMPs from the Neanderthal gut, ancient oral, and mammoth-associated communities, respectively. Reinforcement learning selected additional candidate AMPs with distinct properties compared with those predicted by models trained on modern AMP databases. Together, these findings establish a systematic benchmark for AMP prediction and highlight ancient microbiomes as an untapped source of antimicrobial peptide candidates. By integrating supervised machine learning with reinforcement learning, this study expands AMP discovery beyond modern microbiome catalogs and provides new opportunities to identify potentially novel AMPs.",
-      "url": "https://doi.org/10.64898/2026.11.17.767431",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.17.767431",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43053495",
-      "topic": "AI Embeddings",
-      "title": "A short embedding protocol for diagnostic electron microscopy: long-term implementation and diagnostic outcomes in a high-volume clinical series.",
-      "authors": "Zhou H, Zhou XJJ.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "Epoxy resin polymerization is a lengthy step in tissue preparation for transmission electron microscopy (TEM). We evaluated whether reducing the polymerization step alone to 40 minutes at 120 °C, with upstream processing unchanged, could maintain diagnostic quality. The protocol has been the sole routine method in a high-volume, accredited clinical TEM laboratory for more than 10 years. Among more than 30,000 consecutive cases, no embedding-related diagnostic inadequacy was identified in consultant pathologist sign-out records. In a prospective, blinded, split-specimen comparison of renal biopsies, both pathologists scored 4 or 5 on every feature for both methods. Nearly all scores were at the upper end of the scale, indicating comparable performance but not establishing statistical equivalence. Glomerular basement membrane thickness was closely similar (mean difference -12.7 nm, ~4%), within measurement variability and below diagnostic detection thresholds. Because curing behavior depends on the resin formulation and oven conditions, local validation is required before implementation.",
-      "url": "https://doi.org/10.1080/01913123.2026.2739247",
-      "source": "MED",
-      "doi": "10.1080/01913123.2026.2739247",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43051243",
-      "topic": "AI Embeddings",
-      "title": "Hope in the Clinical Process: A Tribute to Sandra Glista.",
-      "authors": "Patterson JP, Hinckley JJ.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<h4>Abstract</h4>Hope has been identified as important to individuals with aphasia and their care partners, and realistic hope is crucial to achieving optimal rehabilitation outcomes. However, little attention has been paid to incorporating hope into the clinical process by measuring it, engaging in difficult conversations about hope for the future, and helping clients build realistic hopes. The science of hope has much to offer aphasiology through guidance for embedding hope into the clinical process. We begin this clinical seminar by presenting a clinically relevant review of the science and practice of hope. Next, we discuss how hope can be measured and how information from these measures can help clinicians talk with clients about hope and develop realistic hope. Finally, we turn our attention to evidence-based practices for how health care professionals can support realistic hope and offer examples and suggestions to embed hope into the clinical process.",
-      "url": "https://doi.org/10.1055/a-2993-5238",
-      "source": "MED",
-      "doi": "10.1055/a-2993-5238",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43050803",
-      "topic": "AI Embeddings",
-      "title": "Multiview Integration for Robust Echocardiographic Embeddings: Accessible AI for Clinical Practice.",
-      "authors": "Tohyama T, Han A, Yoon D, Paik K, Gow B, Izath N, Celi LA, Kpodonu J.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<h4>Background</h4>Although recent artificial intelligence (AI) foundation models have shown superior performance in medical imaging, their high computational demands and reliance on large data sets limit accessibility. These issues are especially pronounced in echocardiography, where integrating complex multiview measurements for individual cases hinders AI development and clinical translation. Vector embedding approaches offer promising solutions by leveraging compact representations in AI applications.<h4>Objectives</h4>We aimed to develop a transformer-based multiview encoder that integrates multiple echocardiographic videos into unified vector embeddings and uses adversarial learning to reduce reliance on demographic shortcuts.<h4>Methods</h4>Using the MIMIC-IV-ECHO (Medical Information Mart for Intensive Care IV-Echocardiography) data set (7,169 studies), we trained a multiview encoder to produce study-level embeddings and evaluated them on 21 binary classification tasks covering echocardiographic measurements and clinical diagnoses. We varied adversarial weights to assess their impact on demographic shortcut reliance and overall performance.<h4>Results</h4>The multiview encoder raised the mean area under the curve (AUC) across clinical tasks from 0.742 to 0.831 compared with the foundation model embedding (ΔAUC +0.090; 95% CI: 0.078-0.100), with significant gains in 20 of 21 tasks. The embeddings remained robust with a limited number of views (mean ΔAUC +0.071; 95% CI: 0.043-0.113). Adversarial learning reduced sex and race predictability only at strong weights and at substantial cost to clinical performance.<h4>Conclusions</h4>The multiview encoder framework integrates multiple echocardiographic views into unified study-level embeddings, enabling substantial diagnostic improvements across diverse cardiac tasks. By producing compact, informative embeddings without requiring extensive computational resources, this approach lowers the cost of building echocardiographic AI on an existing foundation model.",
-      "url": "https://doi.org/10.1016/j.jacadv.2026.103488",
-      "source": "MED",
-      "doi": "10.1016/j.jacadv.2026.103488",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43050771",
-      "topic": "AI Embeddings",
-      "title": "Capturing reader-specific annotation biases in ordinal classification: a controlled simulation study.",
-      "authors": "Ripaud E, Jailin C, Milioni de Carvalho P, Vancamberg L, Bloch I.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<i>Objective.</i>Inter-reader variability remains a major challenge in medical image classification, particularly for tasks involving ordinal labels, due to subjective interpretation and institutional biases. While deep learning is widely used to automate and standardize such classification tasks, including breast density assessment, handling reader-dependent annotation behavior remains an open problem. This study introduces a controlled setting to assess the extent to which such variability can be captured by a reader-adaptive model.<i>Approach.</i>This work builds on ReaderAdaptNet, a recently proposed reader-adaptive framework that models individual annotation styles through jointly learned reader-specific embeddings. Through a simulation study, it aims to deepen the understanding of this framework and to address the evaluation limitations imposed by small expert-annotated datasets, for which the underlying bias mechanisms are neither known nor controllable. Synthetic reader profiles are generated to reproduce realistic annotation behaviors, enabling a controlled analysis of the model's ability to adapt to diverse annotation biases. The effects of the embedding dimension and of the fusion strategy of image-reader features on classification accuracy are assessed. The structure of the embedding space is also analyzed.<i>Main results.</i>Results show that reader embeddings effectively capture identifiable, systematic biases, with moderate embedding dimensionality being sufficient. Systematic threshold shifts are recovered, whereas stochastic variability is not learnable. Conditioning image-reader fusion through feature-wise linear modulation or cross-attention mechanisms enables the correction of view-related discrepancies. The learned embedding space further reveals meaningful clustering of annotation profiles, reflecting similarity in reader behavior.<i>Significance.</i>Overall, the proposed synthetic framework identifies which aspects of inter-reader variability are learnable by ReaderAdaptNet and provides a controlled proxy for anticipating model behavior in clinical settings.",
-      "url": "https://doi.org/10.1088/1361-6560/aec40c",
-      "source": "MED",
-      "doi": "10.1088/1361-6560/aec40c",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43050633",
-      "topic": "AI Embeddings",
-      "title": "Bridging a care gap under sustained threat: A forward psychological support capability for acute stress reactions in combat.",
-      "authors": "Pikelner M, Gaon A, Farchi MU, Cohen R, Kula Y.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "Acute stress reactions (ASR) frequently emerge during combat operations and can rapidly impair attention, decision-making, leadership, and unit functioning. Although peer-based stabilization protocols provide an important first-line response, situations may arise in which symptoms exceed the capacity of peer responders while evacuation is neither feasible nor operationally desirable. This creates a critical operational gap in managing performance-impairing acute stress in forward combat environments. The present Brief Report introduces Combat-Adapted Psychological First Aid (CA-PFA), a frontline psychological support capability designed to restore functional performance under sustained threat. CA-PFA adapts core elements of Psychological First Aid to combat conditions and emphasizes rapid stabilization, cognitive clarification, reinforcement of functional identity, and return to operational engagement. Two illustrative cases from forward operational zones are presented to demonstrate the clinical indications, intervention components, and immediate operational outcomes associated with CA-PFA. In both cases, brief interventions delivered near the point of combat exposure were followed by observable improvements in functional control and operational engagement without evacuation. These examples illustrate the feasibility of embedding a forward psychological support tier within stepped-care responses to acute stress reactions. By focusing on rapid restoration of functional performance rather than distress reduction alone, CA-PFA may provide a practical approach for managing acute stress reactions in high-threat operational environments. Further empirical research is needed to evaluate its effectiveness, scalability, and potential role within broader military stress-management systems.",
-      "url": "https://doi.org/10.1080/08995605.2026.2760603",
-      "source": "MED",
-      "doi": "10.1080/08995605.2026.2760603",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43050487",
-      "topic": "AI Embeddings",
-      "title": "Manifold learning and inverse processes for multimodal superresolution in T1 and T2 weighted magnetic resonance imaging.",
-      "authors": "Czaja W, Emidih J, Spencer RG.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "We propose a novel multimodal superresolution algorithm based on the analysis of graph Laplacian representations of image data. The algorithm is inspired by a model for heterogeneous data fusion. We demonstrate its application to the problem of magnetic resonance imaging, where superresolution can be used to decrease acquisition times or to improve signal-to-noise ratio. At the core of the proposed algorithm is a joint modality feature matching, performed in the Laplacian eigenmaps embedding space. A sparse L1-regularized preimage reconstruction is then required, in order to produce a high resolution image from its graphical features. To optimize the algorithm's performance, we integrate the spatial information of the image data to improve local correlations. To illustrate the performance of this new method we apply it to the problem of reconstructing high-resolution T1-weighted magnetic resonance images from a combination of high resolution T2-weighted and low resolution T1-weighted images. Our results indicate that the improvement, as compared to conventional single image interpolation schemes, is proportionally greater for low-resolution images. Our results support the use of the manifold learning embedding approach to multimodal superresolution, by demonstrating superior numerical performance over state-of-the-art image superresolution algorithms.",
-      "url": "https://doi.org/10.1371/journal.pone.0361585",
-      "source": "MED",
-      "doi": "10.1371/journal.pone.0361585",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43050104",
-      "topic": "AI Embeddings",
-      "title": "DISC-OSA: A European Delphi Consensus on OSA Screening in People with Obesity.",
-      "authors": "Gordon J, Pollock KG, Lau E, Manco M, Yumuk V, Baker JL, Dicker D, Helgason T, Idris I.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<h4>Introduction</h4>Obstructive sleep apnea (OSA) is common among people with obesity (PwO) but remains frequently underrecognized and undertreated. The absence of harmonized screening frameworks in Europe leads to delayed diagnosis, preventable cardiometabolic complications, and increased strain on health systems. This study aimed to establish a Europe-wide expert consensus on the principles, target populations, and practical approaches to OSA screening in adults with obesity, thereby providing a structured framework to guide clinical and policy decisions.<h4>Methods</h4>A two-round, modified mixed-methods Delphi study was conducted in accordance with the ACcurate COnsensus Reporting Document (ACCORD) 2024 reporting guidelines. A total of 20 draft statements across nine domains, informed by a pragmatic literature review, were considered by 26 multidisciplinary experts from European Association for the Study of Obesity (EASO) Collaborating Centres for Obesity Management. An independent Steering Committee oversaw governance and ethics. Consensus was defined as 70% or greater agreement and an interquartile range (IQR) of ≤ 1 on a 5-point Likert scale.<h4>Results</h4>All 20 statements met the predefined consensus criteria, particularly those emphasizing prioritization of PwO with cardiometabolic comorbidities, embedding screening within structured care pathways, and timely referral for diagnostic assessment. The STOP-Bang questionnaire was recommended as a first-line tool, with nocturnal oximetry or polysomnography as supplementary options. Consensus-endorsed statements informed a European consensus algorithm detailing who, how, and when to screen.<h4>Conclusions</h4>This expert consensus provides a practical, scalable, and evidence-informed framework for systematic OSA screening within obesity care, supporting harmonized practice, early detection, and multidisciplinary management across European health care.",
-      "url": "https://doi.org/10.1007/s12325-026-03853-4",
-      "source": "MED",
-      "doi": "10.1007/s12325-026-03853-4",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1371136",
-      "topic": "AI Embeddings",
-      "title": "Elflow: Automated Quality Control and Self-Supervised Representation Learning for High-Dimensional Cytometry",
-      "authors": "Kalakoti Y, Gasparetto M, Gupta SK, Mittal V, Jha A.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "High-dimensional flow and mass cytometry are foundational technologies for clinical immunophenotyping and hematological diagnostics, yet computational data analysis remains bottlenecked by operator-subjective manual gating. While computational tools have emerged, they remain fragmented across isolated tasks such as quality control or discrete clustering, leaving an unmet need for integrated, modular workflows that resolve continuous biological variation without manual supervision. Here, we introduce Elflow, a modular, self-supervised framework that links automated quality control, single-cell representation learning, and patient-level modeling without manual gating at inference. Elflow couples automated machine-learning quality control with Variance-Invariance-Covariance Regularization (VICReg) to learn continuous, batch-resilient single-cell representations without negative pairs or hand-labeled training sets. Across four diverse public benchmarks, Elflow adapts to distinct biological panels and clinical objectives. On 22-channel spectral flow cytometry (OMIP-030), self-supervised embeddings preserve fine functional T-cell gradations and outperform classical baselines in unsupervised clustering, while an anchor-guided extension accurately reproduces canonical manual gating hierarchies. On hand-curated CyTOF panels (Levine-13), linear PCA matches deep models, establishing an empirical boundary condition where linear methods suffice. Across multi-center clinical cohorts (FlowCAP-II), Elflow representations achieve high diagnostic sensitivity for acute myeloid leukemia across heterogeneous instruments despite severe class imbalance. In longitudinal immune monitoring (FlowCAP-IV), patient mean embeddings and micro-cluster differential histograms preserve rare antigen-specific responses, yielding significant AIDS-free survival stratification. By uniting automated quality control, self-supervised representation learning, and multi-scale patient aggregation, Elflow provides a modular, reproducibly benchmarked framework for high-parameter and multi-center translational cytometry.",
-      "url": "https://doi.org/10.64898/2026.11.17.767309",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.17.767309",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1371079",
-      "topic": "AI Embeddings",
-      "title": "GRABS: a content-addressed antibody-antigen binding-affinity dataset with predicted structures and a leak-free benchmark",
-      "authors": "Martins LdM, Zanetti Salles PP, Meidanis J.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "Machine-learning prediction of antibody-antigen binding affinity depends as much on the training data as on the model, yet public affinity measurements are scattered across databases with incompatible formats, mix genuine dissociation constants with censored or predicted values, and concentrate most of their label mass on a few heavily mutated targets. We present GRABS (Geometric Resource for Antibody Binding Studies), a curated, content-addressed, structure-ready dataset that consolidates nine public sources, of which the seven with redistributable licenses yield 4,380 canonical antibody-antigen records} (median-collapsed from 4,761 raw measurements), each with an experimentally measured dissociation constant (K  d ), paired heavy and light variable regions (VH, VL), and an antigen sequence, covering 2,015 distinct antigen sequences. Every structure, graph, and feature is addressed by a content key, md5(VH+VL+antigen)[:10], and verified non-circularly: each graph's node features are decoded back to sequence and re-hashed, matching the content key for 4,282/4,282 (100%) structure-backed records. This integrity is load-bearing: an alignment ablation shows that a previously-reported strong cross-target result (R  2 ≈ 0.415) was a misalignment-mediated source/batch leak that content-key regeneration dissolves. On the resulting leak-free, antigen-cluster-grouped benchmark, cross-target ranking of variants of a held-out antigen collapses to the noise floor (within-held-out-antigen Spearman ρ ≈ 0 for every model family: sequence, structure, and folding-confidence), with structure giving no advantage, a rigorously leakage-controlled quantification of the limited reach of current methods. GRABS ships model-ready artifacts (Boltz-2 predicted complexes, per-residue ESM-2 embeddings, geometric graphs, feature vectors) with antigen-stratified splits, and is intended for leakage-free benchmarking and within-target affinity ranking (measure-then-rank), not zero-shot prediction for antigens absent from training.",
-      "url": "https://doi.org/10.64898/2026.11.17.767263",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.17.767263",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1371041",
-      "topic": "AI Embeddings",
-      "title": "PROGMF: Progressive Multimodal Fusion and Representation Learning for Incomplete Neuroimaging Data",
-      "authors": "Solomon V, Calhoun VD, Adali T, Silva RF, Angryk RA, Liu J.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "Multimodal neuroimaging studies often involve cohorts with partially overlapping data modalities. Many conventional multimodal fusion methods rely on participants with complete observations across the selected modalities. We introduce Progressive Multimodal Fusion (ProgMF), a novel fusion framework for learning multimodal source representations from incomplete neuroimaging data without imputing missing observations. ProgMF integrates modalities sequentially through independent vector analysis (IVA), cross-stage component alignment, and anchor-guided representation transfer, allowing information learned from earlier-stage cohorts to inform subsequent multimodal decompositions. We evaluated ProgMF on four neuroimaging-inspired synthetic modalities, while varying subject overlap, observation noise, modality relatedness, and fusion orders. ProgMF generally achieved lower source-recovery errors than complete-case IVA and the evaluated imputation-based methods, with larger improvements as multimodal subject overlap decreased. We further applied ProgMF to structural MRI gray matter, resting-state functional network connectivity, and 18F-florbetapir (AV45) amyloid positron emission tomography data from the Alzheimer's Disease Neuroimaging Initiative. ProgMF achieved higher mean cross-modal fusion scores than the imputation-based baselines and a modest improvement over complete-case IVA. Among the 293 participants with complete multimodal observations, two recovered source component vectors showed significant associations with clinical diagnosis across cognitively normal, mild cognitive impairment, and dementia groups. Both sources were also significantly associated with cognitive performance and dementia severity. The recovered sources exhibited diagnosis-related structural and amyloid PET patterns involving regions such as the hippocampi, precuneus, and cingulate cortices. Our findings support progressive representation transfer as an effective approach for recovering coherent, interpretable multimodal sources from participants with incomplete modality coverage.",
-      "url": "https://doi.org/10.64898/2026.11.17.767205",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.17.767205",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1370980",
-      "topic": "AI Embeddings",
-      "title": "Improving predictive accuracy for clinical outcomes with LLM text embeddings for open-ended free-text responses: A case study on reports of psychedelic experiences",
-      "authors": "Guenther F, Parent-Couture M, Uyar A, Wieczorke K, Lueken U, Evens R, Wolff M.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<p>Clinical studies regularly ask participants to describe their experiences in their own words. These open-ended questions are included so that participants can report what they themselves consider relevant, and ideally researchers want to harvest this information. In practice however, these responses are rarely analyzed and often effectively discarded, since translating them into a useful quantitative format for further analysis traditionally required trained coders or advanced technical skills. Current transformer-based language models offer an appealing alternative option to quantify text: they internally represent any text input as high-dimensional numerical representations called text embeddings. Fromavailable open-weight models, these text embeddings can be freely extracted on a local machine. As text embeddings are just vectors of numbers, they can be plugged as predictors into standard statistical analyses. Here, we applied this to three large datasets in which participants described their experiences in the context of psychedelic substance use. We investigated whether text embeddings of these free-text descriptions improve cross-validated, held-out predictions of clinically relevant outcomes (well-being, change in well-being, change in psychological flexibility, post-traumatic symptom severity, post-traumatic growth) after we control for a range of other predictors capturingdemographic information, the setting of the experience, and a series of questionnaire data. We found reliable increases in predictive accuracy for three of the five outcomes (change in well-being and psychological flexibility, post-traumatic symptom severity), in two of the three datasets. Some of these increases are substantial. We therefore recommend (where possible) the inclusion of open-ended questions in any questionnaire, and to actually pass this information to analysis, to efficiently capture valuable information that would otherwise be lost.</p>",
-      "url": "https://doi.org/10.31234/osf.io/e9wzk_v1",
-      "source": "PPR",
-      "doi": "10.31234/osf.io/e9wzk_v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1370842",
-      "topic": "AI Embeddings",
-      "title": "REG2024: a benchmark challenge and curated dataset for pathology report generation from giga- pixel whole-slide images of bladder cancer",
-      "authors": "Oh H, Kim E, Lee H, Kim KA, Hong S, Yoo S, Kang Y, Shim HS, Lee Y, Viriyasaranon T, Lee W, Choi J, Jo E, Lee D, Noh K, Shin Y, Park K, Park J, Kim J, Cho HY, Jeong W, Lee SH, Ahn S.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<title>Abstract</title>  <p>Background  We aimed to construct a curated whole-slide image (WSI)-report dataset for bladder cancer and establish a clinically grounded benchmark for evaluating vision–language models through an open community challenge. Methods  We curated a dataset of 902 deidentified bladder cancer WSIs paired with corresponding pathology reports. Seven teams submitted distinct modeling frameworks. Performance was assessed using a clinically weighted composite metric integrating word-overlap scores (ROUGE-L, BLEU-4), keyword matching, and embedding-based semantic similarity. Expert mean opinion scores (MOS) were obtained, and the correlation between the weighted-sum score and expert-assigned MOS was analyzed. Results  Two modeling strategies emerged: end-to-end generative architectures and multi-step classification-then-generation pipelines. Among individual submissions, the top-ranked multi-step pipeline achieved the highest main-diagnosis accuracy (48/50), whereas end-to-end models showed greater sensitivity to rare pathological features. The weighted-sum metric correlated strongly with MOS within each team (Spearman’s ρ, 0.65–0.91) and, on reports with clinically important misclassifications, agreed with MOS more closely than any single metric. Conclusions  Performance variability was influenced by architectural design and the integration of pretrained foundation models. Our proposed evaluation framework addressed key limitations of conventional natural language processing metrics in evaluating pathology reports. This challenge establishes a benchmark for clinical-grade pathology report generation by providing vision-language pathology datasets and introducing a clinically aligned evaluation framework, thereby advancing computational pathology.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-10824156/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-10824156/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1370719",
-      "topic": "AI Embeddings",
-      "title": "Data-Intensive and Ai-Mediated Anticipatory Governance: A Functional Typology of Institutional Capacity, Decision-Making, and Governance of Expertise",
-      "authors": "Panizzon M, Janissek-Muniz R, Francisco EdR.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<title>Abstract</title>  <p>Anticipatory Governance (AG) has emerged as a strategic approach for addressing uncertainty, systemic risk, and complexity in contemporary socio-technical systems. Governments and universities increasingly rely on Big Data, Data Science, and Artificial Intelligence (AI) to support future-oriented public decision-making, yet the institutional and societal implications of these technologies remain conceptually fragmented. This article addresses this gap through a Systematic Literature Review (SLR) that examines how data-intensive and AI-enabled capabilities become embedded across foresight, knowledge creation, policy design, and policy assessment. Rather than treating the generic technical differences among Big Data, Data Science, and AI as the principal contribution, the study develops a functional typology that distinguishes infrastructural observation and evidentiary integration, analytical modeling and interpretation, and AI-enabled decision mediation. The review analyzes how these functions respond to uncertainty, non-linearity, interdependence, and feedback; reshape informational, analytical, and decisional capacity; and redistribute epistemic and decisional authority. The findings indicate a cumulative but non-deterministic movement from expanded observability, to analytical structuring, to increasingly mediated action. We conceptualize this movement as decisional embedding: the degree to which technological systems enter the institutional production of alternatives, prioritization, recommendation, adjustment, or execution. The contribution lies in showing that technological integration in anticipatory governance is not merely an increase in computational capability, but a reconfiguration of knowledge, judgment, responsibility, and authority. The article concludes with implications for accountable, contestable, and human-governed hybrid decision architectures.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11273200/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11273200/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1370429",
-      "topic": "AI Embeddings",
-      "title": "Mapping artificial intelligence for science with open metadata reveals shifting evidence regimes across scientific domains",
-      "authors": "Fengchang X, Ge L, Xinliang W, Na Z.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<title>Abstract</title>  <p>  Artificial intelligence for science (AI4S) is often discussed as a unified transformation, although scientific domains differ markedly in how model outputs are tested, validated, and justified. We map an audited corpus of  <sup>N=2,784</sup>  records (2014–2025) retrieved from Crossref and screened with a frozen, versioned rulebook, and compare evidence regimes in protein science, materials design, drug discovery, closed-loop experimentation, and mathematical reasoning. Using term co-occurrence, reference co-citation, burst detection, growth models, and collaboration networks, we identify three robust patterns: (i) rapid but decelerating growth (Poisson rate 1.381, 95% CI 1.361–1.402, declining from 1.537 in 2014–2019 to 1.320 in 2019–2025); (ii) a coherent term-co-occurrence structure (75 nodes, modularity  <sup>Q=0.404</sup>  ) organized around four measured streams—representation learning, generative and inverse design, closed-loop experimentation, and neuro-symbolic reasoning—with the generative stream acting as the connecting hub; and (iii) a right-boundary rise in  <italic>large language model</italic>  terminology (burst state 3) that a year-by-year backtest shows is not a last-observation artefact. The maps are sensitive to metadata availability: abstract coverage is 50.6%, reference coverage 84.3%, and a title-only variant changes the network partition substantially (adjusted Rand index 0.762), so the maps describe the screened open-metadata corpus rather than the total AI4S literature. Cross-domain analysis shows that AI most consequentially shifts scientific bottlenecks from representation and candidate generation toward experimental or formal validation, provenance, and responsibility for claims. We contribute an auditable, open-metadata science-mapping workflow  <italic>designed for reproducibility</italic>  and an evidence-regime framework for analysing how epistemic labour is redistributed across models, instruments, formal verifiers, infrastructures, and human experts.  </p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11461912/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11461912/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43049221",
-      "topic": "AI Embeddings",
-      "title": "From Physics-Informed Deep Learning to Experimental Realization: Unlocking Entropy-Stabilized Titanium Halide Solid Electrolytes.",
-      "authors": "Xu Z, Yan Y, Nie S, Wang Z, Yan G, Duan H, Wang J.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "Accelerating the discovery of high-performance solid electrolytes (SEs) is hindered by scarce experimental data and vast inorganic chemical spaces. Here, we present a physics-informed deep learning platform that integrates a physics-informed neural network with a dual-source graph neural network. By embedding fundamental physical constraints (e.g., lattice stability and coulombic interactions) into the training process, our framework overcomes the small-data dilemma, enabling the reliable screening of over 2 80 000 inorganic crystals. Guided by a multi-objective optimization incorporating ionic conductivity, thermodynamic stability, and global economic factors, the titanium-based halide family is identified as a cost-effective alternative to scarce zirconium- or scandium-based SEs. As a proof-of-concept, a novel Li<sub>4</sub>TiBr<sub>4</sub>Cl<sub>4</sub> electrolyte is synthesized, which exhibits a high room-temperature ionic conductivity of 1.14 mS/cm. While 0 K density functional theory calculations predict an ordered layered ground state (P3¯m1) , structural characterization reveals a disordered cubic phase (Fm3¯m) stabilized by configurational entropy at synthetic temperatures. Furthermore, all-solid-state lithium batteries incorporating this electrolyte deliver a stable long-term cycling performance with a 90.6% capacity retention over 200 cycles at 0.5 C. This work demonstrates a closed-loop discovery paradigm where physics-constrained learning and thermodynamic understanding converge to realize high-performance, economically viable energy materials.",
-      "url": "https://doi.org/10.1002/smll.76722",
-      "source": "MED",
-      "doi": "10.1002/smll.76722",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43046796",
-      "topic": "AI Embeddings",
-      "title": "Embedding Lived Experience in Concurrent-Disorder Care: Early Learnings From Implementing Peer Support at BCMHSUS.",
-      "authors": "Edmundson L, Roloff A, Embacher K.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "This article shares key learnings from the early stages of implementation of peer support programs within two adult concurrent-disorder treatment centre and highlights insights that may benefit other leaders considering similar peer-based programs. This work demonstrates the importance of embedding lived experience at every stage of program development. Co-creating roles and processes with peers allowed for innovations and insights into care beyond what the clinical teams offer. Stronger role clarity, flexibility, and procedures at the outset would have reduced challenges. Finally, engaging current and former clients was vital for ongoing quality improvement and as an opportunity to celebrate successes. This article is intended for health leaders, policy makers, and funders. Key messages emphasize the value of advance planning, unique features and challenges of concurrent-disorder peer support, lived experience, and client engagement in building sustainable and high-quality peer support programs within complex care environments.",
-      "url": "https://doi.org/10.1177/08404704261501101",
-      "source": "MED",
-      "doi": "10.1177/08404704261501101",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:42974911",
-      "topic": "AI Embeddings",
-      "title": "Matrix materials as functional enablers in metabolite sensing: from mechanistic demands to translational potential.",
-      "authors": "Varga M, Risi G, Stepanova S, Nasehi M, Bahtiyar C, Rousakis E, Witthauer L.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "The performance of metabolite sensors is strongly shaped by the physicochemical properties of the matrix that governs analyte transport, interfacial stability, and signal coupling, yet the role of the matrix has largely been overlooked, often being viewed as a passive support rather than an active design parameter. This review analyses how matrix architecture controls sensing behaviour across polymeric, inorganic, carbon-based, and supramolecular material classes, examining mechanistic trade-offs between diffusion and binding, conductivity and biocompatibility, and structural stability and responsiveness in the context of electrochemical, optical, and electrical transduction modes. Particular emphasis is placed on operation in complex biological media, where protein adsorption, ionic fluctuations, mechanical mismatch, and dynamic metabolite flux impose constraints rarely captured in buffered laboratory systems. The comparative analysis reveals that no single matrix class universally optimizes sensitivity, selectivity, and stability; instead, sensor behaviour and performance-relevant characteristics emerge from alignment between the matrix architecture and the signal-generating mechanism. By framing matrix selection through these mechanistic principles, this review provides a foundation for rational matrix design toward continuous, multi-analyte, and clinically deployable metabolite sensors.",
-      "url": "https://doi.org/10.1039/d6tb01338d",
-      "source": "MED",
-      "doi": "10.1039/d6tb01338d",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:42959622",
-      "topic": "AI Embeddings",
-      "title": "Comparative analysis of wound healing effect induced by photo-crosslinked adhesive in cornea and conjunctival injuries.",
-      "authors": "Jo YJ, Cho MH, Lee JS.",
-      "journal": "",
-      "date": "2026-11-18",
-      "abstract": "<h4>Aim</h4>To analyze the healing effect of a new hyaluronic acid (HA) photo-crosslinked ocular adhesive for corneal and conjunctival wounds and evaluate its clinical potential in ocular surface reconstruction.<h4>Methods</h4>Male New Zealand rabbits were included. A full-thickness corneal wound was induced in the superior corneal limbus, and a 5×5 mm<sup>2</sup> conjunctival flap was dissected while leaving intact the lateral limbus of the cornea. The rabbits were randomly divided into corneal and conjunctival wound groups, each containing three subgroups. Histological findings and transmission electron microscopy (TEM) were used to compare wound healing parameters of inflammation and collagen remodeling at 7 and 14d post-injury.<h4>Results</h4>Thirty rabbits (14-16 weeks old, 3.0±0.5 kg) were included and were randomly assigned to either a corneal injury group (<i>n</i>=15) or a conjunctival injury group (<i>n</i>=15). Each group was further divided into three subgroups: control, enbucrilate, and HA photo-crosslinked adhesive (HPCA) groups (<i>n</i>=5 each). Anterior chamber leakage was observed until the first day in the control group, whereas corneal wound recovery was observed in the other two adhesive groups. Rabbits in the enbucrilate group exhibited significantly higher numbers of infiltrating inflammatory cells compared to HPCA group at both days 7 and 14 post-injury, along with irregular collagen fiber rearrangement. The HPCA group had fewer infiltrating inflammatory cells in the corneal wound area compared to the control (<i>P</i>=0.043, 0.033 on days 7 and 14 post-injury, respectively) and enbucrilate groups (<i>P</i>=0.004, 0.017 on days 7 and 14 post-injury, respectively). It displayed significantly fewer infiltrating inflammatory cells in conjunctival tissue wounds than the other two groups (<i>P</i>=0.043 and 0.033 on day 7 post-injury, both <i>P</i><0.001 on day 14 post-injury). The regenerated conjunctival tissue in the HPCA group displayed a uniform collagen arrangement, indicating smoother, regular wound healing.<h4>Conclusion</h4>The HPCA causes less inflammatory infiltration and more uniform collagen fiber arrangement during corneal and conjunctival tissue wound healing than control and enbucrilate groups, indicating its usefulness for ocular surface reconstruction.",
-      "url": "https://doi.org/10.18240/ijo.2026.11.03",
-      "source": "MED",
-      "doi": "10.18240/ijo.2026.11.03",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
       ]
     },
     {
@@ -1778,6 +1778,22 @@
       ]
     },
     {
+      "id": "MED:43054479",
+      "topic": "Long-acting PrEP",
+      "title": "The Bidirectional Effects of Gender-Affirming Hormone Therapy and Preexposure Prophylaxis in Transgender Individuals.",
+      "authors": "Blumenthal J, Goyal R, Mischel A, Gianella S, Burke L, Dube MP, Hoenigl M, Chow K, Silva J, Moore D, Haubrich R, Corado K, Anderson PL, Bolan R, Morris S.",
+      "journal": "",
+      "date": "2026-10-26",
+      "abstract": "Transgender individuals both on and off gender-affirming hormone therapy (GAHT) had similar preexposure prophylaxis (PrEP) concentrations after 12 weeks of daily oral emtricitabine-tenofovir disoproxil fumarate (FTC/TDF) PrEP use. Hormone concentrations were not significantly different with or without FTC/TDF PrEP, and there were no changes in the perceived effect on GAHT in those taking PrEP.",
+      "url": "https://doi.org/10.1093/ofid/ofag628",
+      "source": "MED",
+      "doi": "10.1093/ofid/ofag628",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:42928809",
       "topic": "Long-acting PrEP",
       "title": "A Highly Sensitive and Specific Rapid Lateral Flow Assay for the HIV Integrase Strand Transfer Inhibitors Bictegravir, Cabotegravir, and Dolutegravir.",
@@ -1804,22 +1820,6 @@
       "url": "https://doi.org/10.1177/15248399261491326",
       "source": "MED",
       "doi": "10.1177/15248399261491326",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PMC:PMC13738938",
-      "topic": "Long-acting PrEP",
-      "title": "Willingness to Use HIV Pre-exposure Prophylaxis among Community Pharmacy Users in Uganda",
-      "authors": "",
-      "journal": "",
-      "date": "2026-10-22",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13738938",
-      "source": "PMC",
-      "doi": "",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
@@ -2242,7 +2242,5 @@
       ]
     }
   ],
-  "errors": [
-    "AI Embeddings: The read operation timed out"
-  ]
+  "errors": []
 }
