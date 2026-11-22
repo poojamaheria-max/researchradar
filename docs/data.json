@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:41:07.408319+00:00",
+  "updated": "2026-11-22T18:34:39.077410+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -754,6 +754,38 @@
       ]
     },
     {
+      "id": "PMC:PMC13786289",
+      "topic": "AI Embeddings",
+      "title": "Optically Controlled Hybrid Metasurface for Efficient Terahertz Frequency Modulation",
+      "authors": "Zhou Q, Chen S, Mei L.",
+      "journal": "",
+      "date": "2026-11-22",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13786289",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13786350",
+      "topic": "AI Embeddings",
+      "title": "Biomimetic Fabrication and Osteogenic Efficacy Evaluation of Tilapia-Derived Collagen-Based Artificial Bone Scaffolds",
+      "authors": "Wang L, Zhu J, Jiang X, Wang K.",
+      "journal": "",
+      "date": "2026-11-22",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13786350",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PMC:PMC13787140",
       "topic": "AI Embeddings",
       "title": "How to Build Machine-Learning Models for Molecular Science: A Step-by-Step, Annotated Tutorial",
@@ -1074,32 +1106,16 @@
       ]
     },
     {
-      "id": "MED:43059362",
+      "id": "MED:43061884",
       "topic": "AI Embeddings",
-      "title": "Integrating social work into interdisciplinary pain management: advancing equitable care for women with chronic pain.",
-      "authors": "Moorehead LA.",
+      "title": "Editor's view: 'Evergreen' songs as an experimental model for studying cultural evolution and long-term cultural fitness through ideometrics.",
+      "authors": "Rudan I, Kerr S.",
       "journal": "",
       "date": "2026-11-20",
-      "abstract": "Chronic pain is one of the most common causes of disability in the United States and disproportionately affects women, particularly those experiencing gender, racial, and socioeconomic inequities. Biomedical paradigms continue to dominate pain care, neglecting the social and structural determinants that shape women's pain experiences. This integrative review examines the potential role of social workers in advancing equitable, trauma-informed, and person-centered pain management for women within interdisciplinary health care systems. Peer-reviewed literature across pain medicine, behavioral health, and social work was synthesized to identify theoretical frameworks, practice competencies, and equity considerations that position social workers to address inequities in pain assessment and treatment. Evidence from interdisciplinary pain management broadly suggests improvements in patient satisfaction, functional outcomes, and health equity, particularly among women from marginalized populations; direct evidence isolating social work's specific contribution to these outcomes remains limited. Core competencies include biopsychosocial assessment, care coordination, advocacy, and culturally responsive education. Embedding social workers in interdisciplinary pain teams and institutionalizing trauma-informed and equity-driven standards may reduce disparities and may support a redefinition of healing as the restoration of agency, dignity, and justice for women living with chronic pain.",
-      "url": "https://doi.org/10.1080/00981389.2026.2766132",
+      "abstract": "Some popular songs dominate the charts only briefly, while others continue to gain cultural significance decades after their release. In this editorial, we offer an ideometric perspective on the evolution and selection of 'musical ideas', shifting the unit of analysis from a song as commercial product to the ideas embedded within it. Contemporary analyses of success in music industry predominantly focus on sales, concerts attendance, achieved chart positions, streaming activity, radio exposure and social media engagement. They thus largely measure the consequences of song's release, while the mechanisms that lead to its success and enduring cultural persistence remain largely unexplored. We propose to consider popular songs as 'musical ideas' that can be 'sensed' by human brain, causing a response of varying nature and intensity. When songs are considered as vectors of embedded ideas that mutually interact and jointly compete for repeated selection within culturally diverse human populations, their long-term survival - the 'evergreen' status - may depend on the intrinsic properties of the ideas they contain. The ideas compatible with the emotional, cognitive, and social architecture of society over time should be positively selected. This can be studied using big data approaches and modern text analyses, both made possible by novel machine learning and artificial intelligence (AI) tools. Building upon the proposed concept of the human brain's 'sense of ideas', we propose popular music as an exceptionally suitable experimental model for testing ideometric hypotheses. Commercially released songs present billions of listeners with a near-identical package of musical and lyrical ideas and create massive naturally occurring experiments in cultural selection. Ideometrics could study why particular combinations of ideas are selected repeatedly across generations, despite profound changes in cultural, socio-economic and political environments. We propose a conceptual framework for quantifying intrinsic 'ideometric fitness' of a song; candidate criteria for long-term cultural selection; and a novel research programme to quantify those properties using historical musical datasets and AI-based tools. We link the emerging field of ideometrics with culturomics by using 'evergreen' songs as an experimental model system to test ideometric principles and hypotheses. Analogous frameworks could naturally extend to literature and art, political narratives, innovations in science and technology, start-up companies, and other domains where many ideas compete for human attention over extended periods. Popular music presents an efficient experimental platform to test ideometrics as a quantitative scientific approach to studying cultural evolution.",
+      "url": "https://doi.org/10.7189/jogh.16.01006",
       "source": "MED",
-      "doi": "10.1080/00981389.2026.2766132",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43058360",
-      "topic": "AI Embeddings",
-      "title": "Addressing Disparities in Hypertension Control: The Potential Role of New Drugs and Devices in 2026 and Beyond.",
-      "authors": "Odo CC, Reddy T, Ogunniyi MO, Ferdinand KC, Ilonze OJ.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<h4>Purpose of review</h4>Hypertension is the leading modifiable cardiovascular risk factor in the United States, with racially/ethnically diverse populations experiencing a disproportionate burden, associated with social, structural, and potentially biological determinants. This review examines how recently approved and investigational pharmacologic therapies and device-based interventions may advance hypertension control in 2026 and beyond, with deliberate attention to the strength and applicability of the available evidence in racially/ ethnically diverse populations.<h4>Recent findings</h4>Aldosterone synthesis and mineralocorticoid receptor signaling represent important advances beyond the present guidelines for resistant hypertension and cardiovascular-kidney-metabolic risk reduction. For instance, baxdrostat, a recently approved aldosterone synthase inhibitor (ASI), has demonstrated clinically meaningful blood pressure reductions. In addition, lorundrostat, an investigational ASI, provides a model for racially representative trial design through the intentional enrollment of Black and Hispanic/Latino participants and consistent efficacy across racial subgroups. In contrast, pivotal finerenone trials demonstrated improved cardiac and renal outcomes but included limited representation of Black adults. Additional approved therapies include an agent targeting the endothelin pathway, aprocitentan, and device-based interventions via renal denervation therapy, although their effectiveness in diverse populations remains unknown. Therapies targeting natriuretic peptide signaling remain investigational but could potentially expand the therapeutic landscape. Advances in antihypertensive therapy offer new opportunities to improve blood pressure control and reduce cardiovascular risk beyond the 2025 American Heart Association (AHA) and American College of Cardiology (ACC) AHA/ACC High Blood Pressure Guideline-directed approach. Ensuring equitable benefit from these innovations requires that therapeutic innovation be coupled with deliberate efforts to ensure equitable delivery and benefit across populations.",
-      "url": "https://doi.org/10.1007/s11906-026-01403-5",
-      "source": "MED",
-      "doi": "10.1007/s11906-026-01403-5",
+      "doi": "10.7189/jogh.16.01006",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -1119,22 +1135,6 @@
       "is_preprint": true,
       "topics": [
         "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PPR:PPR1373773",
-      "topic": "AI Embeddings",
-      "title": "ADSMoE: A mixture-of-experts-based transformer autoencoder for discovering multimodal Alzheimer's disease subtypes",
-      "authors": "Meng W, Pan J, Yin M, Zhuang P, Gong K, Lin M, Xu J, Burns M, Wu Y, Yin R.",
-      "journal": "",
-      "date": "2026-11-19",
-      "abstract": "Alzheimer's disease (AD) exhibits substantial biological and clinical heterogeneity, posing critical challenges for advancing precision medicine. Existing data-driven approaches often rely on modality-specific clustering or predefined biomarker trajectories, limiting their ability to discover disease subtypes from incomplete, heterogeneous real-world data. In this study, we introduce ADSMoE, a mixture-of-experts (MoE)-based multimodal representation learning framework that jointly identifies AD subtypes as latent disease signatures while accommodating incomplete modality combinations. ADSMoE integrates a Fleximodal MoE encoder that accommodates arbitrary combinations of available modalities with a novel subtype-specific MoE decoder to capture complementary disease characteristics through expert specialization. Using data from 5,422 participants across three independent cohorts, we trained ADSMoE on the ADNI cohort and externally validated the identified subtypes in NACC and UKB without model retraining. The proposed ADSMoE identified four AD subtypes with distinct neuroimaging patterns, genetic and proteomic associations, and clinical characteristics. Benchmarking analyses demonstrated robust subtype discovery and strong biological and clinical relevance, while external validation revealed consistent subtype-associated characteristics across independent cohorts. ADSMoE advances AD subtyping by uncovering biologically and clinically meaningful AD heterogeneity from incomplete multimodal data, providing a scalable framework for disease stratification, biomarker discovery, and future precision medicine applications in AD.",
-      "url": "https://doi.org/10.64898/2026.11.16.26368224",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.16.26368224",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
       ]
     },
     {
