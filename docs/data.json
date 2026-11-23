@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T18:34:39.077410+00:00",
+  "updated": "2026-11-23T00:46:40.947561+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -754,6 +754,22 @@
       ]
     },
     {
+      "id": "PMC:PMC13788444",
+      "topic": "AI Embeddings",
+      "title": "Proteogenomic Signatures in Complex Diseases: Implications for Targeted Interventions",
+      "authors": "Sharma P, Sharma R, Uniya U, Reddy E, Nampalliwar A, Padmavathy K, Malek R.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13788444",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PMC:PMC13786289",
       "topic": "AI Embeddings",
       "title": "Optically Controlled Hybrid Metasurface for Efficient Terahertz Frequency Modulation",
@@ -802,14 +818,46 @@
       ]
     },
     {
-      "id": "PMC:PMC13787458",
+      "id": "PMC:PMC13788726",
       "topic": "AI Embeddings",
-      "title": "Complex IV maturation coordinates postnatal mitochondrial and metabolic development",
-      "authors": "Popovic M, Cabrera-Orefice A, Isermann L, Croon M, Zecic A, Meisterknecht J, Alameldin Y, Hanehalli V, Siibak T, Frezza C, Wittig I, Trifunovic A.",
+      "title": "Prevalence and Associated Factors of Subjective Memory Problems Among Older Adults in Australian Retirement Villages",
+      "authors": "Alrababah S, Johnstone G, Lowthian J, Waller M, Meyer C.",
+      "journal": "",
+      "date": "2026-11-21",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13788726",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43064953",
+      "topic": "AI Embeddings",
+      "title": "Managing environmental enteropathy among Egyptian infants and children with growth faltering.",
+      "authors": "Nassar MF, Emam EK, Allam MF, Hamdy AM, Abdelhaleem BA, Radwan NA, Emam AM, Ibrahim HE.",
+      "journal": "",
+      "date": "2026-11-21",
+      "abstract": "Environmental enteropathy (EE) is an acquired subclinical inflammation of the small bowel mucosa, leading to reduced nutrient absorption and increased intestinal permeability. There are currently no universally accepted protocols for the diagnosis and treatment of EE. The primary aim of this clinical trial was to assess the prevalence of EE among children with faltering growth (FG). Determination of the dietary requirements in pediatric FG with EE and highlighting the histopathologic changes in the small intestine in such conditions were the secondary objectives. The current study recruited 200 patients (their age range was 6-58 months) diagnosed as GF at the Pediatric Clinical Nutrition Clinic, Children`s Hospital, Faculty of Medicine, Ain Shams University (Cairo, Egypt), during the period from April 2022 till June 2023. The first phase of the study was a cross sectional interventional one where all patients underwent nutritional rehabilitation using diet regimen including polymeric milk formula. Patients whose weight z score was still below - 2 SD for age and sex after 12 weeks were considered as non-responders and were enrolled in the second phase, when esophagogastroduodenoscopy (EGD) and mucosal biopsies were done. In the latter phase, patients with EE received nutritional rehabilitation regimen using peptide-based milk formula with assessment of anthropometric measurements after 8 weeks of follow up. Out of the studied cases, 170 were responders, and 30 were non-responders, 24 of the non-responders underwent EGD with biopsies and all were diagnosed as EE with prevalence of 12% among the studied patients with GF as the least possible prevalence. Total histology scores of the EE fell between those of the controls and celiac disease reference samples with cut off values > 3 and ≤ 14 for EE, ≤ 3 for controls and > 14 for celiac disease. There was a significant increase in weight and height z scores among patients of EE on peptide-based formula compared to polymeric formula. EE isn`t uncommon and should be suspected when provision of catch-up nutrients can`t correct FG. Peptide-based formula has a possible beneficial effect on growth of patients with EE. The clinical trial was registered at Protocol Registration and Results System with number NCT06497907 (12/07/2024).",
+      "url": "https://doi.org/10.1186/s12887-026-07978-x",
+      "source": "MED",
+      "doi": "10.1186/s12887-026-07978-x",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13788343",
+      "topic": "AI Embeddings",
+      "title": "Paclitaxel‐Coated Balloon Dilation for Tracheal Stenosis in Tracheostomy Patients: 12‐Month Outcomes From a Prospective, Multicenter, Feasibility Study",
+      "authors": "Zapata S, Tchkonia D, Santos A, O'Malley E, Vega F.",
       "journal": "",
       "date": "2026-11-20",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13787458",
+      "url": "https://europepmc.org/article/PMC/PMC13788343",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -850,6 +898,22 @@
       ]
     },
     {
+      "id": "MED:43064736",
+      "topic": "AI Embeddings",
+      "title": "System of agentic AI for the discovery of metal-organic frameworks.",
+      "authors": "Inizan TJ, Yang S, Kaplan A, Lin YH, Yin J, Mirzaei S, Abdelgaid M, Alawadhi AH, Cho K, Zheng Z, Cubuk ED, Borgs C, Chayes JT, Persson KA, Yaghi OM.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Generative models and machine learning promise accelerated material discovery in metal-organic frameworks (MOFs) for CO2 capture and water harvesting, but face substantial challenges in navigating vast chemical spaces while ensuring synthesizability. Here we present MOFGen, a system of agentic artificial intelligence (AI) comprising interconnected agents: a large language model that proposes MOF compositions, a diffusion model that generates crystal structures, quantum mechanical agents that optimize and filter candidates, and synthetic-feasibility agents guided by expert rules and machine learning. Trained on a broad set of experimentally reported MOFs and computational databases, MOFGen generated hundreds of thousands of MOF structures and synthesizable organic linkers. The uniqueness of our approach lies in its ability to generate large MOF structures with atomic precision, beyond the scale of conventional generative models limited to tens of atoms. This approach was validated through high-throughput experiments and the successful synthesis of four 'AI-dreamt' MOFs.",
+      "url": "https://doi.org/10.1038/s43588-026-01058-x",
+      "source": "MED",
+      "doi": "10.1038/s43588-026-01058-x",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43064728",
       "topic": "AI Embeddings",
       "title": "velotest: statistical assessment of RNA velocity embeddings reveals quality differences for reliable trajectory visualizations.",
@@ -860,6 +924,22 @@
       "url": "https://doi.org/10.1038/s41467-026-78669-5",
       "source": "MED",
       "doi": "10.1038/s41467-026-78669-5",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43064535",
+      "topic": "AI Embeddings",
+      "title": "Video-Based Automated Seizure Classification Using Multimodal Large Language Models.",
+      "authors": "Zhang L, Jiang R, Monsoor T, Pasqua JN, McCrimmon CM, Sinha P, Sharma K, Alzuabi M, Morales VE, Miranda H, Manjeshwar C, Roychowdhury V, Mazumder R.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Accurately distinguishing between epileptic seizures (ES) and nonepileptic seizures (NES) remains a significant clinical challenge, typically requiring resource-intensive inpatient video-EEG monitoring. We developed a multimodal large language model (MLLM)-based framework for automated extraction of semiological features from seizure videos, followed by classification of events as ES or NES. We analyzed 90 seizure videos (45 ES, 45 NES) from 29 patients in an epilepsy monitoring unit. Each event was labeled using expert-reviewed video-EEG and annotated for 24 clinically relevant semiological features. An MLLM framework integrating open-source vision-language models (VLMs) and audio-language models (ALMs) was used to extract these features automatically. The extracted features were then used to train classifiers (K-Nearest Neighbors, XGBoost, and Deep Factorization Machine) to distinguish ES from NES. Model performance was evaluated using leave-one-patient-out (LOPO) cross-validation. Expert-annotated features yielded near-perfect classification using KNN (precision = 0.92, recall = 0.92, F1-score = 0.92, AUC = 0.99). Compared to expert annotations, the MLLM pipeline achieved a mean recall of 0.71, accuracy of 0.58, and F1-score of 0.51 for feature extraction. Using MLLM-extracted features, the KNN classifier (k = 7) achieved a precision of 0.77, recall of 0.76, F1-score of 0.76, and AUC of 0.76, correctly identifying 68 out of 90 events. Multimodal large language models can extract clinically relevant semiological features from seizure videos and support interpretable classification of ES versus NES. This approach offers a scalable, explainable tool to assist in video-based epilepsy diagnosis.",
+      "url": "https://doi.org/10.1002/acn3.70574",
+      "source": "MED",
+      "doi": "10.1002/acn3.70574",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -882,6 +962,38 @@
       ]
     },
     {
+      "id": "MED:43063378",
+      "topic": "AI Embeddings",
+      "title": "Word embeddings from text corpora: A simulation study on the representation of underlying structures.",
+      "authors": "Otte WM, van Wieringen ALHM, Koet BJ.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "The grounding problem concerns how symbolic representations acquire meaning through connections to what they refer to. For word embeddings learned from text, a related empirical question is how much of the structure that generated the text they retain. This is difficult to test in natural corpora because that structure is generally unknown. We employed a microsimulation methodology to generate a controlled text corpus from a known spatial structure. A virtual language supermarket with 40 shelves organised into four departments (fruit, vegetables, beverages, extras) served as the generative environment. Product sequences from 80,000 simulated shoppers formed a corpus of 804,422 product selections, with each sequence unique. The GloVe algorithm was applied to this corpus to learn 50-dimensional word embeddings, which we compared with the network of shelves. Cosine distance between products correlated with their shortest-path distance in the network (Spearman ρ = 0.79 over all 7,140 product pairs, Mantel p = 0.001), and on average 61% of a product's network neighbours were among its nearest neighbours in the embedding, against 7% expected by chance. Over ten independent simulations these values were 0.80 ± 0.01 and 0.62 ± 0.02, and shuffling words across the corpus removed the association. Raw co-occurrence counts, PPMI, SVD and word2vec also captured global distance structure but retrieved fewer neighbours (29-50%). Recovery was best with a context window of one word (ρ = 0.93) and was weaker for rare products. K-medoid clustering of all 120 products separated the fruit and extras departments completely, while vegetables and beverages, which are interleaved in the network, were mixed (adjusted Rand index 0.82). UMAP projections followed the network closely (ρ = 0.92) but distorted some parts of it. These findings show that distributional word embeddings can recover much of the structure that a generating process puts into co-occurrence statistics. They do not show that the embeddings are grounded in, or understand, what the words refer to. This controlled simulation provides a reproducible way to measure structural recovery by word embeddings.",
+      "url": "https://doi.org/10.1371/journal.pone.0362816",
+      "source": "MED",
+      "doi": "10.1371/journal.pone.0362816",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43063253",
+      "topic": "AI Embeddings",
+      "title": "Complex IV maturation coordinates postnatal mitochondrial and metabolic development.",
+      "authors": "Popovic M, Cabrera-Orefice A, Isermann L, Croon M, Zecic A, Meisterknecht J, Alameldin Y, Hanehalli V, Siibak T, Frezza C, Wittig I, Trifunovic A.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "The perinatal heart undergoes a rapid metabolic transition from glycolysis to fatty acid oxidation that requires extensive mitochondrial remodeling, yet the molecular checkpoints that coordinate this process remain poorly defined. Using temporally resolved proteomics and complexome profiling of developing mouse hearts from late gestation through early postnatal life (E18.5 to P10), we identify a discrete developmental window in which respiratory chain architecture is remodeled to enable metabolic commitment. Complex IV (CIV) emerges as a central structural determinant of this transition, undergoing isoform-specific reassembly and transient suppression at birth before incorporation into mature respiratory supercomplexes. We identify the CIV subunit COX7C as a developmentally regulated determinant of CIV maturation, with its abundance increasing during maximal respirasome assembly and the switch to fatty acid oxidation. Loss of COX7C impairs terminal CIV maturation, prevents incorporation of heart-specific isoforms, and destabilizes the respirasome organization. Notably, this defect causes a selective secondary failure of complex I completion, demonstrating that respirasome formation is required for catalytic CI maturation in vivo. Consequently, cardiac-specific COX7C deficiency fails to complete the perinatal metabolic transition, leading to the collapse of fatty acid oxidation, activation of nucleotide and serine-glycine-one-carbon metabolism, attenuated activation of the mitochondrial integrated stress response, and a metabolically and structurally compromised state unlikely to support the increasing energetic demands of the postnatal heart. Together, these findings define a developmentally timed, CIV-dependent assembly step that couples respiratory chain assembly to postnatal cardiac metabolic fate and provide a temporal framework for mitochondrial maturation in the developing heart.",
+      "url": "https://doi.org/10.1126/sciadv.aeg6837",
+      "source": "MED",
+      "doi": "10.1126/sciadv.aeg6837",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43063205",
       "topic": "AI Embeddings",
       "title": "CogD-ML: Cognitive determinants of social commerce purchase intention in Bangladesh using machine learning and explainable AI.",
@@ -898,6 +1010,22 @@
       ]
     },
     {
+      "id": "MED:43063178",
+      "topic": "AI Embeddings",
+      "title": "Co-developing a women-centered HIV prevention intervention to reduce stigma, increase HIV self-testing, and improve pre-exposure prophylaxis (PrEP) uptake in Ghana (WISE WOMAN): A study protocol.",
+      "authors": "Aidoo-Frimpong G, Obeng YA, Abubakar AT, Mensah WK, Anyidoho DS.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Young women in Ghana (18-35 years) remain disproportionately affected by HIV due to intersecting structural and social challenges, including stigma, gendered power dynamics, and limited access to women-centered prevention services. Although HIV self-testing (HIVST) and pre-exposure prophylaxis (PrEP) are effective biomedical prevention strategies, uptake among young Ghanaian women remains low. Barriers include limited awareness, persistent stigma, and a lack of culturally relevant, youth-responsive prevention approaches. The WISE WOMAN study aims to address these gaps by developing and piloting a women-centered HIV prevention intervention co-created with young women in Ghana. This protocol describes a pilot implementation study of a women-centered HIV prevention intervention that will be delivered via WhatsApp. The intervention is informed by community-based participatory research and human-centered design approaches to enhance cultural relevance and responsiveness to young women's lived experiences. The study will enroll 50 young women aged 18-35 years who will participate in a four-week WhatsApp-based intervention designed to increase HIV prevention knowledge, reduce stigma, and support engagement with HIVST and PrEP. Implementation outcomes, including feasibility, acceptability, and appropriateness, will be assessed using mixed methods. Quantitative data will be collected through baseline and post-intervention surveys, including the PIERS-22 engagement scale, and will be analyzed using descriptive statistics and paired comparisons. Qualitative data from group interactions and post-intervention interviews will be analyzed using thematic analysis. The study has received ethical approval from the University at Buffalo Institutional Review Board (STUDY00009328) and the Ensign Global College Ethics Committee (IRB/EL/AF-02/2025) and is registered at ClinicalTrials.gov (NCT07003789). This protocol outlines the design and methods for a digitally delivered, women-centered HIV prevention intervention grounded in participatory approaches. The planned pilot study will generate critical implementation evidence on the feasibility, acceptability, and appropriateness of a WhatsApp-based, co-designed intervention, informing future adaptation, scale-up, and integration of culturally grounded HIV prevention strategies for young women in Ghana and similar settings.",
+      "url": "https://doi.org/10.1371/journal.pone.0347271",
+      "source": "MED",
+      "doi": "10.1371/journal.pone.0347271",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43063138",
       "topic": "AI Embeddings",
       "title": "Online unsupervised industrial anomaly detection with adaptive resonance patch prototype memory and multi-level views.",
@@ -908,6 +1036,22 @@
       "url": "https://doi.org/10.1371/journal.pone.0362092",
       "source": "MED",
       "doi": "10.1371/journal.pone.0362092",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43062552",
+      "topic": "AI Embeddings",
+      "title": "Physical Activity Following Diagnosis of Diabetes in Australian Women Born 1946-1951: Data from a Large Population-Based Cohort Study.",
+      "authors": "Cox ER, Duncan MJ, Brown WJ, Mielke GI.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Physical activity (PA) changes across mid-life, particularly among women, yet it remains unclear whether the onset of diabetes influences this. With increasing diabetes incidence during mid-life, and because PA recommended as first-line therapy, understanding PA changes following diabetes diagnosis in women is critical. These analyses investigated: (1) changes in PA following diabetes diagnosis, and (2) whether respondent characteristics associated with changes in PA vary by diabetes status. Data were from the 1946-51 cohort of the Australian Longitudinal Study on Women's Health (n = 9,973). Self-reported PA data were collected using mail surveys at three-year intervals from 1998 (age 47-52) to 2022 (age 71-76). PA change scores were calculated for each of the eight survey intervals and categorised as: reduced (≤ - 250MET · minutes/week); no change (- 249 to 249); or increased (≥ 250). Diabetes diagnostic status (derived from self-report/linked health records) was defined as no diabetes, diagnosed (since previous survey) or previously diagnosed (in any prior survey). Mixed-effects regression analyses were used to investigate the 1) average change in PA in the three groups, and 2) associations between respondent characteristics and changes in PA. Over 24 years, 14.8% of women (n = 1,480) were diagnosed with diabetes. The mean change in PA across survey intervals was - 5.1 [95% CI - 18.2, 7.9] MET · min/week. In the fully adjusted model (for age, sociodemographic, health and behavioural characteristics), compared with women without diabetes, women diagnosed with diabetes since the previous survey exhibited a - 45.8 MET · min/week lower change in PA (95% CI - 150.2, 58.7; p = 0.390), while women previously diagnosed with diabetes exhibited a - 18.3 MET · min/week lower change (95% CI - 68.7, 32.2; p = 0.478). Characteristics associated with reduced/no change in PA included being separated/divorced/widowed/single, lower education, a current smoker, a risky drinker, obese, and living in a remote area. PA is not routinely sustained following diabetes diagnosis in mid-age Australian women, highlighting a gap between clinical recommendations and real-world behaviour. Ongoing, tailored support in routine diabetes care is required to support long-term PA engagement.",
+      "url": "https://doi.org/10.1186/s40798-026-01152-4",
+      "source": "MED",
+      "doi": "10.1186/s40798-026-01152-4",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -978,147 +1122,19 @@
       ]
     },
     {
-      "id": "PPR:PPR1373409",
-      "topic": "AI Embeddings",
-      "title": "Examining HiTOP Through Naturalistic Symptom Descriptions in Anonymous Online Mental Health Forums: A Mixed-Methods Study Protocol",
-      "authors": "Ferizaj D.",
+      "id": "MED:43065041",
+      "topic": "Long-acting PrEP",
+      "title": "Old threats anew: protecting progress in infectious disease and sexual health.",
+      "authors": "Kilmarx PH.",
       "journal": "",
       "date": "2026-11-20",
-      "abstract": "<p>AbstractBackground: The Hierarchical Taxonomy of Psychopathology (HiTOP) organises covarying symptoms and maladaptive traits into transdiagnostic dimensions to address limitations of categorical diagnosis. Naturalistic symptom descriptions may complement structured assessments. <h4>Objective:</h4> This protocol describes a reproducible mixed-methods workflow to derive symptom indicators from forum posts and examine their organisation relative to HiTOP. Methods and analysis: The target sample is 80,000 public Reddit posts. After local de-identification, a large language model (LLM) will extract symptom labels and supporting paraphrases. Two human experts will independently review outputs for up to 250 posts. Three embedding models will flag potentially equivalent symptom labels for local LLM assessment. Two experts will qualitatively review the most frequent canonical symptom labels (at least 1,000) and develop a codebook of symptom categories, continuing until a prespecified saturation criterion is met. An LLM will assign canonical symptom labels to these categories, producing binary post-level indicators. Multiverse-inspired structural analyses will compare network, component, factor, and clustering representations across discovery, internal tuning, and holdout partitions. Evaluation will assess interpretability, stability, and agreement with expert mapping to HiTOP. Supplementary analyses will include agent-assisted exploration, codebook application to DepressionEmo and the Reddit Mental Health Dataset, and pooled integrative analysis that may include additional comparable corpora. <h4>Discussion:</h4> The study will examine whether symptom co-expression within posts forms interpretable patterns corresponding to HiTOP.Ethics: The Ethics Committee of Charité – Universitätsmedizin Berlin approved the study (EA2/274/25). The study was preregistered on 8 May 2026 (German Clinical Trials Register, DRKS00040244). <h4>Keywords:</h4> Hierarchical Taxonomy of Psychopathology, natural language processing, large language models, Reddit, mixed methods, study protocol</p>",
-      "url": "https://doi.org/10.31234/osf.io/ahrts",
-      "source": "PPR",
-      "doi": "10.31234/osf.io/ahrts",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1373227",
-      "topic": "AI Embeddings",
-      "title": "Bayesian Physics-Informed Neural Networks Embedded in Finite Element Analysis: A Probabilistic Digital Twin for Reliability-Based Design of FDM Polymer Components",
-      "authors": "Zahmatkeshan MH, Biglari FR, Dariani BM.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<title>Abstract</title>  <p>Digital twin technology presents revolutionary possibilities for additive manufacturing, but current applications are limited to deterministic forecasting that does not capture manufacturing uncertainties. This study introduces a probabilistic digital twin system that uses machine learning and finite element analysis in two synergistic innovations. First, a Bayesian physics-informed neural network predicts material properties as Abaqus input with quantified uncertainty by embedding Euler-Bernoulli beam theory within a Monte Carlo dropout architecture. Second, the trained network's deterministic forward pass is embedded directly within an Abaqus user material subroutine, enabling material property evaluation at each integration point for a given sampled modulus value, while the probabilistic Monte Carlo dropout sampling is performed externally prior to each finite element run. This framework was constructed based on experimental data of sixty 3D-printed polylactic acid specimen groups subjected to three-point bending in accordance with ISO 178, with validation against ten independent configurations with raster angles ranging from zero to ninety degrees. Monte Carlo finite element analysis propagated material property uncertainty through the simulation, yielding stress predictions with calibrated confidence intervals. The framework achieved a coefficient of determination of 0.9935 with a mean absolute percentage error of 1.85%, and 95% confidence intervals contained experimental values in all ten validation cases, consistent with (though not sufficient to precisely confirm, given the limited sample size) well-calibrated uncertainty estimates. Reliability analysis revealed that the 60° raster angle (8.0% CV) and 90°/80% reduced infill configuration (9.0% CV) exhibit more than double the prediction uncertainty compared to the optimal 0° orientation (3.8% CV), informing correspondingly adjusted safety factors. The computational overhead of the embedded neural network added only 15% to simulation time while eliminating the need for external property pre-computation. This work demonstrates a full probabilistic digital twin framework for additively manufactured polymer components under flexural loading, enabling reliability-based design choices that are challenging to implement under deterministic methods. The framework provides a foundation for advancing additive manufacturing toward structural applications that require a quantified performance margin.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11305412/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11305412/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1373039",
-      "topic": "AI Embeddings",
-      "title": "AOPedex: AOP-based endocrine disruption extrapolation as white-box mechanism maps for zero-data species",
-      "authors": "Gao Y, Zhang Y, Chen G, Luo N, Ji Y, Gu Y.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<title>Abstract</title>  <p>Endocrine disruption evidence is concentrated in a handful of model species, leaving risk assessment for ‘zero-data species’ unresolved; scarce toxicity records and biologically untraceable black-box extrapolation constrain machine learning. We present AOPedex, a knowledge-driven white-box framework embedding ToxCast in vitro activity, receptor binding-pocket conservation and traceable close-relative evidence in a deterministic AOP event-network propagation skeleton, so that mechanistic maps share one source for prediction, attribution and audit. Across 5,387 compounds and 756 vertebrate species, 94.4% of species are high-confidence or predictable, including 123 IUCN threatened species. Under identical protocols, EBM matches TabPFN in macro out-of-fold ROC-AUC on seven general-toxicity endpoints (0.810 versus 0.812) and outperforms it on data-sparse Morphology (0.698 versus 0.661). Controlled AON polarity randomisation barely changes ROC-AUC but disrupts mechanistic ordering, showing that predictive performance does not imply mechanistic validity. AOPedex audits receptor inputs, AON propagation, model readouts and literature evidence, yielding applicability-domain-conditioned mechanistic predictions, candidate screening regions and testable molecular entry points and event chains. Experimental feedback revises priors for iterative computation–experiment calibration. AOPedex aims to turn observations of model species into knowledge of many more so that toxicological knowledge serves biodiversity.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11579523/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11579523/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1373024",
-      "topic": "AI Embeddings",
-      "title": "Discourse coherence in first-episode psychosis and depression: shared referential alterations and links to cortical hierarchy",
-      "authors": "ÇOKAL D, Villalba M, vogeley k, Böke A, He R, von Heusinger K, Hinzen W, Kambeitz J.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<title>Abstract</title>  <p>Disrupted discourse coherence is documented in psychosis, but whether depression shows similar alterations, and how these relate to cortical hierarchical organization, remains unclear. This is the first study to examine conceptual and referential dimensions of coherence and their associations with cortical hierarchy across first-episode psychosis and depression. We analysed spontaneous speech from 85 German speakers (29 controls, 28 with first-episode psychosis, 28 with first-episode depression), of whom 80 underwent resting-state fMRI. Using large-model embeddings, automated coreference resolution, and graph-theoretical measures, we quantified conceptual relations (i.e., how ideas are linked) and referential relations (i.e., how entities are introduced and maintained), and related them to gradient dispersion between networks and within the semantic-associative network. Both clinical groups showed reduced referential continuity, and less small-world organization of conceptual content than controls, whereas differences in local semantic similarity depended on diagnosis and language model. Negative symptom severity was associated with altered conceptual and referential relations. Between-network gradient dispersion did not differ between groups. However, after controlling for diagnosis, individual variation in gradient organization was associated with distinct conceptual and referential relations. Visual-default mode network dispersion was associated with conceptual network organization, while somatomotor-default mode network dispersion was associated with local conceptual and referential coherence. Dispersion within the semantic-associative network was linked with topic reorganization. These findings identify reduced referential continuity as a shared, automatically measurable speech alteration across early psychosis and depression, linked to negative symptoms and cortical hierarchy, and support developing scalable speech-based markers for transdiagnostic assessment and differential diagnosis.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11777052/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11777052/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1372852",
-      "topic": "AI Embeddings",
-      "title": "Lynch syndrome and other hereditary cancer predisposition syndromes: insights from establishing an oncogenetic tertiary centre in Romania",
-      "authors": "Munteanu CV, Perva IT, Simina IE, Nagy ED, Barna R, Geana VO, Nacov F, Negru S, Chirita-Emandi A, Trifa AP.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<title>Abstract</title>  <p>  Lynch syndrome (LS) is among the most common hereditary cancer predisposition syndromes, caused by germline variants in the mismatch repair genes  <italic>MLH1</italic>  ,  <italic>MSH2</italic>  ,  <italic>MSH6</italic>  and  <italic>PMS2</italic>  , or by  <italic>EPCAM</italic>  3' deletions. Its clinical utility is well established, yet Romanian data remain scarce and germline testing is poorly covered by public healthcare. We retrospectively reviewed 481 consecutive patients referred to a large oncology centre in Timișoara, Romania (2023–2025) for suspected LS or another hereditary cancer syndrome, assessing germline testing yield. Each patient was assessed against the NCCN Colorectal criteria (v1.2023) and their 2026 update (Colorectal, Endometrial and Gastric, v1.2026). A subset of urothelial tract carcinomas was further characterised by whole exome sequencing, MMR immunohistochemistry and  <italic>FGFR3</italic>  hotspot analysis. The cohort comprised 481 patients (56.3% female), with gastrointestinal (46.2%), gynaecological (23.0%) and reno-urinary (20.3%) malignancies accounting for nearly 90% of cases. Germline testing was performed in 153 patients (31.8%) and identified pathogenic/likely pathogenic variants in 37 (24.2%): 21 in LS genes and 16 in other predisposition genes, predominantly  <italic>BRCA1</italic>  . Retrospective application of NCCN 2026 core criteria increased eligibility from 183 (38.0%) to 209 patients (43.5%). Category 2B (colorectal and gastric cancer ≥ 50 years) added 109 further eligible patients but no additional Lynch cases, instead capturing three non-Lynch variants (  <italic>BRCA1</italic>  ,  <italic>ATM</italic>  , biallelic  <italic>MUTYH</italic>  ). Urothelial carcinomas represented 3.9% of the cohort, with two uncertain germline  <italic>BRCA2</italic>  variants identified, consistent with emerging evidence of a broader  <italic>BRCA2</italic>  -associated cancer spectrum. Category 2B thus widened eligibility without improving LS detection, though it captured hereditary variants that would otherwise have been missed. Urothelial cancers were strikingly underrepresented despite ranking third among LS-associated malignancies. Germline testing carries clear diagnostic value in this setting, but referral and access remain uneven, an argument for broader reimbursement and for embedding oncogenetic evaluation into routine Romanian oncology care.  </p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-10943145/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-10943145/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1372658",
-      "topic": "AI Embeddings",
-      "title": "Implementing risk stratification in UK glaucoma services: a qualitative study of barriers and facilitators",
-      "authors": "Jones L, Sii F, Shah P.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<title>Abstract</title>  <p>  <bold>Background / Objectives:</bold>  Rising demand for glaucoma services has intensified the need for effective prioritisation of patients according to clinical risk. This study explored clinicians’ perspectives on glaucoma risk stratification and identified barriers and facilitators to implementing stratification systems within UK glaucoma services.  <bold>Subjects / Methods:</bold>  A qualitative study using semi-structured interviews was conducted with ophthalmologists, allied health professionals, and service managers involved in glaucoma care. Participants were recruited using purposive sampling. The interview topic guide was informed by the Theoretical Domains Framework, and transcripts were analysed using inductive thematic analysis.  <bold>Results:</bold>  Eighteen participants from nine institutions were interviewed. Four major themes were identified: (1) reflections on glaucoma management and the role of risk stratification; (2) barriers to implementation; (3) facilitators supporting adoption; and (4) perceived benefits of risk stratification. Key barriers included the clinical heterogeneity of glaucoma, limitations in electronic medical record systems, time constraints, and variation in organisational support. Facilitators included educational initiatives, embedding stratification within electronic patient records, leadership endorsement, and demonstrating measurable service benefits. Participants highlighted potential advantages including improved prioritisation of high-risk patients, more efficient allocation of clinical resources, and potential for enhanced patient safety.  <bold>Conclusions</bold>  : Systematic risk stratification is perceived as valuable for improving glaucoma service delivery; however, successful implementation requires coordinated technological, organisational and behavioural change. Embedding stratification within digital systems, supported by education, leadership and robust evidence, will be critical to achieving sustainable adoption within routine clinical practice.  </p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11597647/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11597647/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1372591",
-      "topic": "AI Embeddings",
-      "title": "MedCapVQA: A Two-Stage Explainable Framework for Medical Visual Question Answering",
-      "authors": "Perera N, Nummenmaa J, Stefanidis K.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<title>Abstract</title>  <p>Medical Visual Question Answering (Med-VQA) aims to answer natural language questions about clinical images and has significant potential for diagnostic support, medical education, and improved access to expert interpretation. Most Med-VQA systems fuse image features and question embeddings directly, a mapping that is hard to learn from the few thousand question--answer pairs that medical benchmarks provide and that is usually compensated for with large-scale domain pre-training. We propose \\modelname{}, a two-stage, caption-driven framework that describes the image first and answers the question second. A MedGemma captioner, adapted with parameter-efficient fine-tuning on ROCOv2, converts each medical image into a clinically meaningful caption; a BioBERT-based reasoner with dedicated caption and question encoders and question-to-caption cross-attention then predicts the answer from text alone. We evaluate \\modelname{} on the closed-ended questions of the VQA-Med 2019 benchmark, training on the official training set (3,200 medical images, 12,792 question--answer pairs) and evaluating on the official validation set (500 images, 2,000 question--answer pairs), against six baselines that represent the main prior design families: a convolutional--recurrent fusion model, BioBERT and Med3D domain-adapted variants, a self-attention fusion network, a Vision Transformer model with cross-attention, and an end-to-end fine-tuned vision-language model. All models are trained under the same protocol and across training-set proportions from 5\\% to 100\\%, with each data-size result averaged over ten random training subsets. \\modelname{} achieves the highest validation accuracy on both tasks: 81.9\\% on binary (yes/no) questions, 11.6 percentage points above the strongest baseline, and 73.9\\% on 71-category multiclass questions, 5.4 points above the fine-tuned vision-language model and 13.5 points above the Vision Transformer model. The vision-language model attains a higher multiclass training accuracy but lower validation accuracy compared to \\modelname{} and none of the baseline models are strong on both tasks. The \\modelname{} reasoner trains on a single GPU in $\\sim$5 hours. These results show that converting medical images into textual captions before reasoning is an effective and resource-efficient alternative to direct multimodal fusion, and they highlight the value of intermediate semantic representations for the design of next-generation Med-VQA systems.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11622355/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11622355/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1372589",
-      "topic": "AI Embeddings",
-      "title": "Toward Unified Efficient Sequence Modeling from Kernelized Attention to State Space Transformers via Spectral Operator Theory",
-      "authors": "Xu J.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<title>Abstract</title>  <p>Creating efficient models of long sequences has become a primary challenge within many modern applications of AI such as: natural language processing (NLP), scientific computing, large-scale time series forecasting, and multimodal learning. The Transformer architecture has shown state-of-the-art performance across a wide variety of sequence modelling tasks, but the computational and memory complexity due to its reliance on an attention-based mechanism poses significant scalability limitations for long-context applications. In anticipation of overcoming the limitations of the existing models, this research proposes the Unified Spectral Operator (USO-Former) framework for modelling sequences. The proposed architecture consists of five principle components: (1) A Multi-Scale Embedding Layer for computing the sequence representations at different resolutions to learn a hierarchy of sequence representations; (2) A Kernelized Spectral Attention Module for efficiently modelling the contextual interactions of the input sequence elements; (3) A Spectral State Space Memory Block for ensuring long-range dependency preservation; (4) An Adaptive Fusion Mechanism to effectively integrate the contextual and memory-based representations of the input sequence; and (5) An Adaptive Multi-Objective Spectral Swarm Optimization (AMOSSO) strategy for simultaneously optimizing predictive accuracy, memory usage, computational efficiency, and training stability. We conducted extensive experiments on the Long Range Arena (LRA), PG-19, and WikiText-103 benchmark datasets and compared the predictive performance of the USO-Former to that of the conventional Transformer, Performer, Longformer, Mamba, and RWKV architectures. The USO-Former produced the highest predictive accuracy across all test datasets, achieving an accuracy of 89.7% on LRA, 92.1% on PG-19, and 93.4% on WikiText-103, exceeding the accuracy of the conventional Transformer baseline models by 6.5%, 6.1%, and 5.6%, respectively. Additionally, the proposed framework produced superior resource efficiency; requiring only 4.60GB of RAM as compared to the 12.40GB required by the Transformer, while also reducing the total computational workload to 96GFLOPs and achieving the fastest inference speed of 71ms of all evaluated architectures.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11448172/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11448172/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43061884",
-      "topic": "AI Embeddings",
-      "title": "Editor's view: 'Evergreen' songs as an experimental model for studying cultural evolution and long-term cultural fitness through ideometrics.",
-      "authors": "Rudan I, Kerr S.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "Some popular songs dominate the charts only briefly, while others continue to gain cultural significance decades after their release. In this editorial, we offer an ideometric perspective on the evolution and selection of 'musical ideas', shifting the unit of analysis from a song as commercial product to the ideas embedded within it. Contemporary analyses of success in music industry predominantly focus on sales, concerts attendance, achieved chart positions, streaming activity, radio exposure and social media engagement. They thus largely measure the consequences of song's release, while the mechanisms that lead to its success and enduring cultural persistence remain largely unexplored. We propose to consider popular songs as 'musical ideas' that can be 'sensed' by human brain, causing a response of varying nature and intensity. When songs are considered as vectors of embedded ideas that mutually interact and jointly compete for repeated selection within culturally diverse human populations, their long-term survival - the 'evergreen' status - may depend on the intrinsic properties of the ideas they contain. The ideas compatible with the emotional, cognitive, and social architecture of society over time should be positively selected. This can be studied using big data approaches and modern text analyses, both made possible by novel machine learning and artificial intelligence (AI) tools. Building upon the proposed concept of the human brain's 'sense of ideas', we propose popular music as an exceptionally suitable experimental model for testing ideometric hypotheses. Commercially released songs present billions of listeners with a near-identical package of musical and lyrical ideas and create massive naturally occurring experiments in cultural selection. Ideometrics could study why particular combinations of ideas are selected repeatedly across generations, despite profound changes in cultural, socio-economic and political environments. We propose a conceptual framework for quantifying intrinsic 'ideometric fitness' of a song; candidate criteria for long-term cultural selection; and a novel research programme to quantify those properties using historical musical datasets and AI-based tools. We link the emerging field of ideometrics with culturomics by using 'evergreen' songs as an experimental model system to test ideometric principles and hypotheses. Analogous frameworks could naturally extend to literature and art, political narratives, innovations in science and technology, start-up companies, and other domains where many ideas compete for human attention over extended periods. Popular music presents an efficient experimental platform to test ideometrics as a quantitative scientific approach to studying cultural evolution.",
-      "url": "https://doi.org/10.7189/jogh.16.01006",
+      "abstract": "Decades of international collaboration have produced extraordinary advances in infectious disease and sexual health, including effective treatment and prevention of HIV, long-acting prevention technologies, and vaccines against sexually transmitted infections. These achievements have depended not only on individual discoveries, but also on sustained investments in research institutions, clinical trial networks, laboratories, surveillance systems, health services, trained investigators, and trusted partnerships. Recent disruptions to international health assistance and research have exposed the vulnerability of this ecosystem. Reductions in development assistance and major changes in United States foreign assistance have affected HIV testing and prevention, community outreach, health workforces, sexual and reproductive health services, and organizations serving marginalized populations. The effects have been substantial but uneven: treatment programs and mature research institutions have often proved more resilient than prevention and community-based services. This contrast is especially consequential as scientific progress produces powerful new interventions, such as long-acting HIV prevention, whose impact depends on functioning systems capable of delivering them. The experience also demonstrates the value of long-term investments in locally led scientific capacity and durable international partnerships. The goal should not be simply to reconstruct the previous global health architecture. Protecting progress against old and emerging threats will require stronger national and regional institutions, diversified and sustainable financing, locally led science, continued investment in global public goods, and reciprocal international partnerships. Scientific capacity and trust take decades to build and should be preserved before the next breakthrough or the next epidemic requires them.",
+      "url": "https://doi.org/10.1186/s12954-026-01569-w",
       "source": "MED",
-      "doi": "10.7189/jogh.16.01006",
+      "doi": "10.1186/s12954-026-01569-w",
       "is_preprint": false,
       "topics": [
-        "AI Embeddings"
+        "Long-acting PrEP"
       ]
     },
     {
@@ -2220,22 +2236,6 @@
       "url": "https://doi.org/10.3389/fpubh.2026.1907622",
       "source": "MED",
       "doi": "10.3389/fpubh.2026.1907622",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42921453",
-      "topic": "Long-acting PrEP",
-      "title": "HIV pre-exposure prophylaxis in US prison settings: a model-based cost-effectiveness study.",
-      "authors": "Park Y, Goldhaber-Fiebert JD, Cipriano LE.",
-      "journal": "",
-      "date": "2026-10-15",
-      "abstract": "<h4>Background</h4>HIV prevalence in prisons is three times higher than in the general community, and ongoing transmission risks highlight the importance of prevention, including pre-exposure prophylaxis (PrEP). We evaluated the effectiveness and cost-effectiveness of prison-based PrEP programs in four US states.<h4>Methods</h4>We developed a dynamic compartmental model simulating HIV transmission in both general and incarcerated populations, instantiated for four representative US states (standardized population of five million people). We assessed five strategies involving PrEP for specific risk groups in prison compared to the status quo of no PrEP. We assumed 25% uptake among eligible individuals for 20 years. We estimated total lifetime costs (in 2024 USD) and quality-adjusted life-years (QALYs), discounted at 3% annually, incremental cost-effectiveness ratios (ICERs), and HIV infections averted from a healthcare sector perspective.<h4>Findings</h4>In Washington, New York, and Georgia, providing PrEP to 25% of people who inject drugs (PWID) in prison prevented 12%-14% of new infections in incarcerated people, and 0.01%-0.02% of new infections in the community, and was cost-saving compared to no PrEP. Expanding eligibility to all high-risk persons (PWID and men who have sex with men (MSM)) prevented more infections and cost less than $60,000 per QALY gained compared to more restrictive policies. In California, where the epidemic is concentrated among MSM rather than PWID, providing PrEP to only MSM costs $32,000 per QALY gained.<h4>Interpretation</h4>Prison-based PrEP programs can be cost-saving or cost-effective, averting infections within and outside the prison system. These findings support expanding access to PrEP in prisons, with implementation and funding decisions guided by local HIV epidemiology.<h4>Funding</h4>Canada Research Chairs Program, Natural Sciences and Engineering Research Council of Canada, National Institute on Drug Abuse.",
-      "url": "https://doi.org/10.1016/j.lana.2026.101652",
-      "source": "MED",
-      "doi": "10.1016/j.lana.2026.101652",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
