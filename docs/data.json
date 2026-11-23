@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T07:14:24.223412+00:00",
+  "updated": "2026-11-23T18:50:20.165266+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -754,16 +754,112 @@
       ]
     },
     {
-      "id": "MED:41973735",
+      "id": "PMC:PMC13789479",
       "topic": "AI Embeddings",
-      "title": "Nonmedical Factors That Influence Diabetes Complications and Multilevel Strategies to Reduce Disparities and Improve Outcomes in the U.S.",
-      "authors": "San Diego ERN, Aceves B, Gallo LC, McCurley JL, Philis-Tsimikas A.",
+      "title": "Renal cell carcinoma organoids: establishment, applications, and clinical translation—current evidence, technical challenges, and future directions",
+      "authors": "Feng H, Wang S, Zhao J.",
       "journal": "",
-      "date": "2026-12-01",
-      "abstract": "The development of diabetes complications is complex and multifactorial. Although advances in pharmacologic interventions and technology have improved diabetes management, nonmedical factors continue to drive persistent disparities in complications across the U.S. Using a socioecological framework, we examine how nonmedical factors operating at individual, organizational, community, and policy levels contribute to rising complications rates. We synthesize multilevel evidence-based interventions, real-world examples, and emerging opportunities that address these drivers. Approaches include culturally and linguistically tailored, digitally delivered diabetes education; systematic screening and documentation of social drivers within health care systems; use of health information systems technology; training for health care providers; multisector community partnerships that leverage social care resources; and policy incentives that integrate medical and social care. Coordinated interventions across socioecological levels are essential to move beyond traditional clinical approaches toward equitable, sustainable diabetes care that reduces complications.",
-      "url": "https://doi.org/10.2337/dci25-0091",
-      "source": "MED",
-      "doi": "10.2337/dci25-0091",
+      "date": "2026-11-23",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13789479",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13785811",
+      "topic": "AI Embeddings",
+      "title": "Mechanobiology of osteoarthritis: from mechanical-dose sensing to organelle homeostasis and the emerging concept of mechanical memory",
+      "authors": "Dong S, Wang Z, Zhuang Y, Hu X, Liu S, Jia X, Wang T, Xi Y, Zhang Y.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13785811",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13785285",
+      "topic": "AI Embeddings",
+      "title": "High-risk pancreatic cancer pathology reveals a B3GNT3-associated glycosylation program",
+      "authors": "Lin J, Chen C, Li J, Pan Y.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13785285",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13785236",
+      "topic": "AI Embeddings",
+      "title": "From rule application to understanding the parties: scenario-based learning and self-reported general empathy among law students",
+      "authors": "Gu X, Yang W.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13785236",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13785298",
+      "topic": "AI Embeddings",
+      "title": "From eminence to evidence to intelligence-based medicine: optimising artificial intelligence to disrupt dogma in emergency departments",
+      "authors": "Tran V.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13785298",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13785295",
+      "topic": "AI Embeddings",
+      "title": "Clinicopathological and molecular characteristics of adult cerebellar malignant gliomas: a 25-year single-center experience",
+      "authors": "Fukami S, Nagai K, Onodera S, Akimoto J, Umezu T, Kuroda M, Kohno M.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13785295",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13785679",
+      "topic": "AI Embeddings",
+      "title": "A STING-Dual-Activating Nanoadjuvant Synergizes with Brachytherapy to Potentiate Antitumor Immunity in Triple-Negative Breast Cancer",
+      "authors": "Zhao S, Li W, Bao J, Zhang Z, Chen Y, Wu X, Zhang X, Du F, Zhang W, Chen B.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13785679",
+      "source": "PMC",
+      "doi": "",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -834,6 +930,22 @@
       ]
     },
     {
+      "id": "MED:43066841",
+      "topic": "AI Embeddings",
+      "title": "From isolated component failure to coupled degradation networks in proton exchange membrane fuel cells.",
+      "authors": "Habib MA, Park J, Kim H, Jung J, Kim S, Cha DC, Yeo YS, Jeong J, Kim TH, Choi MC, Leem G, Lee JH, Yang WS, Lee S.",
+      "journal": "",
+      "date": "2026-11-21",
+      "abstract": "Proton exchange membrane fuel cells (PEMFCs) are among the most promising energy conversion technologies for achieving sustainable and carbon-neutral energy systems. Despite remarkable advances in catalyst and membrane materials, the limited durability of membrane electrode assemblies (MEAs) remains a major barrier to large-scale commercialization. Unlike previous studies that treated individual component degradation as isolated failures without adequate mitigation strategies, growing evidence shows these processes are highly interconnected. Chemical, electrochemical, mechanical, thermal, and mass-transport phenomena interact across multiple length scales, triggering cascading failure pathways that ultimately govern system-level durability. In this review, we move beyond conventional component-by-component descriptions and present an integrated perspective on coupled degradation networks in PEMFCs. We systematically analyze degradation mechanisms, highlighting how catalyst dissolution, chemical decomposition, carbon corrosion, ionomer degradation, interfacial delamination, water/heat management, contaminants, and flow-field nonuniformity mutually accelerate one another. Furthermore, we critically review recent advances in operando characterization, mechanistic evaluation, artificial intelligence (AI)-assisted diagnostics, and degradation modeling to highlight emerging strategies for identifying coupled pathways and predicting long-term durability. This review provides a comprehensive framework for designing durable, next-generation PEMFCs by treating degradation as an interconnected network of failures rather than isolated component issues, while proposing key design principles across materials, diagnostics, and systems.",
+      "url": "https://doi.org/10.1186/s40580-026-00589-3",
+      "source": "MED",
+      "doi": "10.1186/s40580-026-00589-3",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PMC:PMC13788726",
       "topic": "AI Embeddings",
       "title": "Prevalence and Associated Factors of Subjective Memory Problems Among Older Adults in Australian Retirement Villages",
@@ -860,6 +972,22 @@
       "url": "https://doi.org/10.1186/s12887-026-07978-x",
       "source": "MED",
       "doi": "10.1186/s12887-026-07978-x",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43066931",
+      "topic": "AI Embeddings",
+      "title": "Development and Application of Deep Learning Models for Case Finding From Pathology Reports in a Hospital-Based Cancer Registry: Algorithm Development and Validation.",
+      "authors": "Toh C, Kongkamol C, Geater SL, Ingviya T.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "Few studies have investigated automated case finding in hospital-based cancer registries despite their crucial role in supporting population-based surveillance. In these settings, data completeness is often compromised by referral patterns, yet the influence of weakly supervised learning strategies on model performance remains underexplored. This study aimed to evaluate the effects of different supervision approaches (inaccurate, inexact, and report-level labeling) on deep learning model performance for cancer case finding in a hospital-based registry setting and assess model generalizability across patient-level and report-level classification tasks. Hospital-based cancer registry and pathology report data from Songklanagarind Hospital (2005-2023) were used for model development and evaluation. Three labeling approaches were implemented: inaccurate (all reports from patients with cancer labeled positive), inexact (concatenated reports from patients with cancer labeled positive), and report-level (only registrar-annotated tumor-related reports labeled positive). Model performance was evaluated on max-pooled, concatenated, and individual report classification tasks using a simple word embedding model, multilayer perceptron, recurrent neural network, convolutional neural network (CNN), and hierarchical self-attention network architectures. Models trained using weakly supervised labeling achieved the highest performance across patient-level evaluation tasks, and CNN models consistently showed superior performance. While report-level labeling yielded superior accuracy for individual reports, it suffered substantial degradation in patient-level evaluations. This suggests that models trained on curated data overfitted to primary tumor patterns, failing to recognize secondary evidence (eg, metastatic or surveillance findings). Conversely, weakly supervised approaches enabled the detection of patients with cancer via diverse report types. Error analysis revealed that false negatives were primarily driven by insufficient institutional data-specifically, referred patients lacking primary diagnostic reports-rather than algorithmic failure. In this single tertiary referral hospital setting, weakly supervised labeling outperformed report-level human annotation for patient-level case finding, whereas report-level labeling performed best for individual report classification. The CNN architecture achieved the highest or near-highest area under the receiver operating characteristic curve in most configurations.",
+      "url": "https://doi.org/10.2196/92814",
+      "source": "MED",
+      "doi": "10.2196/92814",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -989,134 +1117,6 @@
       "source": "MED",
       "doi": "10.1371/journal.pone.0362816",
       "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43063253",
-      "topic": "AI Embeddings",
-      "title": "Complex IV maturation coordinates postnatal mitochondrial and metabolic development.",
-      "authors": "Popovic M, Cabrera-Orefice A, Isermann L, Croon M, Zecic A, Meisterknecht J, Alameldin Y, Hanehalli V, Siibak T, Frezza C, Wittig I, Trifunovic A.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "The perinatal heart undergoes a rapid metabolic transition from glycolysis to fatty acid oxidation that requires extensive mitochondrial remodeling, yet the molecular checkpoints that coordinate this process remain poorly defined. Using temporally resolved proteomics and complexome profiling of developing mouse hearts from late gestation through early postnatal life (E18.5 to P10), we identify a discrete developmental window in which respiratory chain architecture is remodeled to enable metabolic commitment. Complex IV (CIV) emerges as a central structural determinant of this transition, undergoing isoform-specific reassembly and transient suppression at birth before incorporation into mature respiratory supercomplexes. We identify the CIV subunit COX7C as a developmentally regulated determinant of CIV maturation, with its abundance increasing during maximal respirasome assembly and the switch to fatty acid oxidation. Loss of COX7C impairs terminal CIV maturation, prevents incorporation of heart-specific isoforms, and destabilizes the respirasome organization. Notably, this defect causes a selective secondary failure of complex I completion, demonstrating that respirasome formation is required for catalytic CI maturation in vivo. Consequently, cardiac-specific COX7C deficiency fails to complete the perinatal metabolic transition, leading to the collapse of fatty acid oxidation, activation of nucleotide and serine-glycine-one-carbon metabolism, attenuated activation of the mitochondrial integrated stress response, and a metabolically and structurally compromised state unlikely to support the increasing energetic demands of the postnatal heart. Together, these findings define a developmentally timed, CIV-dependent assembly step that couples respiratory chain assembly to postnatal cardiac metabolic fate and provide a temporal framework for mitochondrial maturation in the developing heart.",
-      "url": "https://doi.org/10.1126/sciadv.aeg6837",
-      "source": "MED",
-      "doi": "10.1126/sciadv.aeg6837",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43063205",
-      "topic": "AI Embeddings",
-      "title": "CogD-ML: Cognitive determinants of social commerce purchase intention in Bangladesh using machine learning and explainable AI.",
-      "authors": "Barua S, Rahman R, Azad AKA, Momen S.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "Cognitive factors are associated with online purchase intentions in developing economies, and the linear models conventionally used to study them can miss non-linear patterns. We report an applied integration of the Theory of Planned Behavior (TPB) with machine learning and explainable AI (XAI) to predict social media-driven e-commerce purchase intentions in Bangladesh. Survey data from 352 young, student-dominated consumers captured attitudes, subjective norms, perceived behavioral control, and purchase behavior on validated Likert scale items. After reliability-based labeling and feature selection, we ran an ablation across seven classical classifiers and one multilayer perceptron, with stratified five-fold cross-validation, threshold sensitivity analysis, and a cross-domain check. With all TPB constructs included, support vector machines and AdaBoost reached 92% accuracy on the held-out test set, and cross-validated mean accuracy ranged from 0.84 to 0.88 for every model except the decision tree. These figures should be read against a positive-class prevalence of 82.1%, which inflates accuracy and F1 relative to imbalance-robust measures. Transfer to an independent North Indian sample was weak, with SVM MCC falling from 0.522 to 0.315 and AUROC from 0.923 to 0.775. In SHAP analyses, the four items the model relied on most were PBC1 (motivation from frequent advertising), SN3 (approval when many others buy through social media), ATTD4 (past purchase), and SN1 (family influence). Bivariate correlations and pathway-level regression with Benjamini-Hochberg correction are interpreted as associations, not causal effects, and Brier score and log loss are reported alongside SHAP and LIME to show whether predicted probabilities are calibrated. These findings are exploratory and specific to the sampled population; given the convenience sample, the class imbalance, and the weak transfer, they are not evidence of robust generalization or of readiness for deployment.",
-      "url": "https://doi.org/10.1371/journal.pone.0362973",
-      "source": "MED",
-      "doi": "10.1371/journal.pone.0362973",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43063178",
-      "topic": "AI Embeddings",
-      "title": "Co-developing a women-centered HIV prevention intervention to reduce stigma, increase HIV self-testing, and improve pre-exposure prophylaxis (PrEP) uptake in Ghana (WISE WOMAN): A study protocol.",
-      "authors": "Aidoo-Frimpong G, Obeng YA, Abubakar AT, Mensah WK, Anyidoho DS.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<h4>Background</h4>Young women in Ghana (18-35 years) remain disproportionately affected by HIV due to intersecting structural and social challenges, including stigma, gendered power dynamics, and limited access to women-centered prevention services. Although HIV self-testing (HIVST) and pre-exposure prophylaxis (PrEP) are effective biomedical prevention strategies, uptake among young Ghanaian women remains low. Barriers include limited awareness, persistent stigma, and a lack of culturally relevant, youth-responsive prevention approaches. The WISE WOMAN study aims to address these gaps by developing and piloting a women-centered HIV prevention intervention co-created with young women in Ghana.<h4>Methods</h4>This protocol describes a pilot implementation study of a women-centered HIV prevention intervention that will be delivered via WhatsApp. The intervention is informed by community-based participatory research and human-centered design approaches to enhance cultural relevance and responsiveness to young women's lived experiences. The study will enroll 50 young women aged 18-35 years who will participate in a four-week WhatsApp-based intervention designed to increase HIV prevention knowledge, reduce stigma, and support engagement with HIVST and PrEP. Implementation outcomes, including feasibility, acceptability, and appropriateness, will be assessed using mixed methods. Quantitative data will be collected through baseline and post-intervention surveys, including the PIERS-22 engagement scale, and will be analyzed using descriptive statistics and paired comparisons. Qualitative data from group interactions and post-intervention interviews will be analyzed using thematic analysis. The study has received ethical approval from the University at Buffalo Institutional Review Board (STUDY00009328) and the Ensign Global College Ethics Committee (IRB/EL/AF-02/2025) and is registered at ClinicalTrials.gov (NCT07003789).<h4>Discussion</h4>This protocol outlines the design and methods for a digitally delivered, women-centered HIV prevention intervention grounded in participatory approaches. The planned pilot study will generate critical implementation evidence on the feasibility, acceptability, and appropriateness of a WhatsApp-based, co-designed intervention, informing future adaptation, scale-up, and integration of culturally grounded HIV prevention strategies for young women in Ghana and similar settings.",
-      "url": "https://doi.org/10.1371/journal.pone.0347271",
-      "source": "MED",
-      "doi": "10.1371/journal.pone.0347271",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43063138",
-      "topic": "AI Embeddings",
-      "title": "Online unsupervised industrial anomaly detection with adaptive resonance patch prototype memory and multi-level views.",
-      "authors": "Zhu Y, Li P, Zhang Q, Jin G.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "Unsupervised industrial anomaly detection is widely used because defective samples are scarce while normal data are abundant. Many recent methods follow a feature-embedding pipeline that models patch-level deep features, but they often (i) introduce cross-layer interference when multi-level features are fused and (ii) risk losing fine-grained information when reference features are aggressively reduced. This paper proposes ART-IAD, an online patch-based framework that treats multi-level CNN features as independent views and models each view with an incremental Fuzzy Adaptive Resonance Theory (Fuzzy ART) prototype memory. For each ART prototype, sufficient statistics, including the mean and covariance, are maintained, and Mahalanobis-based anomaly scores are computed, enabling anomaly detection and localization without storing all patch embeddings. On MVTec AD, ART-IAD achieves an average image-level AUROC of 99.4% and pixel-level AUROC of 98.2%, slightly outperforming the strong baseline PatchCore by +0.3% in image-level AUROC and +0.1% in pixel-level AUROC. These results indicate that ART-based online prototype modeling and multi-view separation can provide accurate detection and localization with a compact reference memory.",
-      "url": "https://doi.org/10.1371/journal.pone.0362092",
-      "source": "MED",
-      "doi": "10.1371/journal.pone.0362092",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43062552",
-      "topic": "AI Embeddings",
-      "title": "Physical Activity Following Diagnosis of Diabetes in Australian Women Born 1946-1951: Data from a Large Population-Based Cohort Study.",
-      "authors": "Cox ER, Duncan MJ, Brown WJ, Mielke GI.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<h4>Background</h4>Physical activity (PA) changes across mid-life, particularly among women, yet it remains unclear whether the onset of diabetes influences this. With increasing diabetes incidence during mid-life, and because PA recommended as first-line therapy, understanding PA changes following diabetes diagnosis in women is critical.<h4>Objective</h4>These analyses investigated: (1) changes in PA following diabetes diagnosis, and (2) whether respondent characteristics associated with changes in PA vary by diabetes status.<h4>Methods</h4>Data were from the 1946-51 cohort of the Australian Longitudinal Study on Women's Health (n = 9,973). Self-reported PA data were collected using mail surveys at three-year intervals from 1998 (age 47-52) to 2022 (age 71-76). PA change scores were calculated for each of the eight survey intervals and categorised as: reduced (≤ - 250MET · minutes/week); no change (- 249 to 249); or increased (≥ 250). Diabetes diagnostic status (derived from self-report/linked health records) was defined as no diabetes, diagnosed (since previous survey) or previously diagnosed (in any prior survey). Mixed-effects regression analyses were used to investigate the 1) average change in PA in the three groups, and 2) associations between respondent characteristics and changes in PA.<h4>Results</h4>Over 24 years, 14.8% of women (n = 1,480) were diagnosed with diabetes. The mean change in PA across survey intervals was - 5.1 [95% CI - 18.2, 7.9] MET · min/week. In the fully adjusted model (for age, sociodemographic, health and behavioural characteristics), compared with women without diabetes, women diagnosed with diabetes since the previous survey exhibited a - 45.8 MET · min/week lower change in PA (95% CI - 150.2, 58.7; p = 0.390), while women previously diagnosed with diabetes exhibited a - 18.3 MET · min/week lower change (95% CI - 68.7, 32.2; p = 0.478). Characteristics associated with reduced/no change in PA included being separated/divorced/widowed/single, lower education, a current smoker, a risky drinker, obese, and living in a remote area.<h4>Conclusions</h4>PA is not routinely sustained following diabetes diagnosis in mid-age Australian women, highlighting a gap between clinical recommendations and real-world behaviour. Ongoing, tailored support in routine diabetes care is required to support long-term PA engagement.",
-      "url": "https://doi.org/10.1186/s40798-026-01152-4",
-      "source": "MED",
-      "doi": "10.1186/s40798-026-01152-4",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1373676",
-      "topic": "AI Embeddings",
-      "title": "NeuroSim: a clinically informed multi-disorder EEG simulator with personalized pattern injection and AI-driven neurological modeling",
-      "authors": "Bunterngchit C, Aslam S, Sattar A, Rasool A, Wang Y.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "Deep learning for electroencephalography (EEG) based neurodiagnostics is constrained  by the limited availability of labeled clinical recordings. Datasets covering Alzheimer’s  disease (AD), Parkinson’s disease (PD), schizophrenia (SCZ), epilepsy (EPI), and  frontotemporal dementia (FTD) are scarce, demographically narrow, and heterogeneous  across acquisition sites, while privacy requirements restrict data sharing. Existing EEG  simulators typically address a single disorder or trade biological interpretability for  statistical fidelity. This study presents NeuroSim, a simulation framework that  generates synthetic multichannel EEG with user-controlled injection of disease-specific  patterns across five disorders and multiple severity levels. A physiologically motivated  baseline generator produces band-limited rhythms, event-related potentials, artifacts,  and hierarchical subject-level and trial-level variability. Disease patterns are introduced  through region-specific and severity-specific spectral modulation that encodes  established biomarkers, including posterior alpha suppression in AD, motor beta  enhancement in PD, and spike-wave discharges in EPI. An interactive interface exposes  montage, sampling rate, duration, artifacts, stimuli, affected regions, and severity, and  exports signals with reproducible metadata. The simulated signals reproduced the  expected biomarker directionality under spectral, topographic, and multivariate  statistical analysis. A convolutional-attention classifier trained on simulated data  reached 95.3 to 96.8 percent hold-out accuracy, and post hoc explainability analyses  produced class-separable embeddings with attributions concentrated on  pathophysiologically expected electrodes. Application of the analysis pipeline to  recordings from the Temple University Hospital EEG Corpus confirmed compatibility  with heterogeneous clinical data. In subject-level augmentation experiments on real  clinical EEG, supplementing real training data with NeuroSim samples increased  classification accuracy from 91.6 to 94.5 percent for AD versus healthy controls and  from 90.9 to 94.0 percent for PD versus healthy controls, exceeding the improvement  obtained with conventional signal-level augmentation. NeuroSim is released as open-source software to support augmentation, benchmarking, and explainable artificial  intelligence in neurological diagnostics.",
-      "url": "https://doi.org/10.64898/2026.11.19.767788",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.19.767788",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1373602",
-      "topic": "AI Embeddings",
-      "title": "BrainRoute integrates machine learning prediction with community-driven verification of blood-brain barrier permeability",
-      "authors": "Shirolkar SA, Bueh LT, Cerere LW, Ahmed NE, Some G, Awe OI.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "The blood-brain barrier (BBB) is a highly selective barrier that restricts the entry of many therapeutic agents into the brain. The lack of efficient methods for BBB permeability research and data management remains a significant challenge for central nervous system drug-development pipelines. Although BBB permeability data are available from multiple open sources, few platforms integrate these datasets with molecular exploration, predictive tools, and a structured process for community-supported data verification. Here, we present BrainRoute, an open platform for BBB molecular data collection, exploration, prediction, and community-supported verification. BrainRoute provides searchable and filterable molecular records, physicochemical and structural information, source-linked data, single-molecule and batch prediction, and a structured workflow through which users can submit additional evidence for review. The prediction tool model-development cohort contained 7,888 unique molecules, including 5,424 BBB+ and 2,464 BBB- molecules. Six machine-learning classifiers were evaluated using PaDEL descriptors, Morgan fingerprints, frozen ChemBERTa embeddings, and combined feature representations. The three selected models were integrated into the platform as a probability-averaged ensemble. The primary five-fold scaffold-grouped analysis achieved a best mean balanced accuracy of 0.783 ± 0.026. On an independent external set containing 410 non-overlapping molecules, the deployed ensemble achieved a balanced accuracy of 0.659 (95% CI 0.600 - 0.712) and an AUPRC of 0.670 (95% CI 0.583 - 0.752). BrainRoute serves as a platform for exploring BBB-related molecular data and computational predictions while supporting the continued growth and verification of the underlying dataset. BrainRoute is freely accessible online (https://github.com/omicscodeathon/brainroutedb).",
-      "url": "https://doi.org/10.64898/2026.11.19.767839",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.19.767839",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1373484",
-      "topic": "AI Embeddings",
-      "title": "The ITE-Transformer: A pre-trained foundation model for predicting individualized treatment effects from electronic health records",
-      "authors": "Arceri C, Angelis E, Heesen P, Melnychuk V, Bendszus M, Bauer S, Feuerriegel S.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "Transformer-based foundation models have shown strong potential for modeling longitudinal electronic health records (EHRs), yet existing models focus primarily on risk prediction rather than treatment effect estimation, which limits evidence generation. Here, we introduce the ITE-Transformer, a transformer-based framework that combines self-supervised representation learning from longitudinal patient trajectories with doubly robust causal machine learning for predicting individualized treatment effects (ITEs). As a result, our ITE-Transformer allows to study counterfactual questions of how an individual patient's outcome may differ under alternative treatment strategies. The ITE-Transformer learns temporally contextualized representations of patients' diagnosis and medication histories and subsequently uses these representations to predict treatment assignment, treatment-specific outcome risks, and patient-specific ITEs. The ITE-Transformer is trained using structured EHR data from ~350,000 participants in the All of Us Research Program and evaluated in two clinically different comparative-effectiveness tasks: (i) GLP-1 receptor agonists versus DPP-4 inhibitors among patients with type 2 diabetes, with major adverse cardiovascular events as the outcome, and (ii) immunotherapy versus chemotherapy in a pan-cancer cohort, with all-cause mortality as the outcome. Across both applications, the ITE-Transformer improves the discrimination and calibration of treatment assignment and outcome models compared with existing tabular machine learning approaches and an otherwise identical transformer trained without self-supervised pre-training. The ITE-Transformer further identifies substantial heterogeneity in predicted ITEs and yields interpretable patterns of treatment response associated with patients' diagnoses, medication histories, and comorbidities. Together, our work demonstrates how clinical foundation models can be developed for analyzing heterogeneity in treatment effects and thus support real-world evidence generation.",
-      "url": "https://doi.org/10.64898/2026.11.19.26368479",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.19.26368479",
-      "is_preprint": true,
       "topics": [
         "AI Embeddings"
       ]
@@ -2130,22 +2130,6 @@
       ]
     },
     {
-      "id": "PMC:PMC13742713",
-      "topic": "Long-acting PrEP",
-      "title": "Combining Randomized and Observational Data: The Case of Postnatal Prophylaxis Against HIV",
-      "authors": "",
-      "journal": "",
-      "date": "2026-10-16",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13742713",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
       "id": "MED:42992198",
       "topic": "Long-acting PrEP",
       "title": "Veterinary drug residues in animal-derived foods: From analytical detection to intelligent and sustainable surveillance.",
@@ -2236,6 +2220,22 @@
       "url": "https://doi.org/10.3389/fpubh.2026.1907622",
       "source": "MED",
       "doi": "10.3389/fpubh.2026.1907622",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:42921453",
+      "topic": "Long-acting PrEP",
+      "title": "HIV pre-exposure prophylaxis in US prison settings: a model-based cost-effectiveness study.",
+      "authors": "Park Y, Goldhaber-Fiebert JD, Cipriano LE.",
+      "journal": "",
+      "date": "2026-10-15",
+      "abstract": "<h4>Background</h4>HIV prevalence in prisons is three times higher than in the general community, and ongoing transmission risks highlight the importance of prevention, including pre-exposure prophylaxis (PrEP). We evaluated the effectiveness and cost-effectiveness of prison-based PrEP programs in four US states.<h4>Methods</h4>We developed a dynamic compartmental model simulating HIV transmission in both general and incarcerated populations, instantiated for four representative US states (standardized population of five million people). We assessed five strategies involving PrEP for specific risk groups in prison compared to the status quo of no PrEP. We assumed 25% uptake among eligible individuals for 20 years. We estimated total lifetime costs (in 2024 USD) and quality-adjusted life-years (QALYs), discounted at 3% annually, incremental cost-effectiveness ratios (ICERs), and HIV infections averted from a healthcare sector perspective.<h4>Findings</h4>In Washington, New York, and Georgia, providing PrEP to 25% of people who inject drugs (PWID) in prison prevented 12%-14% of new infections in incarcerated people, and 0.01%-0.02% of new infections in the community, and was cost-saving compared to no PrEP. Expanding eligibility to all high-risk persons (PWID and men who have sex with men (MSM)) prevented more infections and cost less than $60,000 per QALY gained compared to more restrictive policies. In California, where the epidemic is concentrated among MSM rather than PWID, providing PrEP to only MSM costs $32,000 per QALY gained.<h4>Interpretation</h4>Prison-based PrEP programs can be cost-saving or cost-effective, averting infections within and outside the prison system. These findings support expanding access to PrEP in prisons, with implementation and funding decisions guided by local HIV epidemiology.<h4>Funding</h4>Canada Research Chairs Program, Natural Sciences and Engineering Research Council of Canada, National Institute on Drug Abuse.",
+      "url": "https://doi.org/10.1016/j.lana.2026.101652",
+      "source": "MED",
+      "doi": "10.1016/j.lana.2026.101652",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
