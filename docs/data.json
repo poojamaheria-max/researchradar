@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T00:49:42.992049+00:00",
+  "updated": "2026-11-24T06:58:03.326993+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -882,6 +882,70 @@
       ]
     },
     {
+      "id": "PPR:PPR1375433",
+      "topic": "AI Embeddings",
+      "title": "Genomic foundation models and complementary variant-scoring strategies in LGMD-associated genes: architecture, adaptation, and sequence context",
+      "authors": "Galgale S, Vats I, Wilson J, Haldar A.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Genomic foundation models learn representations from DNA sequence, although their usefulness for variant classification depends on the architecture and downstream evaluation procedure. We compared six genomic foundation models using 6,960 ClinVar single-nucleotide variants from ten limb-girdle muscular dystrophy (LGMD)-associated genes, with 4,866 variants assigned to training and 2,094 to held-out testing. The analyses included frozen alternate-minus-reference embeddings at 101, 201 and 501 bp, supervised adaptation at 101 bp, and gene-held-out downstream classifier training. GPN-Star V100 and AlphaGenome Atlas AVI were evaluated separately using their native scores. At 101 bp, frozen Evo2 achieved the highest discrimination among the six foundation models (MCC 0.644; AUROC 0.879; AUPRC 0.818). Supervised adaptation increased MCC for three architectures and reduced it for the remaining three. Extending sequence context to 501 bp improved all three primary metrics in five of six frozen architectures, with Evo2 reaching an MCC of 0.864, AUROC of 0.964 and AUPRC of 0.952. Evo2 also led the frozen gene-held-out readouts (pooled MCC 0.641; AUROC 0.852; AUPRC 0.789). GPN-Star V100 and AVI achieved MCC values of 0.929 and 0.938, respectively, using distinct biological inputs and scoring procedures. The number of variants misclassified across all evaluated configurations decreased from five under the original 101-bp readouts to one after including longer contexts and native scores. An exploratory HGVS-category control identified substantial annotation-associated structure in the benchmark labels. The findings characterize classification performance against aggregate ClinVar labels within LGMD-associated genes. Disease-specific pathogenicity and clinical diagnostic utility remain untested.",
+      "url": "https://doi.org/10.64898/2026.11.21.768324",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.21.768324",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1375342",
+      "topic": "AI Embeddings",
+      "title": "AI Identification of Transdiagnostic Factors in Adolescent Mental Health",
+      "authors": "Luo L, Cummins N, Michelini G, Wise T, Iniesta R.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "<h4>Background: </h4> Adolescent psychopathology is commonly assessed using high-dimensional questionnaire data. These data often consist of ordinal, sparse, and overlapping symptom items, creating challenges for deriving latent phenotypes that are both interpretable and generalisable. This study addressed the need to derive low-dimensional transdiagnostic phenotypes from adolescent mental health data by evaluating denoising autoencoders as a flexible non-linear representation-learning approach. <h4>Methods:</h4> Using baseline data from the Adolescent Brain Cognitive Development Study, we analysed mental health questionnaire data from a large community sample of adolescents (N = 9,799). A denoising autoencoder was trained to learn low-dimensional latent representations and was benchmarked against principal component analysis, exploratory factor analysis, and radial basis function kernel principal component analysis using held-out reconstruction explained variance. Interpretability was assessed using item-level canonical correlation analyses and alignment with a framework of well-established psychopathology dimensions. External validity was examined using gradient-boosted tree models predicting clinical and functional validators. <h4>Results:</h4> Across three to five factors solutions, the autoencoder consistently achieved the highest reconstruction explained variance compared with all benchmark methods. The five-factor autoencoder solution showed interpretable correspondence with established dimensional structures of psychopathology, rather than mapping onto a single general factor. Autoencoder-derived factors showed equal or modestly superior predictive validity compared with EFA across most validator domains. <h4>Conclusions:</h4> These findings suggest that denoising autoencoders may offer a useful complementary approach for deriving low-dimensional, interpretable, and externally valid transdiagnostic phenotypes from adolescent symptom data, with potential utility for summarising complex symptom profiles and supporting dimensional assessment in clinical and research settings.",
+      "url": "https://doi.org/10.64898/2026.11.20.26368571",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.20.26368571",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1375252",
+      "topic": "AI Embeddings",
+      "title": "Examining HiTOP Through Naturalistic Symptom Descriptions in Anonymous Online Mental Health Forums: A Mixed-Methods Study Protocol",
+      "authors": "Ferizaj D.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "<p>AbstractBackground: The Hierarchical Taxonomy of Psychopathology (HiTOP) organises covarying symptoms and maladaptive traits into transdiagnostic dimensions to address limitations of categorical diagnosis. Naturalistic symptom descriptions may complement structured assessments. <h4>Objective:</h4> This protocol describes a reproducible mixed-methods workflow to derive symptom indicators from forum posts and examine their organisation relative to HiTOP. Methods and analysis: The target sample is 80,000 public Reddit posts. After local de-identification, a large language model (LLM) will extract symptom labels and supporting paraphrases. Two human experts will independently review outputs for up to 250 posts. Three embedding models will flag potentially equivalent symptom labels for local LLM assessment. Two experts will qualitatively review the most frequent canonical symptom labels (at least 1,000) and develop a codebook of symptom categories, continuing until a prespecified saturation criterion is met. An LLM will assign canonical symptom labels to these categories, producing binary post-level indicators. Multiverse-inspired structural analyses will compare network, component, factor, and clustering representations across discovery, internal tuning, and holdout partitions. Evaluation will assess interpretability, stability, and agreement with expert mapping to HiTOP. Supplementary analyses will include agent-assisted exploration, codebook application to DepressionEmo and the Reddit Mental Health Dataset, and pooled integrative analysis that may include additional comparable corpora. <h4>Discussion:</h4> The study will examine whether symptom co-expression within posts forms interpretable patterns corresponding to HiTOP.Ethics: The Ethics Committee of Charité – Universitätsmedizin Berlin approved the study (EA2/274/25). The study was preregistered on 8 May 2026 (German Clinical Trials Register, DRKS00040244). <h4>Keywords:</h4> Hierarchical Taxonomy of Psychopathology, natural language processing, large language models, Reddit, mixed methods, study protocol</p>",
+      "url": "https://doi.org/10.31234/osf.io/ahrts_v2",
+      "source": "PPR",
+      "doi": "10.31234/osf.io/ahrts_v2",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1373409",
+      "topic": "AI Embeddings",
+      "title": "Examining HiTOP Through Naturalistic Symptom Descriptions in Anonymous Online Mental Health Forums: A Mixed-Methods Study Protocol",
+      "authors": "Ferizaj D.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "<p>AbstractBackground: The Hierarchical Taxonomy of Psychopathology (HiTOP) organises covarying symptoms and maladaptive traits into transdiagnostic dimensions to address limitations of categorical diagnosis. Naturalistic symptom descriptions may complement structured assessments. <h4>Objective:</h4> This protocol describes a reproducible mixed-methods workflow to derive symptom indicators from forum posts and examine their organisation relative to HiTOP. Methods and analysis: The target sample is 80,000 public Reddit posts. After local de-identification, a large language model (LLM) will extract symptom labels and supporting paraphrases. Two human experts will independently review outputs for up to 250 posts. Three embedding models will flag potentially equivalent symptom labels for local LLM assessment. Two experts will qualitatively review the most frequent canonical symptom labels (at least 1,000) and develop a codebook of symptom categories, continuing until a prespecified saturation criterion is met. An LLM will assign canonical symptom labels to these categories, producing binary post-level indicators. Multiverse-inspired structural analyses will compare network, component, factor, and clustering representations across discovery, internal tuning, and holdout partitions. Evaluation will assess interpretability, stability, and agreement with expert mapping to HiTOP. Supplementary analyses will include agent-assisted exploration, codebook application to DepressionEmo and the Reddit Mental Health Dataset, and pooled integrative analysis that may include additional comparable corpora. <h4>Discussion:</h4> The study will examine whether symptom co-expression within posts forms interpretable patterns corresponding to HiTOP.Ethics: The Ethics Committee of Charité – Universitätsmedizin Berlin approved the study (EA2/274/25). The study was preregistered on 8 May 2026 (German Clinical Trials Register, DRKS00040244). <h4>Keywords:</h4> Hierarchical Taxonomy of Psychopathology, natural language processing, large language models, Reddit, mixed methods, study protocol</p>",
+      "url": "https://doi.org/10.31234/osf.io/ahrts",
+      "source": "PPR",
+      "doi": "10.31234/osf.io/ahrts",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PMC:PMC13786289",
       "topic": "AI Embeddings",
       "title": "Optically Controlled Hybrid Metasurface for Efficient Terahertz Frequency Modulation",
@@ -978,6 +1042,38 @@
       ]
     },
     {
+      "id": "PPR:PPR1374098",
+      "topic": "AI Embeddings",
+      "title": "Predicting Aircraft Flight Delay Propagation from Rotation-Based Features: A Chronological Benchmark of Machine Learning Models on U.S. BTS 2024 Data",
+      "authors": "Kumar A, Kaushik M.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "An aircraft's previous leg tells us a lot about its next one. We examine whether knowing how late a plane arrived on its previous leg helps predict if its next flight lands 15 or more minutes behind schedule, using 2024 On-Time Performance records from the U.S. Bureau of Transportation Statistics (BTS). With DuckDB and pandas we chain each aircraft's consecutive legs by tail number and build two rotation features: the previous leg's arrival delay (Previous_ArrDelay) and the ground turnaround time (Turnaround_Time). Of 3,000,000 loaded records covering January to mid-June 2024, 2,473,437 form valid rotations, and 16.87% of them are delayed. The split is chronological: the earliest 80% (1,978,749 rotations) is used for training and the latest 20% (494,688 rotations, 21.27% delayed) for testing. We compare Logistic Regression, a Decision Tree, a Random Forest, Multinomial Naive Bayes, PCA-based Logistic Regression and Linear SVM, and an embedding-based neural network. Among the models that actually detect delays, the class-balanced Random Forest scores highest on F1 (50.93%) and accuracy (76.74%), the neural network follows closely (F1 50.68%), and a depth-12 Decision Tree has the best practical recall among the stronger models (62.23%). Accuracy alone is misleading here, since on-time flights make up 78.7% of the test set: Naive Bayes reaches 78.72% accuracy while catching just 0.34% of delayed flights. We also report an unsupervised clustering of the rotation features and discuss the limits of a feature set that leaves out weather and air-traffic information.",
+      "url": "https://doi.org/10.20944/preprints202611.2135.v1",
+      "source": "PPR",
+      "doi": "10.20944/preprints202611.2135.v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1374035",
+      "topic": "AI Embeddings",
+      "title": "Cardiovascular Prevention in the EU: A Critical Review of EU Council Recommendation COM(2026) 481 on Smoking and Nicotine",
+      "authors": "Polosa R, Capodanno D, Geraci G, Volpe M, George J, Spicuzza L, Li Volti G.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "The European Commission’s proposal COM(2026) 481 aims to strengthen cardiovascular prevention across the European Union through earlier risk detection, expanded population screening, and greater harmonisation among Member States. While its life-course perspective and focus on equitable access are commendable, this critical review—authored on behalf of the Center of Excellence for the Acceleration of Harm Reduction (CoEHAR)—identifies key clinical and methodological limitations requiring refinement. First, evidence from WHO, ESC, and Cochrane syntheses indicates that broad population-level screening increases risk-factor detection without consistently reducing cardiovascular morbidity or mortality, risking resource diversion from high-risk patients. Second, grouping smoking, vaping, and smokeless nicotine use within a single behavioural assessment obscures substantial differences in toxicant exposure and cardiovascular risk profiles. We propose five evidence-based refinements: prioritising targeted, risk-stratified assessment over indiscriminate testing; evaluating programme success through risk-factor control and hard clinical outcomes rather than coverage targets; reserving second-line investigations for clinically indicated cases; embedding an actionable \"identify–advise–treat–follow-up\" smoking cessation pathway within cardiovascular health checks; and distinguishing continued exclusive smoking, dual use, complete substitution with non-combustible nicotine products, and nicotine initiation to guide proportionate clinical communication.",
+      "url": "https://doi.org/10.20944/preprints202611.2198.v1",
+      "source": "PPR",
+      "doi": "10.20944/preprints202611.2198.v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43066931",
       "topic": "AI Embeddings",
       "title": "Development and Application of Deep Learning Models for Case Finding From Pathology Reports in a Hospital-Based Cancer Registry: Algorithm Development and Validation.",
@@ -1026,103 +1122,6 @@
       ]
     },
     {
-      "id": "PMC:PMC13787478",
-      "topic": "AI Embeddings",
-      "title": "Psychedelics shift decision strategies and reconfigure orbitofrontal dynamics",
-      "authors": "Delgado-Sallent C, Ahmed S, Khawaja-Lopez A, Lee B, Mishra U, Senne R, Ramirez S, Scott B.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13787478",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43064873",
-      "topic": "AI Embeddings",
-      "title": "World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2026).",
-      "authors": "",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "",
-      "url": "https://doi.org/10.1007/s40520-026-03479-0",
-      "source": "MED",
-      "doi": "10.1007/s40520-026-03479-0",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings",
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:43064736",
-      "topic": "AI Embeddings",
-      "title": "System of agentic AI for the discovery of metal-organic frameworks.",
-      "authors": "Inizan TJ, Yang S, Kaplan A, Lin YH, Yin J, Mirzaei S, Abdelgaid M, Alawadhi AH, Cho K, Zheng Z, Cubuk ED, Borgs C, Chayes JT, Persson KA, Yaghi OM.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "Generative models and machine learning promise accelerated material discovery in metal-organic frameworks (MOFs) for CO<sub>2</sub> capture and water harvesting, but face substantial challenges in navigating vast chemical spaces while ensuring synthesizability. Here we present MOFGen, a system of agentic artificial intelligence (AI) comprising interconnected agents: a large language model that proposes MOF compositions, a diffusion model that generates crystal structures, quantum mechanical agents that optimize and filter candidates, and synthetic-feasibility agents guided by expert rules and machine learning. Trained on a broad set of experimentally reported MOFs and computational databases, MOFGen generated hundreds of thousands of MOF structures and synthesizable organic linkers. The uniqueness of our approach lies in its ability to generate large MOF structures with atomic precision, beyond the scale of conventional generative models limited to tens of atoms. This approach was validated through high-throughput experiments and the successful synthesis of four 'AI-dreamt' MOFs.",
-      "url": "https://doi.org/10.1038/s43588-026-01058-x",
-      "source": "MED",
-      "doi": "10.1038/s43588-026-01058-x",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43064728",
-      "topic": "AI Embeddings",
-      "title": "velotest: statistical assessment of RNA velocity embeddings reveals quality differences for reliable trajectory visualizations.",
-      "authors": "Bischoff S, Poličar PG, Mukherjee S, Macke JH, Claassen M, Schröder C.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "Contemporary single-cell RNA-sequencing studies typically use RNA velocity analyses to investigate cellular dynamics. Commonly, RNA velocities are assessed with two-dimensional projections. Although it is well established that nonlinear embeddings of gene expression data cannot comprehensively preserve the structure of the original high-dimensional data across scales, there is no tool that systematically assesses and quantifies the faithfulness of velocity embeddings. This situation potentially leads to misleading velocity visualizations and putative cell state transitions. To this end, we introduce velotest, a cell-level statistical test that quantifies the faithfulness of a velocity embedding with respect to its high-dimensional counterpart. Applying velotest across multiple datasets and embedding methods, we find strong differences in the embedding qualities between embedding methods, datasets, and regions in individual datasets. velotest thus provides an essential validation step and enables researchers to select a suitable visualization of high-dimensional velocities, ensuring that hypotheses drawn from velocity projections are grounded in accurately represented dynamics.",
-      "url": "https://doi.org/10.1038/s41467-026-78669-5",
-      "source": "MED",
-      "doi": "10.1038/s41467-026-78669-5",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43064535",
-      "topic": "AI Embeddings",
-      "title": "Video-Based Automated Seizure Classification Using Multimodal Large Language Models.",
-      "authors": "Zhang L, Jiang R, Monsoor T, Pasqua JN, McCrimmon CM, Sinha P, Sharma K, Alzuabi M, Morales VE, Miranda H, Manjeshwar C, Roychowdhury V, Mazumder R.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<h4>Objective</h4>Accurately distinguishing between epileptic seizures (ES) and nonepileptic seizures (NES) remains a significant clinical challenge, typically requiring resource-intensive inpatient video-EEG monitoring. We developed a multimodal large language model (MLLM)-based framework for automated extraction of semiological features from seizure videos, followed by classification of events as ES or NES.<h4>Methods</h4>We analyzed 90 seizure videos (45 ES, 45 NES) from 29 patients in an epilepsy monitoring unit. Each event was labeled using expert-reviewed video-EEG and annotated for 24 clinically relevant semiological features. An MLLM framework integrating open-source vision-language models (VLMs) and audio-language models (ALMs) was used to extract these features automatically. The extracted features were then used to train classifiers (K-Nearest Neighbors, XGBoost, and Deep Factorization Machine) to distinguish ES from NES. Model performance was evaluated using leave-one-patient-out (LOPO) cross-validation.<h4>Results</h4>Expert-annotated features yielded near-perfect classification using KNN (precision = 0.92, recall = 0.92, F1-score = 0.92, AUC = 0.99). Compared to expert annotations, the MLLM pipeline achieved a mean recall of 0.71, accuracy of 0.58, and F1-score of 0.51 for feature extraction. Using MLLM-extracted features, the KNN classifier (k = 7) achieved a precision of 0.77, recall of 0.76, F1-score of 0.76, and AUC of 0.76, correctly identifying 68 out of 90 events.<h4>Conclusion</h4>Multimodal large language models can extract clinically relevant semiological features from seizure videos and support interpretable classification of ES versus NES. This approach offers a scalable, explainable tool to assist in video-based epilepsy diagnosis.",
-      "url": "https://doi.org/10.1002/acn3.70574",
-      "source": "MED",
-      "doi": "10.1002/acn3.70574",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43063500",
-      "topic": "AI Embeddings",
-      "title": "Nonlinear Dimensionality Reduction Reveals Distinct Phenotypic Clusters Among Immediately Placed Dental Implants: A UMAP Analysis of 5-Year Outcomes.",
-      "authors": "Cheng YC, Puisys A, Gallucci GO, Vindasiute-Narbute E, Nasseri A, Zvirblis T, Pala K.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<h4>Purpose</h4>This study applied uniform manifold approximation and projection (UMAP), a nonlinear dimensionality reduction algorithm, to high-dimensional data from immediately placed and immediately loaded dental implants in the anterior maxilla to identify distinct phenotypic clusters and explore whether preoperative characteristics are associated with 5-year esthetic outcomes in this exploratory proof-of-concept study.<h4>Materials and methods</h4>Twenty-two patients who received immediately placed and immediately loaded implants in the anterior maxilla were analyzed. A total of 103 clinical, radiographic, and patient-reported parameters were collected across preoperative, baseline, 1-year, and 5-year time points. UMAP and principal component analysis (PCA) were used to generate two-dimensional representations of the data. K-means clustering was applied to the UMAP embeddings, and Mann-Whitney U tests with Bonferroni correction were used for inter-cluster comparisons.<h4>Results</h4>UMAP fitted on all 103 parameters separated the 22 implants into four clearly defined clusters. Clusters differed significantly in 5-year white esthetic score (WES; P < .001 after Bonferroni correction), as well as in pink esthetic score (PES), orofacial esthetic scale (OES), soft tissue height, and buccal bone thickness (all P < .05). PCA did not generate separable clusters. UMAP fitted on 24 preoperative parameters alone separated implants into three clusters that differed significantly in tooth location (P < .001) and showed divergent 5-year outcomes in OES and periodontal probing depth (PPD).<h4>Conclusions</h4>UMAP identified clinically meaningful phenotypic clusters among immediately placed and immediately loaded implants that were not apparent using conventional linear methods. Clusters characterized by favorable initial bone conditions achieved superior long-term esthetic outcomes. Preoperative UMAP clustering was associated with 5-year outcomes in this exploratory proof-of-concept analysis; validation in independent cohorts is needed.",
-      "url": "https://doi.org/10.11607/jomi.11898",
-      "source": "MED",
-      "doi": "10.11607/jomi.11898",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
       "id": "MED:43065041",
       "topic": "Long-acting PrEP",
       "title": "Old threats anew: protecting progress in infectious disease and sexual health.",
@@ -1133,6 +1132,22 @@
       "url": "https://doi.org/10.1186/s12954-026-01569-w",
       "source": "MED",
       "doi": "10.1186/s12954-026-01569-w",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43064873",
+      "topic": "Long-acting PrEP",
+      "title": "World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2026).",
+      "authors": "",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s40520-026-03479-0",
+      "source": "MED",
+      "doi": "10.1007/s40520-026-03479-0",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
