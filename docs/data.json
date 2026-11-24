@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:50:20.165266+00:00",
+  "updated": "2026-11-24T00:49:42.992049+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -1042,6 +1042,23 @@
       ]
     },
     {
+      "id": "MED:43064873",
+      "topic": "AI Embeddings",
+      "title": "World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2026).",
+      "authors": "",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s40520-026-03479-0",
+      "source": "MED",
+      "doi": "10.1007/s40520-026-03479-0",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings",
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:43064736",
       "topic": "AI Embeddings",
       "title": "System of agentic AI for the discovery of metal-organic frameworks.",
@@ -1100,22 +1117,6 @@
       "url": "https://doi.org/10.11607/jomi.11898",
       "source": "MED",
       "doi": "10.11607/jomi.11898",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43063378",
-      "topic": "AI Embeddings",
-      "title": "Word embeddings from text corpora: A simulation study on the representation of underlying structures.",
-      "authors": "Otte WM, van Wieringen ALHM, Koet BJ.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "The grounding problem concerns how symbolic representations acquire meaning through connections to what they refer to. For word embeddings learned from text, a related empirical question is how much of the structure that generated the text they retain. This is difficult to test in natural corpora because that structure is generally unknown. We employed a microsimulation methodology to generate a controlled text corpus from a known spatial structure. A virtual language supermarket with 40 shelves organised into four departments (fruit, vegetables, beverages, extras) served as the generative environment. Product sequences from 80,000 simulated shoppers formed a corpus of 804,422 product selections, with each sequence unique. The GloVe algorithm was applied to this corpus to learn 50-dimensional word embeddings, which we compared with the network of shelves. Cosine distance between products correlated with their shortest-path distance in the network (Spearman ρ = 0.79 over all 7,140 product pairs, Mantel p = 0.001), and on average 61% of a product's network neighbours were among its nearest neighbours in the embedding, against 7% expected by chance. Over ten independent simulations these values were 0.80 ± 0.01 and 0.62 ± 0.02, and shuffling words across the corpus removed the association. Raw co-occurrence counts, PPMI, SVD and word2vec also captured global distance structure but retrieved fewer neighbours (29-50%). Recovery was best with a context window of one word (ρ = 0.93) and was weaker for rare products. K-medoid clustering of all 120 products separated the fruit and extras departments completely, while vegetables and beverages, which are interleaved in the network, were mixed (adjusted Rand index 0.82). UMAP projections followed the network closely (ρ = 0.92) but distorted some parts of it. These findings show that distributional word embeddings can recover much of the structure that a generating process puts into co-occurrence statistics. They do not show that the embeddings are grounded in, or understand, what the words refer to. This controlled simulation provides a reproducible way to measure structural recovery by word embeddings.",
-      "url": "https://doi.org/10.1371/journal.pone.0362816",
-      "source": "MED",
-      "doi": "10.1371/journal.pone.0362816",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -2220,22 +2221,6 @@
       "url": "https://doi.org/10.3389/fpubh.2026.1907622",
       "source": "MED",
       "doi": "10.3389/fpubh.2026.1907622",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42921453",
-      "topic": "Long-acting PrEP",
-      "title": "HIV pre-exposure prophylaxis in US prison settings: a model-based cost-effectiveness study.",
-      "authors": "Park Y, Goldhaber-Fiebert JD, Cipriano LE.",
-      "journal": "",
-      "date": "2026-10-15",
-      "abstract": "<h4>Background</h4>HIV prevalence in prisons is three times higher than in the general community, and ongoing transmission risks highlight the importance of prevention, including pre-exposure prophylaxis (PrEP). We evaluated the effectiveness and cost-effectiveness of prison-based PrEP programs in four US states.<h4>Methods</h4>We developed a dynamic compartmental model simulating HIV transmission in both general and incarcerated populations, instantiated for four representative US states (standardized population of five million people). We assessed five strategies involving PrEP for specific risk groups in prison compared to the status quo of no PrEP. We assumed 25% uptake among eligible individuals for 20 years. We estimated total lifetime costs (in 2024 USD) and quality-adjusted life-years (QALYs), discounted at 3% annually, incremental cost-effectiveness ratios (ICERs), and HIV infections averted from a healthcare sector perspective.<h4>Findings</h4>In Washington, New York, and Georgia, providing PrEP to 25% of people who inject drugs (PWID) in prison prevented 12%-14% of new infections in incarcerated people, and 0.01%-0.02% of new infections in the community, and was cost-saving compared to no PrEP. Expanding eligibility to all high-risk persons (PWID and men who have sex with men (MSM)) prevented more infections and cost less than $60,000 per QALY gained compared to more restrictive policies. In California, where the epidemic is concentrated among MSM rather than PWID, providing PrEP to only MSM costs $32,000 per QALY gained.<h4>Interpretation</h4>Prison-based PrEP programs can be cost-saving or cost-effective, averting infections within and outside the prison system. These findings support expanding access to PrEP in prisons, with implementation and funding decisions guided by local HIV epidemiology.<h4>Funding</h4>Canada Research Chairs Program, Natural Sciences and Engineering Research Council of Canada, National Institute on Drug Abuse.",
-      "url": "https://doi.org/10.1016/j.lana.2026.101652",
-      "source": "MED",
-      "doi": "10.1016/j.lana.2026.101652",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
