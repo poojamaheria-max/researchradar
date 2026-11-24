@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T06:58:03.326993+00:00",
+  "updated": "2026-11-24T12:58:49.972908+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -1042,6 +1042,54 @@
       ]
     },
     {
+      "id": "MED:43065041",
+      "topic": "Long-acting PrEP",
+      "title": "Old threats anew: protecting progress in infectious disease and sexual health.",
+      "authors": "Kilmarx PH.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<h4>Background</h4>Decades of international collaboration have produced extraordinary advances in infectious disease and sexual health, including effective treatment and prevention of HIV, long-acting prevention technologies, and vaccines against sexually transmitted infections. These achievements have depended not only on individual discoveries, but also on sustained investments in research institutions, clinical trial networks, laboratories, surveillance systems, health services, trained investigators, and trusted partnerships.<h4>Main body</h4>Recent disruptions to international health assistance and research have exposed the vulnerability of this ecosystem. Reductions in development assistance and major changes in United States foreign assistance have affected HIV testing and prevention, community outreach, health workforces, sexual and reproductive health services, and organizations serving marginalized populations. The effects have been substantial but uneven: treatment programs and mature research institutions have often proved more resilient than prevention and community-based services. This contrast is especially consequential as scientific progress produces powerful new interventions, such as long-acting HIV prevention, whose impact depends on functioning systems capable of delivering them. The experience also demonstrates the value of long-term investments in locally led scientific capacity and durable international partnerships.<h4>Conclusion</h4>The goal should not be simply to reconstruct the previous global health architecture. Protecting progress against old and emerging threats will require stronger national and regional institutions, diversified and sustainable financing, locally led science, continued investment in global public goods, and reciprocal international partnerships. Scientific capacity and trust take decades to build and should be preserved before the next breakthrough or the next epidemic requires them.",
+      "url": "https://doi.org/10.1186/s12954-026-01569-w",
+      "source": "MED",
+      "doi": "10.1186/s12954-026-01569-w",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43064873",
+      "topic": "Long-acting PrEP",
+      "title": "World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2026).",
+      "authors": "",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s40520-026-03479-0",
+      "source": "MED",
+      "doi": "10.1007/s40520-026-03479-0",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "PPR:PPR1371321",
+      "topic": "Long-acting PrEP",
+      "title": "Financial distress, clinic attendance concerns and transport-support requests for long-acting injectable HIV options among people living with HIV and clients recruited through PrEP services in Uganda: a cross- sectional study",
+      "authors": "Olet SC, Muluga WU, Nakabaale M, Muluga F, Musiho R, Among F, Nait C, Mulyowa A, Ongom S, Stecher CD, Kiwanuka SN, Musoki D.",
+      "journal": "",
+      "date": "2026-11-20",
+      "abstract": "<title>Abstract</title>  <p>Background  Long-acting injectable HIV products reduce daily medication demands but require scheduled clinic visits. We examined associations of financial distress with anticipated clinic attendance concern and requests for transport support among people living with HIV and clients recruited through pre-exposure prophylaxis services in Uganda. Methods  In this exploratory analysis, we used a cross-sectional survey of 232 participants, comprising 116 people living with HIV and 116 clients recruited through PrEP services. Concern about strict clinic attendance requirements was defined as concerned or highly concerned on a four-level item. Financial distress meant difficulties meeting basic needs sometimes, often or always during the previous three months. Modified Poisson models estimated prevalence ratios adjusted for service group, age group and sex. Secondary analyses examined food worry, meal skipping, transport mode, concern thresholds and service-support preferences. Results  Overall, 109/232 participants (47.0%) reported attendance concern. Concern was more frequent with financial distress than without it (64.9% versus 41.1%, adjusted prevalence ratio 1.37, 95% confidence interval 1.02–1.84). Food worry showed an uncertain association (1.33, 0.99–1.80), while meal skipping showed no clear association (1.14, 0.83–1.56). Threshold-specific adjusted odds ratios for financial distress were 3.17 (1.40–7.17) for any response above not concerned, 2.12 (1.08–4.19) for concerned or highly concerned, and 1.04 (0.45–2.40) for highly concerned. Fourteen of 17 participants who walked reported concern (82.4%, adjusted prevalence ratio 1.58, 1.15–2.17). Participants with financial distress more often requested transport support (36.8% versus 8.0%, adjusted prevalence ratio 3.86, 1.91–7.81). Within-group estimates were larger among clients recruited through PrEP services (6.66) than among people living with HIV (1.94), with an interaction p-value of 0.09. Conclusions  Financial distress was moderately associated with anticipated attendance concern and strongly associated with requesting transport support. Food-related measures provided weaker evidence. Injectable HIV service planning should assess financial and travel constraints alongside product preferences and evaluate practical support for scheduled visits.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11253636/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11253636/v1",
+      "is_preprint": true,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "PPR:PPR1374098",
       "topic": "AI Embeddings",
       "title": "Predicting Aircraft Flight Delay Propagation from Rotation-Based Features: A Chronological Benchmark of Machine Learning Models on U.S. BTS 2024 Data",
@@ -1119,54 +1167,6 @@
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43065041",
-      "topic": "Long-acting PrEP",
-      "title": "Old threats anew: protecting progress in infectious disease and sexual health.",
-      "authors": "Kilmarx PH.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<h4>Background</h4>Decades of international collaboration have produced extraordinary advances in infectious disease and sexual health, including effective treatment and prevention of HIV, long-acting prevention technologies, and vaccines against sexually transmitted infections. These achievements have depended not only on individual discoveries, but also on sustained investments in research institutions, clinical trial networks, laboratories, surveillance systems, health services, trained investigators, and trusted partnerships.<h4>Main body</h4>Recent disruptions to international health assistance and research have exposed the vulnerability of this ecosystem. Reductions in development assistance and major changes in United States foreign assistance have affected HIV testing and prevention, community outreach, health workforces, sexual and reproductive health services, and organizations serving marginalized populations. The effects have been substantial but uneven: treatment programs and mature research institutions have often proved more resilient than prevention and community-based services. This contrast is especially consequential as scientific progress produces powerful new interventions, such as long-acting HIV prevention, whose impact depends on functioning systems capable of delivering them. The experience also demonstrates the value of long-term investments in locally led scientific capacity and durable international partnerships.<h4>Conclusion</h4>The goal should not be simply to reconstruct the previous global health architecture. Protecting progress against old and emerging threats will require stronger national and regional institutions, diversified and sustainable financing, locally led science, continued investment in global public goods, and reciprocal international partnerships. Scientific capacity and trust take decades to build and should be preserved before the next breakthrough or the next epidemic requires them.",
-      "url": "https://doi.org/10.1186/s12954-026-01569-w",
-      "source": "MED",
-      "doi": "10.1186/s12954-026-01569-w",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:43064873",
-      "topic": "Long-acting PrEP",
-      "title": "World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2026).",
-      "authors": "",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "",
-      "url": "https://doi.org/10.1007/s40520-026-03479-0",
-      "source": "MED",
-      "doi": "10.1007/s40520-026-03479-0",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PPR:PPR1371321",
-      "topic": "Long-acting PrEP",
-      "title": "Financial distress, clinic attendance concerns and transport-support requests for long-acting injectable HIV options among people living with HIV and clients recruited through PrEP services in Uganda: a cross- sectional study",
-      "authors": "Olet SC, Muluga WU, Nakabaale M, Muluga F, Musiho R, Among F, Nait C, Mulyowa A, Ongom S, Stecher CD, Kiwanuka SN, Musoki D.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "<title>Abstract</title>  <p>Background  Long-acting injectable HIV products reduce daily medication demands but require scheduled clinic visits. We examined associations of financial distress with anticipated clinic attendance concern and requests for transport support among people living with HIV and clients recruited through pre-exposure prophylaxis services in Uganda. Methods  In this exploratory analysis, we used a cross-sectional survey of 232 participants, comprising 116 people living with HIV and 116 clients recruited through PrEP services. Concern about strict clinic attendance requirements was defined as concerned or highly concerned on a four-level item. Financial distress meant difficulties meeting basic needs sometimes, often or always during the previous three months. Modified Poisson models estimated prevalence ratios adjusted for service group, age group and sex. Secondary analyses examined food worry, meal skipping, transport mode, concern thresholds and service-support preferences. Results  Overall, 109/232 participants (47.0%) reported attendance concern. Concern was more frequent with financial distress than without it (64.9% versus 41.1%, adjusted prevalence ratio 1.37, 95% confidence interval 1.02–1.84). Food worry showed an uncertain association (1.33, 0.99–1.80), while meal skipping showed no clear association (1.14, 0.83–1.56). Threshold-specific adjusted odds ratios for financial distress were 3.17 (1.40–7.17) for any response above not concerned, 2.12 (1.08–4.19) for concerned or highly concerned, and 1.04 (0.45–2.40) for highly concerned. Fourteen of 17 participants who walked reported concern (82.4%, adjusted prevalence ratio 1.58, 1.15–2.17). Participants with financial distress more often requested transport support (36.8% versus 8.0%, adjusted prevalence ratio 3.86, 1.91–7.81). Within-group estimates were larger among clients recruited through PrEP services (6.66) than among people living with HIV (1.94), with an interaction p-value of 0.09. Conclusions  Financial distress was moderately associated with anticipated attendance concern and strongly associated with requesting transport support. Food-related measures provided weaker evidence. Injectable HIV service planning should assess financial and travel constraints alongside product preferences and evaluate practical support for scheduled visits.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11253636/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11253636/v1",
-      "is_preprint": true,
-      "topics": [
-        "Long-acting PrEP"
       ]
     },
     {
@@ -2242,5 +2242,7 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    "AI Embeddings: The read operation timed out"
+  ]
 }
