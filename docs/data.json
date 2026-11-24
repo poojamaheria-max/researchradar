@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T12:58:49.972908+00:00",
+  "updated": "2026-11-24T18:48:27.946962+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -754,6 +754,22 @@
       ]
     },
     {
+      "id": "MED:41774667",
+      "topic": "AI Embeddings",
+      "title": "ICP-WAVES: Intracranial Pressure Waveform Analysis and Visualization for Enhanced Signal Processing.",
+      "authors": "Megjhani M, Li Y, Grassi G, Alalqum T, Kwon SB, Zhou Z, Lau B, Connolly ES, Velazquez A, Ghoshal S, Roh DJ, Agarwal S, Claassen J, Park S.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "<h4>Objective</h4>Intracranial pressure (ICP) waveform morphology reflects brain compliance and cerebrospinal fluid dynamics. Existing monitoring methods fail to fully capture complex temporal patterns nor enable real-time interactive analysis to improve clinical decision-making.<h4>Methods</h4>We trained a transformer-based foundation model to capture temporal dynamics and generate embeddings from physiological data. The model was fine-tuned on physiological waveform data from patients with intracerebral hemorrhage (ICH) admitted to Columbia University Irving Medical Center (CUIMC) and validated on two non-overlapping datasets: a) patients with cerebral external ventricular drainage (EVD) at CUIMC and b) a synthetic ICP dataset. The embeddings generated from the foundation model were used to train a support vector machine (SVM) classifier to classify different morphologies. Model performance was evaluated using area under the receiver operating curve (AUC) and confusion matrices, by splitting the dataset into training and testing. We developed a graphical user interface to enable ad-hoc analysis, fine-tune models, and visualize ICP trends.<h4>Results</h4>A total of 190 patients between March 2009 and August 2013 with ICH were included to fine-tune the foundation model with a median length of stay (LOS) of 5 [4-9.25] days, and a Glasgow Coma Scale (GCS) score of 11 [7-15]. 6s2 of these patients had ICP waveform data. A total of 23 other patients (train: 11, test 12) from January 2021 to August 2023 with EVD were used to train the SVM model to classify different ICP morphologies; with median LOS 17 [12-23] days, and GCS 7 [5-13]. Two trained experts (YL, GG) labeled 8406 ICP (train:3613, test: 4793) pulses. The model achieved AUCs of 0.90 for 3-peak compliant, 0.93 for single-peak non-compliant, and 0.78 for multi-peak non-compliant waveforms. On simulated ICP data, the AUCs were 1.00 for all the waveform classes. However, the confusion matrix analysis revealed that 1-peak compliant waveforms were classified with 77.5% accuracy while all other categories had 100% accuracy.<h4>Conclusion</h4>A deep learning-based foundation model optimized for analyzing invasive ICP waveforms can extract clinically relevant information about cerebral compliance. The performance was best for distinguishing compliant from non-compliant waveforms.",
+      "url": "https://doi.org/10.1109/tbme.2026.3669377",
+      "source": "MED",
+      "doi": "10.1109/tbme.2026.3669377",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PMC:PMC13789479",
       "topic": "AI Embeddings",
       "title": "Renal cell carcinoma organoids: establishment, applications, and clinical translation—current evidence, technical challenges, and future directions",
@@ -882,6 +898,182 @@
       ]
     },
     {
+      "id": "MED:43075510",
+      "topic": "AI Embeddings",
+      "title": "Prediction modeling from an allostatic load index derived from electronic health record data with informatively missing biomarkers: a case study.",
+      "authors": "Weavil GE, Rigdon J, Lotspeich SC.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Embedding a standardized measure of physiologic stress in electronic health records (EHRs) could be instrumental to preventative care. The allostatic load index (ALI), calculated from ten biomarkers across three body systems, offers a promising snapshot of cumulative strain. The ALI can be calculated from EHR data, but many components are missing, since not all patients undergo all tests. Using statistical modeling and machine learning, EHR data for 707 patients from a large academic health system (17% of whom were hospitalized), were used to predict in-patient hospitalization from ALI, controlling for age and sex. Various methods were evaluated to fill in information gaps for patients' missing ALI components, including summary measures combining components or using them separately. Performance was measured using various discrimination, calibration, and hybrid metrics. Discriminative performance was fair to low and calibration low to moderate for both model types. Brier scores indicated good overall accuracy across models. Summary measure approaches performed similarly with respect to most metrics. Separate component methods, especially pattern submodels, showed potential improvement over summary measures in the full sample, but their advantages did not persist under cross-validation. Most summary measure models had moderate discrimination and calibration ability. When cross-validated, separate component models appeared overfit and performed similarly to (or worse than) summary measures. Researchers may want to prioritize whichever summary measure was most interpretable or appropriate for their beliefs about missingness. In general, how we incorporated missing ALI components did not have much impact on prediction when using the summary measures but might if the components were included separately in the models. Next steps include building upon these findings to develop refined prediction models from EHR-derived ALI to improve performance and enhance clinical relevance.",
+      "url": "https://doi.org/10.1093/jamiaopen/ooag220",
+      "source": "MED",
+      "doi": "10.1093/jamiaopen/ooag220",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43074186",
+      "topic": "AI Embeddings",
+      "title": "SpatialMuSC: Spatial Graph-Conditioned Diffusion Refinement for Robust Spatial Multi-Omics Integration.",
+      "authors": "Wang Y, Long Y, Zeng M, Wu F, Chen S, Zhang N, Zhang X, Li M.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Emerging spatial multi-omics technologies enable the simultaneous profiling of multiple molecular layers within the same tissue section, offering new opportunities to interrogate tissue organization in its native spatial context. However, sequencing-derived spatial multi-omics data are often affected by intrinsic perturbations, such as technical noise, missing values, sparsity and measurement bias. These perturbations make existing methods that mainly use spatial graphs for neighborhood aggregation insufficient to recover continuous tissue-region structures, while unconstrained representation learning may propagate noisy associations and lead to fragmented spatial domains. We present SpatialMuSC, a robust spatial multi-omics integration framework centering on spatial graph-conditioned diffusion refinement and perturbation-invariant fusion consistency. SpatialMuSC introduces spatial topology as conditional information into the latent diffusion process, enabling spatial adjacency to guide neighborhood aggregation, spatial structure propagation and graph-aware denoising of latent states. Perturbation-invariant fusion consistency further encourages stable multi-omic fusion under perturbed observations. We evaluate SpatialMuSC on diverse spatial multi-omics datasets across different tissues and sequencing platforms, including 10x Visium, Stereo-CITE-seq, SPOTS and spatial epigenome-transcriptome data. Across these benchmarks, SpatialMuSC consistently outperforms ten state-of-the-art methods in spatial domain identification and tissue-structure preservation. Ablation analyses confirm the contributions of graph-conditioned diffusion refinement and perturbation-invariant fusion consistency, rather than post hoc graph smoothing or graph propagation alone. In particular, SpatialMuSC effectively distinguishes adjacent tissue regions, preserves block-wise smoothness and layered architectures, and shows more stable performance in missing-observation stress tests, while hippocampal marker, enrichment, and paired RNA-ATAC analyses identify a GCL-associated neuronal program and a TTR-associated accessibility feature in a choroid plexus-enriched domain. The source code is available at https://github.com/CSUBioGroup/SpatialMuSC. Supplementary data are available online.",
+      "url": "https://doi.org/10.1093/bioinformatics/btag851",
+      "source": "MED",
+      "doi": "10.1093/bioinformatics/btag851",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43073646",
+      "topic": "AI Embeddings",
+      "title": "DiCoNet: Diagnosis-Conditioned Report Generation for Retinal OCT via Pseudo Semantic Embedding.",
+      "authors": "Cong Z, Liu B, Qu H, Liu C.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Retinal optical coherence tomography (OCT) report generation faces two major challenges: the scarcity of paired image-report data and the inherent semantic gap between visual representations and clinical concepts. Under such low-resource conditions, conventional vision-driven encoder-decoder models are prone to representation degradation and pathological hallucination, which cause semantic drift and make generated reports deviate from true clinical diagnoses. Inspired by the diagnostic workflow in clinical practice, where diagnosis precedes description, we propose a diagnosis-conditioned network, DiCoNet, which reformulates medical report generation from direct image-text mapping into a diagnosis-conditioned sequence generation task. DiCoNet adopts a two-stage progressive training strategy. It first learns robust and discriminative visual representations from a large-scale diagnostic classification dataset and then performs partial fine-tuning on limited report data. To bridge the gap between visual representations and diagnostic semantics, we design a pseudo semantic embedding (PSE) module that injects continuous diagnostic priors directly into the visual prefix, guiding report generation without increasing the prefix length. We further introduce an auxiliary diagnostic supervision branch to maintain feature discriminability during decoding and enable end-to-end autonomous inference without external labels at test time. Extensive experiments on a real-world clinical OCT dataset show that DiCoNet achieves the best scores among the evaluated methods on most automatic evaluation metrics, with a ROUGE-L score of 0.420 and a CIDEr score of 0.951. Expert evaluation and an OCT-specific clinical error analysis further support the accuracy and completeness of DiCoNet-generated reports, highlighting its potential for assisting OCT report drafting.",
+      "url": "https://doi.org/10.1007/s10278-026-02563-1",
+      "source": "MED",
+      "doi": "10.1007/s10278-026-02563-1",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43073644",
+      "topic": "AI Embeddings",
+      "title": "Reducing Demographic Bias in Medical Imaging Using Siamese Representation Learning.",
+      "authors": "Chiuwanara V, Kuo PC.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Deep learning models for medical imaging often exhibit demographic bias, leading to performance disparities across protected groups such as age, gender, and race. This study proposes a debiasing framework to reduce such disparities while maintaining diagnostic accuracy. We propose a Siamese neural network trained using triplet loss, where demographic attributes are incorporated into triplet selection to encourage separation by disease class while promoting within-class similarity across demographic groups. The method was evaluated on pleural effusion detection using chest X-rays (109,005 images from 41,063 patients) and Alzheimer's disease classification using brain MRI (1494 scans from 348 patients). Performance was assessed using the area under the receiver operating characteristic curve (AUROC), precision, and true positive rate, along with equalized odds difference. The proposed method significantly reduced demographic disparities while maintaining or improving overall predictive performance compared with baseline and existing debiasing approaches. In pleural effusion detection, true positive rate gaps were reduced by 32% (race), 8% (age), and 22% (gender). In Alzheimer's disease classification, the true positive rate gap was reduced by 41% (age). Model interpretation indicated clinically meaningful imaging features were used for decision-making. Demographic-aware triplet sampling within a Siamese framework can effectively mitigate demographic performance disparities in medical imaging models while maintaining competitive overall diagnostic performance, suggesting potential for more equitable and clinically reliable deployment of medical imaging AI systems.",
+      "url": "https://doi.org/10.1007/s10278-026-02519-5",
+      "source": "MED",
+      "doi": "10.1007/s10278-026-02519-5",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43073643",
+      "topic": "AI Embeddings",
+      "title": "Knowledge-Guided Fine-Grained Self-Supervised Multimodal Representation Learning for MRI-Visible Endolymphatic Hydrops Assessment in Ménière's Disease.",
+      "authors": "Li XY, Liang DD, Wang CJ, Zhong DD, Huang ZY, Liu YS, Wang SW, Xu LY, Wu XT, Liu MY.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Ménière's disease (MD) is a clinically defined inner-ear disorder with heterogeneous manifestations, for which MRI-visible endolymphatic hydrops (EH) is an imaging finding rather than a sufficient diagnostic criterion. We developed a multimodal pretraining framework that combines anatomically constrained representation learning from inner-ear MRI with ontology-normalized concepts extracted from radiology reports. Evaluation used five patient-disjoint outer folds comprising 524 patients (1048 ears) and focused on ear-level MRI-visible EH assessment rather than MD diagnosis. With 10% of the downstream labels, SMAM-MD achieved an AUC of 87.95±1.84% , 3.30 percentage points above the strongest displayed baseline mean; under full supervision, its AUC was 98.40±0.72% , compared with 98.65±0.65% for DINOv2 FT. For prediction of six discharge hearing thresholds from inner-ear MRI and admission audiometry, SMAM-MD achieved an overall macro-MAE of 6.83±0.33  dB HL, compared with 7.47±0.36  dB HL for DINOv2 FT (Holm-adjusted P=0.000570 ). These findings support improved label efficiency and lower discharge-threshold prediction error within this single-center cohort; they do not establish MRI-based MD diagnosis, causal treatment effects, or external clinical generalizability.",
+      "url": "https://doi.org/10.1007/s10278-026-02542-6",
+      "source": "MED",
+      "doi": "10.1007/s10278-026-02542-6",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43073560",
+      "topic": "AI Embeddings",
+      "title": "Plasma Metallome Profiling by ICP-MS/MS Reveals Manganese, Chromium and Molybdenum as Peripheral Discriminators of Bipolar Disorder and Major Depressive Disorder: A Chemometric Cross-Sectional Study.",
+      "authors": "Coradduzza D, Sanna A, Sedda S, Nivoli AM, De Miglio MR, Carru C, Grosso M, Medici S.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Objective peripheral markers supporting the characterisation and differential diagnosis of major depressive disorder (MDD) and bipolar disorder (BD) are lacking, and the plasma metallome is a biologically plausible but under-characterised source of disorder-associated signals. We quantified 20 plasma trace elements by accredited triple-quadrupole inductively coupled plasma mass spectrometry (ICP-MS/MS) in 150 participants (MDD n = 41; BD n = 39, assessed in the euthymic phase; healthy controls [HC] n = 70), together with routine haematology and five composite inflammatory indices (42-variable panel). Multivariate structure was explored by principal component analysis and t-distributed stochastic neighbour embedding and modelled by three-class partial least-squares discriminant analysis (PLS-DA) with cross-validation, permutation testing, and an internal hold-out set; MDD-versus-BD comparisons were considered exploratory. The PLS-DA model showed permutation-significant, cross-validated predictive performance (explained variance R²Y = 0.612; cross-validated Q²Y = 0.526; p = 0.001) and 83.3% hold-out accuracy (balanced accuracy 81.0%), with the lowest sensitivity for BD (62.5%); random forest and support vector machine classifiers did not materially improve performance. Manganese was the strongest discriminator of BD from HC, consistent with redox dysregulation involving mitochondrial manganese superoxide dismutase; chromium separated both disorders from HC without distinguishing them, suggesting a transdiagnostic metabolic perturbation; and molybdenum was elevated in both disorders, with its strongest contribution to HC-versus-BD discrimination. Inflammatory indices dominated the MDD-versus-HC axis, whereas lymphocyte-derived indices dominated BD-versus-MDD. These signatures encode structured information that generalises within this cohort but requires external validation; manganese, chromium, and molybdenum are priority candidates for longitudinal, multi-centre studies.",
+      "url": "https://doi.org/10.1007/s12011-026-05379-w",
+      "source": "MED",
+      "doi": "10.1007/s12011-026-05379-w",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43072446",
+      "topic": "AI Embeddings",
+      "title": "Therapeutic resistance in brain malignancies: mechanisms limiting drug efficacy and emerging pharmacological strategies.",
+      "authors": "Chen L, Zhang N, He M, Han K, Shen J, Li L, Li Y, Zhu W, Xia H, Ni H.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Therapeutic resistance in malignant brain tumors does not arise from a single molecular abnormality, but rather from the interplay among insufficient drug exposure, intrinsic and adaptive tumor-cell dependencies, cell-state plasticity, and the intracranial microenvironment. Although central nervous system (CNS)-active tyrosine kinase inhibitors, human epidermal growth factor receptor 2 (HER2)-targeted antibody-drug conjugates, and immune checkpoint inhibitors have improved intracranial outcomes in selected patients with brain metastases harboring actionable molecular alterations or immunologically responsive features, many mechanistically compelling strategies for glioblastoma (GBM) have yet to translate consistently into survival benefits in randomized clinical trials beyond the current standard of care. Rather than equating an association with resistance with therapeutic actionability, this Review evaluates resistance mechanisms and their potential for intervention through five linked steps: whether a drug can achieve sufficient exposure within intracranial lesions and critical resistance niches; whether the intervention produces sustained target modulation or the intended pharmacodynamic effect; whether the implicated mechanism represents a causal driver of resistance or an actionable dependency rather than merely a descriptive correlate; whether the therapeutic window permits repeated treatment at clinically relevant doses and schedules; and whether intervention yields reproducible intracranial responses, durable disease control, or survival benefit. Reproducible predictive and pharmacodynamic biomarkers support patient selection and assessment across these steps. Within this framework, we compare the distinct pharmacological and clinical implications of the blood-brain barrier/blood-tumor barrier, DNA damage response, cancer stem-like cell states, and immune evasion in GBM and brain metastases from lung cancer, breast cancer, and melanoma. We further examine the pharmacological rationale, maturity of evidence, and practical limitations of emerging approaches, including drug repurposing, antibody-drug conjugates, synthetic-lethal strategies, microenvironmental reprogramming, and rational combination therapies. Future progress will depend less on expanding the catalogue of resistance mechanisms than on embedding spatial pharmacokinetics, longitudinal molecular monitoring, and functional validation into clinical trials, thereby enabling mechanistic insights into resistance to be translated into specific, testable, and dynamically adaptable therapeutic decisions.",
+      "url": "https://doi.org/10.1016/j.pharmthera.2026.109149",
+      "source": "MED",
+      "doi": "10.1016/j.pharmthera.2026.109149",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43071957",
+      "topic": "AI Embeddings",
+      "title": "Development and Evaluation of Embeddings for Representing Injuries in Patients With Traumatic Injuries: Retrospective Cohort Study.",
+      "authors": "Szolnoky K, Attergrim J, Ashfaq A, Linusson H, Gerdin Wärnberg M, Berg J.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Patients with traumatic injuries present with heterogeneous injury patterns that are difficult to represent in statistical models. Common approaches either retain individual injury codes in high-dimensional sparse representations, such as one-hot encoding, or aggregate injuries into summary scores, reducing dimensionality at the cost of patient-specific detail. This study aimed to develop low-dimensional data-driven ICD-10 embeddings for traumatic injuries and compare their downstream discriminatory performance with one-hot encoding of the same injury codes. We conducted a retrospective study using National Trauma Data Bank (NTDB) records from 2018 and 2019. International Classification of Diseases, Tenth Revision, Clinical Modification diagnoses were mapped to World Health Organization ICD-10 codes, retaining traumatic-injury codes S00-S99 and T15-T34. A denoising autoencoder was developed on 2018 data and temporally evaluated on 2019 data. Representations with 2, 4, 8, 16, 32, and 64 dimensions were compared with one-hot encoding across 16 downstream tasks using logistic regression and LightGBM. Performance was measured by the area under the receiver operating characteristic curve (AUC) for binary tasks and macro one-vs-rest AUC for multiclass tasks. Models were trained and evaluated within individual hospitals and separately on the full NTDB. Hospitals were stratified into volume categories, from small (≤500) to major (2500 patients/year). CIs were obtained from 1000 nonparametric bootstrap samples. The development cohort included 1,041,021 eligible patients from 2018, and the temporal evaluation cohort included 1,094,933 patients from 2019. At the hospital level, embeddings outperformed one-hot encoding. With LightGBM at 16 dimensions, the mean paired AUC difference across tasks was 0.054 (95% CI 0.048-0.060) in small hospitals (n=120) vs 0.023 (95% CI 0.020-0.025) in major hospitals (n=99). With logistic regression, differences were 0.056 (95% CI 0.050-0.063) and 0.041 (95% CI 0.039-0.043), respectively. In the full NTDB, 803-indicator one-hot encoding outperformed embeddings. Mean differences were -0.004 (95% CI -0.004 to -0.003) with LightGBM and -0.030 (95% CI -0.030 to -0.029) with logistic regression. At 64 dimensions, these differences narrowed to -0.001 and -0.016, respectively. Embeddings with as few as 8 dimensions achieved predictive performance comparable to or better than one-hot encoding, with up to a 100-fold reduction in dimensionality. Compared to one-hot encoding, embeddings improved performance in models trained at individual hospitals, particularly lower-volume hospitals. These gains may reflect reduced dimensionality, parameter sharing across codes, and representation of codes absent from hospital-specific training data, enabled by embeddings learned from the larger development cohort. In models trained on the full registry, one-hot encoding achieved higher mean AUC with both estimators, although the differences were minor (<0.005 AUC difference) for LightGBM with 16- to 64-dimensional embeddings. The embeddings and software are openly available.",
+      "url": "https://doi.org/10.2196/91298",
+      "source": "MED",
+      "doi": "10.2196/91298",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43070988",
+      "topic": "AI Embeddings",
+      "title": "Longitudinal [¹⁸F]FDG PET changes map onto distinct cholinergic and serotonergic territories in autoimmune encephalitis.",
+      "authors": "Cerne D, Benvenuto G, Raffa S, Panza A, Barone C, Lechiara A, Mobilia EM, Rebella G, Mattioli P, Orso B, Micalizzi E, Arnaldi D, Villani F, Roccatagliata L, Pesce G, Pardini M, Morbelli S, Uccelli A, Benedetti L, Massa F.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Autoimmune encephalitis (AE) shows a longitudinal [¹⁸F]FDG PET signature: acute hypermetabolism in limbic-striatal-thalamic regions and hypometabolism in posterior associative cortex, both partially reversible under immunotherapy. Whether these patterns show spatial correspondence with specific neuromodulatory systems is unknown. This retrospective secondary analysis included twenty-two AE patients from a previously published longitudinal cohort (Cerne et al. 2025) who underwent [¹⁸F]FDG PET at clinical baseline (BS) and follow-up (FU). Using JuSpace (option 6), atlas-regional BS-FU difference maps were correlated (Spearman) with 15 normative PET/SPECT maps of multiple neurotransmitter systems. Participant-level Spearman coefficients were Fisher-z transformed. Group inference used paired BS/FU label permutations, with Benjamini-Hochberg FDR correction across all 15 maps. Spatial co-localization was interpreted as overlap in regional involvement, not as directionality of transmitter signaling. Age-adjusted regression models tested associations between individual JuSpace coefficients and clinical outcomes at BS and FU. Longitudinal metabolic change showed positive spatial associations with VAChT (Fisher z = 0.164; ρ = 0.185; q = 0.023) and α4β2 (z = 0.133; ρ = 0.127; q = 0.004), and a negative association with 5-HT2A (z = - 0.108; ρ=-0.093; q = 0.014). The cholinergic alignment matches the previously described hypermetabolic limbic-striatal circuit, whereas the 5-HT2A alignment situates reversible posterior hypometabolism within serotonin-enriched association cortex. No exploratory clinical association survived multiplicity correction. Longitudinal [¹⁸F]FDG PET differences showed significant spatial correspondence with distinct neuromodulatory territories. Embedding longitudinal [¹⁸F]FDG PET changes into a normative receptor space provides a systems-level neurochemical framework and generates testable hypotheses on how cholinergic subcortico-limbic and 5-HT2A-enriched posterior association territories relate to acute disease expression and recovery.",
+      "url": "https://doi.org/10.1007/s00259-026-08246-x",
+      "source": "MED",
+      "doi": "10.1007/s00259-026-08246-x",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43070471",
+      "topic": "AI Embeddings",
+      "title": "Implementing Green Biobanking in an LMIC: Insights from Shefa Al-Orman Hospital, Egypt.",
+      "authors": "Abdelhafiz AS, Mohamed R, Gamal AM, Saady M, Aboelela S, Ghaleb F.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "<h4>Background</h4>Green biobanking is a relatively emerging concept that integrates environmentally sustainable principles into biobank operations. However, implementation in low- and middle-income countries (LMICs) remains challenging, and real-world examples are limited. This study describes the translation of hospital-level sustainability policies at Shefa Al-Orman Hospital (SOH), Egypt, into practical biobank operations.<h4>Methods</h4>A quality improvement-based implementation approach was used to operationalize existing hospital-wide green strategies within routine biobank workflows. A structured baseline and current-state assessment was conducted, followed by targeted improvement planning across key domains of environmental sustainability, resource efficiency, and cost containment. Interventions were selected based on feasibility, low cost, and alignment with regulatory and quality requirements.<h4>Results</h4>Multiple green biobanking strategies were implemented, including reduction of plastic waste and consumable use, optimization of storage efficiency, adoption of limited-paper workflows, water conservation measures, energy optimization for cooling and lighting, and integration of solar energy through hospital infrastructure. Measurable reductions were achieved for consumable and paper costs. Collectively, these interventions reduced resource consumption without compromising biospecimen quality, traceability, or regulatory compliance.<h4>Conclusions</h4>The SOH biobank demonstrates a practical and scalable model for green biobanking in an LMIC setting. Embedding biobank initiatives within hospital-wide sustainability policies enables coordinated implementation and resource sharing. While some approaches require robust information technology infrastructure, many green biobanking interventions are low-cost, feasible, and potentially cost-saving. A stepwise, context-adapted approach may facilitate broader adoption of environmentally and financially sustainable biobanking practices in resource-limited settings.",
+      "url": "https://doi.org/10.1177/19475535261509808",
+      "source": "MED",
+      "doi": "10.1177/19475535261509808",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43070233",
+      "topic": "AI Embeddings",
+      "title": "Nonclassical Electrostriction: The Insights From X-Ray Absorption Spectroscopy.",
+      "authors": "Happel EE, Qi Y, Lubomirsky I, Frenkel AI.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "Nonclassical electrostriction (NCES) has emerged in a growing class of ionic solids that exhibit electromechanical responses far exceeding predictions of the conventional Newnham scaling law despite moderate dielectric permittivity and high elastic modulus. Unlike classical electrostriction, which is associated with nearly uniform anharmonic deformation of the crystal lattice, NCES originates from the field-induced reorganization of a small population of locally distorted structural units. This Review examines the unique role of x-ray absorption fine structure (XAFS) spectroscopy in identifying the electromechanically active structural units, resulting in the understanding of atomistic mechanisms underlying this behavior. Element-specific x-ray absorption near edge structure and extended XAFS (EXAFS) measurements identify local symmetry breaking, defect-associated elastic dipoles, multimodal bond-length distributions, and strongly anharmonic bonds that remain \"hidden\" from average-structure probes. Field-modulated, high energy resolution, and differential XAFS further isolate the minority structural units directly responsible for macroscopic strain. Aliovalent and isovalent dopants are shown to produce distinct microscopic mechanisms, involving vacancy-associated static and dynamic elastic dipoles, respectively, embedding strong attributes of anharmonicity. These results establish local structure and bond dynamics as key descriptors of NCES and highlight in situ, stimulus-modulated XAFS as a powerful route for uncovering and ultimately controlling electromechanical coupling in defect-engineered materials.",
+      "url": "https://doi.org/10.1002/adma.75740",
+      "source": "MED",
+      "doi": "10.1002/adma.75740",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PPR:PPR1375433",
       "topic": "AI Embeddings",
       "title": "Genomic foundation models and complementary variant-scoring strategies in LGMD-associated genes: architecture, adaptation, and sequence context",
@@ -925,118 +1117,6 @@
       "source": "PPR",
       "doi": "10.31234/osf.io/ahrts_v2",
       "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1373409",
-      "topic": "AI Embeddings",
-      "title": "Examining HiTOP Through Naturalistic Symptom Descriptions in Anonymous Online Mental Health Forums: A Mixed-Methods Study Protocol",
-      "authors": "Ferizaj D.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "<p>AbstractBackground: The Hierarchical Taxonomy of Psychopathology (HiTOP) organises covarying symptoms and maladaptive traits into transdiagnostic dimensions to address limitations of categorical diagnosis. Naturalistic symptom descriptions may complement structured assessments. <h4>Objective:</h4> This protocol describes a reproducible mixed-methods workflow to derive symptom indicators from forum posts and examine their organisation relative to HiTOP. Methods and analysis: The target sample is 80,000 public Reddit posts. After local de-identification, a large language model (LLM) will extract symptom labels and supporting paraphrases. Two human experts will independently review outputs for up to 250 posts. Three embedding models will flag potentially equivalent symptom labels for local LLM assessment. Two experts will qualitatively review the most frequent canonical symptom labels (at least 1,000) and develop a codebook of symptom categories, continuing until a prespecified saturation criterion is met. An LLM will assign canonical symptom labels to these categories, producing binary post-level indicators. Multiverse-inspired structural analyses will compare network, component, factor, and clustering representations across discovery, internal tuning, and holdout partitions. Evaluation will assess interpretability, stability, and agreement with expert mapping to HiTOP. Supplementary analyses will include agent-assisted exploration, codebook application to DepressionEmo and the Reddit Mental Health Dataset, and pooled integrative analysis that may include additional comparable corpora. <h4>Discussion:</h4> The study will examine whether symptom co-expression within posts forms interpretable patterns corresponding to HiTOP.Ethics: The Ethics Committee of Charité – Universitätsmedizin Berlin approved the study (EA2/274/25). The study was preregistered on 8 May 2026 (German Clinical Trials Register, DRKS00040244). <h4>Keywords:</h4> Hierarchical Taxonomy of Psychopathology, natural language processing, large language models, Reddit, mixed methods, study protocol</p>",
-      "url": "https://doi.org/10.31234/osf.io/ahrts",
-      "source": "PPR",
-      "doi": "10.31234/osf.io/ahrts",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13786289",
-      "topic": "AI Embeddings",
-      "title": "Optically Controlled Hybrid Metasurface for Efficient Terahertz Frequency Modulation",
-      "authors": "Zhou Q, Chen S, Mei L.",
-      "journal": "",
-      "date": "2026-11-22",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13786289",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13786350",
-      "topic": "AI Embeddings",
-      "title": "Biomimetic Fabrication and Osteogenic Efficacy Evaluation of Tilapia-Derived Collagen-Based Artificial Bone Scaffolds",
-      "authors": "Wang L, Zhu J, Jiang X, Wang K.",
-      "journal": "",
-      "date": "2026-11-22",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13786350",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13787140",
-      "topic": "AI Embeddings",
-      "title": "How to Build Machine-Learning Models for Molecular Science: A Step-by-Step, Annotated Tutorial",
-      "authors": "",
-      "journal": "",
-      "date": "2026-11-21",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13787140",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43066841",
-      "topic": "AI Embeddings",
-      "title": "From isolated component failure to coupled degradation networks in proton exchange membrane fuel cells.",
-      "authors": "Habib MA, Park J, Kim H, Jung J, Kim S, Cha DC, Yeo YS, Jeong J, Kim TH, Choi MC, Leem G, Lee JH, Yang WS, Lee S.",
-      "journal": "",
-      "date": "2026-11-21",
-      "abstract": "Proton exchange membrane fuel cells (PEMFCs) are among the most promising energy conversion technologies for achieving sustainable and carbon-neutral energy systems. Despite remarkable advances in catalyst and membrane materials, the limited durability of membrane electrode assemblies (MEAs) remains a major barrier to large-scale commercialization. Unlike previous studies that treated individual component degradation as isolated failures without adequate mitigation strategies, growing evidence shows these processes are highly interconnected. Chemical, electrochemical, mechanical, thermal, and mass-transport phenomena interact across multiple length scales, triggering cascading failure pathways that ultimately govern system-level durability. In this review, we move beyond conventional component-by-component descriptions and present an integrated perspective on coupled degradation networks in PEMFCs. We systematically analyze degradation mechanisms, highlighting how catalyst dissolution, chemical decomposition, carbon corrosion, ionomer degradation, interfacial delamination, water/heat management, contaminants, and flow-field nonuniformity mutually accelerate one another. Furthermore, we critically review recent advances in operando characterization, mechanistic evaluation, artificial intelligence (AI)-assisted diagnostics, and degradation modeling to highlight emerging strategies for identifying coupled pathways and predicting long-term durability. This review provides a comprehensive framework for designing durable, next-generation PEMFCs by treating degradation as an interconnected network of failures rather than isolated component issues, while proposing key design principles across materials, diagnostics, and systems.",
-      "url": "https://doi.org/10.1186/s40580-026-00589-3",
-      "source": "MED",
-      "doi": "10.1186/s40580-026-00589-3",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13788726",
-      "topic": "AI Embeddings",
-      "title": "Prevalence and Associated Factors of Subjective Memory Problems Among Older Adults in Australian Retirement Villages",
-      "authors": "Alrababah S, Johnstone G, Lowthian J, Waller M, Meyer C.",
-      "journal": "",
-      "date": "2026-11-21",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13788726",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43064953",
-      "topic": "AI Embeddings",
-      "title": "Managing environmental enteropathy among Egyptian infants and children with growth faltering.",
-      "authors": "Nassar MF, Emam EK, Allam MF, Hamdy AM, Abdelhaleem BA, Radwan NA, Emam AM, Ibrahim HE.",
-      "journal": "",
-      "date": "2026-11-21",
-      "abstract": "<h4>Background</h4>Environmental enteropathy (EE) is an acquired subclinical inflammation of the small bowel mucosa, leading to reduced nutrient absorption and increased intestinal permeability. There are currently no universally accepted protocols for the diagnosis and treatment of EE.<h4>Objective</h4>The primary aim of this clinical trial was to assess the prevalence of EE among children with faltering growth (FG). Determination of the dietary requirements in pediatric FG with EE and highlighting the histopathologic changes in the small intestine in such conditions were the secondary objectives.<h4>Patients and methods</h4>The current study recruited 200 patients (their age range was 6-58 months) diagnosed as GF at the Pediatric Clinical Nutrition Clinic, Children`s Hospital, Faculty of Medicine, Ain Shams University (Cairo, Egypt), during the period from April 2022 till June 2023. The first phase of the study was a cross sectional interventional one where all patients underwent nutritional rehabilitation using diet regimen including polymeric milk formula. Patients whose weight z score was still below - 2 SD for age and sex after 12 weeks were considered as non-responders and were enrolled in the second phase, when esophagogastroduodenoscopy (EGD) and mucosal biopsies were done. In the latter phase, patients with EE received nutritional rehabilitation regimen using peptide-based milk formula with assessment of anthropometric measurements after 8 weeks of follow up.<h4>Results</h4>Out of the studied cases, 170 were responders, and 30 were non-responders, 24 of the non-responders underwent EGD with biopsies and all were diagnosed as EE with prevalence of 12% among the studied patients with GF as the least possible prevalence. Total histology scores of the EE fell between those of the controls and celiac disease reference samples with cut off values > 3 and ≤ 14 for EE, ≤ 3 for controls and > 14 for celiac disease. There was a significant increase in weight and height z scores among patients of EE on peptide-based formula compared to polymeric formula.<h4>Conclusion</h4>EE isn`t uncommon and should be suspected when provision of catch-up nutrients can`t correct FG. Peptide-based formula has a possible beneficial effect on growth of patients with EE.<h4>Trial registration</h4>The clinical trial was registered at Protocol Registration and Results System with number NCT06497907 (12/07/2024).",
-      "url": "https://doi.org/10.1186/s12887-026-07978-x",
-      "source": "MED",
-      "doi": "10.1186/s12887-026-07978-x",
-      "is_preprint": false,
       "topics": [
         "AI Embeddings"
       ]
@@ -1087,86 +1167,6 @@
       "is_preprint": true,
       "topics": [
         "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PPR:PPR1374098",
-      "topic": "AI Embeddings",
-      "title": "Predicting Aircraft Flight Delay Propagation from Rotation-Based Features: A Chronological Benchmark of Machine Learning Models on U.S. BTS 2024 Data",
-      "authors": "Kumar A, Kaushik M.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "An aircraft's previous leg tells us a lot about its next one. We examine whether knowing how late a plane arrived on its previous leg helps predict if its next flight lands 15 or more minutes behind schedule, using 2024 On-Time Performance records from the U.S. Bureau of Transportation Statistics (BTS). With DuckDB and pandas we chain each aircraft's consecutive legs by tail number and build two rotation features: the previous leg's arrival delay (Previous_ArrDelay) and the ground turnaround time (Turnaround_Time). Of 3,000,000 loaded records covering January to mid-June 2024, 2,473,437 form valid rotations, and 16.87% of them are delayed. The split is chronological: the earliest 80% (1,978,749 rotations) is used for training and the latest 20% (494,688 rotations, 21.27% delayed) for testing. We compare Logistic Regression, a Decision Tree, a Random Forest, Multinomial Naive Bayes, PCA-based Logistic Regression and Linear SVM, and an embedding-based neural network. Among the models that actually detect delays, the class-balanced Random Forest scores highest on F1 (50.93%) and accuracy (76.74%), the neural network follows closely (F1 50.68%), and a depth-12 Decision Tree has the best practical recall among the stronger models (62.23%). Accuracy alone is misleading here, since on-time flights make up 78.7% of the test set: Naive Bayes reaches 78.72% accuracy while catching just 0.34% of delayed flights. We also report an unsupervised clustering of the rotation features and discuss the limits of a feature set that leaves out weather and air-traffic information.",
-      "url": "https://doi.org/10.20944/preprints202611.2135.v1",
-      "source": "PPR",
-      "doi": "10.20944/preprints202611.2135.v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1374035",
-      "topic": "AI Embeddings",
-      "title": "Cardiovascular Prevention in the EU: A Critical Review of EU Council Recommendation COM(2026) 481 on Smoking and Nicotine",
-      "authors": "Polosa R, Capodanno D, Geraci G, Volpe M, George J, Spicuzza L, Li Volti G.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "The European Commission’s proposal COM(2026) 481 aims to strengthen cardiovascular prevention across the European Union through earlier risk detection, expanded population screening, and greater harmonisation among Member States. While its life-course perspective and focus on equitable access are commendable, this critical review—authored on behalf of the Center of Excellence for the Acceleration of Harm Reduction (CoEHAR)—identifies key clinical and methodological limitations requiring refinement. First, evidence from WHO, ESC, and Cochrane syntheses indicates that broad population-level screening increases risk-factor detection without consistently reducing cardiovascular morbidity or mortality, risking resource diversion from high-risk patients. Second, grouping smoking, vaping, and smokeless nicotine use within a single behavioural assessment obscures substantial differences in toxicant exposure and cardiovascular risk profiles. We propose five evidence-based refinements: prioritising targeted, risk-stratified assessment over indiscriminate testing; evaluating programme success through risk-factor control and hard clinical outcomes rather than coverage targets; reserving second-line investigations for clinically indicated cases; embedding an actionable \"identify–advise–treat–follow-up\" smoking cessation pathway within cardiovascular health checks; and distinguishing continued exclusive smoking, dual use, complete substitution with non-combustible nicotine products, and nicotine initiation to guide proportionate clinical communication.",
-      "url": "https://doi.org/10.20944/preprints202611.2198.v1",
-      "source": "PPR",
-      "doi": "10.20944/preprints202611.2198.v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43066931",
-      "topic": "AI Embeddings",
-      "title": "Development and Application of Deep Learning Models for Case Finding From Pathology Reports in a Hospital-Based Cancer Registry: Algorithm Development and Validation.",
-      "authors": "Toh C, Kongkamol C, Geater SL, Ingviya T.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "Few studies have investigated automated case finding in hospital-based cancer registries despite their crucial role in supporting population-based surveillance. In these settings, data completeness is often compromised by referral patterns, yet the influence of weakly supervised learning strategies on model performance remains underexplored. This study aimed to evaluate the effects of different supervision approaches (inaccurate, inexact, and report-level labeling) on deep learning model performance for cancer case finding in a hospital-based registry setting and assess model generalizability across patient-level and report-level classification tasks. Hospital-based cancer registry and pathology report data from Songklanagarind Hospital (2005-2023) were used for model development and evaluation. Three labeling approaches were implemented: inaccurate (all reports from patients with cancer labeled positive), inexact (concatenated reports from patients with cancer labeled positive), and report-level (only registrar-annotated tumor-related reports labeled positive). Model performance was evaluated on max-pooled, concatenated, and individual report classification tasks using a simple word embedding model, multilayer perceptron, recurrent neural network, convolutional neural network (CNN), and hierarchical self-attention network architectures. Models trained using weakly supervised labeling achieved the highest performance across patient-level evaluation tasks, and CNN models consistently showed superior performance. While report-level labeling yielded superior accuracy for individual reports, it suffered substantial degradation in patient-level evaluations. This suggests that models trained on curated data overfitted to primary tumor patterns, failing to recognize secondary evidence (eg, metastatic or surveillance findings). Conversely, weakly supervised approaches enabled the detection of patients with cancer via diverse report types. Error analysis revealed that false negatives were primarily driven by insufficient institutional data-specifically, referred patients lacking primary diagnostic reports-rather than algorithmic failure. In this single tertiary referral hospital setting, weakly supervised labeling outperformed report-level human annotation for patient-level case finding, whereas report-level labeling performed best for individual report classification. The CNN architecture achieved the highest or near-highest area under the receiver operating characteristic curve in most configurations.",
-      "url": "https://doi.org/10.2196/92814",
-      "source": "MED",
-      "doi": "10.2196/92814",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13788343",
-      "topic": "AI Embeddings",
-      "title": "Paclitaxel‐Coated Balloon Dilation for Tracheal Stenosis in Tracheostomy Patients: 12‐Month Outcomes From a Prospective, Multicenter, Feasibility Study",
-      "authors": "Zapata S, Tchkonia D, Santos A, O'Malley E, Vega F.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13788343",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13787479",
-      "topic": "AI Embeddings",
-      "title": "Immune infiltrate predicts response to αPD1/αCTLA4 but not αPD1 and distinguishes programs of primary resistance in metastatic melanoma",
-      "authors": "Huang A, Burke K, Glettig M, Porter R, Fatouros P, Li J, Meiger L, Rosado V, Xu S, Yang J, Robitschek E, Vokes N, Ricker C, Tarantino G, Chen J, Aprati T, He Y, Wang C, Fu D, Ho L, Galani K, Freeman G, Buchbinder E, Hodi F, Lian C, Kellis M, Boland G, Sharpe A, Liu D.",
-      "journal": "",
-      "date": "2026-11-20",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13787479",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
       ]
     },
     {
@@ -1597,6 +1597,22 @@
       "source": "PPR",
       "doi": "10.21203/rs.3.rs-11541213/v1",
       "is_preprint": true,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43073716",
+      "topic": "Long-acting PrEP",
+      "title": "HIV Pre-Exposure Prophylaxis in Solid Organ Transplant Recipients: An Overlooked Component of Long-Term Care.",
+      "authors": "De Maria F, Fusco P, Russo A.",
+      "journal": "",
+      "date": "2026-11-01",
+      "abstract": "Sexual health and HIV prevention remain inconsistently addressed during follow-up after solid organ transplantation. This narrative review examines the potential role of HIV pre-exposure prophylaxis (PrEP) in transplant recipients with ongoing or anticipated HIV exposure. A narrative literature review was conducted using PubMed/MEDLINE, Embase, Scopus, and the WHO Global Index Medicus, complemented by relevant international guidelines. Evidence concerning HIV acquisition, sexual health, PrEP efficacy, renal safety, drug-drug interactions, and hepatitis B virus (HBV) management was examined, distinguishing transplant-specific findings from indirect evidence. No clinical trials have specifically evaluated PrEP in solid organ transplant recipients. Nevertheless, existing evidence supports individualized consideration of available preventive strategies. Tenofovir disoproxil fumarate/emtricitabine may be limited by renal dysfunction and cumulative nephrotoxicity, whereas tenofovir alafenamide/emtricitabine offers a more favorable renal profile where approved. Long-acting cabotegravir avoids tenofovir exposure and has limited cytochrome P450 involvement, while lenacapavir provides six-monthly dosing but raises additional concerns regarding drug interactions and prolonged pharmacological exposure. HBV status requires particular attention because changes in tenofovir-based PrEP may affect HBV suppression. PrEP assessment should be integrated into routine, non-stigmatizing post-transplant sexual health care, with regimen selection guided by graft function, immunosuppressive therapy, HBV status, exposure patterns, adherence, and patient preference. Prospective pharmacokinetic and implementation studies are needed to inform transplant-specific recommendations.",
+      "url": "https://doi.org/10.1111/ctr.70776",
+      "source": "MED",
+      "doi": "10.1111/ctr.70776",
+      "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
       ]
@@ -2224,25 +2240,7 @@
       "topics": [
         "Long-acting PrEP"
       ]
-    },
-    {
-      "id": "MED:42959606",
-      "topic": "Long-acting PrEP",
-      "title": "A scoping review of pre-exposure prophylaxis awareness, acceptability, uptake, adherence, and HIV-related risk behaviors among university students in South Africa.",
-      "authors": "Serebane MJ, Ramavhoya TI, Mutshatshi TE, Mokhwelepa LW.",
-      "journal": "",
-      "date": "2026-10-15",
-      "abstract": "<h4>Background</h4>Pre-exposure prophylaxis is an effective biomedical intervention for preventing HIV infection, yet evidence on its awareness, acceptability, uptake and adherence among South African university students remains fragmented.<h4>Objective</h4>To map and synthesize the available evidence on pre-exposure prophylaxis awareness, acceptability, uptake, adherence, and HIV-related risk behaviors among university students in South Africa.<h4>Methods</h4>A scoping review was conducted using Joanna Briggs Institute methodology and reported according to PRISMA-ScR. Studies published between 2014 and 2026 were searched in PubMed/MEDLINE, Scopus, ScienceDirect, CINAHL, African Journals Online and ProQuest Dissertations and Theses/grey literature. Two reviewers independently screened studies and charted data using a predefined extraction tool. Findings were synthesized thematically.<h4>Results</h4>Sixteen studies were included, of which 68.75% (<i>n</i> = 11) were quantitative and 31.25% (<i>n</i> = 5) qualitative. Evidence was concentrated in KwaZulu-Natal, Gauteng, Limpopo and the Western Cape, with most studies published from 2019 onwards. Six themes emerged: (1) Individual Level: individual perceptions, knowledge and appraisal of HIV and PrEP; (2) Interpersonal Level: interpersonal relationships and social influence on PrEP decision-making; (3) Institutional Level: accessibility, acceptability and responsiveness of PrEP services; (4) Community/social Level: stigma, misconceptions and social norms surrounding PrEP; (5) Structural Level: socioeconomic and health-system conditions shaping PrEP utilization; and (6) HIV Risk Behaviors: patterns of sexual risk and their relationship to PrEP need. Awareness and willingness to use PrEP were generally favorable, but uptake and sustained use were constrained by knowledge gaps, low perceived risk, stigma, side-effect concerns, cost, accessibility and service-related barriers. Risk behaviors included multiple partnerships, inconsistent condom use, substance-associated sexual behavior and socioeconomic pressures.<h4>Conclusion</h4>PrEP utilization is shaped by interacting individual, social, institutional and structural factors. Integrated, youth-friendly services and targeted education addressing HIV risk, stigma and access are needed to strengthen informed PrEP decision-making and prevention.",
-      "url": "https://doi.org/10.3389/fpubh.2026.1907622",
-      "source": "MED",
-      "doi": "10.3389/fpubh.2026.1907622",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
     }
   ],
-  "errors": [
-    "AI Embeddings: The read operation timed out"
-  ]
+  "errors": []
 }
