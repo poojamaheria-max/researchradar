@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:03:18.848863+00:00",
+  "updated": "2026-11-25T18:42:08.850276+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -12,6 +12,22 @@
       "url": "https://doi.org/10.1142/s0129065727500262",
       "source": "MED",
       "doi": "10.1142/s0129065727500262",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43074481",
+      "topic": "AI Embeddings",
+      "title": "EffNetV2M-ViT: A Hybrid Deep Learning Model for MRI-Based Differentiation of Glioblastoma and Brain Metastasis.",
+      "authors": "Berg M, Haleva E, Ben-Eliezer N, Artzi M.",
+      "journal": "",
+      "date": "2027-01-01",
+      "abstract": "Noninvasive differentiation between glioblastoma (GBM) and brain metastasis (BM) remains challenging because of substantial overlap in their MRI appearance. Existing deep learning (DL) approaches have primarily relied on either convolutional neural networks (CNNs), which capture local spatial features, or transformer-based models, which capture long-range contextual relationships. However, the complementary value of combining these representations for GBM-BM discrimination has not been sufficiently investigated, using independently validated multicenter data. This study aimed to develop and evaluate a hybrid CNN-Vision Transformer (ViT) framework for automated differentiation of GBM from BM. The framework integrates EfficientNet-based convolutional feature extraction with ViT-based global feature modeling through parallel fusion. Enhancing tumor was automatically segmented using 3D U-Net, with segmentations visually reviewed and manually corrected when necessary. T2-weighted (T2W) and contrast enhanced T1-weighted (CE-T1W) MRI sequences were used as inputs. A modality ablation study was performed to identify the optimal contrast combination among T1W, CE-T1W, T2W, and FLAIR. The framework was evaluated in a retrospective cohort of 344 patients with histologically confirmed tumors using cross-validation and ensemble methods, with performance further assessed in an independent multicenter external validation cohort from different institutions, MRI scanner platforms, and patient populations. The hybrid EffNetV2M-ViT framework achieved an accuracy of 95.4%, F1-score of 96.2%, and AUC of 98.4% on the internal test set, and 90.9%, 92.7%, and 96.8% on external validation, with sensitivity, specificity of 96.2%, 93.9% and 90.5%, 91.7%, respectively. The hybrid model outperformed the standalone CNN and ViT models across both datasets, with the largest performance gains observed in the external validation cohort, support its generalizability. Ablation analysis confirmed that the paired CE-T1W + T2W input yielded the most consistent performance across both cohorts, with additional contrasts providing no added benefit. These findings suggest that combining local convolutional features with global contextual representations improves automated GBM-BM discrimination, offering a noninvasive, standardized approach for MRI-based tumor classification that may support clinical decision-making.",
+      "url": "https://doi.org/10.1002/nbm.70438",
+      "source": "MED",
+      "doi": "10.1002/nbm.70438",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -770,6 +786,22 @@
       ]
     },
     {
+      "id": "MED:42562773",
+      "topic": "AI Embeddings",
+      "title": "A phosphorylation‑independent monoclonal antibody improves detection of TDP‑43 pathology across frontotemporal lobar degeneration, amyotrophic lateral sclerosis, and limbic predominant age related TDP‑43 encephalopathy neuropathological change.",
+      "authors": "Zheng X, Zhang N, Wang L, Zhao H, Liu C, Wang J, Zhao W, Zhao J, Yang P, Robinson L, Hunt L, Lokken A, Lin L, Nelson PT, Kofler J, Xie H, Xia H, Mao Q.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "TDP-43 proteinopathies encompass frontotemporal lobar degeneration with TDP-43 pathology (FTLD-TDP), amyotrophic lateral sclerosis (ALS-TDP), and limbic predominant age related TDP-43 encephalopathy neuropathological change (LATE-NC). These proteinopathies exhibit subtype-specific aggregate architectures that may constrain epitope accessibility in situ. We compared a phosphorylation-independent monoclonal antibody targeting a C-terminal epitope (MAb No. 9) with the phospho-specific pSer409/410 antibody to determine whether its signal relates to regional neurodegeneration in a multicenter autopsy cohort spanning FTLD-TDP types A-C, ALS-TDP, and Alzheimer disease neuropathologic change (ADNC) with or without LATE-NC. Immunolabeling with MAb No. 9 detected pathological TDP-43 across all diagnostic groups with enhanced labeling of dystrophic neurites and thread/dot-like pathology in FTLD-TDP types A/B and in ALS-TDP. MAb No. 9 performance was equivalent to p409/410 in FTLD-TDP type C. In ADNC with stage 3 LATE-NC, MAb No. 9 revealed a greater limbic burden and labeled both α type and β type inclusions. Dual label immunofluorescence demonstrated strong spatial overlap with p409/410 but additionally highlighted fine punctate pathology. MAb No. 9 burden in FTLD-TDP type A correlated strongly with cortical neurodegeneration but showed weaker and variable associations, particularly in severely atrophic cortex. These findings indicate that filament architecture governs C-terminal epitope accessibility and that MAb No. 9 may be a complementary tool for subtype refinement, clinicopathologic correlation and translational biomarker development in TDP-43 proteinopathies.",
+      "url": "https://doi.org/10.1093/jnen/nlag085",
+      "source": "MED",
+      "doi": "10.1093/jnen/nlag085",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:41973735",
       "topic": "AI Embeddings",
       "title": "Nonmedical Factors That Influence Diabetes Complications and Multilevel Strategies to Reduce Disparities and Improve Outcomes in the U.S.",
@@ -802,323 +834,307 @@
       ]
     },
     {
-      "id": "MED:43078974",
+      "id": "PMC:PMC13795115",
       "topic": "AI Embeddings",
-      "title": "Human factors engineering for AI-assisted endoscopy: a framework for intelligent interface design.",
-      "authors": "Brenner TA, Becic I, Roberts SC, Akshintala VS, Rajpurkar P, Rodman A, Berzin TM.",
+      "title": "Machine-Learning-Enabled Design of Lab-Scale Continuous Distillation Systems for Pharmaceutical Process Development",
+      "authors": "",
       "journal": "",
-      "date": "2026-11-24",
-      "abstract": "Artificial intelligence (AI) is transforming gastrointestinal endoscopy, enabling real-time detection, diagnosis and workflow optimization. Yet, the clinical impact of AI depends as much on user-interface design as on algorithmic accuracy. Poorly designed systems can erode situational awareness, increase cognitive load and diminish trust. Drawing on human factors engineering, we outline a framework for aligning AI information delivery with the perceptual and cognitive processes of the endoscopist. We categorize AI outputs into three functional domains: perceptual augmentation, including computer-aided detection tools that highlight visual anomalies; interpretive and procedural decision support, encompassing computer-aided diagnosis and emerging interventional guidance systems; and integrative performance feedback, including computer-aided quality and post-procedural analytics. Across these tiers, effective interface design should emphasize clarity, context-specific information flow, explicit uncertainty communication and continuous human control. As multimodal and generative AI systems emerge, their outputs must be presented in ways that preserve situational awareness and clearly signal their origin, purpose and reliability. By embedding human factors engineering principles into design and regulation, AI tools for gastrointestinal endoscopy can evolve from passive detectors to cognitive partners that enhance vigilance, reasoning and procedural safety without displacing human expertise.",
-      "url": "https://doi.org/10.1038/s41575-026-01276-8",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13795115",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13795093",
+      "topic": "AI Embeddings",
+      "title": "High-Throughput Experimentation in Practice: Hidden Bottlenecks and Digital Gaps",
+      "authors": "Cheung K, Marçon H, Pratley M, Wigh D, Pomberger A, Taylor C.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13795093",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13794252",
+      "topic": "AI Embeddings",
+      "title": "Multi-scale feature fusion and neural architecture search for electroencephalography-based affective-state recognition in public benchmark datasets",
+      "authors": "Guan C, Wang Y.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13794252",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13795405",
+      "topic": "AI Embeddings",
+      "title": "Non-prescription Antibiotic Dispensing in Community Pharmacies of Islamabad Capital Territory, Pakistan: A Simulated Client Study",
+      "authors": "Imran R, Sheraz Hassan M, Haq G, Roshan M, Tarar M.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13795405",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13795228",
+      "topic": "AI Embeddings",
+      "title": "CAFM v4: a cascaded anchor-dominant residual fusion model for multi-scale brain tumor classification from magnetic resonance imaging",
+      "authors": "Kamineni N, Nadesh R.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13795228",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13794224",
+      "topic": "AI Embeddings",
+      "title": "Exposure to Ambient Fine Particulate Matter (PM2.5) Increases Vulnerability to Stress-Induced Depression in Mice, Potentially via the BDNF-CREB Signaling Pathway",
+      "authors": "Hong X, Yang W, Zheng W, Hu J, Han X, Li J, Pan B, Xie Y, Shao W, Fang X, Xiao Y, Han D, Tu W, Xu M, Chen Y, Zhu Y, Li W, Zhang X, Xu Y.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13794224",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793553",
+      "topic": "AI Embeddings",
+      "title": "PhageLysData: an evidence-aware and AI-ready dataset of phage lytic enzymes and depolymerases",
+      "authors": "Medina-Ortiz D, Olivera-Nappa Á, Lienqueo M, Opazo R, Romero J.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793553",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793638",
+      "topic": "AI Embeddings",
+      "title": "AnOxFuse: Integrating Molecular Fingerprints and Peptide-Adapted Protein Language Representations for Antioxidant Peptide Prediction",
+      "authors": "Alblooshi M, Abbas Z, Rehman M.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793638",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793810",
+      "topic": "AI Embeddings",
+      "title": "Engineering resilient environmental microbiomes: from multi-omics early-warning signals to predictive control and functional recovery",
+      "authors": "Castro-Martínez C, Renganathan P, Herrera-Moreno M, Montoya-Mejía M, Pérez-González E, Rueda-Puente E, García-Gutierrez C, Sainz-Hernandez J.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793810",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793493",
+      "topic": "AI Embeddings",
+      "title": "Human–machine collaborative literacy and tourism SMEs’ perceived digital transformation performance: a configurational fsQCA",
+      "authors": "Ren Y, Li H.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793493",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793221",
+      "topic": "AI Embeddings",
+      "title": "Neural stem cell transplantation ameliorates mitochondrial dynamics-related protein abnormalities in a mouse model of Alzheimer’s disease with chronic cerebral hypoperfusion",
+      "authors": "Huang B, Qin D, Liang C, Mo S, Yang C, Yang Q, Lu Z, Nong J, Gan G, Jian C, Xu G, Shang J.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793221",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793177",
+      "topic": "AI Embeddings",
+      "title": "Could metacognitive therapy be a contender for first-line treatment for functional neurological disorder? The case for clinical trials",
+      "authors": "Scheiner N.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793177",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13794049",
+      "topic": "AI Embeddings",
+      "title": "Population aging, long-term care insurance, and economic growth: theoretical and empirical evidence from an OLG model and a quasi-natural experiment",
+      "authors": "Xu X, Cao A, Li M, Yang Z.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13794049",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793874",
+      "topic": "AI Embeddings",
+      "title": "AI-driven transformation of GPCR research: from structural biology to precision medicine",
+      "authors": "Li W, Sun H, Kong L, Li J, Liu C, Yang D.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793874",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793497",
+      "topic": "AI Embeddings",
+      "title": "From cognitive relief to motivational enhancement: associations between perceived Agentic AI Capability and student engagement in systems development courses",
+      "authors": "Yu X, Song P, Lu X.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793497",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793157",
+      "topic": "AI Embeddings",
+      "title": "CardioTwin-AI: development and internal validation of a digital twin-based adaptive risk-aware learning framework for heart disease prediction",
+      "authors": "Saranraj J, D V.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793157",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793458",
+      "topic": "AI Embeddings",
+      "title": "Metformin regulates astrocyte autophagy via the AMPK/mTOR pathway to improve glutamate homeostasis and prevent cognitive impairment induced by cerebral ischemia-reperfusion",
+      "authors": "Dong F, Ming Z, Xiao Y, Yu Y, Zhao H, Li B, Lei D, Li Q, Wang S, Ji Y.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793458",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13793514",
+      "topic": "AI Embeddings",
+      "title": "A deep network embedding and robust statistical framework for multi-omics integration in rare diseases: a case study in PMM2-CDG",
+      "authors": "García-Criado F, Córdoba-Caballero J, Esteban-Martos A, Epifani F, Gallego D, Andreotti G, Paris D, Rojano E, Serrano M, Pérez B, Seoane-Zonjic P, Ranea J.",
+      "journal": "",
+      "date": "2026-11-25",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13793514",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43069142",
+      "topic": "Long-acting PrEP",
+      "title": "Swine in Biomedical Research 2024 Conference.",
+      "authors": "",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "",
+      "url": "https://doi.org/10.1186/s12919-026-00408-x",
       "source": "MED",
-      "doi": "10.1038/s41575-026-01276-8",
+      "doi": "10.1186/s12919-026-00408-x",
       "is_preprint": false,
       "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43077448",
-      "topic": "AI Embeddings",
-      "title": "Nutrition-Related Knowledge, Attitudes, and Practices of Oncology Nurses: A Cross-Sectional Study.",
-      "authors": "Su T, Chen S, Qi X, Luo W, Zhou T.",
-      "journal": "",
-      "date": "2026-11-24",
-      "abstract": "Nutritional support is an essential component of comprehensive cancer care, and oncology nurses serve as key implementers. Yet the nutrition-related knowledge, attitudes, and practices (KAP) of these nurses, as well as influencing factors, remain insufficiently explored. This study aimed to investigate nutrition-related KAP among clinical oncology nurses, analyze the impact of demographic and organizational variables, and propose targeted management strategies. A descriptive cross-sectional design was employed. Participants were oncology nurses recruited from three tertiary hospitals in China via convenience sampling. Data were collected through a self-administered structured questionnaire. Statistical analyses included descriptive statistics, independent samples t tests (with Bonferroni correction for multiple comparisons), one-way analysis of variance tests (followed by post hoc Tukey HSD [honest significant difference] tests), Spearman correlation analysis, and multiple linear regression. Of the 412 eligible nurses who were invited, 362 completed the questionnaire (response rate, 87.9%). The mean total KAP score was 71.2, with mean subscale scores of 23.1 for knowledge, 23.8 for attitudes, and 24.3 for practices; these subscale means represent, retrospectively, 72%, 79%, and 64% of maximum possible totals, suggesting a relative weakness in the practices dimension. Significant positive correlations were detected between total KAP scores and number of nutrition-related trainings in the past year, possession of nutrition-related professional certification, presence of a designated clinical dietitian in the department, number of years working in oncology, research project participation, professional title, and age. Multiple linear regression revealed seven independent predictors, with an adjusted R2 of 0.468, accounting for 46.8% of the total variance: number of nutrition-related trainings in the past year (standardized β = 0.30), number of years working in oncology (standardized β = 0.25), presence of a designated clinical dietitian (standardized β = 0.22), research project participation (standardized β = 0.20), possession of nutrition-related professional certification (standardized β = 0.18), professional title (standardized β = 0.15), and age (standardized β = 0.12). Post hoc power analysis (for a regression model with 11 predictors, α = 0.05, R2 = 0.468, N = 362) indicated a power greater than 0.99. The clinical oncology nurses in this study exhibited moderately high levels of nutrition-related KAP; yet a discernible knowledge-practice gap was evident. Improving the nutrition management capabilities of oncology nurses demands integrative strategies that combine ongoing individual professional development and robust institutional support. Key recommendations include implementing tiered training programs, embedding clinical dietitians in oncology care teams, promoting nurses' active research involvement, and developing specialized nutrition-related certification pathways.",
-      "url": "https://doi.org/10.1097/ajn.0000000000000432",
-      "source": "MED",
-      "doi": "10.1097/ajn.0000000000000432",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43076991",
-      "topic": "AI Embeddings",
-      "title": "An extended fluid-structure interaction framework for aortic hemodynamics and cardiovascular risk assessment using physics-informed neural networks.",
-      "authors": "Mahjoub H, Hassani K, Sheikhani A, Razeghi M.",
-      "journal": "",
-      "date": "2026-11-24",
-      "abstract": "Cardiovascular diseases remain a leading cause of mortality worldwide, with aortic pathologies posing significant risk due to their complex hemodynamic and biomechanical interactions. Accurate evaluation of intravascular pressure and wall mechanics is therefore essential for reliable risk assessment. In this study, we propose a hybrid fluid-structure interaction (FSI) and physics-informed neural network (PINN) framework for efficient and physics-consistent prediction of aortic hemodynamics. High-fidelity two-way FSI simulations are first performed to capture the coupled interaction between pulsatile blood flow and arterial wall deformation. The resulting spatiotemporal velocity and pressure fields are subsequently combined with the governing flow equations and associated physical constraints within a hybrid FSI-PINN framework for physics-informed pressure reconstruction. Rather than relying on fluid-only CFD datasets that neglect arterial wall compliance and its bidirectional coupling with blood flow, the proposed framework is trained on fully coupled fluid-structure interaction (FSI) simulations, thereby embedding fluid-solid interaction physics directly into the learning process. The trained PINN accurately reconstructs three-dimensional pressure fields across the aortic domain, achieving a maximum relative error below 1% compared to the FSI reference solution, while maintaining robustness under sparse and noisy data conditions. In addition to high accuracy, the proposed framework significantly reduces relative computational expense, enabling rapid inference without the need for repeated FSI simulations. These results demonstrate the potential of the FSI-PINN approach as a computationally efficient and physiologically consistent surrogate model for cardiovascular hemodynamic analysis and risk assessment.",
-      "url": "https://doi.org/10.1007/s10237-026-02147-6",
-      "source": "MED",
-      "doi": "10.1007/s10237-026-02147-6",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1376899",
-      "topic": "AI Embeddings",
-      "title": "Cross-Stream Self-Supervised Learning Inspired by Feature-Biased Visual Processing in the Brain",
-      "authors": "Han Z, Li Y, Edwards EM, Sereno AB.",
-      "journal": "",
-      "date": "2026-11-24",
-      "abstract": "Humans and other animals develop rich visual representations without explicit object-category labels. Self-supervised learning (SSL) offers a computational framework for studying how such representations emerge from visual experience. Many contrastive SSL models, such as SimCLR, learn by being robust to augmented views of the same image, which may fail to preserve visual attributes such as color and orientation. Inspired by feature-specific visual processing streams in the brain, we propose BioCLR, an SSL framework that uses color- and orientation-biased networks to guide representation learning. We combine BioCLR with SimCLR into a BioCLR hybrid model, pretrain it on ImageNet-100, and evaluate it on this dataset and four transfer datasets. In frozen linear evaluation, the BioCLR hybrid outperforms SimCLR across all datasets and mitigates negative transfer on a handwritten-character dataset. In limited-label fine-tuning, it outperforms SimCLR in most transfer conditions. Compared with the AugSelf and RotNet hybrids, which incorporate color and orientation information into SimCLR in other ways, the BioCLR hybrid shows the best overall performance, particularly in limited-label fine-tuning. Ablation analyses suggest that orientation guidance helps more than color guidance on these datasets, and that combining both generally improves frozen linear evaluation performance. Together, these findings suggest that incorporating feature-specific information into SSL can improve representation quality and model adaptability, and that the learning mechanism used to incorporate this information matters. For neuroscience, these results suggest that specialized visual streams in the brain may provide learning signals that guide visual representation learning without explicit supervision. For machine learning, they imply that principles of feature-biased processing in visual cortex may improve SSL.",
-      "url": "https://doi.org/10.64898/2026.11.09.765087",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.09.765087",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1376769",
-      "topic": "AI Embeddings",
-      "title": "Biomedical Text Embeddings Weakly Capture Chromatin Accessibility Similarity: A Large-Scale Measurement Study",
-      "authors": "Song JJ, Lukas BE, Dai Y.",
-      "journal": "",
-      "date": "2026-11-24",
-      "abstract": "Text metadata provides the most readily available description of public chromatin accessibility data, but it remains unclear how well it reflects similarity between the underlying chromatin profiles. We systematically compared pairwise cosine similarity matrices derived from 12 embedding types across 32,245 human assay for transposase-accessible chromatin with sequencing (ATAC-seq) experiments obtained from ChIP-Atlas. The embeddings were two chromatin representations (Atacformer and regulatory potential, RP), three biomedical language models and one general-domain model applied to full metadata and to cell-type names alone, term frequency-inverse document frequency (TF-IDF), and a random baseline. We measured agreement using Spearman rank correlation, Mantel permutation tests, and top-k neighborhood overlap in the similarity matrices. Across the full dataset, text-derived similarities correlated with Atacformer similarities at ρ=0.20 to 0.30. This text-Atacformer agreement was largely driven by experiments with relatively few called peaks, which were enriched for promoter regions (median 69 to 75% within 1 kb of a transcription start site for experiments with 100 to 10,000 peaks), resulting in similar chromatin representations regardless of cell type. Among the 17,232 experiments with at least 5,000 peaks, the text-Atacformer correlations dropped substantially (ρ=0.011 to 0.016), with less than 0.1% of top-5 neighbors shared. Atacformer itself barely tracked cell type in this subset, with only 1.3% of an experiment's top-5 neighbors sharing its cell-type label (0.8% expected by chance). In contrast, text-RP agreement was weak but persisted (ρ=0.06 to 0.10; 28 to 35% of top-5 neighbors shared), suggesting that both capture coarse cell-type identity. Most of the text-derived similarity signal in the full dataset came from sample titles, which mainly identify the submission and sequencing platform. Notably, TF-IDF matched or exceeded the language models in every correlation comparison. These findings indicate that text metadata is at best a coarse proxy for chromatin accessibility similarity, and highlight the importance of controlling for peak count when comparing chromatin representations across public repositories.",
-      "url": "https://doi.org/10.64898/2026.11.23.768614",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.23.768614",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1376644",
-      "topic": "AI Embeddings",
-      "title": "VenusPheno: Transfer-Guided Task Grouping for Multi-Task Bacterial Phenotype Prediction",
-      "authors": "Yuan J, Zhou B, Hong L.",
-      "journal": "",
-      "date": "2026-11-24",
-      "abstract": "Understanding how genomic information gives rise to bacterial phenotypes is a fundamental problem in biology. Genome-level prediction requires models that integrate information from thousands of proteins, while related phenotypes may share genomic signals. However, not all phenotype tasks benefit from being learned together, and suitable task groups can be difficult to define from biological knowledge alone. We present VenusPheno, a framework that combines multiple-instance learning over pretrained ProtT5 protein embeddings with transfer-guided multi-task learning. An attention-based Set Transformer aggregates the proteins in each genome into a genome-level representation. We evaluate VenusPheno on 14 binary phenotype tasks from 12,178 bacterial genomes using genus-disjoint splits. Under single-task training, VenusPheno outperforms computational, conventional machine-learning, and deep-learning baselines in terms of mean balanced accuracy. We then use leave-one-task-out analysis to estimate directed transfer relationship between phenotypes, revealing both beneficial and detrimental interactions. Grouping tasks based on these transfer relationships further improves mean balanced accuracy over independent training and joint training of all tasks. Although inferred without biological priors, the resulting groups are consistent with biologically plausible relationships among phenotypes. VenusPheno therefore combines accurate phenotype prediction with a data-driven strategy for determining which tasks should be learned together. The PyTorch implementation is publicly available at https://github.com/YJinling/VenusPheno.",
-      "url": "https://doi.org/10.64898/2026.11.24.768817",
-      "source": "PPR",
-      "doi": "10.64898/2026.11.24.768817",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1376491",
-      "topic": "AI Embeddings",
-      "title": "Evaluating students’ cognitive processes and eye movements when assessing a clinical image",
-      "authors": "Watt NA, Hockley N, Connor HRM, Douglass AG, Armitage JA.",
-      "journal": "",
-      "date": "2026-11-24",
-      "abstract": "<title>Abstract</title>  <p>Purpose:  Developing healthcare students’ cognitive and metacognitive processes to levels approaching those of experienced healthcare practitioners during clinical assessments remains an educational challenge. Integrating gaze tracking within a cognitive apprenticeship model may support this development by externalising expert visual search strategies, enabling students to critically evaluate their own. To evaluate this approach, this study investigated whether undergraduate optometry students demonstrate systematic visual search patterns when examining optic nerve head (ONH) images, and whether a cognitive apprenticeship-based educational intervention could shift students’ gaze strategies towards those of an expert and improve clinical recording completeness and accuracy. <h4>Methods:</h4> A prospective intervention study was conducted with Deakin University Master of Optometry pre-clinical students (n = 168) from the 2021 and 2023 cohorts. Gaze-tracking technology was used to examine students' visual search patterns when analysing high-resolution digital ONH images. Changes in visual search patterns, clinical recording completeness and recording accuracy were evaluated before and after an educational intervention. <h4>Results:</h4> Prior to the educational intervention, a mean of 19.9% of students demonstrated a structured ONH assessment consistent with the expert approach, increasing significantly to 74.3% following the intervention (p < 0.001). Clinical recording completeness and accuracy also improved significantly across most clinical signs post-intervention (p < 0.001). However, despite these improvements, accuracy remained low among the pre-clinical students, with mean scores below 50% when compared with graduating standards. <h4>Conclusion:</h4> Embedding gaze tracking within a cognitive apprenticeship framework may provide quantifiable insight into students’ cognitive processing while supporting the development of more expert-like clinical decision-making. Shaping students’ visual search patterns during pre-clinical training to closely reflect those of experienced practitioners could strengthen clinical skill development before clinical placement and entry into practice. However, further work is needed to improve the quality and accuracy of students’ clinical recording, a core competency essential for safe and effective patient care.</p>",
-      "url": "https://doi.org/10.21203/rs.3.rs-11672967/v1",
-      "source": "PPR",
-      "doi": "10.21203/rs.3.rs-11672967/v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PPR:PPR1375673",
-      "topic": "AI Embeddings",
-      "title": "Deep Mechanics Priors for Data-Driven Learning: A Case Study on FEM",
-      "authors": "Zhong L, Huo S, Zhao Y, Cao Y, Wang G, Zhang Q.",
-      "journal": "",
-      "date": "2026-11-24",
-      "abstract": "Mechanics knowledge should be incorporated into AI models in AI for computational mechanics. However, existing research mostly remains at shallow forms such as governing equation residuals, where mechanical knowledge only plays secondary roles such as guidance, correction, and soft constraints, and thus has not been fully exploited. This paper proposes a data-driven finite element method that applies two layers of deep mechanics priors to the analytical reconstruction of element stiffness matrices, simultaneously achieving the embedding of physical constraints and a great simplification of the prediction parameter scale. The first layer ensures the physical plausibility of the element stiffness matrix through three physical constraints: rigid-body zero-energy, constant-strain consistency, and energy stability. The second layer parameterizes the element stiffness matrix in modal space using parameters with clear physical interpretations, which are divided into fixed parameters completely determined by element geometry and material parameters, and independent parameters predicted by AI models. Based on these priors, a parameterized analytical expression of the element stiffness matrix is derived, so that the AI model only needs to predict a small number of physically meaningful independent parameters to reconstruct high-quality element stiffness matrices satisfying the required physical constraints, thereby realizing the data-driven finite element method. The derivation is not tied to a particular element type and is applicable to both basic elements and high-order elements, providing a universal and easily generalizable methodological paradigm for the prediction of element stiffness matrices. Numerical examples demonstrate that data-driven elements strictly satisfy the three types of physical constraints in rigid-body zero-energy mode tests and patch tests, and are physically plausible. Furthermore, in the MacNeal cantilever beam, Kirsch perforated plate, and Saint-Venant circular rod torsion examples, data-driven elements agree well with standard integration elements under bending, mesh distortion, stress concentration, and mesh refinement conditions, with convergence orders and errors consistent with conventional elements, fully retaining the numerical characteristics of finite element methods.",
-      "url": "https://doi.org/10.20944/preprints202611.2401.v1",
-      "source": "PPR",
-      "doi": "10.20944/preprints202611.2401.v1",
-      "is_preprint": true,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43002180",
-      "topic": "AI Embeddings",
-      "title": "Integrin-guided development of defined supramolecular hydrogels for human kidney tubuloid culture.",
-      "authors": "Roskothen-Shevchuk AJC, Veenbrink VA, Rijns L, Bakker B, Pou Casellas C, Drost J, Verhaar MC, Dankers PYW, Slaats GG.",
-      "journal": "",
-      "date": "2026-11-24",
-      "abstract": "Tubuloids are epithelial organoids derived from tissue or urine that model tubular nephron segments of the kidney. Their use in preclinical research is limited by dependence on basement membrane extract (BME), a batch-variable animal-derived matrix that reduces reproducibility. Here, we evaluate defined supramolecular ureido-pyrimidinone (UPy) hydrogels as an alternative matrix for tubuloid culture. Re-analysis of a published tubuloid single-cell RNA-sequencing dataset guides selection of two ligands for UPy functionalization to support cell-matrix interactions: the αVβ3-binding cyclic RGD peptide (cRGDfK) and the laminin-derived IKVAV motif. Tubuloids are cultured in UPy gels functionalized with UPy-IKVAV, UPy-cRGDfK, or both, and compared with BME. UPy hydrogels and BME are comparably soft and predominantly elastic. Across experiments, tubuloid lines from six donors are evaluated by confocal imaging, gene expression analysis, and brightfield imaging. UPy-IKVAV hydrogels support cystic tubuloid formation, most closely resemble BME in morphology and lumen formation, and maintain a kidney marker profile comparable to BME after four days, whereas UPy-cRGDfK is associated with more irregular morphologies. Integrin β1 blockade disrupts lumen integrity in BME and UPy-IKVAV hydrogels, supporting a role for β1-mediated cell-matrix interactions in tubuloid organization. UPy-IKVAV hydrogels therefore support viable cystic tubuloids and show promise as a robust matrix for preclinical tubulopathy research.",
-      "url": "https://doi.org/10.1039/d6bm01010e",
-      "source": "MED",
-      "doi": "10.1039/d6bm01010e",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13789479",
-      "topic": "AI Embeddings",
-      "title": "Renal cell carcinoma organoids: establishment, applications, and clinical translation—current evidence, technical challenges, and future directions",
-      "authors": "Feng H, Wang S, Zhao J.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13789479",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13785811",
-      "topic": "AI Embeddings",
-      "title": "Mechanobiology of osteoarthritis: from mechanical-dose sensing to organelle homeostasis and the emerging concept of mechanical memory",
-      "authors": "Dong S, Wang Z, Zhuang Y, Hu X, Liu S, Jia X, Wang T, Xi Y, Zhang Y.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13785811",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13785285",
-      "topic": "AI Embeddings",
-      "title": "High-risk pancreatic cancer pathology reveals a B3GNT3-associated glycosylation program",
-      "authors": "Lin J, Chen C, Li J, Pan Y.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13785285",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13785236",
-      "topic": "AI Embeddings",
-      "title": "From rule application to understanding the parties: scenario-based learning and self-reported general empathy among law students",
-      "authors": "Gu X, Yang W.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13785236",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13785298",
-      "topic": "AI Embeddings",
-      "title": "From eminence to evidence to intelligence-based medicine: optimising artificial intelligence to disrupt dogma in emergency departments",
-      "authors": "Tran V.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13785298",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13785295",
-      "topic": "AI Embeddings",
-      "title": "Clinicopathological and molecular characteristics of adult cerebellar malignant gliomas: a 25-year single-center experience",
-      "authors": "Fukami S, Nagai K, Onodera S, Akimoto J, Umezu T, Kuroda M, Kohno M.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13785295",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13785679",
-      "topic": "AI Embeddings",
-      "title": "A STING-Dual-Activating Nanoadjuvant Synergizes with Brachytherapy to Potentiate Antitumor Immunity in Triple-Negative Breast Cancer",
-      "authors": "Zhao S, Li W, Bao J, Zhang Z, Chen Y, Wu X, Zhang X, Du F, Zhang W, Chen B.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13785679",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13788444",
-      "topic": "AI Embeddings",
-      "title": "Proteogenomic Signatures in Complex Diseases: Implications for Targeted Interventions",
-      "authors": "Sharma P, Sharma R, Uniya U, Reddy E, Nampalliwar A, Padmavathy K, Malek R.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13788444",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43075604",
-      "topic": "AI Embeddings",
-      "title": "Refractive-index-matching protocol for polarization-sensitive optical coherence tomography.",
-      "authors": "Wan J, Clickner CR, Blanke N, Magnain C, Fischl B, Wang H.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "<h4>Significance</h4>Polarization-sensitive optical coherence tomography (PSOCT) provides the scattering and polarization contrast necessary to map <i>ex vivo</i> brain fiber organization. While refractive index (RI) matching with 2,2'-thiodiethanol previously enhanced this contrast by improving the signal-to-noise ratio, further optimization is required for extended imaging workflows.<h4>Aim</h4>This study builds on previous work to develop protocols that optimize polarization signal quality and imaging depth, which are essential for extended serial sectioning PSOCT imaging acquisition.<h4>Approach</h4>Three tissue processing protocols were evaluated: RI matching before agarose embedding, RI matching after embedding, and RI matching both before and after embedding. PSOCT-derived intensity, retardance, and optic axis modalities were analyzed. The performance of two RI-matching agents, EasyIndex and glycerol, was also compared.<h4>Results</h4>RI matching both before and after embedding provided the best overall polarization signal quality and depth penetration, reaching approximately 1000  μm in gray matter and 800  μm in white matter. The two RI-matching agents, EasyIndex and glycerol, showed comparable imaging quality. The optimal protocol maintained good intensity and polarization contrast during 10 days of serial imaging of a brainstem sample.<h4>Conclusions</h4>These results suggest that integrating index matching both before and after agarose embedding is a stable and cost-effective RI-matching strategy for extended serial-sectioning PSOCT imaging of <i>ex vivo</i> brain tissue.",
-      "url": "https://doi.org/10.1117/1.jbo.31.11.116002",
-      "source": "MED",
-      "doi": "10.1117/1.jbo.31.11.116002",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43075581",
-      "topic": "AI Embeddings",
-      "title": "Multimodal whole slide hyperspectral microscopic imaging system with automated histologic data processing pipeline.",
-      "authors": "Ma L, Rathgeb A, Rudro R, Ha A, Fei B.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "<h4>Significance</h4>Hyperspectral imaging (HSI) is an emerging modality with growing relevance in digital pathology because it provides rich spatial and spectral information beyond conventional RGB imaging. The rapid adoption of machine learning and foundation models has intensified the demand for large-scale, high-quality microscopic datasets. However, the lack of automated whole-slide HSI platforms and standardized preprocessing workflows remains a major barrier to dataset generation and downstream computational analysis.<h4>Aim</h4>The goal of this study is to develop a multimodal whole-slide hyperspectral microscopic imaging system and a fully automated preprocessing pipeline designed to enable large-scale acquisition and preparation of hyperspectral histologic data for benchmark dataset construction.<h4>Approach</h4>The proposed platform is designed for a flexible integration of multiple imaging modalities, including snapshot HSI, Snapscan HSI, and color imaging. The system is comprised of an inverted brightfield microscope, a motorized stage, a hyperspectral camera, a color camera, and an in-house desktop software platform for synchronized device control and automated whole-slide scanning. To support robust high-throughput acquisition, we developed efficient methods for autofocus and multimodal image handling across the different camera types. Beyond image acquisition, we further developed a fully automated preprocessing pipeline for hyperspectral histologic images. Given a high-resolution digitized whole-slide histologic image, corresponding annotation, and hyperspectral image tiles acquired at arbitrary magnification, the pipeline performs cross-modal registration and prepares the data for downstream analysis.<h4>Results</h4>The developed system enables automated, multimodal whole slide imaging with flexible hardware configuration and integrated software control. Using the proposed platform and preprocessing pipeline, we established a benchmark hyperspectral histologic dataset comprising more than 350 whole-slide images from human head and neck cancer specimens.<h4>Conclusions</h4>The proposed system and preprocessing pipeline provide a generalizable framework for fast, automated acquisition and preparation of hyperspectral histologic images. This work addresses key practical bottlenecks in hyperspectral digital pathology and supports the development of data-driven computational tools for automated histologic analysis and diagnosis.",
-      "url": "https://doi.org/10.1117/1.jbo.31.11.116503",
-      "source": "MED",
-      "doi": "10.1117/1.jbo.31.11.116503",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43075510",
-      "topic": "AI Embeddings",
-      "title": "Prediction modeling from an allostatic load index derived from electronic health record data with informatively missing biomarkers: a case study.",
-      "authors": "Weavil GE, Rigdon J, Lotspeich SC.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "<h4>Objective</h4>Embedding a standardized measure of physiologic stress in electronic health records (EHRs) could be instrumental to preventative care. The allostatic load index (ALI), calculated from ten biomarkers across three body systems, offers a promising snapshot of cumulative strain. The ALI can be calculated from EHR data, but many components are missing, since not all patients undergo all tests.<h4>Materials and methods</h4>Using statistical modeling and machine learning, EHR data for 707 patients from a large academic health system (17% of whom were hospitalized), were used to predict in-patient hospitalization from ALI, controlling for age and sex. Various methods were evaluated to fill in information gaps for patients' missing ALI components, including summary measures combining components or using them separately. Performance was measured using various discrimination, calibration, and hybrid metrics.<h4>Results</h4>Discriminative performance was fair to low and calibration low to moderate for both model types. Brier scores indicated good overall accuracy across models. Summary measure approaches performed similarly with respect to most metrics. Separate component methods, especially pattern submodels, showed potential improvement over summary measures in the full sample, but their advantages did not persist under cross-validation.<h4>Discussion</h4>Most summary measure models had moderate discrimination and calibration ability. When cross-validated, separate component models appeared overfit and performed similarly to (or worse than) summary measures. Researchers may want to prioritize whichever summary measure was most interpretable or appropriate for their beliefs about missingness.<h4>Conclusion</h4>In general, how we incorporated missing ALI components did not have much impact on prediction when using the summary measures but might if the components were included separately in the models. Next steps include building upon these findings to develop refined prediction models from EHR-derived ALI to improve performance and enhance clinical relevance.",
-      "url": "https://doi.org/10.1093/jamiaopen/ooag220",
-      "source": "MED",
-      "doi": "10.1093/jamiaopen/ooag220",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
+        "Long-acting PrEP"
       ]
     },
     {
@@ -2172,22 +2188,6 @@
       "url": "https://doi.org/10.1016/j.cmi.2026.10.011",
       "source": "MED",
       "doi": "10.1016/j.cmi.2026.10.011",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PMC:PMC13659095",
-      "topic": "Long-acting PrEP",
-      "title": "Patient-derived stem cell models of brain endothelial-neuron interactions in early course psychosis",
-      "authors": "Altunsu D, Demirlek C, Nicholson J, Stiltner B, Trotti R, Raymond N, Lee Y, Rahman R, Stone W, Karmacharya R, Lizano P.",
-      "journal": "",
-      "date": "2026-10-16",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13659095",
-      "source": "PMC",
-      "doi": "",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
