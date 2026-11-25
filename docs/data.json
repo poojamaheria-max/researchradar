@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T00:53:15.933806+00:00",
+  "updated": "2026-11-25T07:00:27.293645+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -781,6 +781,86 @@
       "source": "MED",
       "doi": "10.1109/tbme.2026.3669377",
       "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1376899",
+      "topic": "AI Embeddings",
+      "title": "Cross-Stream Self-Supervised Learning Inspired by Feature-Biased Visual Processing in the Brain",
+      "authors": "Han Z, Li Y, Edwards EM, Sereno AB.",
+      "journal": "",
+      "date": "2026-11-24",
+      "abstract": "Humans and other animals develop rich visual representations without explicit object-category labels. Self-supervised learning (SSL) offers a computational framework for studying how such representations emerge from visual experience. Many contrastive SSL models, such as SimCLR, learn by being robust to augmented views of the same image, which may fail to preserve visual attributes such as color and orientation. Inspired by feature-specific visual processing streams in the brain, we propose BioCLR, an SSL framework that uses color- and orientation-biased networks to guide representation learning. We combine BioCLR with SimCLR into a BioCLR hybrid model, pretrain it on ImageNet-100, and evaluate it on this dataset and four transfer datasets. In frozen linear evaluation, the BioCLR hybrid outperforms SimCLR across all datasets and mitigates negative transfer on a handwritten-character dataset. In limited-label fine-tuning, it outperforms SimCLR in most transfer conditions. Compared with the AugSelf and RotNet hybrids, which incorporate color and orientation information into SimCLR in other ways, the BioCLR hybrid shows the best overall performance, particularly in limited-label fine-tuning. Ablation analyses suggest that orientation guidance helps more than color guidance on these datasets, and that combining both generally improves frozen linear evaluation performance. Together, these findings suggest that incorporating feature-specific information into SSL can improve representation quality and model adaptability, and that the learning mechanism used to incorporate this information matters. For neuroscience, these results suggest that specialized visual streams in the brain may provide learning signals that guide visual representation learning without explicit supervision. For machine learning, they imply that principles of feature-biased processing in visual cortex may improve SSL.",
+      "url": "https://doi.org/10.64898/2026.11.09.765087",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.09.765087",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1376769",
+      "topic": "AI Embeddings",
+      "title": "Biomedical Text Embeddings Weakly Capture Chromatin Accessibility Similarity: A Large-Scale Measurement Study",
+      "authors": "Song JJ, Lukas BE, Dai Y.",
+      "journal": "",
+      "date": "2026-11-24",
+      "abstract": "Text metadata provides the most readily available description of public chromatin accessibility data, but it remains unclear how well it reflects similarity between the underlying chromatin profiles. We systematically compared pairwise cosine similarity matrices derived from 12 embedding types across 32,245 human assay for transposase-accessible chromatin with sequencing (ATAC-seq) experiments obtained from ChIP-Atlas. The embeddings were two chromatin representations (Atacformer and regulatory potential, RP), three biomedical language models and one general-domain model applied to full metadata and to cell-type names alone, term frequency-inverse document frequency (TF-IDF), and a random baseline. We measured agreement using Spearman rank correlation, Mantel permutation tests, and top-k neighborhood overlap in the similarity matrices. Across the full dataset, text-derived similarities correlated with Atacformer similarities at ρ=0.20 to 0.30. This text-Atacformer agreement was largely driven by experiments with relatively few called peaks, which were enriched for promoter regions (median 69 to 75% within 1 kb of a transcription start site for experiments with 100 to 10,000 peaks), resulting in similar chromatin representations regardless of cell type. Among the 17,232 experiments with at least 5,000 peaks, the text-Atacformer correlations dropped substantially (ρ=0.011 to 0.016), with less than 0.1% of top-5 neighbors shared. Atacformer itself barely tracked cell type in this subset, with only 1.3% of an experiment's top-5 neighbors sharing its cell-type label (0.8% expected by chance). In contrast, text-RP agreement was weak but persisted (ρ=0.06 to 0.10; 28 to 35% of top-5 neighbors shared), suggesting that both capture coarse cell-type identity. Most of the text-derived similarity signal in the full dataset came from sample titles, which mainly identify the submission and sequencing platform. Notably, TF-IDF matched or exceeded the language models in every correlation comparison. These findings indicate that text metadata is at best a coarse proxy for chromatin accessibility similarity, and highlight the importance of controlling for peak count when comparing chromatin representations across public repositories.",
+      "url": "https://doi.org/10.64898/2026.11.23.768614",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.23.768614",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1376644",
+      "topic": "AI Embeddings",
+      "title": "VenusPheno: Transfer-Guided Task Grouping for Multi-Task Bacterial Phenotype Prediction",
+      "authors": "Yuan J, Zhou B, Hong L.",
+      "journal": "",
+      "date": "2026-11-24",
+      "abstract": "Understanding how genomic information gives rise to bacterial phenotypes is a fundamental problem in biology. Genome-level prediction requires models that integrate information from thousands of proteins, while related phenotypes may share genomic signals. However, not all phenotype tasks benefit from being learned together, and suitable task groups can be difficult to define from biological knowledge alone. We present VenusPheno, a framework that combines multiple-instance learning over pretrained ProtT5 protein embeddings with transfer-guided multi-task learning. An attention-based Set Transformer aggregates the proteins in each genome into a genome-level representation. We evaluate VenusPheno on 14 binary phenotype tasks from 12,178 bacterial genomes using genus-disjoint splits. Under single-task training, VenusPheno outperforms computational, conventional machine-learning, and deep-learning baselines in terms of mean balanced accuracy. We then use leave-one-task-out analysis to estimate directed transfer relationship between phenotypes, revealing both beneficial and detrimental interactions. Grouping tasks based on these transfer relationships further improves mean balanced accuracy over independent training and joint training of all tasks. Although inferred without biological priors, the resulting groups are consistent with biologically plausible relationships among phenotypes. VenusPheno therefore combines accurate phenotype prediction with a data-driven strategy for determining which tasks should be learned together. The PyTorch implementation is publicly available at https://github.com/YJinling/VenusPheno.",
+      "url": "https://doi.org/10.64898/2026.11.24.768817",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.24.768817",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1376491",
+      "topic": "AI Embeddings",
+      "title": "Evaluating students’ cognitive processes and eye movements when assessing a clinical image",
+      "authors": "Watt NA, Hockley N, Connor HRM, Douglass AG, Armitage JA.",
+      "journal": "",
+      "date": "2026-11-24",
+      "abstract": "<title>Abstract</title>  <p>Purpose:  Developing healthcare students’ cognitive and metacognitive processes to levels approaching those of experienced healthcare practitioners during clinical assessments remains an educational challenge. Integrating gaze tracking within a cognitive apprenticeship model may support this development by externalising expert visual search strategies, enabling students to critically evaluate their own. To evaluate this approach, this study investigated whether undergraduate optometry students demonstrate systematic visual search patterns when examining optic nerve head (ONH) images, and whether a cognitive apprenticeship-based educational intervention could shift students’ gaze strategies towards those of an expert and improve clinical recording completeness and accuracy. <h4>Methods:</h4> A prospective intervention study was conducted with Deakin University Master of Optometry pre-clinical students (n = 168) from the 2021 and 2023 cohorts. Gaze-tracking technology was used to examine students' visual search patterns when analysing high-resolution digital ONH images. Changes in visual search patterns, clinical recording completeness and recording accuracy were evaluated before and after an educational intervention. <h4>Results:</h4> Prior to the educational intervention, a mean of 19.9% of students demonstrated a structured ONH assessment consistent with the expert approach, increasing significantly to 74.3% following the intervention (p < 0.001). Clinical recording completeness and accuracy also improved significantly across most clinical signs post-intervention (p < 0.001). However, despite these improvements, accuracy remained low among the pre-clinical students, with mean scores below 50% when compared with graduating standards. <h4>Conclusion:</h4> Embedding gaze tracking within a cognitive apprenticeship framework may provide quantifiable insight into students’ cognitive processing while supporting the development of more expert-like clinical decision-making. Shaping students’ visual search patterns during pre-clinical training to closely reflect those of experienced practitioners could strengthen clinical skill development before clinical placement and entry into practice. However, further work is needed to improve the quality and accuracy of students’ clinical recording, a core competency essential for safe and effective patient care.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-11672967/v1",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11672967/v1",
+      "is_preprint": true,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PPR:PPR1375673",
+      "topic": "AI Embeddings",
+      "title": "Deep Mechanics Priors for Data-Driven Learning: A Case Study on FEM",
+      "authors": "Zhong L, Huo S, Zhao Y, Cao Y, Wang G, Zhang Q.",
+      "journal": "",
+      "date": "2026-11-24",
+      "abstract": "Mechanics knowledge should be incorporated into AI models in AI for computational mechanics. However, existing research mostly remains at shallow forms such as governing equation residuals, where mechanical knowledge only plays secondary roles such as guidance, correction, and soft constraints, and thus has not been fully exploited. This paper proposes a data-driven finite element method that applies two layers of deep mechanics priors to the analytical reconstruction of element stiffness matrices, simultaneously achieving the embedding of physical constraints and a great simplification of the prediction parameter scale. The first layer ensures the physical plausibility of the element stiffness matrix through three physical constraints: rigid-body zero-energy, constant-strain consistency, and energy stability. The second layer parameterizes the element stiffness matrix in modal space using parameters with clear physical interpretations, which are divided into fixed parameters completely determined by element geometry and material parameters, and independent parameters predicted by AI models. Based on these priors, a parameterized analytical expression of the element stiffness matrix is derived, so that the AI model only needs to predict a small number of physically meaningful independent parameters to reconstruct high-quality element stiffness matrices satisfying the required physical constraints, thereby realizing the data-driven finite element method. The derivation is not tied to a particular element type and is applicable to both basic elements and high-order elements, providing a universal and easily generalizable methodological paradigm for the prediction of element stiffness matrices. Numerical examples demonstrate that data-driven elements strictly satisfy the three types of physical constraints in rigid-body zero-energy mode tests and patch tests, and are physically plausible. Furthermore, in the MacNeal cantilever beam, Kirsch perforated plate, and Saint-Venant circular rod torsion examples, data-driven elements agree well with standard integration elements under bending, mesh distortion, stress concentration, and mesh refinement conditions, with convergence orders and errors consistent with conventional elements, fully retaining the numerical characteristics of finite element methods.",
+      "url": "https://doi.org/10.20944/preprints202611.2401.v1",
+      "source": "PPR",
+      "doi": "10.20944/preprints202611.2401.v1",
+      "is_preprint": true,
       "topics": [
         "AI Embeddings"
       ]
@@ -2242,5 +2322,7 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    "Long-acting PrEP: HTTP Error 503: Service Temporarily Unavailable"
+  ]
 }
