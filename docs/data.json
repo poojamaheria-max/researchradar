@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T07:00:27.293645+00:00",
+  "updated": "2026-11-25T13:03:18.848863+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -674,6 +674,22 @@
       ]
     },
     {
+      "id": "MED:42878733",
+      "topic": "AI Embeddings",
+      "title": "Reversal of T1D and Rapid Reduction of β-Cell Stress by IL-10-Dependent MDSCs Induced by TLR4-Ab.",
+      "authors": "Martin NK, Heuer LS, Urbano IM, Cohen SL, Rojas M, Zhang W, Bednar KJ, Cummings BP, Ridgway WM.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "Type 1 diabetes (T1D) is caused by the autoimmune destruction of insulin-producing pancreatic β-cells. We published that an IgG3 Toll-like receptor 4 (TLR4)/myeloid differentiation factor 2 (MD2) agonistic antibody (TLR4-Ab) reversed acute T1D in NOD mice by induction of myeloid-derived suppressor cells (MDSCs), but the mechanism of MDSC induction was unclear. Here we show that TLR4-Ab reversal of acute T1D induced profound intraislet immune and endocrine changes in single-cell RNA sequencing compared with controls. Islet-infiltrating S100A9+ cells significantly upregulated 18 genes associated with MDSCs, including Nos2, the gene responsible for inducible nitric oxide synthase (iNOS) production. TLR4-Ab treatment induced significant changes in β-cell gene expression, with markedly reduced endoplasmic reticulum stress and reduced unfolded protein response. Bone marrow (BM) cells cultured with TLR4-Ab, but not granulocyte macrophage-colony-stimulating factor or lipopolysaccharide, induced MDSCs that suppressed T cells, and blockade of iNOS activity eliminated T-cell suppression. Blockade of interleukin 10 (IL-10) signaling during BM differentiation prevented T-cell suppression induced by TLR4-Ab-MDSC, demonstrating a central role for IL-10 in TLR4-Ab-mediated MDSC development. Reporter cell assays demonstrated predominant endosomal signaling with TLR4-Ab, and soluble (not plate-bound) TLR4-Ab was necessary for MDSC induction. TLR4-Ab treatment of T1D therefore induces an IL-10-dependent immunoregulatory MDSC response, which significantly downregulates β-cell stress.<h4>Article highlights</h4>Therapy with IgG3 Toll-like receptor 4 (TLR4)/myeloid differentiation factor 2 (MD2) agonistic antibody (TLR4-Ab) is a novel approach to type 1 diabetes (T1D) immunotherapy that targets the innate immune system by inducing immunoregulatory myeloid-derived suppressor cells (MDSCs). We sought to define the mechanisms by which TLR4-Ab induces MDSCs and how they reverse T1D. TLR4-Ab induction of MDSCs requires interleukin 10 signaling in the bone marrow, and MDSCs mediate suppression via inducible nitric oxide synthase. Induction of immunoregulatory MDSCs results in profound downregulation of β-cell endoplasmic reticulum stress and unfolded protein response associated with acute T1D. Establishing mechanisms by which TLR4-Ab reverses acute T1D defines new therapeutic pathways for human T1D that target innate immunity to restore immune tolerance.",
+      "url": "https://doi.org/10.2337/db26-0636",
+      "source": "MED",
+      "doi": "10.2337/db26-0636",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:42865214",
       "topic": "AI Embeddings",
       "title": "An Explainable Self-Supervised Temporal Transformer for Participant-Level Classification of Depressive Symptoms From Resting-State EEG.",
@@ -754,16 +770,16 @@
       ]
     },
     {
-      "id": "MED:42562773",
+      "id": "MED:41973735",
       "topic": "AI Embeddings",
-      "title": "A phosphorylation‑independent monoclonal antibody improves detection of TDP‑43 pathology across frontotemporal lobar degeneration, amyotrophic lateral sclerosis, and limbic predominant age related TDP‑43 encephalopathy neuropathological change.",
-      "authors": "Zheng X, Zhang N, Wang L, Zhao H, Liu C, Wang J, Zhao W, Zhao J, Yang P, Robinson L, Hunt L, Lokken A, Lin L, Nelson PT, Kofler J, Xie H, Xia H, Mao Q.",
+      "title": "Nonmedical Factors That Influence Diabetes Complications and Multilevel Strategies to Reduce Disparities and Improve Outcomes in the U.S.",
+      "authors": "San Diego ERN, Aceves B, Gallo LC, McCurley JL, Philis-Tsimikas A.",
       "journal": "",
       "date": "2026-12-01",
-      "abstract": "TDP-43 proteinopathies encompass frontotemporal lobar degeneration with TDP-43 pathology (FTLD-TDP), amyotrophic lateral sclerosis (ALS-TDP), and limbic predominant age related TDP-43 encephalopathy neuropathological change (LATE-NC). These proteinopathies exhibit subtype-specific aggregate architectures that may constrain epitope accessibility in situ. We compared a phosphorylation-independent monoclonal antibody targeting a C-terminal epitope (MAb No. 9) with the phospho-specific pSer409/410 antibody to determine whether its signal relates to regional neurodegeneration in a multicenter autopsy cohort spanning FTLD-TDP types A-C, ALS-TDP, and Alzheimer disease neuropathologic change (ADNC) with or without LATE-NC. Immunolabeling with MAb No. 9 detected pathological TDP-43 across all diagnostic groups with enhanced labeling of dystrophic neurites and thread/dot-like pathology in FTLD-TDP types A/B and in ALS-TDP. MAb No. 9 performance was equivalent to p409/410 in FTLD-TDP type C. In ADNC with stage 3 LATE-NC, MAb No. 9 revealed a greater limbic burden and labeled both α type and β type inclusions. Dual label immunofluorescence demonstrated strong spatial overlap with p409/410 but additionally highlighted fine punctate pathology. MAb No. 9 burden in FTLD-TDP type A correlated strongly with cortical neurodegeneration but showed weaker and variable associations, particularly in severely atrophic cortex. These findings indicate that filament architecture governs C-terminal epitope accessibility and that MAb No. 9 may be a complementary tool for subtype refinement, clinicopathologic correlation and translational biomarker development in TDP-43 proteinopathies.",
-      "url": "https://doi.org/10.1093/jnen/nlag085",
+      "abstract": "The development of diabetes complications is complex and multifactorial. Although advances in pharmacologic interventions and technology have improved diabetes management, nonmedical factors continue to drive persistent disparities in complications across the U.S. Using a socioecological framework, we examine how nonmedical factors operating at individual, organizational, community, and policy levels contribute to rising complications rates. We synthesize multilevel evidence-based interventions, real-world examples, and emerging opportunities that address these drivers. Approaches include culturally and linguistically tailored, digitally delivered diabetes education; systematic screening and documentation of social drivers within health care systems; use of health information systems technology; training for health care providers; multisector community partnerships that leverage social care resources; and policy incentives that integrate medical and social care. Coordinated interventions across socioecological levels are essential to move beyond traditional clinical approaches toward equitable, sustainable diabetes care that reduces complications.",
+      "url": "https://doi.org/10.2337/dci25-0091",
       "source": "MED",
-      "doi": "10.1093/jnen/nlag085",
+      "doi": "10.2337/dci25-0091",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -780,6 +796,54 @@
       "url": "https://doi.org/10.1109/tbme.2026.3669377",
       "source": "MED",
       "doi": "10.1109/tbme.2026.3669377",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43078974",
+      "topic": "AI Embeddings",
+      "title": "Human factors engineering for AI-assisted endoscopy: a framework for intelligent interface design.",
+      "authors": "Brenner TA, Becic I, Roberts SC, Akshintala VS, Rajpurkar P, Rodman A, Berzin TM.",
+      "journal": "",
+      "date": "2026-11-24",
+      "abstract": "Artificial intelligence (AI) is transforming gastrointestinal endoscopy, enabling real-time detection, diagnosis and workflow optimization. Yet, the clinical impact of AI depends as much on user-interface design as on algorithmic accuracy. Poorly designed systems can erode situational awareness, increase cognitive load and diminish trust. Drawing on human factors engineering, we outline a framework for aligning AI information delivery with the perceptual and cognitive processes of the endoscopist. We categorize AI outputs into three functional domains: perceptual augmentation, including computer-aided detection tools that highlight visual anomalies; interpretive and procedural decision support, encompassing computer-aided diagnosis and emerging interventional guidance systems; and integrative performance feedback, including computer-aided quality and post-procedural analytics. Across these tiers, effective interface design should emphasize clarity, context-specific information flow, explicit uncertainty communication and continuous human control. As multimodal and generative AI systems emerge, their outputs must be presented in ways that preserve situational awareness and clearly signal their origin, purpose and reliability. By embedding human factors engineering principles into design and regulation, AI tools for gastrointestinal endoscopy can evolve from passive detectors to cognitive partners that enhance vigilance, reasoning and procedural safety without displacing human expertise.",
+      "url": "https://doi.org/10.1038/s41575-026-01276-8",
+      "source": "MED",
+      "doi": "10.1038/s41575-026-01276-8",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43077448",
+      "topic": "AI Embeddings",
+      "title": "Nutrition-Related Knowledge, Attitudes, and Practices of Oncology Nurses: A Cross-Sectional Study.",
+      "authors": "Su T, Chen S, Qi X, Luo W, Zhou T.",
+      "journal": "",
+      "date": "2026-11-24",
+      "abstract": "Nutritional support is an essential component of comprehensive cancer care, and oncology nurses serve as key implementers. Yet the nutrition-related knowledge, attitudes, and practices (KAP) of these nurses, as well as influencing factors, remain insufficiently explored. This study aimed to investigate nutrition-related KAP among clinical oncology nurses, analyze the impact of demographic and organizational variables, and propose targeted management strategies. A descriptive cross-sectional design was employed. Participants were oncology nurses recruited from three tertiary hospitals in China via convenience sampling. Data were collected through a self-administered structured questionnaire. Statistical analyses included descriptive statistics, independent samples t tests (with Bonferroni correction for multiple comparisons), one-way analysis of variance tests (followed by post hoc Tukey HSD [honest significant difference] tests), Spearman correlation analysis, and multiple linear regression. Of the 412 eligible nurses who were invited, 362 completed the questionnaire (response rate, 87.9%). The mean total KAP score was 71.2, with mean subscale scores of 23.1 for knowledge, 23.8 for attitudes, and 24.3 for practices; these subscale means represent, retrospectively, 72%, 79%, and 64% of maximum possible totals, suggesting a relative weakness in the practices dimension. Significant positive correlations were detected between total KAP scores and number of nutrition-related trainings in the past year, possession of nutrition-related professional certification, presence of a designated clinical dietitian in the department, number of years working in oncology, research project participation, professional title, and age. Multiple linear regression revealed seven independent predictors, with an adjusted R2 of 0.468, accounting for 46.8% of the total variance: number of nutrition-related trainings in the past year (standardized β = 0.30), number of years working in oncology (standardized β = 0.25), presence of a designated clinical dietitian (standardized β = 0.22), research project participation (standardized β = 0.20), possession of nutrition-related professional certification (standardized β = 0.18), professional title (standardized β = 0.15), and age (standardized β = 0.12). Post hoc power analysis (for a regression model with 11 predictors, α = 0.05, R2 = 0.468, N = 362) indicated a power greater than 0.99. The clinical oncology nurses in this study exhibited moderately high levels of nutrition-related KAP; yet a discernible knowledge-practice gap was evident. Improving the nutrition management capabilities of oncology nurses demands integrative strategies that combine ongoing individual professional development and robust institutional support. Key recommendations include implementing tiered training programs, embedding clinical dietitians in oncology care teams, promoting nurses' active research involvement, and developing specialized nutrition-related certification pathways.",
+      "url": "https://doi.org/10.1097/ajn.0000000000000432",
+      "source": "MED",
+      "doi": "10.1097/ajn.0000000000000432",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43076991",
+      "topic": "AI Embeddings",
+      "title": "An extended fluid-structure interaction framework for aortic hemodynamics and cardiovascular risk assessment using physics-informed neural networks.",
+      "authors": "Mahjoub H, Hassani K, Sheikhani A, Razeghi M.",
+      "journal": "",
+      "date": "2026-11-24",
+      "abstract": "Cardiovascular diseases remain a leading cause of mortality worldwide, with aortic pathologies posing significant risk due to their complex hemodynamic and biomechanical interactions. Accurate evaluation of intravascular pressure and wall mechanics is therefore essential for reliable risk assessment. In this study, we propose a hybrid fluid-structure interaction (FSI) and physics-informed neural network (PINN) framework for efficient and physics-consistent prediction of aortic hemodynamics. High-fidelity two-way FSI simulations are first performed to capture the coupled interaction between pulsatile blood flow and arterial wall deformation. The resulting spatiotemporal velocity and pressure fields are subsequently combined with the governing flow equations and associated physical constraints within a hybrid FSI-PINN framework for physics-informed pressure reconstruction. Rather than relying on fluid-only CFD datasets that neglect arterial wall compliance and its bidirectional coupling with blood flow, the proposed framework is trained on fully coupled fluid-structure interaction (FSI) simulations, thereby embedding fluid-solid interaction physics directly into the learning process. The trained PINN accurately reconstructs three-dimensional pressure fields across the aortic domain, achieving a maximum relative error below 1% compared to the FSI reference solution, while maintaining robustness under sparse and noisy data conditions. In addition to high accuracy, the proposed framework significantly reduces relative computational expense, enabling rapid inference without the need for repeated FSI simulations. These results demonstrate the potential of the FSI-PINN approach as a computationally efficient and physiologically consistent surrogate model for cardiovascular hemodynamic analysis and risk assessment.",
+      "url": "https://doi.org/10.1007/s10237-026-02147-6",
+      "source": "MED",
+      "doi": "10.1007/s10237-026-02147-6",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -1026,6 +1090,22 @@
       ]
     },
     {
+      "id": "MED:43075581",
+      "topic": "AI Embeddings",
+      "title": "Multimodal whole slide hyperspectral microscopic imaging system with automated histologic data processing pipeline.",
+      "authors": "Ma L, Rathgeb A, Rudro R, Ha A, Fei B.",
+      "journal": "",
+      "date": "2026-11-23",
+      "abstract": "<h4>Significance</h4>Hyperspectral imaging (HSI) is an emerging modality with growing relevance in digital pathology because it provides rich spatial and spectral information beyond conventional RGB imaging. The rapid adoption of machine learning and foundation models has intensified the demand for large-scale, high-quality microscopic datasets. However, the lack of automated whole-slide HSI platforms and standardized preprocessing workflows remains a major barrier to dataset generation and downstream computational analysis.<h4>Aim</h4>The goal of this study is to develop a multimodal whole-slide hyperspectral microscopic imaging system and a fully automated preprocessing pipeline designed to enable large-scale acquisition and preparation of hyperspectral histologic data for benchmark dataset construction.<h4>Approach</h4>The proposed platform is designed for a flexible integration of multiple imaging modalities, including snapshot HSI, Snapscan HSI, and color imaging. The system is comprised of an inverted brightfield microscope, a motorized stage, a hyperspectral camera, a color camera, and an in-house desktop software platform for synchronized device control and automated whole-slide scanning. To support robust high-throughput acquisition, we developed efficient methods for autofocus and multimodal image handling across the different camera types. Beyond image acquisition, we further developed a fully automated preprocessing pipeline for hyperspectral histologic images. Given a high-resolution digitized whole-slide histologic image, corresponding annotation, and hyperspectral image tiles acquired at arbitrary magnification, the pipeline performs cross-modal registration and prepares the data for downstream analysis.<h4>Results</h4>The developed system enables automated, multimodal whole slide imaging with flexible hardware configuration and integrated software control. Using the proposed platform and preprocessing pipeline, we established a benchmark hyperspectral histologic dataset comprising more than 350 whole-slide images from human head and neck cancer specimens.<h4>Conclusions</h4>The proposed system and preprocessing pipeline provide a generalizable framework for fast, automated acquisition and preparation of hyperspectral histologic images. This work addresses key practical bottlenecks in hyperspectral digital pathology and supports the development of data-driven computational tools for automated histologic analysis and diagnosis.",
+      "url": "https://doi.org/10.1117/1.jbo.31.11.116503",
+      "source": "MED",
+      "doi": "10.1117/1.jbo.31.11.116503",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43075510",
       "topic": "AI Embeddings",
       "title": "Prediction modeling from an allostatic load index derived from electronic health record data with informatively missing biomarkers: a case study.",
@@ -1036,166 +1116,6 @@
       "url": "https://doi.org/10.1093/jamiaopen/ooag220",
       "source": "MED",
       "doi": "10.1093/jamiaopen/ooag220",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43074186",
-      "topic": "AI Embeddings",
-      "title": "SpatialMuSC: Spatial Graph-Conditioned Diffusion Refinement for Robust Spatial Multi-Omics Integration.",
-      "authors": "Wang Y, Long Y, Zeng M, Wu F, Chen S, Zhang N, Zhang X, Li M.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "<h4>Motivation</h4>Emerging spatial multi-omics technologies enable the simultaneous profiling of multiple molecular layers within the same tissue section, offering new opportunities to interrogate tissue organization in its native spatial context. However, sequencing-derived spatial multi-omics data are often affected by intrinsic perturbations, such as technical noise, missing values, sparsity and measurement bias. These perturbations make existing methods that mainly use spatial graphs for neighborhood aggregation insufficient to recover continuous tissue-region structures, while unconstrained representation learning may propagate noisy associations and lead to fragmented spatial domains.<h4>Results</h4>We present SpatialMuSC, a robust spatial multi-omics integration framework centering on spatial graph-conditioned diffusion refinement and perturbation-invariant fusion consistency. SpatialMuSC introduces spatial topology as conditional information into the latent diffusion process, enabling spatial adjacency to guide neighborhood aggregation, spatial structure propagation and graph-aware denoising of latent states. Perturbation-invariant fusion consistency further encourages stable multi-omic fusion under perturbed observations. We evaluate SpatialMuSC on diverse spatial multi-omics datasets across different tissues and sequencing platforms, including 10x Visium, Stereo-CITE-seq, SPOTS and spatial epigenome-transcriptome data. Across these benchmarks, SpatialMuSC consistently outperforms ten state-of-the-art methods in spatial domain identification and tissue-structure preservation. Ablation analyses confirm the contributions of graph-conditioned diffusion refinement and perturbation-invariant fusion consistency, rather than post hoc graph smoothing or graph propagation alone. In particular, SpatialMuSC effectively distinguishes adjacent tissue regions, preserves block-wise smoothness and layered architectures, and shows more stable performance in missing-observation stress tests, while hippocampal marker, enrichment, and paired RNA-ATAC analyses identify a GCL-associated neuronal program and a TTR-associated accessibility feature in a choroid plexus-enriched domain.<h4>Availability and implementation</h4>The source code is available at https://github.com/CSUBioGroup/SpatialMuSC.<h4>Supplementary information</h4>Supplementary data are available online.",
-      "url": "https://doi.org/10.1093/bioinformatics/btag851",
-      "source": "MED",
-      "doi": "10.1093/bioinformatics/btag851",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43073646",
-      "topic": "AI Embeddings",
-      "title": "DiCoNet: Diagnosis-Conditioned Report Generation for Retinal OCT via Pseudo Semantic Embedding.",
-      "authors": "Cong Z, Liu B, Qu H, Liu C.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "Retinal optical coherence tomography (OCT) report generation faces two major challenges: the scarcity of paired image-report data and the inherent semantic gap between visual representations and clinical concepts. Under such low-resource conditions, conventional vision-driven encoder-decoder models are prone to representation degradation and pathological hallucination, which cause semantic drift and make generated reports deviate from true clinical diagnoses. Inspired by the diagnostic workflow in clinical practice, where diagnosis precedes description, we propose a diagnosis-conditioned network, DiCoNet, which reformulates medical report generation from direct image-text mapping into a diagnosis-conditioned sequence generation task. DiCoNet adopts a two-stage progressive training strategy. It first learns robust and discriminative visual representations from a large-scale diagnostic classification dataset and then performs partial fine-tuning on limited report data. To bridge the gap between visual representations and diagnostic semantics, we design a pseudo semantic embedding (PSE) module that injects continuous diagnostic priors directly into the visual prefix, guiding report generation without increasing the prefix length. We further introduce an auxiliary diagnostic supervision branch to maintain feature discriminability during decoding and enable end-to-end autonomous inference without external labels at test time. Extensive experiments on a real-world clinical OCT dataset show that DiCoNet achieves the best scores among the evaluated methods on most automatic evaluation metrics, with a ROUGE-L score of 0.420 and a CIDEr score of 0.951. Expert evaluation and an OCT-specific clinical error analysis further support the accuracy and completeness of DiCoNet-generated reports, highlighting its potential for assisting OCT report drafting.",
-      "url": "https://doi.org/10.1007/s10278-026-02563-1",
-      "source": "MED",
-      "doi": "10.1007/s10278-026-02563-1",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43073644",
-      "topic": "AI Embeddings",
-      "title": "Reducing Demographic Bias in Medical Imaging Using Siamese Representation Learning.",
-      "authors": "Chiuwanara V, Kuo PC.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "Deep learning models for medical imaging often exhibit demographic bias, leading to performance disparities across protected groups such as age, gender, and race. This study proposes a debiasing framework to reduce such disparities while maintaining diagnostic accuracy. We propose a Siamese neural network trained using triplet loss, where demographic attributes are incorporated into triplet selection to encourage separation by disease class while promoting within-class similarity across demographic groups. The method was evaluated on pleural effusion detection using chest X-rays (109,005 images from 41,063 patients) and Alzheimer's disease classification using brain MRI (1494 scans from 348 patients). Performance was assessed using the area under the receiver operating characteristic curve (AUROC), precision, and true positive rate, along with equalized odds difference. The proposed method significantly reduced demographic disparities while maintaining or improving overall predictive performance compared with baseline and existing debiasing approaches. In pleural effusion detection, true positive rate gaps were reduced by 32% (race), 8% (age), and 22% (gender). In Alzheimer's disease classification, the true positive rate gap was reduced by 41% (age). Model interpretation indicated clinically meaningful imaging features were used for decision-making. Demographic-aware triplet sampling within a Siamese framework can effectively mitigate demographic performance disparities in medical imaging models while maintaining competitive overall diagnostic performance, suggesting potential for more equitable and clinically reliable deployment of medical imaging AI systems.",
-      "url": "https://doi.org/10.1007/s10278-026-02519-5",
-      "source": "MED",
-      "doi": "10.1007/s10278-026-02519-5",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43073643",
-      "topic": "AI Embeddings",
-      "title": "Knowledge-Guided Fine-Grained Self-Supervised Multimodal Representation Learning for MRI-Visible Endolymphatic Hydrops Assessment in Ménière's Disease.",
-      "authors": "Li XY, Liang DD, Wang CJ, Zhong DD, Huang ZY, Liu YS, Wang SW, Xu LY, Wu XT, Liu MY.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "Ménière's disease (MD) is a clinically defined inner-ear disorder with heterogeneous manifestations, for which MRI-visible endolymphatic hydrops (EH) is an imaging finding rather than a sufficient diagnostic criterion. We developed a multimodal pretraining framework that combines anatomically constrained representation learning from inner-ear MRI with ontology-normalized concepts extracted from radiology reports. Evaluation used five patient-disjoint outer folds comprising 524 patients (1048 ears) and focused on ear-level MRI-visible EH assessment rather than MD diagnosis. With 10% of the downstream labels, SMAM-MD achieved an AUC of 87.95±1.84% , 3.30 percentage points above the strongest displayed baseline mean; under full supervision, its AUC was 98.40±0.72% , compared with 98.65±0.65% for DINOv2 FT. For prediction of six discharge hearing thresholds from inner-ear MRI and admission audiometry, SMAM-MD achieved an overall macro-MAE of 6.83±0.33  dB HL, compared with 7.47±0.36  dB HL for DINOv2 FT (Holm-adjusted P=0.000570 ). These findings support improved label efficiency and lower discharge-threshold prediction error within this single-center cohort; they do not establish MRI-based MD diagnosis, causal treatment effects, or external clinical generalizability.",
-      "url": "https://doi.org/10.1007/s10278-026-02542-6",
-      "source": "MED",
-      "doi": "10.1007/s10278-026-02542-6",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43073560",
-      "topic": "AI Embeddings",
-      "title": "Plasma Metallome Profiling by ICP-MS/MS Reveals Manganese, Chromium and Molybdenum as Peripheral Discriminators of Bipolar Disorder and Major Depressive Disorder: A Chemometric Cross-Sectional Study.",
-      "authors": "Coradduzza D, Sanna A, Sedda S, Nivoli AM, De Miglio MR, Carru C, Grosso M, Medici S.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "Objective peripheral markers supporting the characterisation and differential diagnosis of major depressive disorder (MDD) and bipolar disorder (BD) are lacking, and the plasma metallome is a biologically plausible but under-characterised source of disorder-associated signals. We quantified 20 plasma trace elements by accredited triple-quadrupole inductively coupled plasma mass spectrometry (ICP-MS/MS) in 150 participants (MDD n = 41; BD n = 39, assessed in the euthymic phase; healthy controls [HC] n = 70), together with routine haematology and five composite inflammatory indices (42-variable panel). Multivariate structure was explored by principal component analysis and t-distributed stochastic neighbour embedding and modelled by three-class partial least-squares discriminant analysis (PLS-DA) with cross-validation, permutation testing, and an internal hold-out set; MDD-versus-BD comparisons were considered exploratory. The PLS-DA model showed permutation-significant, cross-validated predictive performance (explained variance R²Y = 0.612; cross-validated Q²Y = 0.526; p = 0.001) and 83.3% hold-out accuracy (balanced accuracy 81.0%), with the lowest sensitivity for BD (62.5%); random forest and support vector machine classifiers did not materially improve performance. Manganese was the strongest discriminator of BD from HC, consistent with redox dysregulation involving mitochondrial manganese superoxide dismutase; chromium separated both disorders from HC without distinguishing them, suggesting a transdiagnostic metabolic perturbation; and molybdenum was elevated in both disorders, with its strongest contribution to HC-versus-BD discrimination. Inflammatory indices dominated the MDD-versus-HC axis, whereas lymphocyte-derived indices dominated BD-versus-MDD. These signatures encode structured information that generalises within this cohort but requires external validation; manganese, chromium, and molybdenum are priority candidates for longitudinal, multi-centre studies.",
-      "url": "https://doi.org/10.1007/s12011-026-05379-w",
-      "source": "MED",
-      "doi": "10.1007/s12011-026-05379-w",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43072446",
-      "topic": "AI Embeddings",
-      "title": "Therapeutic resistance in brain malignancies: mechanisms limiting drug efficacy and emerging pharmacological strategies.",
-      "authors": "Chen L, Zhang N, He M, Han K, Shen J, Li L, Li Y, Zhu W, Xia H, Ni H.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "Therapeutic resistance in malignant brain tumors does not arise from a single molecular abnormality, but rather from the interplay among insufficient drug exposure, intrinsic and adaptive tumor-cell dependencies, cell-state plasticity, and the intracranial microenvironment. Although central nervous system (CNS)-active tyrosine kinase inhibitors, human epidermal growth factor receptor 2 (HER2)-targeted antibody-drug conjugates, and immune checkpoint inhibitors have improved intracranial outcomes in selected patients with brain metastases harboring actionable molecular alterations or immunologically responsive features, many mechanistically compelling strategies for glioblastoma (GBM) have yet to translate consistently into survival benefits in randomized clinical trials beyond the current standard of care. Rather than equating an association with resistance with therapeutic actionability, this Review evaluates resistance mechanisms and their potential for intervention through five linked steps: whether a drug can achieve sufficient exposure within intracranial lesions and critical resistance niches; whether the intervention produces sustained target modulation or the intended pharmacodynamic effect; whether the implicated mechanism represents a causal driver of resistance or an actionable dependency rather than merely a descriptive correlate; whether the therapeutic window permits repeated treatment at clinically relevant doses and schedules; and whether intervention yields reproducible intracranial responses, durable disease control, or survival benefit. Reproducible predictive and pharmacodynamic biomarkers support patient selection and assessment across these steps. Within this framework, we compare the distinct pharmacological and clinical implications of the blood-brain barrier/blood-tumor barrier, DNA damage response, cancer stem-like cell states, and immune evasion in GBM and brain metastases from lung cancer, breast cancer, and melanoma. We further examine the pharmacological rationale, maturity of evidence, and practical limitations of emerging approaches, including drug repurposing, antibody-drug conjugates, synthetic-lethal strategies, microenvironmental reprogramming, and rational combination therapies. Future progress will depend less on expanding the catalogue of resistance mechanisms than on embedding spatial pharmacokinetics, longitudinal molecular monitoring, and functional validation into clinical trials, thereby enabling mechanistic insights into resistance to be translated into specific, testable, and dynamically adaptable therapeutic decisions.",
-      "url": "https://doi.org/10.1016/j.pharmthera.2026.109149",
-      "source": "MED",
-      "doi": "10.1016/j.pharmthera.2026.109149",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43071957",
-      "topic": "AI Embeddings",
-      "title": "Development and Evaluation of Embeddings for Representing Injuries in Patients With Traumatic Injuries: Retrospective Cohort Study.",
-      "authors": "Szolnoky K, Attergrim J, Ashfaq A, Linusson H, Gerdin Wärnberg M, Berg J.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "<h4>Background</h4>Patients with traumatic injuries present with heterogeneous injury patterns that are difficult to represent in statistical models. Common approaches either retain individual injury codes in high-dimensional sparse representations, such as one-hot encoding, or aggregate injuries into summary scores, reducing dimensionality at the cost of patient-specific detail.<h4>Objective</h4>This study aimed to develop low-dimensional data-driven ICD-10 embeddings for traumatic injuries and compare their downstream discriminatory performance with one-hot encoding of the same injury codes.<h4>Methods</h4>We conducted a retrospective study using National Trauma Data Bank (NTDB) records from 2018 and 2019. International Classification of Diseases, Tenth Revision, Clinical Modification diagnoses were mapped to World Health Organization ICD-10 codes, retaining traumatic-injury codes S00-S99 and T15-T34. A denoising autoencoder was developed on 2018 data and temporally evaluated on 2019 data. Representations with 2, 4, 8, 16, 32, and 64 dimensions were compared with one-hot encoding across 16 downstream tasks using logistic regression and LightGBM. Performance was measured by the area under the receiver operating characteristic curve (AUC) for binary tasks and macro one-vs-rest AUC for multiclass tasks. Models were trained and evaluated within individual hospitals and separately on the full NTDB. Hospitals were stratified into volume categories, from small (≤500) to major (2500 patients/year). CIs were obtained from 1000 nonparametric bootstrap samples.<h4>Results</h4>The development cohort included 1,041,021 eligible patients from 2018, and the temporal evaluation cohort included 1,094,933 patients from 2019. At the hospital level, embeddings outperformed one-hot encoding. With LightGBM at 16 dimensions, the mean paired AUC difference across tasks was 0.054 (95% CI 0.048-0.060) in small hospitals (n=120) vs 0.023 (95% CI 0.020-0.025) in major hospitals (n=99). With logistic regression, differences were 0.056 (95% CI 0.050-0.063) and 0.041 (95% CI 0.039-0.043), respectively. In the full NTDB, 803-indicator one-hot encoding outperformed embeddings. Mean differences were -0.004 (95% CI -0.004 to -0.003) with LightGBM and -0.030 (95% CI -0.030 to -0.029) with logistic regression. At 64 dimensions, these differences narrowed to -0.001 and -0.016, respectively.<h4>Conclusions</h4>Embeddings with as few as 8 dimensions achieved predictive performance comparable to or better than one-hot encoding, with up to a 100-fold reduction in dimensionality. Compared to one-hot encoding, embeddings improved performance in models trained at individual hospitals, particularly lower-volume hospitals. These gains may reflect reduced dimensionality, parameter sharing across codes, and representation of codes absent from hospital-specific training data, enabled by embeddings learned from the larger development cohort. In models trained on the full registry, one-hot encoding achieved higher mean AUC with both estimators, although the differences were minor (<0.005 AUC difference) for LightGBM with 16- to 64-dimensional embeddings. The embeddings and software are openly available.",
-      "url": "https://doi.org/10.2196/91298",
-      "source": "MED",
-      "doi": "10.2196/91298",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43070988",
-      "topic": "AI Embeddings",
-      "title": "Longitudinal [¹⁸F]FDG PET changes map onto distinct cholinergic and serotonergic territories in autoimmune encephalitis.",
-      "authors": "Cerne D, Benvenuto G, Raffa S, Panza A, Barone C, Lechiara A, Mobilia EM, Rebella G, Mattioli P, Orso B, Micalizzi E, Arnaldi D, Villani F, Roccatagliata L, Pesce G, Pardini M, Morbelli S, Uccelli A, Benedetti L, Massa F.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "<h4>Purpose</h4>Autoimmune encephalitis (AE) shows a longitudinal [¹⁸F]FDG PET signature: acute hypermetabolism in limbic-striatal-thalamic regions and hypometabolism in posterior associative cortex, both partially reversible under immunotherapy. Whether these patterns show spatial correspondence with specific neuromodulatory systems is unknown.<h4>Methods</h4>This retrospective secondary analysis included twenty-two AE patients from a previously published longitudinal cohort (Cerne et al. 2025) who underwent [¹⁸F]FDG PET at clinical baseline (BS) and follow-up (FU). Using JuSpace (option 6), atlas-regional BS-FU difference maps were correlated (Spearman) with 15 normative PET/SPECT maps of multiple neurotransmitter systems. Participant-level Spearman coefficients were Fisher-z transformed. Group inference used paired BS/FU label permutations, with Benjamini-Hochberg FDR correction across all 15 maps. Spatial co-localization was interpreted as overlap in regional involvement, not as directionality of transmitter signaling. Age-adjusted regression models tested associations between individual JuSpace coefficients and clinical outcomes at BS and FU.<h4>Results</h4>Longitudinal metabolic change showed positive spatial associations with VAChT (Fisher z = 0.164; ρ = 0.185; q = 0.023) and α4β2 (z = 0.133; ρ = 0.127; q = 0.004), and a negative association with 5-HT2A (z = - 0.108; ρ=-0.093; q = 0.014). The cholinergic alignment matches the previously described hypermetabolic limbic-striatal circuit, whereas the 5-HT2A alignment situates reversible posterior hypometabolism within serotonin-enriched association cortex. No exploratory clinical association survived multiplicity correction.<h4>Conclusion</h4>Longitudinal [¹⁸F]FDG PET differences showed significant spatial correspondence with distinct neuromodulatory territories. Embedding longitudinal [¹⁸F]FDG PET changes into a normative receptor space provides a systems-level neurochemical framework and generates testable hypotheses on how cholinergic subcortico-limbic and 5-HT2A-enriched posterior association territories relate to acute disease expression and recovery.",
-      "url": "https://doi.org/10.1007/s00259-026-08246-x",
-      "source": "MED",
-      "doi": "10.1007/s00259-026-08246-x",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43070471",
-      "topic": "AI Embeddings",
-      "title": "Implementing Green Biobanking in an LMIC: Insights from Shefa Al-Orman Hospital, Egypt.",
-      "authors": "Abdelhafiz AS, Mohamed R, Gamal AM, Saady M, Aboelela S, Ghaleb F.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "<h4>Background</h4>Green biobanking is a relatively emerging concept that integrates environmentally sustainable principles into biobank operations. However, implementation in low- and middle-income countries (LMICs) remains challenging, and real-world examples are limited. This study describes the translation of hospital-level sustainability policies at Shefa Al-Orman Hospital (SOH), Egypt, into practical biobank operations.<h4>Methods</h4>A quality improvement-based implementation approach was used to operationalize existing hospital-wide green strategies within routine biobank workflows. A structured baseline and current-state assessment was conducted, followed by targeted improvement planning across key domains of environmental sustainability, resource efficiency, and cost containment. Interventions were selected based on feasibility, low cost, and alignment with regulatory and quality requirements.<h4>Results</h4>Multiple green biobanking strategies were implemented, including reduction of plastic waste and consumable use, optimization of storage efficiency, adoption of limited-paper workflows, water conservation measures, energy optimization for cooling and lighting, and integration of solar energy through hospital infrastructure. Measurable reductions were achieved for consumable and paper costs. Collectively, these interventions reduced resource consumption without compromising biospecimen quality, traceability, or regulatory compliance.<h4>Conclusions</h4>The SOH biobank demonstrates a practical and scalable model for green biobanking in an LMIC setting. Embedding biobank initiatives within hospital-wide sustainability policies enables coordinated implementation and resource sharing. While some approaches require robust information technology infrastructure, many green biobanking interventions are low-cost, feasible, and potentially cost-saving. A stepwise, context-adapted approach may facilitate broader adoption of environmentally and financially sustainable biobanking practices in resource-limited settings.",
-      "url": "https://doi.org/10.1177/19475535261509808",
-      "source": "MED",
-      "doi": "10.1177/19475535261509808",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "MED:43070233",
-      "topic": "AI Embeddings",
-      "title": "Nonclassical Electrostriction: The Insights From X-Ray Absorption Spectroscopy.",
-      "authors": "Happel EE, Qi Y, Lubomirsky I, Frenkel AI.",
-      "journal": "",
-      "date": "2026-11-23",
-      "abstract": "Nonclassical electrostriction (NCES) has emerged in a growing class of ionic solids that exhibit electromechanical responses far exceeding predictions of the conventional Newnham scaling law despite moderate dielectric permittivity and high elastic modulus. Unlike classical electrostriction, which is associated with nearly uniform anharmonic deformation of the crystal lattice, NCES originates from the field-induced reorganization of a small population of locally distorted structural units. This Review examines the unique role of x-ray absorption fine structure (XAFS) spectroscopy in identifying the electromechanically active structural units, resulting in the understanding of atomistic mechanisms underlying this behavior. Element-specific x-ray absorption near edge structure and extended XAFS (EXAFS) measurements identify local symmetry breaking, defect-associated elastic dipoles, multimodal bond-length distributions, and strongly anharmonic bonds that remain \"hidden\" from average-structure probes. Field-modulated, high energy resolution, and differential XAFS further isolate the minority structural units directly responsible for macroscopic strain. Aliovalent and isovalent dopants are shown to produce distinct microscopic mechanisms, involving vacancy-associated static and dynamic elastic dipoles, respectively, embedding strong attributes of anharmonicity. These results establish local structure and bond dynamics as key descriptors of NCES and highlight in situ, stimulus-modulated XAFS as a powerful route for uncovering and ultimately controlling electromechanical coupling in defect-engineered materials.",
-      "url": "https://doi.org/10.1002/adma.75740",
-      "source": "MED",
-      "doi": "10.1002/adma.75740",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -1484,6 +1404,38 @@
       "url": "https://doi.org/10.1016/j.bjid.2026.105980",
       "source": "MED",
       "doi": "10.1016/j.bjid.2026.105980",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43075478",
+      "topic": "Long-acting PrEP",
+      "title": "Microarray patches for transdermal drug delivery: a critical narrative review of technological innovations, CMC challenges, clinical translation, and global health implementation.",
+      "authors": "Pattnaik P, Tuglo LS, Alissa M, Mishra S, Alghamdi A, Alshehri MA, Juraybi TN, Alanazi HG, Alnafesah GM, Mohapatra RK.",
+      "journal": "",
+      "date": "2026-11-09",
+      "abstract": "Microarray patches (MAPs), alternatively known as microneedle patches, is a paradigm shift in the administration of pharmaceutical agents and vaccines. By utilising micron-scale projections to breach the stratum corneum, MAPs bridge the gap between the convenience of transdermal patches and the efficacy of hypodermic injections. This critical narrative review synthesises advances in MAP technology for transdermal drug delivery, focusing on technological innovations, chemistry, manufacturing, and control (CMC) challenges, clinical translation, regulatory considerations, and global health implementation. Special emphasis is placed on CMC challenges, including sterilisation and stability profiling, as well as the landscape of Clinical Trials, highlighting recent frameworks for pivotal Phase III studies in measles and rubella. We conclude by evaluating the programmatic suitability of MAPs for low- and middle-income countries (LMICs), addressing critical barriers such as cold-chain logistics and trypanophobia. A coordinated evolution from product-by-product model to platform-industrialisation model involving vaccine, polymer and device producing companies, regulators, global-health agencies including World health organization (WHO), and technology enablers is necessary. The Measles-Rubella programme provides an important template. MAPs' value is not about replacing a syringe but enabling equitable distribution of vaccination; a strategy to make vaccination less dependent on infrastructure. As scientific innovations, upscaling, unified regulatory frameworks and equitable access advance, MAPs will achieve global relevance.",
+      "url": "https://doi.org/10.3389/jpps.2026.17200",
+      "source": "MED",
+      "doi": "10.3389/jpps.2026.17200",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43075395",
+      "topic": "Long-acting PrEP",
+      "title": "Pediatric passive immunization for HIV-prevention: challenges and potential solutions.",
+      "authors": "Herrera C, Peet MM, Agrahari V, Hanif H, Scarlatti G, Doncel GF.",
+      "journal": "",
+      "date": "2026-11-09",
+      "abstract": "The development of pediatric prevention strategies against vertical transmission of HIV is essential to finally curb the number of new infections in neonates and infants exposed to HIV right before, during, or after birth. Passive immunization with broadly neutralizing antibodies (bnAbs) is a promising postnatal option. In this review, we summarize the present state of the pediatric epidemic and prevention efforts and discuss current and future bnAb candidates, their pharmacokinetic and pharmacodynamic profiles, their formulation, and existing and new pre-clinical tools, such artificial intelligence and machine learning, that need to be tailored to pediatric cohorts. Furthermore, we highlight the socio-behavioral factors involved in dosing newborns which affect uptake and adherence and therefore cost-effectiveness of the intervention. We finally reflect on the most desirable properties of an effective pediatric prophylactic strategy centered around the use of bnAbs.",
+      "url": "https://doi.org/10.3389/fimmu.2026.1970766",
+      "source": "MED",
+      "doi": "10.3389/fimmu.2026.1970766",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
@@ -2288,41 +2240,7 @@
       "topics": [
         "Long-acting PrEP"
       ]
-    },
-    {
-      "id": "MED:42887637",
-      "topic": "Long-acting PrEP",
-      "title": "Numerous linked cases of acute genotype F hepatitis B virus infections in people living with HIV or on pre-exposure prophylaxis.",
-      "authors": "Rouget R, Leducq V, Maylin S, Gozlan J, Thibault V, Valantin MA, Mercier-Delarue S, Faycal A, Valin N, Wirden M, Cocherie T, Akhavan S, Roque-Afonso AM, Sayon S, Chevaliez S, Bouille T, Fauchois A, Calvez V, Marcelin AG, Lacombe K, Delaugerre C, Pourcher V, Manda V, Seang S, Todesco E.",
-      "journal": "",
-      "date": "2026-10-16",
-      "abstract": "<h4>Objectives</h4>At least 2.7 million people living with HIV are infected with hepatitis B virus (HBV) worldwide. Some antiretroviral treatments and tenofovir disoproxil fumarate-based pre-exposure prophylaxis protect against HBV infection. However, emerging antiretroviral strategies without any activity against HBV may promote spread of this virus in the future. In this context, we studied recent cases of acute HBV infection in people at risk of sexually transmitted infections. Our objective was to better understand HBV circulation and the dynamics of its transmission.<h4>Methods</h4>This retrospective study included people diagnosed with acute HBV infections between 2022 and 2025 in France. The whole HBV genome was amplified and sequenced by next-generation sequencing for network analysis.<h4>Results</h4>Sixteen men, with a median age of 35 years, were enrolled. Six were living with HIV, including three receiving long-acting injectable cabotegravir/rilpivirine treatment. Four of the HIV-negative individuals were taking pre-exposure prophylaxis. Nine had been vaccinated against HBV, and six had anti-HBs antibody titres between 10 and 100 IU/L. Analysis revealed HBV genotype F1b in 14 patients, with very high homology among the viruses. No known immune escape mutations were identified, even in the individuals with anti-HBs antibodies.<h4>Conclusions</h4>A transmission cluster of HBV F1b genotype was observed in a population at risk of infection. This genotype, which is endemic to Latin America, is rarely detected in France. These findings may serve as a timely reminder of the ongoing circulation of HBV among exposed populations. HBV transmission among vaccinated individuals with positive anti-HBs antibodies raises questions and should be further studied.",
-      "url": "https://doi.org/10.1016/j.cmi.2026.10.008",
-      "source": "MED",
-      "doi": "10.1016/j.cmi.2026.10.008",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:41672775",
-      "topic": "Long-acting PrEP",
-      "title": "Development and implementation of a pharmacy PrEP awareness-raising and referral pathway: acceptability and feasibility of a UK pilot.",
-      "authors": "Harrison C, Harryman L, Stockwell S, Family H, Kesten JM, Denford S, Scott J, Sabin C, Copping J, Saunders J, Hamilton-Shaw R, Symonds N, Dick OB, Tarmey E, Horwood J.",
-      "journal": "",
-      "date": "2026-10-16",
-      "abstract": "",
-      "url": "https://doi.org/10.1136/sextrans-2025-056711",
-      "source": "MED",
-      "doi": "10.1136/sextrans-2025-056711",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
     }
   ],
-  "errors": [
-    "Long-acting PrEP: HTTP Error 503: Service Temporarily Unavailable"
-  ]
+  "errors": []
 }
