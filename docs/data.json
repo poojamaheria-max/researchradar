@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T13:01:49.326203+00:00",
+  "updated": "2026-11-26T18:47:23.555909+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -914,6 +914,118 @@
       ]
     },
     {
+      "id": "PMC:PMC13801647",
+      "topic": "AI Embeddings",
+      "title": "From genetic risk factor to therapeutic target: The CREB3L4-GDF15 axis drives prostate cancer immune evasion",
+      "authors": "Wu T, Huang E, Mao L, Liu P, Xia T, Chen S, Cheng Y, Zhang R, Xue K, Chen Y, Zhang X, Zheng X, Liu Y, Ju S, Chen M, Li W, Xu B.",
+      "journal": "",
+      "date": "2026-11-27",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13801647",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13801706",
+      "topic": "AI Embeddings",
+      "title": "Visual learning through auditory reactivation during wakefulness and sleep",
+      "authors": "Xie M, Li Z, Fan Y, Li Y, Wan X, Yang S, Huang S, Zhao C, Ma N, Fang F, Zhang X.",
+      "journal": "",
+      "date": "2026-11-27",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13801706",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13801717",
+      "topic": "AI Embeddings",
+      "title": "A programmable cell-free biosensor device for on-demand detection of pathogens and antibiotics",
+      "authors": "Gao Z, Lu Z, Wu Y, Han L, Xu Y, Zhao S, Tian Z, Gu J, Wang S, Yu C, Han Q, Yu X, He F, Yu X, Lu L, Yu J, Zhang Y, Gu Z.",
+      "journal": "",
+      "date": "2026-11-27",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13801717",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13802296",
+      "topic": "AI Embeddings",
+      "title": "Data generation for machine-learned force fields",
+      "authors": "Luxford S, Williamson C, Chaudhuri S, Ganose A, Giuffrida V, Greensmith J, Inzani K.",
+      "journal": "",
+      "date": "2026-11-26",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13802296",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13802016",
+      "topic": "AI Embeddings",
+      "title": "Nasal microbiota is involved in Parkinson’s disease pathology from olfactory bulb to brain via nose-brain axis",
+      "authors": "Ye T, Cui X, Dai C, Yang W, Lin X, Zhan L, Zhuo L, Liu J, Zhao M.",
+      "journal": "",
+      "date": "2026-11-26",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13802016",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13797940",
+      "topic": "AI Embeddings",
+      "title": "Azo-dye adulteration of palm oil: occurrence, detection, toxicological implications, and regulatory gaps",
+      "authors": "Salimon S, Ayinla A, Amoah A, Yakubu R, Pustovalova M.",
+      "journal": "",
+      "date": "2026-11-26",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13797940",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13801798",
+      "topic": "AI Embeddings",
+      "title": "Lipopolysaccharide-induced acute systemic inflammation is associated with depression-like behavior and increased hippocampal EphA4 expression",
+      "authors": "YAVAŞ S, YAVAŞ Ö, AKBAŞ A, IŞIKLAR S, ERSOY S.",
+      "journal": "",
+      "date": "2026-11-26",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13801798",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PMC:PMC13796961",
       "topic": "AI Embeddings",
       "title": "PKN2 Drives Immunotherapy Resistance by Inducing Neutrophil Extracellular Trap-Mediated T Cell Exclusion through the FOXC1-CXCL8 Pathway in Esophageal Squamous Cell Carcinoma",
@@ -1002,118 +1114,6 @@
       "date": "2026-11-26",
       "abstract": "",
       "url": "https://europepmc.org/article/PMC/PMC13796355",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13796341",
-      "topic": "AI Embeddings",
-      "title": "Feasibility and acceptability of the spatiotemporal activity modifications (STEAM) program: a Phase I clinical trial in people with mild to moderate Parkinson's disease",
-      "authors": "Wang S, Rafie F, Jehu D, Bek J, Kesar T, Emmery L, Mckay J, Hackney M.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13796341",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13798350",
-      "topic": "AI Embeddings",
-      "title": "ADMET-Stack: quantitative guidance on how much representational complexity an ADMET endpoint actually requires",
-      "authors": "Mahmoudi O, Kumar S, Kim M.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13798350",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13796326",
-      "topic": "AI Embeddings",
-      "title": "Efficacy of mindfulness-based interventions and biofeedback for migraine management: a systematic review and meta-analysis of randomized controlled trials",
-      "authors": "Zahri-Haidar C, Recio-Rodriguez J, Sanchez-Aguadero N, Lee H, López-Mesonero L, Lu H, Garcia-Yu I.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13796326",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13798286",
-      "topic": "AI Embeddings",
-      "title": "AI-Predicted Full-Spectrum UV Correction Factors: An Analyte-Standard-Free Framework for Reaction Yield Quantification",
-      "authors": "Yuan J, Yang M, Yan F, Guo J, Zhang L, Dou G, Liu M, Tan L, Fang L, Yang G, Zeng Q, Yan J, Shi X, Trice S, Ma J, Wen S, Welch C, Zhang P.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13798286",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13802574",
-      "topic": "AI Embeddings",
-      "title": "Cistanche deserticola exosome-like nanoparticles alleviate constipation through PINK1-dependent mitophagy and gut microbiota remodeling",
-      "authors": "Wang P, Xiao W, Xiong Z, Chen X, Du Y, Zhou J, Shen J, Cai Y, Lin A, Zhang X.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13802574",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13797900",
-      "topic": "AI Embeddings",
-      "title": "ParkFuse: a trust-gated late-fusion framework with shortcut auditing for multimodal Parkinson’s disease detection",
-      "authors": "Oli N, Rahman A, Aziz A, Dutta S, Kader A, Sharfuddin M, Das Gupta P, Arman M, Al Fassi M.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13797900",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13798351",
-      "topic": "AI Embeddings",
-      "title": "A dual-sided Transwell co-culture system reveals mitochondrial cargo within tunneling nanotubes",
-      "authors": "You Y, Wan C, Zheng Y, Yang J, Li J, Liu R, Yuan H, Chen Y, He X, Zhao F.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13798351",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -1468,6 +1468,22 @@
       "url": "https://doi.org/10.1016/j.bjid.2026.105980",
       "source": "MED",
       "doi": "10.1016/j.bjid.2026.105980",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43083797",
+      "topic": "Long-acting PrEP",
+      "title": "Therapeutic HIV-1 Vaccines: A Cautious Perspective.",
+      "authors": "Bayurova E, Belikova M, Lukashov VV.",
+      "journal": "",
+      "date": "2026-11-09",
+      "abstract": "More than 40 years after its discovery, HIV-1/AIDS remains a major global health threat, with nearly 41 million people living with HIV worldwide at the end of 2025. Antiretroviral therapy (ART) remains the only effective treatment; however, access to ART is still limited in many low- and middle-income countries due to inadequate infrastructure, high costs, and recent cuts in international funding. Despite advances in vaccine development, an effective prophylactic HIV-1 vaccine remains elusive, with no new efficacy trials currently planned. Consequently, the focus has shifted toward therapeutic HIV-1 vaccines as an adjunct to ART. Such vaccines may provide temporary immunological control of viral replication during ART interruption or failure and may reduce treatment costs by limiting the number of ART components. This review summarizes recent advances in therapeutic HIV-1 vaccines, including approaches that mimic T-cell responses of elite controllers, elicit broadly neutralizing antibodies, or redirect immunity toward viral epitopes essential for viral fitness, including drug-resistance mutations. To assess whether therapeutic vaccination may become a viable option for people living with HIV, we also review experiences from routine vaccination in this population. This analysis provides a framework for designing therapeutic vaccination strategies, including dosage, regimens (priming/boosting), and durability of immune responses, thereby helping to determine re-vaccination needs. Although therapeutic HIV-1 vaccines alone are unlikely to achieve a sterilizing cure or sustained ART-free remission, accumulating evidence indicates that they can substantially enhance HIV-specific immunity, delay viral rebound following ART interruption, and complement various HIV-1 treatment strategies, making them an important component of combination approaches aimed at achieving a functional HIV-1 cure.",
+      "url": "https://doi.org/10.3390/vaccines14110967",
+      "source": "MED",
+      "doi": "10.3390/vaccines14110967",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
@@ -2082,6 +2098,22 @@
       ]
     },
     {
+      "id": "PMC:PMC13808586",
+      "topic": "Long-acting PrEP",
+      "title": "From Daily Pills to Twice-Yearly Protection: A Narrative Review of Long-Acting Cabotegravir and Lenacapavir for HIV Prevention",
+      "authors": "Mihai A, Chisalita A, Herlo L, Herlo A, Dina C, Gherghescu C, Cut T, Vlase I, Lazureanu V, Dan R, Ivanovic N, Dumache R, Marinescu A.",
+      "journal": "",
+      "date": "2026-10-22",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13808586",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:42911346",
       "topic": "Long-acting PrEP",
       "title": "\"I Feel Like I Am a Winner:\" High Levels of Autonomous Decision-Making Among Women Receiving HIV Pre-Exposure Prophylaxis (PrEP) Choice Counselling in Sub-Saharan Africa.",
@@ -2204,38 +2236,6 @@
       "url": "https://doi.org/10.1371/journal.pgph.0007360",
       "source": "MED",
       "doi": "10.1371/journal.pgph.0007360",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42900602",
-      "topic": "Long-acting PrEP",
-      "title": "Making long-acting HIV PrEP routine in college health: durable systems, not dedicated heroes.",
-      "authors": "Broker P.",
-      "journal": "",
-      "date": "2026-10-20",
-      "abstract": "For many U.S. students, college health is the practical home of primary care and their most direct point of access to HIV prevention. In this commentary I argue that HIV pre-exposure prophylaxis (PrEP), including long-acting cabotegravir and lenacapavir, should be offered as routine preventive care in college health rather than as a specialty service. Nearly all responding student health services in national benchmarking data offer STI and HIV testing and contraception, while far fewer offer PrEP or prompt clinicians to educate patients on PrEP. That gap, the June 2025 approval of lenacapavir, and a quality improvement initiative that raised PrEP counseling from 3.0% to 97% point to a capacity-based framework of on-site, hybrid, and closed-loop referral models. The minimum standard is not identical infrastructure but a reliable pathway from routine offer to receipt of the chosen regimen. Clinics need durable systems rather than dedicated heroes.",
-      "url": "https://doi.org/10.1080/07448481.2026.2748912",
-      "source": "MED",
-      "doi": "10.1080/07448481.2026.2748912",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42899401",
-      "topic": "Long-acting PrEP",
-      "title": "Understanding community questions about HIV pre-exposure prophylaxis (PrEP): A thematic analysis of reddit threads to inform development of an AI chatbot for PrEP education.",
-      "authors": "Vincent-Paulraj A, Wood W, Marzolini C, Chiong J, Hodge D, Gibbons S, Seddon D, Martin J, Khoo S, Waker LE.",
-      "journal": "",
-      "date": "2026-10-20",
-      "abstract": "<h4>Background</h4>Despite growing availability of HIV pre-exposure prophylaxis (PrEP), many potential users turn to online forums for advice and information collection. These forums provide a window into real-world questions, concerns and misinformation. They serve as a tool for users to query for sensitive information without revealing their identities. These platforms could therefore be a potential source of understanding of the unmet needs of users. This study systematically analyses the social media posts referring to the four drugs mentioned in the study to identify common questions and thematic concerns among the community and uses this insight to inform the design of an AI-driven, privacy-preserving chatbot for PrEP education based on evidence.<h4>Methods</h4>Between May 2011 to October 2025, we found 1168 relevant Reddit posts mentioning one of the four names for PrEP therapies, by either brand or generic name: Truvada (Tenofovir disoproxil fumarate + emtricitabine (TDF/FTC)), Descovy (Tenofovir alafenamide + emtricitabine (TAF/FTC)), Apretude (long-acting cabotegravir), Yeztugo (lenacapavir) using a systematic search. We used Natural Language processing (NLP) techniques to understand user needs.<h4>Results</h4>Seven distinct discussion themes were identified within PrEP social media discourse, with side effects emerging as the most frequently discussed primary topic among 1076 posts. Across all medications, weight changes were the most frequently mentioned side effect. Truvada was the most frequently discussed PrEP medication. 96.7% of the dataset comprised questions, showing that Reddit serves as a primary information-seeking platform. Early period discussions were emphasized basic access and effectiveness questions, with more recent discussions (2022-2025) displaying increased attention to injectable and long-term safety considerations.<h4>Conclusions</h4>Reddit users demonstrate persistent uncertainty about PrEP side effects, drug interactions and medication switching. Drug interactions represented the most frequently identified information gap (26.5% of posts). These empirically derived information needs will inform the design of a privacy-preserving PrEP chatbot trained on authoritative UK sources (hiv-druginteractions.org, BHIVA guidelines, NHS resources).",
-      "url": "https://doi.org/10.1111/hiv.70332",
-      "source": "MED",
-      "doi": "10.1111/hiv.70332",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
