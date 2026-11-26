@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T18:42:08.850276+00:00",
+  "updated": "2026-11-26T00:52:34.657610+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -1122,6 +1122,22 @@
       ]
     },
     {
+      "id": "MED:41876220",
+      "topic": "Long-acting PrEP",
+      "title": "Medical and psychological needs for injectable long-acting cabotegravir as pre-exposure prophylaxis.",
+      "authors": "Rossotti R, Bianchi A, Tavelli A, Caruso E, Vinti P, Soria AG, De Bona A, Muccini C, Moschese D, Cingolani A, Cernuschi M, d'Arminio Monforte A.",
+      "journal": "",
+      "date": "2026-11-24",
+      "abstract": "",
+      "url": "https://doi.org/10.1136/sextrans-2025-056737",
+      "source": "MED",
+      "doi": "10.1136/sextrans-2025-056737",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:43069142",
       "topic": "Long-acting PrEP",
       "title": "Swine in Biomedical Research 2024 Conference.",
@@ -2092,22 +2108,6 @@
       "url": "https://doi.org/10.1111/hiv.70332",
       "source": "MED",
       "doi": "10.1111/hiv.70332",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PMC:PMC13668828",
-      "topic": "Long-acting PrEP",
-      "title": "Development of siRNAs targeting interferon beta as a novel therapeutic approach for adult and juvenile dermatomyositis",
-      "authors": "Parkes J, Correa-Sánchez A, Fial I, Tam I, Selvam K, Cunningham M, Lench N, Oliver P.",
-      "journal": "",
-      "date": "2026-10-19",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13668828",
-      "source": "PMC",
-      "doi": "",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
