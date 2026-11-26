@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T06:59:23.110518+00:00",
+  "updated": "2026-11-26T13:01:49.326203+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -12,6 +12,22 @@
       "url": "https://doi.org/10.1142/s0129065727500262",
       "source": "MED",
       "doi": "10.1142/s0129065727500262",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43081830",
+      "topic": "AI Embeddings",
+      "title": "Bringing the Everyday World Beyond the Palliative Care Ward Into Care: An Ethnographic Study in Malta.",
+      "authors": "Cassar K.",
+      "journal": "",
+      "date": "2027-01-01",
+      "abstract": "This paper explores how the everyday routines and rhythms that nurses bring into the ward subtly shape the daily contours of inpatient palliative care in Malta. Although such personal experiences are often marginalised or seen as incongruent with clinical norms, I argue that they are essential to how nurses engage with palliative care work. The paper delineates three interrelated modalities through which these experiences are integrated into professional practice: (1) as a modality of attunement to the demands and tempo of care work, (2) as a modality of tempering the affective intensity of clinical encounters and (3) as a modality of cultivating relational nearness with patients and their families. These modalities challenge reductive interpretations that cast outside-everyday experiences as trivial or mere psychological defence or denial. Instead, they reveal how everyday gestures are foundational to sustaining care, allowing nurses, patients, and relatives to remain in relation and coexist with mortality. Ultimately, these practices highlight the interconnectedness of life inside the ward and beyond it, showing how engagement with the everyday outside the ward setting can support the coexistence of life and death within it.",
+      "url": "https://doi.org/10.1111/1467-9566.70292",
+      "source": "MED",
+      "doi": "10.1111/1467-9566.70292",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -242,6 +258,54 @@
       ]
     },
     {
+      "id": "MED:43079856",
+      "topic": "AI Embeddings",
+      "title": "Reducing Barriers to Patient Mobilization Through a Nurse-Led Mobility Programme: A Quasi-Experimental Study.",
+      "authors": "Ben Natan M, Karbas-Cohen Y, Cohen V, Feinblatt D, Elifaz EC.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "<h4>Introduction</h4>Hospitalized older adults are at increased risk of functional decline due to immobility. Despite the availability of clinical guidelines and nurse-led mobility initiatives, the consistent implementation of mobilization practices remains limited. This study developed and evaluated a nurse-led mobility program designed to reduce perceived barriers to mobilization and improve nurses' knowledge, attitudes and reported behaviours toward mobility promotion.<h4>Methods</h4>A quasi-experimental study was conducted in four internal medicine departments at a tertiary medical centre in Israel. Two departments implemented a structured mobility program that included staff education, walking protocols, and routine mobility documentation, while two departments continued with usual care. A total of 135 registered nurses participated (71 intervention, 64 control). Nurses completed pre- and post-intervention surveys assessing knowledge, attitudes and reported behaviours using a validated tool. Full absorbent brief use among patients aged 65 and older was retrospectively monitored as a routinely available, care-sensitive proxy indicator and not as a direct measure of functional performance.<h4>Results</h4>The intervention group demonstrated significant improvements in self-reported knowledge, attitudes and behaviours related to patient mobilization. Full absorbent brief use declined by 62.7% in the intervention group versus 39.1% in the control group.<h4>Conclusion</h4>The nurse-led program was associated with improvements in nurses' self-reported knowledge, attitudes and behaviours related to patient mobilization, indicating fewer perceived barriers. Full absorbent brief use declined more in the intervention departments than in the control departments. However, these findings do not establish improvements in actual mobility practice or patient functional outcomes. Further evaluation using objective measures of clinical practice and patient mobility is needed.",
+      "url": "https://doi.org/10.1111/scs.70340",
+      "source": "MED",
+      "doi": "10.1111/scs.70340",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43078661",
+      "topic": "AI Embeddings",
+      "title": "YBX1-Enriched iPSC-Derived Exosomes Rejuvenate Senescent Airway Basal Stem Cells in Idiopathic Pulmonary Fibrosis.",
+      "authors": "Huang C, Zheng Q, Bai Y, Liu A, Zhou B, Ren T.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "Idiopathic pulmonary fibrosis (IPF) is characterized by pronounced senescence of airway tissue stem cells, thereby accelerating disease progression and impairing endogenous repair. Although previous studies have shown that exosomes derived from pluripotent stem cells can attenuate adult tissue stem cell senescence in animal models, direct assessments of their impact on senescence and stemness in human IPF patient-derived tissue stem cells under pathophysiologically relevant conditions remain lacking. In this study, we used adult airway tissue stem cells (KRT5<sup>+</sup> basal stem cells) isolated from IPF patients as the primary model to systematically study the functional activities of iPSC-derived exosomes (iPSC-Exos) and MSC-derived exosomes (MSC-Exos). We found that iPSC-Exos robustly reversed the senescent phenotype and restored stemness in patient-derived KRT5<sup>+</sup> basal cells in 2D and 3D (precision-cut lung slices) IPF physiological models, whereas MSC-Exos showed minimal effects. Mechanistic analyses revealed several phenomena: YBX1 was enriched in iPSC-Exos, both YBX1 and NFYB increased in iPSC-Exo-treated basal cells, YBX1 overexpression in basal cells recapitulated part of the anti-senescence phenotype, and interference with NF-Y DNA binding partially attenuated the response. This study provides an ideal paradigm for elucidating how exosomes from high-stemness stem cells restore low-stemness cell function and presents a clinically translatable strategy for tissue regeneration in age-related pathologies.",
+      "url": "https://doi.org/10.1111/acel.70854",
+      "source": "MED",
+      "doi": "10.1111/acel.70854",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43078648",
+      "topic": "AI Embeddings",
+      "title": "Oxidative Stress-Induced Mitochondrial Translocation of NOX4 Activates PINK1/Parkin-Mediated Mitophagy in the Pathogenesis of Sarcopenia.",
+      "authors": "Wang XY, Xiao JX, Wang X, Han XH, Yao LH, Gong FP, Chen FX, Qu XH, Han XJ.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "Sarcopenia is characterized by progressive loss of skeletal muscle mass and function, which seriously affects the health of the elderly. Although oxidative stress and mitophagy dysregulation have been confirmed to be involved in the disease process, the specific regulatory mechanism remains unclear. This study reveals that nicotinamide adenine dinucleotide phosphate oxidase 4 (NOX4) plays a core role in sarcopenia by regulating mitophagy. In the H<sub>2</sub>O<sub>2</sub>-induced oxidative stress C2C12 myotube model, NOX4 translocation from the cytoplasm to the mitochondria was triggered, accompanied by myotube atrophy and excessive activation of PINK1/Parkin-mediated mitophagy. Transmission electron microscopy revealed autophagosome formation and mitochondrial structural abnormalities. Gene knockdown by Nox4 siRNA significantly alleviated the decrease in mitochondrial membrane potential and reactive oxygen species accumulation caused by oxidative stress, inhibited abnormal mitophagy, and alleviated myotube atrophy. In in vivo experiments, mice with muscle atrophy induced by dexamethasone showed significant improvement in muscle mass and atrophy phenotype after intervention with the NOX4 inhibitor apocynin (Apo). Further studies found that Apo treatment effectively inhibited the level of mitophagy in muscle tissue and reduced the degree of co-localization of NOX4 and mitochondria. Mechanistically, oxidative stress-induced mitochondrial translocation of NOX4 drives excessive activation of PINK1/Parkin-dependent mitophagy, ultimately leading to muscle atrophy; inhibition of NOX4 can block this process. The findings of this study reveal a new regulatory mechanism in sarcopenia and suggest that NOX4 may be a potential therapeutic target for this disease.",
+      "url": "https://doi.org/10.1111/acel.70860",
+      "source": "MED",
+      "doi": "10.1111/acel.70860",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:43049581",
       "topic": "AI Embeddings",
       "title": "Data-Driven EEG-fMRI Fusion: From Multimodal Integration to Latent Neural Inference.",
@@ -284,6 +348,22 @@
       "url": "https://doi.org/10.1111/1440-1630.70144",
       "source": "MED",
       "doi": "10.1111/1440-1630.70144",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43040055",
+      "topic": "AI Embeddings",
+      "title": "Initiatives to improve preclinical research quality: the road ahead.",
+      "authors": "Pearl EJ, Menon JML, Smith AJ.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41684-026-01834-2",
+      "source": "MED",
+      "doi": "10.1038/s41684-026-01834-2",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -834,14 +914,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13795115",
+      "id": "PMC:PMC13796961",
       "topic": "AI Embeddings",
-      "title": "Machine-Learning-Enabled Design of Lab-Scale Continuous Distillation Systems for Pharmaceutical Process Development",
-      "authors": "",
+      "title": "PKN2 Drives Immunotherapy Resistance by Inducing Neutrophil Extracellular Trap-Mediated T Cell Exclusion through the FOXC1-CXCL8 Pathway in Esophageal Squamous Cell Carcinoma",
+      "authors": "Wu H, Chen Z, Wang Z, Zhao Z, Jiang H, Li Z, Zhang S, Fang K, Zhang Z, Sun M, Feng A, Leng Z, Wang X, Chu Y, Zhang L, He L, Xu M, Chen T.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13795115",
+      "url": "https://europepmc.org/article/PMC/PMC13796961",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -850,14 +930,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13795093",
+      "id": "PMC:PMC13796443",
       "topic": "AI Embeddings",
-      "title": "High-Throughput Experimentation in Practice: Hidden Bottlenecks and Digital Gaps",
-      "authors": "Cheung K, Marçon H, Pratley M, Wigh D, Pomberger A, Taylor C.",
+      "title": "Development and preliminary usability evaluation of an evidence-based knowledge graph–supported intelligent question-answering system for chronic rhinosinusitis health education",
+      "authors": "Wang W, Zhang Z, Li X, Zhang Y, Wang N, Shi M, Zhang X.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13795093",
+      "url": "https://europepmc.org/article/PMC/PMC13796443",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -866,14 +946,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13794252",
+      "id": "PMC:PMC13798149",
       "topic": "AI Embeddings",
-      "title": "Multi-scale feature fusion and neural architecture search for electroencephalography-based affective-state recognition in public benchmark datasets",
-      "authors": "Guan C, Wang Y.",
+      "title": "Assessment of online mental health content: integrating lightweight language models with clinical quality criteria",
+      "authors": "Javed H, Ayadi M, Oh H, Ali F.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13794252",
+      "url": "https://europepmc.org/article/PMC/PMC13798149",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -882,14 +962,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13795405",
+      "id": "PMC:PMC13796362",
       "topic": "AI Embeddings",
-      "title": "Non-prescription Antibiotic Dispensing in Community Pharmacies of Islamabad Capital Territory, Pakistan: A Simulated Client Study",
-      "authors": "Imran R, Sheraz Hassan M, Haq G, Roshan M, Tarar M.",
+      "title": "The role of basic psychological need satisfaction in the relationship between exercise and well-being in adolescents: a systematic review",
+      "authors": "Chen S, Chen T, Chen T.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13795405",
+      "url": "https://europepmc.org/article/PMC/PMC13796362",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -898,14 +978,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13795228",
+      "id": "PMC:PMC13798321",
       "topic": "AI Embeddings",
-      "title": "CAFM v4: a cascaded anchor-dominant residual fusion model for multi-scale brain tumor classification from magnetic resonance imaging",
-      "authors": "Kamineni N, Nadesh R.",
+      "title": "meta-Carborane-Based Macrocyclic Arenes: Synthesis and Inner-Wall Modification",
+      "authors": "Ren Y, Ren X, Guo L, Xia L, Liu X, Cui P.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13795228",
+      "url": "https://europepmc.org/article/PMC/PMC13798321",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -914,14 +994,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13794224",
+      "id": "PMC:PMC13796355",
       "topic": "AI Embeddings",
-      "title": "Exposure to Ambient Fine Particulate Matter (PM2.5) Increases Vulnerability to Stress-Induced Depression in Mice, Potentially via the BDNF-CREB Signaling Pathway",
-      "authors": "Hong X, Yang W, Zheng W, Hu J, Han X, Li J, Pan B, Xie Y, Shao W, Fang X, Xiao Y, Han D, Tu W, Xu M, Chen Y, Zhu Y, Li W, Zhang X, Xu Y.",
+      "title": "Aligned electrospun gelatin-carbon black nanofibers for cardiac tissue modelling",
+      "authors": "Di Nunno L, D’Erchia F, Mirzaei A, Benazzato S, Roldan E, Casalini S, Menna E, Mantovani D, Boccafoschi F.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13794224",
+      "url": "https://europepmc.org/article/PMC/PMC13796355",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -930,14 +1010,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13793553",
+      "id": "PMC:PMC13796341",
       "topic": "AI Embeddings",
-      "title": "PhageLysData: an evidence-aware and AI-ready dataset of phage lytic enzymes and depolymerases",
-      "authors": "Medina-Ortiz D, Olivera-Nappa Á, Lienqueo M, Opazo R, Romero J.",
+      "title": "Feasibility and acceptability of the spatiotemporal activity modifications (STEAM) program: a Phase I clinical trial in people with mild to moderate Parkinson's disease",
+      "authors": "Wang S, Rafie F, Jehu D, Bek J, Kesar T, Emmery L, Mckay J, Hackney M.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793553",
+      "url": "https://europepmc.org/article/PMC/PMC13796341",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -946,14 +1026,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13793638",
+      "id": "PMC:PMC13798350",
       "topic": "AI Embeddings",
-      "title": "AnOxFuse: Integrating Molecular Fingerprints and Peptide-Adapted Protein Language Representations for Antioxidant Peptide Prediction",
-      "authors": "Alblooshi M, Abbas Z, Rehman M.",
+      "title": "ADMET-Stack: quantitative guidance on how much representational complexity an ADMET endpoint actually requires",
+      "authors": "Mahmoudi O, Kumar S, Kim M.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793638",
+      "url": "https://europepmc.org/article/PMC/PMC13798350",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -962,14 +1042,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13793810",
+      "id": "PMC:PMC13796326",
       "topic": "AI Embeddings",
-      "title": "Engineering resilient environmental microbiomes: from multi-omics early-warning signals to predictive control and functional recovery",
-      "authors": "Castro-Martínez C, Renganathan P, Herrera-Moreno M, Montoya-Mejía M, Pérez-González E, Rueda-Puente E, García-Gutierrez C, Sainz-Hernandez J.",
+      "title": "Efficacy of mindfulness-based interventions and biofeedback for migraine management: a systematic review and meta-analysis of randomized controlled trials",
+      "authors": "Zahri-Haidar C, Recio-Rodriguez J, Sanchez-Aguadero N, Lee H, López-Mesonero L, Lu H, Garcia-Yu I.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793810",
+      "url": "https://europepmc.org/article/PMC/PMC13796326",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -978,14 +1058,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13793493",
+      "id": "PMC:PMC13798286",
       "topic": "AI Embeddings",
-      "title": "Human–machine collaborative literacy and tourism SMEs’ perceived digital transformation performance: a configurational fsQCA",
-      "authors": "Ren Y, Li H.",
+      "title": "AI-Predicted Full-Spectrum UV Correction Factors: An Analyte-Standard-Free Framework for Reaction Yield Quantification",
+      "authors": "Yuan J, Yang M, Yan F, Guo J, Zhang L, Dou G, Liu M, Tan L, Fang L, Yang G, Zeng Q, Yan J, Shi X, Trice S, Ma J, Wen S, Welch C, Zhang P.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793493",
+      "url": "https://europepmc.org/article/PMC/PMC13798286",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -994,14 +1074,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13793221",
+      "id": "PMC:PMC13802574",
       "topic": "AI Embeddings",
-      "title": "Neural stem cell transplantation ameliorates mitochondrial dynamics-related protein abnormalities in a mouse model of Alzheimer’s disease with chronic cerebral hypoperfusion",
-      "authors": "Huang B, Qin D, Liang C, Mo S, Yang C, Yang Q, Lu Z, Nong J, Gan G, Jian C, Xu G, Shang J.",
+      "title": "Cistanche deserticola exosome-like nanoparticles alleviate constipation through PINK1-dependent mitophagy and gut microbiota remodeling",
+      "authors": "Wang P, Xiao W, Xiong Z, Chen X, Du Y, Zhou J, Shen J, Cai Y, Lin A, Zhang X.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793221",
+      "url": "https://europepmc.org/article/PMC/PMC13802574",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -1010,14 +1090,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13793177",
+      "id": "PMC:PMC13797900",
       "topic": "AI Embeddings",
-      "title": "Could metacognitive therapy be a contender for first-line treatment for functional neurological disorder? The case for clinical trials",
-      "authors": "Scheiner N.",
+      "title": "ParkFuse: a trust-gated late-fusion framework with shortcut auditing for multimodal Parkinson’s disease detection",
+      "authors": "Oli N, Rahman A, Aziz A, Dutta S, Kader A, Sharfuddin M, Das Gupta P, Arman M, Al Fassi M.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793177",
+      "url": "https://europepmc.org/article/PMC/PMC13797900",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -1026,14 +1106,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13794049",
+      "id": "PMC:PMC13798351",
       "topic": "AI Embeddings",
-      "title": "Population aging, long-term care insurance, and economic growth: theoretical and empirical evidence from an OLG model and a quasi-natural experiment",
-      "authors": "Xu X, Cao A, Li M, Yang Z.",
+      "title": "A dual-sided Transwell co-culture system reveals mitochondrial cargo within tunneling nanotubes",
+      "authors": "You Y, Wan C, Zheng Y, Yang J, Li J, Liu R, Yuan H, Chen Y, He X, Zhao F.",
       "journal": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13794049",
+      "url": "https://europepmc.org/article/PMC/PMC13798351",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -1042,83 +1122,19 @@
       ]
     },
     {
-      "id": "PMC:PMC13793874",
-      "topic": "AI Embeddings",
-      "title": "AI-driven transformation of GPCR research: from structural biology to precision medicine",
-      "authors": "Li W, Sun H, Kong L, Li J, Liu C, Yang D.",
+      "id": "MED:43079201",
+      "topic": "Long-acting PrEP",
+      "title": "A Photoelectrically Activated Neural Stem Cell Matrix for Nerve Repair.",
+      "authors": "Liu X, Yuan L, Zhang A, Wan Y, Yang X, Yuan F, Zhang Y, Wu S, Zhang Y, Jia W, Zhou W, Wang N.",
       "journal": "",
-      "date": "2026-11-25",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793874",
-      "source": "PMC",
-      "doi": "",
+      "date": "2026-11-24",
+      "abstract": "Stem cell therapy for nerve injury requires a local environment that supports cell delivery and regulates neurotrophic output. An injectable PN-junction-based biomimetic neural matrix (PNBM) integrates silicon PN-junction microfragments and neural stem cells within a thermoresponsive hyaluronic acid-methylcellulose-laminin hydrogel. Under 635 nm illumination, the microfragments generate reproducible photovoltages and amplify intracellular calcium responses. Compared with light alone, PN-junction photoactivation reduces first-spike latency by 91% and increases firing frequency 3.45-fold. Transcriptomic analysis identifies  phosphoinositide 3-kinase/protein kinase B (PI3K-AKT) pathway enrichment, while protein assays demonstrate increased secretion of nerve growth factor, brain-derived neurotrophic factor, and glial cell line-derived neurotrophic factor. In noncontact cocultures, photoactivated PNBM increases process extension and burst frequency in HT22 hippocampal cells and promotes Schwann cell alignment and myelin basic protein expression. In rats with optic nerve crush, treatment preserves retinal structure, reduces the astroglial lesion response, and improves visual evoked potentials. In sciatic nerve crush, it improves locomotor performance, motor electrophysiology, axon-myelin organization, and gastrocnemius preservation. PNBM couples semiconductor photoactivation to enhanced stem cell trophic output and provides a locally delivered bioelectronic matrix for central and peripheral nerve repair.",
+      "url": "https://doi.org/10.1002/advs.78981",
+      "source": "MED",
+      "doi": "10.1002/advs.78981",
       "is_preprint": false,
       "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13793497",
-      "topic": "AI Embeddings",
-      "title": "From cognitive relief to motivational enhancement: associations between perceived Agentic AI Capability and student engagement in systems development courses",
-      "authors": "Yu X, Song P, Lu X.",
-      "journal": "",
-      "date": "2026-11-25",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793497",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13793157",
-      "topic": "AI Embeddings",
-      "title": "CardioTwin-AI: development and internal validation of a digital twin-based adaptive risk-aware learning framework for heart disease prediction",
-      "authors": "Saranraj J, D V.",
-      "journal": "",
-      "date": "2026-11-25",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793157",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13793458",
-      "topic": "AI Embeddings",
-      "title": "Metformin regulates astrocyte autophagy via the AMPK/mTOR pathway to improve glutamate homeostasis and prevent cognitive impairment induced by cerebral ischemia-reperfusion",
-      "authors": "Dong F, Ming Z, Xiao Y, Yu Y, Zhao H, Li B, Lei D, Li Q, Wang S, Ji Y.",
-      "journal": "",
-      "date": "2026-11-25",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793458",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13793514",
-      "topic": "AI Embeddings",
-      "title": "A deep network embedding and robust statistical framework for multi-omics integration in rare diseases: a case study in PMM2-CDG",
-      "authors": "García-Criado F, Córdoba-Caballero J, Esteban-Martos A, Epifani F, Gallego D, Andreotti G, Paris D, Rojano E, Serrano M, Pérez B, Seoane-Zonjic P, Ranea J.",
-      "journal": "",
-      "date": "2026-11-25",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13793514",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
+        "Long-acting PrEP"
       ]
     },
     {
@@ -1260,6 +1276,22 @@
       "url": "https://doi.org/10.1128/jvi.01224-26",
       "source": "MED",
       "doi": "10.1128/jvi.01224-26",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43043696",
+      "topic": "Long-acting PrEP",
+      "title": "Durable CD8-mediated remission after brief anti-HIV-1 antibody treatment requires FcγR engagement.",
+      "authors": "Bournazos S, Nishimura Y, Grace BAC, Niejadlik EG, Rogan DC, Meeks T, Webber JD, Przygonska PA, Lehman H, Minster VE, Jesteadt E, Sadjadpour R, Connors M, Martin MA, Ravetch JV.",
+      "journal": "",
+      "date": "2026-11-17",
+      "abstract": "Despite highly efficacious antiretroviral therapy (ART), durable ART-free remission remains a central objective of HIV-1 cure strategies. The randomized, placebo-controlled RIO trial recently demonstrated that long-acting broadly neutralizing anti-HIV-1 antibodies (bNAbs) can sustain prolonged virologic control after ART interruption, including control that persisted beyond the period of therapeutically relevant antibody concentrations, providing clinical evidence consistent with host-mediated suppression. However, the mechanisms underlying these \"vaccinal\" effects remain unresolved. Here, we establish Fcγ receptor (FcγR) engagement as an essential driver of multiyear remission after bNAb therapy in simian-human immunodeficiency virus (SHIV)-infected macaques. Brief therapy during acute infection with Fc domain variants of the bNAb 3BNC117, matched for antigen binding, neutralizing activity, and pharmacokinetics but differing in FcγR engagement, produced comparable early virologic control yet profoundly divergent long-term outcomes. Sustained CD8 T cell-dependent suppression lasting nearly 300 wk developed in every evaluable animal receiving the FcγR-engaging variant but arose in only one of eight recipients of the FcγR-null variant. FcγR-driven immunomodulation imprinted a CD8 T cell response characterized by enhanced antigen-specific effector function, early clonal focusing with sustained clonotype persistence, and distinct cellular-state transcriptional signatures. Our findings identify the Fc-FcγR axis as a critical determinant of the reliable induction of durable remission and provide a mechanistic framework for developing Fc-engineered bNAbs designed to enhance vaccinal immunity and advance antibody-based strategies with the potential to achieve functional cure.",
+      "url": "https://doi.org/10.1073/pnas.2632384123",
+      "source": "MED",
+      "doi": "10.1073/pnas.2632384123",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
@@ -1586,6 +1618,22 @@
       ]
     },
     {
+      "id": "MED:43087786",
+      "topic": "Long-acting PrEP",
+      "title": "Long-Acting Antiretroviral Therapies for HIV: From Approved Strategies to the Next Generation of Treatment and Prevention.",
+      "authors": "Lanzafame M, Mori G, Castelli A, Vento S.",
+      "journal": "",
+      "date": "2026-11-03",
+      "abstract": "Background/Objectives: Long-acting antiretroviral therapies (LA-ART) represent a major evolution in HIV treatment and prevention, addressing key limitations of lifelong daily oral medication. This narrative review summarizes current evidence on approved and investigational long-acting antiretroviral strategies, focusing on efficacy, pharmacology, resistance, clinical implementation and future perspectives. Methods: A structured narrative literature search was performed in PubMed/MEDLINE and the Cochrane Library for records published between January 2005 and October 2026, complemented by major conference proceedings (CROI, IAS, EACS) and regulatory and public-health sources (FDA, EMA, WHO, CDC, DHHS, IAS-USA). Findings were synthesized narratively and organized by drug class and clinical indication (treatment versus prevention), given substantial heterogeneity across study designs, agents and outcomes that precluded quantitative meta-analysis. Results: Injectable cabotegravir plus rilpivirine has become established as the first long-acting maintenance regimen for virologically suppressed individuals, with expanding evidence in adherence-challenged and adolescent populations. Long-acting cabotegravir has demonstrated superiority over oral tenofovir-based pre-exposure prophylaxis (PrEP) in the HPTN 083 and HPTN 084 trials. Lenacapavir, the first-in-class capsid inhibitor, has shown activity against multidrug-resistant HIV and, in the PURPOSE 1 and PURPOSE 2 trials, high efficacy as twice-yearly PrEP, with durable results on long-term follow-up. Investigational strategies, including islatravir plus lenacapavir and broadly neutralizing antibodies, may further extend dosing intervals, although resistance, implementation and equitable-access challenges remain across all approaches. Conclusions: Long-acting antiretroviral strategies have established a new therapeutic paradigm for HIV treatment and prevention. Their future impact will depend on resistance management, healthcare-delivery capacity and equitable global access, alongside continued clinical innovation.",
+      "url": "https://doi.org/10.3390/biomedicines14112530",
+      "source": "MED",
+      "doi": "10.3390/biomedicines14112530",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:43028755",
       "topic": "Long-acting PrEP",
       "title": "Congenital Syphilis in South Africa: A Narrative Review of Epidemiology, Health System Drivers, Prevention, and the Path to Elimination.",
@@ -1661,6 +1709,86 @@
       "source": "PPR",
       "doi": "10.21203/rs.3.rs-11541213/v1",
       "is_preprint": true,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "PMC:PMC13801564",
+      "topic": "Long-acting PrEP",
+      "title": "Disulfiram Repurposing Across Therapeutic Indications: Molecular Mechanisms, Evidence Appraisal, and a Systematic Review of Its Use in Lyme Borreliosis",
+      "authors": "Popovici V, Ciumasu-Rimbu M, Boca R, Ozon E.",
+      "journal": "",
+      "date": "2026-11-01",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13801564",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "PMC:PMC13807067",
+      "topic": "Long-acting PrEP",
+      "title": "Current Knowledge on the Pathophysiology of Tuberculosis and Potential of Inhaled Bacteriophage Therapy Against Tuberculosis",
+      "authors": "Lin Y, Long Y, Chan H, Garvey M.",
+      "journal": "",
+      "date": "2026-11-01",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13807067",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "PMC:PMC13800037",
+      "topic": "Long-acting PrEP",
+      "title": "The Ambivalent Role of Social Media in Shaping Young Women’s Sexual Health Behaviors: A Narrative Review",
+      "authors": "",
+      "journal": "",
+      "date": "2026-11-01",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13800037",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "PMC:PMC13799621",
+      "topic": "Long-acting PrEP",
+      "title": "Long-Acting Antiretroviral Therapies for HIV: From Approved Strategies to the Next Generation of Treatment and Prevention",
+      "authors": "Lanzafame M, Mori G, Castelli A, Vento S.",
+      "journal": "",
+      "date": "2026-11-01",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13799621",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "PMC:PMC13800880",
+      "topic": "Long-acting PrEP",
+      "title": "Madecassoside Part I: From Biosynthesis to Druggability",
+      "authors": "Li Y, Xu M, Yang Y, Liang S, Lu Y, Lin X, Zhao L.",
+      "journal": "",
+      "date": "2026-11-01",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13800880",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
       ]
@@ -2112,137 +2240,7 @@
       "topics": [
         "Long-acting PrEP"
       ]
-    },
-    {
-      "id": "PMC:PMC13670316",
-      "topic": "Long-acting PrEP",
-      "title": "PET Imaging of Sphingolipid Signaling: Current Radiotracers, Translational Gaps, and Opportunities in Neurodegeneration and Oncology",
-      "authors": "Fitzgerald R, Myburgh P, Solingapuram Sai K.",
-      "journal": "",
-      "date": "2026-10-19",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13670316",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42893391",
-      "topic": "Long-acting PrEP",
-      "title": "HIV-1 diagnosis during pre-exposure prophylaxis: A case report.",
-      "authors": "Cruces L, Baquero L, Barletta JAE, Turk G, Laufer N.",
-      "journal": "",
-      "date": "2026-10-18",
-      "abstract": "We report a case of HIV diagnosis in a 36-year-old man who has sex with men receiving daily oral PrEP (emtricitabine/tenofovir) in Argentina, where viral load or HIV PCR testing is not routinely available before or during prophylaxis. In 2022, PrEP was initiated after a diagnosis of primary syphilis, with a non-reactive fourth-generation HIV test performed 13 days earlier (outside the recommended window), so very early infection already present at initiation cannot be excluded. Self-reported adherence was >95%. Serology was negative at day 23 and became reactive at day 73, with an indeterminate Western blot (gp120 only), undetectable plasma HIV-RNA and preserved lymphocyte counts; dolutegravir was added to complete antiretroviral treatment. Standard diagnostic algorithms were initially inconclusive, and confirmation required approaches beyond routine practice: HIV-1 RNA was detected only after ultracentrifugation of 14 mL of plasma (55 copies), and low-level proviral HIV-1 DNA was identified after analysis of an extensive number of cells; Nef- and p24-specific T-cell responses were also detected. No resistance-associated mutations were found on proviral DNA (integrase region). The Western blot eventually became positive at day 382, while a rapid immunochromatographic assay remained negative at 34 months. Atypical presentations of this kind have been reported under oral TDF/FTC PrEP and were subsequently characterized as long-acting early viral inhibition (LEVI) syndrome, predominantly in the context of long-acting cabotegravir. The present case illustrates the extent of non-routine investigation required to confirm HIV acquisition, and the challenges this poses in settings where oral PrEP is the only available option and HIV-1 RNA PCR cannot be routinely deployed. PrEP should be initiated promptly following a negative HIV test performed on the same day, or as close as possible to PrEP initiation, particularly when recent exposure is possible. HIV testing should be repeated sequentially after initiation, and discordant results should prompt continued serological and molecular evaluation.",
-      "url": "https://doi.org/10.1177/09564624261495346",
-      "source": "MED",
-      "doi": "10.1177/09564624261495346",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42944074",
-      "topic": "Long-acting PrEP",
-      "title": "Immune Imprinting Across Respiratory Virus Infection, Vaccination, and Passive Immunization: Rethinking 'Original Antigenic Sin' in Influenza, SARS-CoV-2, and RSV.",
-      "authors": "Szuster-Ciesielska A.",
-      "journal": "",
-      "date": "2026-10-17",
-      "abstract": "Immune imprinting shapes every subsequent response to antigenically related pathogens and is now central to designing updated vaccines for influenza, SARS-CoV-2, and respiratory syncytial virus (RSV). The label \"Original Antigenic Sin\" has framed imprinting as a fixed liability, but recent germinal-center, B-cell repertoire, and epidemiological data show that the effect is neither uniformly harmful nor irreversible. This review distinguishes cross-reactive immune memory from immune imprinting, defined here as a preferential bias toward the first-encountered antigen. Prior exposure can provide useful cross-reactive memory, but available evidence generally does not show that first-antigen bias itself improves protection relative to an equivalent unbiased memory response. We therefore use a hypothesis-generating conceptual framework to examine how antigenic distance, conserved-epitope accessibility, and exposure interval may influence both the usefulness of recalled memory and the extent to which imprinting restricts recruitment of responses to later antigens. The framework organizes existing observations and is not intended to predict imprinting outcomes ex ante. We discuss recent quantitative models that explicitly formalize competition between memory and de novo responses as complementary, pathogen-specific approaches. Across influenza and SARS-CoV-2, early exposure can establish cross-reactive memory associated with subsequent heterologous protection, while preferential recall of the priming antigen may limit responses to novel epitopes. For RSV, the effects of maternal vaccination and passive antibodies on subsequent active immune memory remain uncertain. Immunogen engineering, schedule adjustment, adjuvant selection, and cohort-tailored strategies may broaden pre-existing memory toward conserved protective epitopes and reduce restrictive first-antigen bias.",
-      "url": "https://doi.org/10.3390/v18101155",
-      "source": "MED",
-      "doi": "10.3390/v18101155",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42936486",
-      "topic": "Long-acting PrEP",
-      "title": "Microneedle-mediated co-delivery of biomimetic melanin and pro-regenerative factors for oxidative and immune modulation in vitiligo.",
-      "authors": "Liang J, Liu W, Jiang Y, Yu Y, Li Q, Zhang Y, Li W, Zhang X.",
-      "journal": "",
-      "date": "2026-10-17",
-      "abstract": "Vitiligo lesions are characterized by elevated epidermal oxidative stress, cytotoxic immune activation, and impaired melanogenesis, while conventional topical therapies often fail to modulate these pathogenic events due to limited skin penetration and therapeutic depth. To address these challenges, a dual-layer gelatin methacryloyl (GelMA)/hyaluronic acid methacryloyl (HAMA)//hyaluronic acid (HA) (Gel//HA) microneedle system was engineered. The inner HA layer rapidly dissolves upon insertion, releasing keratinocyte-membrane-coated artificial melanin nanoparticles (MPDA) to achieve early reactive oxygen species (ROS) scavenging and targeted delivery to keratinocytes. The outer Gel hydrogel layer enables sustained intradermal delivery of basic fibroblast growth factor (bFGF) and tyrosinase (TYR), supporting melanocyte survival and restoring melanin synthesis. The microneedles exhibited robust mechanical strength (0.234 ± 0.014 N/needle) with a penetration depth of approximately 300-350 μm. <i>In vitro</i>, the cumulative release of bFGF and TYR reached 65% and 70% within the first 72 h, respectively, and subsequently increased more gradually to 92.1% and 90.7% by day 21. <i>In vitro</i>, the combined administration of MPDA, bFGF, and TYR, mitigated H<sub>2</sub>O<sub>2</sub>-induced oxidative injury and enhanced keratinocyte viability. In a monobenzone-induced mouse model, Gel@bFGF/TYR//HA@MPDA treatment markedly promoted repigmentation, restored epidermal melanin deposition, and reduced the expression of CD8, IFN-γ, and TNF-α. Transcriptomic analysis further revealed suppression of ferroptosis-related genes and reactivation of the Wnt-Frizzled-MITF melanogenic signaling axis. This spatially designed microneedle system provides coordinated antioxidant, immunomodulatory, and pro-melanogenic effects, offering a promising localized therapeutic strategy for vitiligo.",
-      "url": "https://doi.org/10.1016/j.mtbio.2026.103757",
-      "source": "MED",
-      "doi": "10.1016/j.mtbio.2026.103757",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42892525",
-      "topic": "Long-acting PrEP",
-      "title": "One-year outcomes of long-acting injectable cabotegravir for HIV pre-exposure prophylaxis in Milan, Italy.",
-      "authors": "Raccagni AR, Lolatto R, Capra N, Bruzzesi E, Loi G, Di Gerardo M, Puzziferri R, Ferri C, Castagna A, Nozza S.",
-      "journal": "",
-      "date": "2026-10-17",
-      "abstract": "",
-      "url": "https://doi.org/10.1016/j.cmi.2026.10.011",
-      "source": "MED",
-      "doi": "10.1016/j.cmi.2026.10.011",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42992198",
-      "topic": "Long-acting PrEP",
-      "title": "Veterinary drug residues in animal-derived foods: From analytical detection to intelligent and sustainable surveillance.",
-      "authors": "Ramezani Farani M, Mirzaee D, Voosough A, Hatami A, Chanmey K, Miraei Ashtiani SH, Sheik A, Alipourfard I, Ch Stratakos A, A Piletsky S, Hwang SK, Huh YS.",
-      "journal": "",
-      "date": "2026-10-16",
-      "abstract": "Veterinary drug residues in animal-derived foods remain a major challenge for food safety, public health, and international trade. This review examines residue control through the complementary roles of analytical technologies, digital tools and green analytical chemistry. Rapid screening can support local decisions, while liquid chromatography-tandem mass spectrometry provides laboratory confirmation. Digital tools offer opportunities to connect analytical results with treatment records and product traceability, but their value depends on data quality, interoperability and validation. Solvent reduction and miniaturization should be assessed alongside energy use and material life cycles. The proposed farm-to-fork roadmap links these approaches with regulatory requirements and One Health priorities, emphasizing reliable measurements, coordinated data use and feasibility in resource-constrained settings.",
-      "url": "https://doi.org/10.1016/j.fochx.2026.104643",
-      "source": "MED",
-      "doi": "10.1016/j.fochx.2026.104643",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42974206",
-      "topic": "Long-acting PrEP",
-      "title": "Trends in and program characteristics associated with pre-exposure prophylaxis availability among opioid treatment facilities in the United States.",
-      "authors": "Figgatt MC, Jaiswal J, Alnashri Y, Rosen JG, Rich JD, Green TC.",
-      "journal": "",
-      "date": "2026-10-16",
-      "abstract": "<h4>Objective</h4>To examine the prevalence and settings of PrEP availability at opioid use treatment facilities in the United States.<h4>Methods</h4>We examined PrEP trends from 2021 to 2024 using the National Substance Use and Mental Health Services Survey. Using multivariable logistic regression models, we calculated odds ratios (OR) and their 95% confidence intervals (CI) to examine associations between facility characteristics and PrEP prescribing in 2024.<h4>Results</h4>A total of 13,755 substance use treatment facilities in 2021; 14,201 in 2022; 12,892 in 2023; and 13,875 in 2024 were included. The percentage of facilities offering PrEP increased from 6.03% in 2021 to 10.62% in 2024 (<i>p</i> < 0.01) nationwide. Despite comprising over 90% of facilities, outpatient (8.57%) and residential (14.26%) facilities had lower PrEP availability than inpatient facilities (23.19%). Facilities with methadone and buprenorphine had higher odds of PrEP availability (methadone OR = 7.52, 95% CI = 5.34, 10.59; buprenorphine only OR = 10.09, 95% CI = 7.53, 13.52) compared to those without these treatments. Facilities offering programs specific to people living with HIV (OR = 2.32, 95% CI = 1.83, 2.94) and those identifying as LGBTQ+ (OR = 1.75, 95% CI = 1.35, 2.27) were more likely to offer PrEP.<h4>Conclusions</h4>Despite the high number of people served in outpatient and residential facilities, PrEP access continues to remain low.",
-      "url": "https://doi.org/10.1016/j.pmedr.2026.103671",
-      "source": "MED",
-      "doi": "10.1016/j.pmedr.2026.103671",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "MED:42903895",
-      "topic": "Long-acting PrEP",
-      "title": "Nanomaterials Reshaping Tumor Metabolism: A New Frontier to Overcome T Cell Exhaustion.",
-      "authors": "Zhu X, He L, Li J, Guo S, Liu X, Cao Y, Song S.",
-      "journal": "",
-      "date": "2026-10-16",
-      "abstract": "Adoptive antitumor immunity ultimately fails because metabolically hostile tumor microenvironments (TME) drive T cells into a dysfunctional exhausted state that current checkpoint blockade only partially reverses. Crucially, the principal metabolic stresses - accumulation of lactate, lipids and adenosine, deprivation of glucose and amino acids, and hypoxia - do not act in isolation but form a densely cross-regulated network that progressively reinforces T cell exhaustion. This review synthesizes how each barrier arises and how they amplify one another, then maps nanomaterial-based countermeasures onto this network: catalytic nanomaterials that degrade lactate and adenosine, lipid-modulating and mitochondria-targeted formulations, amino-acid replenishment systems, and hypoxia-relieving designs that pair metabolic correction with checkpoint inhibition or photodynamic therapy. Particular attention is given to the design principles - tissue targeting, stimuli-responsive release and rational combination - that determine whether metabolic reprogramming yields durable restoration of T cell function rather than transient phenotypic rescue. Emerging preclinical evidence indicates that nanomaterial-mediated metabolic remodeling can convert the immunosuppressive TME into an immune-supportive niche and recover effector function of exhausted T cells. We further identify the key gaps that currently limit clinical translation: the absence of subset-level evaluation distinguishing reversible progenitor-like exhausted T cells from terminally exhausted cells, the lack of epigenetic endpoints such as histone lactylation, off-target metabolic suppression of T cells themselves, and the manufacturing and safety hurdles of clinical-grade nanomaterials. Resolving these issues would establish metabolic reprogramming as a credible frontier for next-generation cancer immunotherapy.",
-      "url": "https://doi.org/10.2147/ijn.s639887",
-      "source": "MED",
-      "doi": "10.2147/ijn.s639887",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
     }
   ],
-  "errors": [
-    "AI Embeddings: The read operation timed out"
-  ]
+  "errors": []
 }
