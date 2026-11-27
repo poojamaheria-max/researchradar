@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:58:09.432762+00:00",
+  "updated": "2026-11-27T18:45:09.023834+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -12,6 +12,22 @@
       "url": "https://doi.org/10.1142/s0129065727500262",
       "source": "MED",
       "doi": "10.1142/s0129065727500262",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43097334",
+      "topic": "AI Embeddings",
+      "title": "Comet Assay for Detecting DNA Degradation in Biological Samples.",
+      "authors": "Bhoyar L, Chavali K, Negi SS, Shukla AK, Mehar P.",
+      "journal": "",
+      "date": "2027-01-01",
+      "abstract": "The comet assay, also known as single-cell gel electrophoresis, is a sensitive and versatile method for detecting DNA damage and degradation in individual cells. In biological samples, DNA fragmentation caused by apoptosis, necrosis, or environmental stressors can be seen as comet-like structures, allowing for both qualitative and quantitative evaluation of genomic integrity. This technique involves embedding cells in agarose, lysing the membranes, and running the nuclei through electrophoresis, where damaged DNA migrates to create a \"tail\" proportional to the damage level. Due to its simplicity, low sample requirements, and high sensitivity, the comet assay has become a valuable tool in forensic, biomedical, and environmental research for monitoring DNA integrity, understanding degradation processes, and supporting applications such as postmortem interval estimation and exposure assessment.",
+      "url": "https://doi.org/10.1007/978-1-0716-5707-2_14",
+      "source": "MED",
+      "doi": "10.1007/978-1-0716-5707-2_14",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -252,6 +268,70 @@
       "url": "https://doi.org/10.1097/phh.0000000000002227",
       "source": "MED",
       "doi": "10.1097/phh.0000000000002227",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43096775",
+      "topic": "AI Embeddings",
+      "title": "Aged Macrophage-Derived Signaling Impairs Regulatory T Cell Induction and Is Associated With Persistent Intraocular Inflammation.",
+      "authors": "Yamamoto T, Hase K, Lin JB, Yamaguchi S, Misawa N, Li J, Kato K, Terao R, Cook C, Sohn BS, Du D, Yoshida M, Pfeifer CW, Lee TJ, Colasanti J, Santeford A, Walsh JT, Apte RS.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "Immune-mediated intraocular inflammation, called uveitis, is a leading cause of global blindness, with the highest burden of visual impairment falling on older individuals. Immunosenescence, the functional changes in immune cells with aging, impacts the age-associated immune response, but how immunosenescence and the molecular regulators of the age-associated immune response affect the clinical course of uveitis remains unclear. In the murine model of experimental autoimmune uveitis (EAU), aged mice demonstrated a delayed onset and peak of intraocular inflammation compared to young mice. In contrast to the canonical monophasic inflammation that rapidly resolves in young mice, aged mice developed persistent, chronic inflammation. Transcriptomic and flow-cytometric analyses of immune cells and the receptor-ligand interactome revealed a dominant macrophage-CD4<sup>+</sup> T cell signature. This signaling pathway was functionally altered on both ends: macrophages from aged mice had an impaired capacity to generate peripherally induced regulatory T cells (pTreg) through an IL-6 regulated pathway, while CD4<sup>+</sup> T cells co-cultured with aged macrophages demonstrated increased proliferation. Our study establishes aging as a key regulator of the effector immune response in uveitis. Regulatory T cells, specifically pTreg, are essential for resolving inflammation in uveitis and an impaired ability to induce pTreg led to a sustained, chronic inflammatory uveitis phenotype in old mice, thereby linking immunosenescence to persistent neuroinflammation. These findings highlight potential therapeutic avenues for vision-threatening uveitis, especially in older patients.",
+      "url": "https://doi.org/10.1111/acel.70862",
+      "source": "MED",
+      "doi": "10.1111/acel.70862",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43096718",
+      "topic": "AI Embeddings",
+      "title": "Clinical Audits Implementation in LMICs: A Step-by-Step Practical Guide for Healthcare Providers.",
+      "authors": "Mohamedsharif A.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "<h4>Background</h4>Clinical audits are pivotal for enhancing healthcare quality, particularly in low-resource settings where standardising practice poses significant challenges.<h4>Objective</h4>To provide a practical, step-by-step guide for implementing clinical audits in low- and middle-income countries (LMICs) and other resource-constrained settings.<h4>Methods</h4>Drawing on existing literature and practical experience, this paper presents a structured approach to clinical audit implementation tailored to settings with limited resources.<h4>Results</h4>We propose a seven-step process for conducting clinical audits, including topic selection, selecting the guideline, setting criteria and standards, data collection, analysis, implementation of change, and re-audit strategies. The guide highlights the adaptability of the audit process to diverse healthcare contexts and emphasises the importance of stakeholder engagement and evidence-based practice in overcoming local barriers. It also identifies common pitfalls and offers pragmatic solutions for effective audit implementation.<h4>Conclusion</h4>This practical guide aims to foster a culture of continuous quality improvement and to bridge gaps in quality care delivery in low-resource settings by providing healthcare practitioners with a clear, step-by-step approach to clinical audit implementation.",
+      "url": "https://doi.org/10.1111/jep.70754",
+      "source": "MED",
+      "doi": "10.1111/jep.70754",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43095914",
+      "topic": "AI Embeddings",
+      "title": "A Systems Level Logic Model of the Neuroinflammatory Response in Late Stage G93A SOD1 Mice.",
+      "authors": "Foster-Powell A, Mager DE, Rostami-Hodjegan A, Meno-Tetang G, Ogungbenro K.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "Neuroinflammation is a pathological hallmark of amyotrophic lateral sclerosis (ALS) in both animal models and human patients, yet its systems-level behavior remains poorly characterized, due to sparse and heterogeneous data. To address this, a discrete Boolean logic model was developed comprising 33 nodes to qualitatively simulate neuroimmune interactions in the SOD1G93A mouse model of ALS, with a focus on RIPK1-mediated signaling. Cell-type specific sub-models for microglia, astrocytes, oligodendrocytes, T-cells, and motor neurons were constructed from literature-derived cytokine and phenotype data and integrated into a wider network of the neuroimmune response. Simulations in MaBoSS identified three stable states: homeostatic (82.9%), and two microglial dominated states (RIPK1 regulated inflammatory microglia (14.0%) and disease associated microglia (2.7%)). The model reproduced experimental perturbation outcomes, including TNF-α and IL6 knockouts on SOD1 backgrounds, and captured population-level trends in microglial and oligodendrocyte states. Unbiased node inhibition suggested oligodendrocyte death pathways regulated by pRIPK1 (p(Motor neuron survival) = 1.00) and pro-inflammatory phenotypes (A1, DAM; p(Motor neuron survival) = 0.58 and 0.36 respectively) as potent therapeutic targets, while cytokine-only strategies were less effective. Correlation analysis identified TNF-αHigh (r = -0.81), CCL2 (r = -0.72), IL6 (r = -0.71) and IFN-γ (r = -0.62) as candidate biomarkers of disease progression. Despite its qualitative nature, the model recapitulated known inflammatory dynamics and motor neuron trajectories, demonstrating the utility of logic-based modeling in translational ALS research. This framework provides a mechanistic platform for hypothesis generation, therapeutic prioritization, and biomarker evaluation in data-sparse neurodegenerative contexts.",
+      "url": "https://doi.org/10.1002/psp4.70357",
+      "source": "MED",
+      "doi": "10.1002/psp4.70357",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43094298",
+      "topic": "AI Embeddings",
+      "title": "Identifying Small Molecule-Nanobody Pairs via Yeast Surface Display.",
+      "authors": "Lin KM, Sun L, An H.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "Nanobodies that recognize small molecule antigens (or haptens) hold significant potential for therapeutics, diagnostics, and basic research, yet fewer than 30 have been reported to date. Traditionally, their discovery involves covalent conjugation of small molecules to carrier proteins, followed by camelid immunization. The potential for animal-free platforms to replace this process remains largely untested. Here, we apply synthetic yeast surface display to produce functional anti-hapten (α-hapten) nanobodies. From a naïve library, we identified NbLK1, a nanobody targeting a sulfonamide-based small molecule, and improved its apparent affinity on the yeast surface from micromolar to 37 nM through directed evolution. We also applied this platform to an existing methotrexate-binding nanobody, yielding a nanobody with improved affinity. These nanobodies retain function when expressed in mammalian cells, demonstrating their compatibility with fluorescence-based detection and affinity capture applications. Under identical conditions, the same naïve library yielded diverse nanomolar binders for ubiquitin but only a single micromolar binder for the hapten, highlighting the sensitivity limit of α-hapten nanobody selection. Our data suggest that discovering α-hapten nanobodies without animals is achievable, with the main practical limitation being the naïve selection step rather than maturation.",
+      "url": "https://doi.org/10.1002/cbic.70619",
+      "source": "MED",
+      "doi": "10.1002/cbic.70619",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -930,14 +1010,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13801647",
+      "id": "PMC:PMC13809136",
       "topic": "AI Embeddings",
-      "title": "From genetic risk factor to therapeutic target: The CREB3L4-GDF15 axis drives prostate cancer immune evasion",
-      "authors": "Wu T, Huang E, Mao L, Liu P, Xia T, Chen S, Cheng Y, Zhang R, Xue K, Chen Y, Zhang X, Zheng X, Liu Y, Ju S, Chen M, Li W, Xu B.",
+      "title": "A hybrid graph attention network and proximal policy optimization framework for adaptive fog-cloud offloading and frameproof-based secure IoT data transmission",
+      "authors": "Sudalai D, Pandi T.",
       "journal": "",
       "date": "2026-11-27",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13801647",
+      "url": "https://europepmc.org/article/PMC/PMC13809136",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -946,14 +1026,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13801706",
+      "id": "PMC:PMC13809100",
       "topic": "AI Embeddings",
-      "title": "Visual learning through auditory reactivation during wakefulness and sleep",
-      "authors": "Xie M, Li Z, Fan Y, Li Y, Wan X, Yang S, Huang S, Zhao C, Ma N, Fang F, Zhang X.",
+      "title": "Consistency-regularized graph-tabular evidence fusion for cold-start drug-drug interaction prioritization",
+      "authors": "Hashir Q, Asfand E Yar M, Asadullah, Kamal S, Hassan M, Ullah F, Alobaedy M.",
       "journal": "",
       "date": "2026-11-27",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13801706",
+      "url": "https://europepmc.org/article/PMC/PMC13809100",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -962,14 +1042,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13801717",
+      "id": "PMC:PMC13809962",
       "topic": "AI Embeddings",
-      "title": "A programmable cell-free biosensor device for on-demand detection of pathogens and antibiotics",
-      "authors": "Gao Z, Lu Z, Wu Y, Han L, Xu Y, Zhao S, Tian Z, Gu J, Wang S, Yu C, Han Q, Yu X, He F, Yu X, Lu L, Yu J, Zhang Y, Gu Z.",
+      "title": "Large language models for mental health",
+      "authors": "Triantafyllopoulos A, Terhorst Y, Tsangko I, Pokorny F, Bartl-Pokorny K, Seizer L, Klein A, Chim J, Atzil-Slonim D, Liakata M, Bühner M, Löchner J, Schuller B.",
       "journal": "",
       "date": "2026-11-27",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13801717",
+      "url": "https://europepmc.org/article/PMC/PMC13809962",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -978,14 +1058,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13802296",
+      "id": "PMC:PMC13809570",
       "topic": "AI Embeddings",
-      "title": "Data generation for machine-learned force fields",
-      "authors": "Luxford S, Williamson C, Chaudhuri S, Ganose A, Giuffrida V, Greensmith J, Inzani K.",
+      "title": "Comprehensive menstrual policy frameworks for an integrated future: bridging health, education, economic, and mental wellbeing gaps",
+      "authors": "Rajaselvi J, Kumar N.",
       "journal": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13802296",
+      "url": "https://europepmc.org/article/PMC/PMC13809570",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -994,14 +1074,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13802016",
+      "id": "PMC:PMC13809499",
       "topic": "AI Embeddings",
-      "title": "Nasal microbiota is involved in Parkinson’s disease pathology from olfactory bulb to brain via nose-brain axis",
-      "authors": "Ye T, Cui X, Dai C, Yang W, Lin X, Zhan L, Zhuo L, Liu J, Zhao M.",
+      "title": "Mental health outcomes and intervention strategies for first responders exposed to disasters and occupational trauma: a scoping review",
+      "authors": "Hofer M, Reininghaus E, Thaller A, Häussl A, Stix K, Pehmer S, Pfannhofer A, Fellendorf F, Kircher J, Zatloukal K, Lenger M.",
       "journal": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13802016",
+      "url": "https://europepmc.org/article/PMC/PMC13809499",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -1010,14 +1090,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13797940",
+      "id": "PMC:PMC13809117",
       "topic": "AI Embeddings",
-      "title": "Azo-dye adulteration of palm oil: occurrence, detection, toxicological implications, and regulatory gaps",
-      "authors": "Salimon S, Ayinla A, Amoah A, Yakubu R, Pustovalova M.",
+      "title": "Preliminary diagnostic performance of the MOXO continuous performance test in young adults undergoing ADHD assessment",
+      "authors": "Kaloğlu H, Akçay E, Çetinel Ş, Özdel K.",
       "journal": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13797940",
+      "url": "https://europepmc.org/article/PMC/PMC13809117",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -1026,14 +1106,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13801798",
+      "id": "PMC:PMC13808810",
       "topic": "AI Embeddings",
-      "title": "Lipopolysaccharide-induced acute systemic inflammation is associated with depression-like behavior and increased hippocampal EphA4 expression",
-      "authors": "YAVAŞ S, YAVAŞ Ö, AKBAŞ A, IŞIKLAR S, ERSOY S.",
+      "title": "Śraddhā as trans-empirical investment: a candidate construct and a comparative research programme on human distinctiveness",
+      "authors": "Samanta S.",
       "journal": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13801798",
+      "url": "https://europepmc.org/article/PMC/PMC13808810",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -1042,83 +1122,19 @@
       ]
     },
     {
-      "id": "PMC:PMC13796961",
-      "topic": "AI Embeddings",
-      "title": "PKN2 Drives Immunotherapy Resistance by Inducing Neutrophil Extracellular Trap-Mediated T Cell Exclusion through the FOXC1-CXCL8 Pathway in Esophageal Squamous Cell Carcinoma",
-      "authors": "Wu H, Chen Z, Wang Z, Zhao Z, Jiang H, Li Z, Zhang S, Fang K, Zhang Z, Sun M, Feng A, Leng Z, Wang X, Chu Y, Zhang L, He L, Xu M, Chen T.",
+      "id": "MED:43084476",
+      "topic": "Long-acting PrEP",
+      "title": "But if it's a man, what is a man going to prevent? Young men's perspectives on pre-exposure prophylaxis use and persistence from a rural South African HIV prevention trial.",
+      "authors": "Castle AC, Nzimande L, Ncube T, Nkosi B, Mannstadt E, Dube S, Psaros C, Chikovore J, Shahmanesh M, Siedner MJ.",
       "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13796961",
-      "source": "PMC",
-      "doi": "",
+      "date": "2026-11-25",
+      "abstract": "Young men who use alcohol in South Africa are at high risk for HIV yet remain underrepresented in prevention programs. This study explored social, cultural, and behavioral factors influencing PrEP initiation and persistence among young men who use alcohol in rural KwaZulu-Natal. We conducted 30 semi-structured individual interviews with men aged 18-34 years who reported alcohol use and had participated in a sexual health trial offering oral PrEP. Participants were purposively selected by PrEP engagement (declined, discontinued, or continued for ≥6 months). Interviews were conducted in isiZulu, transcribed verbatim, translated, and thematically analyzed using NVivo15. Participants had a median age of 27 years (IQR 24-32), were all sexually active, and had a median AUDIT-C score of 7 (IQR 5-9). Four themes shaped PrEP engagement. First, masculine norms and cultural identity fostered beliefs that \"real men\" should not need pills to stay healthy; traditional herbs and cleansing practices were often viewed as more trustworthy than biomedical prevention. Second, stigma and peer surveillance within social drinking networks heightened privacy concerns. PrEP's resemblance to antiretroviral therapy generated fears of being labeled as living with HIV, reinforced through joking and gossip. Third, patterns of perceived HIV risk reinforced PrEP disengagement: some men acknowledged risk but avoided testing due to paralyzing fear of diagnosis, while others minimized risk based on partner trust or perceived self-control with sex. Finally, clear understanding of PrEP's preventive purpose and alignment with personal values enabled some men to overcome social barriers, particularly when supported by youth-friendly mobile clinic delivery models. PrEP engagement among young men who use alcohol was driven primarily by sociocultural factors rather than access alone. Masculinity norms, stigma, and fear of HIV testing commonly sustained disengagement, while clear understanding of PrEP and delivery models supporting informed, self-directed decision-making facilitated use.",
+      "url": "https://doi.org/10.1371/journal.pgph.0007623",
+      "source": "MED",
+      "doi": "10.1371/journal.pgph.0007623",
       "is_preprint": false,
       "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13796443",
-      "topic": "AI Embeddings",
-      "title": "Development and preliminary usability evaluation of an evidence-based knowledge graph–supported intelligent question-answering system for chronic rhinosinusitis health education",
-      "authors": "Wang W, Zhang Z, Li X, Zhang Y, Wang N, Shi M, Zhang X.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13796443",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13798149",
-      "topic": "AI Embeddings",
-      "title": "Assessment of online mental health content: integrating lightweight language models with clinical quality criteria",
-      "authors": "Javed H, Ayadi M, Oh H, Ali F.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13798149",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13796362",
-      "topic": "AI Embeddings",
-      "title": "The role of basic psychological need satisfaction in the relationship between exercise and well-being in adolescents: a systematic review",
-      "authors": "Chen S, Chen T, Chen T.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13796362",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13798321",
-      "topic": "AI Embeddings",
-      "title": "meta-Carborane-Based Macrocyclic Arenes: Synthesis and Inner-Wall Modification",
-      "authors": "Ren Y, Ren X, Guo L, Xia L, Liu X, Cui P.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13798321",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
+        "Long-acting PrEP"
       ]
     },
     {
@@ -1218,6 +1234,22 @@
       ]
     },
     {
+      "id": "MED:43087485",
+      "topic": "Long-acting PrEP",
+      "title": "The Ambivalent Role of Social Media in Shaping Young Women's Sexual Health Behaviors: A Narrative Review.",
+      "authors": "Modzelewska AM, Urbaniak AD, Bajko J, Nowak N, Kudelski J.",
+      "journal": "",
+      "date": "2026-11-18",
+      "abstract": "Social media are now integral to young women's sexual socialization, yet evidence remains polarized between educational benefits and behavioral risks. This narrative review examines why the same platforms can protect and endanger young women's sexual health. Quantitative and qualitative studies of young women with a mean or median age of 15-29 years, together with content analyses, were synthesized. Social media broadened access to sexual and reproductive health information, particularly where formal sex education was inadequate. They may reduce stigma and promote peer support and self-advocacy. However, exposure was more consistently associated with knowledge and attitudes than with behavior, and the few controlled trials showed no clear effect on behavior. Concurrently, platforms disseminated misinformation, often from non-professionals, transmitted sexualized appearance norms, and exposed users to problematic use and technology-facilitated sexual violence. Six interrelated mechanisms may underlie this ambivalence: social comparison, norm internalization, peer approval pressure, information-misinformation interplay, algorithmic amplification, and sexual self-esteem and agency. Their direction likely depends on content quality, patterns of use, critical health literacy, individual vulnerability and platform architecture. Social media therefore constitute a modifiable environment whose protective potential may be strengthened through expert-based content, digital health literacy and service-linked interventions, pending controlled evaluation.",
+      "url": "https://doi.org/10.3390/bs16112187",
+      "source": "MED",
+      "doi": "10.3390/bs16112187",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:43051964",
       "topic": "Long-acting PrEP",
       "title": "Initiation of lenacapavir with dose escalation in a patient receiving rifabutin: A case report with therapeutic drug monitoring.",
@@ -1298,6 +1330,22 @@
       ]
     },
     {
+      "id": "MED:43092518",
+      "topic": "Long-acting PrEP",
+      "title": "Current Knowledge on the Pathophysiology of Tuberculosis and Potential of Inhaled Bacteriophage Therapy Against Tuberculosis.",
+      "authors": "Lin Y, Long Y, Chan HK, Garvey M.",
+      "journal": "",
+      "date": "2026-11-16",
+      "abstract": "Tuberculosis remains a major health burden around the world. With the emergence of multi-drug-resistant and extensively drug-resistant <i>Mycobacterium tuberculosis</i>, the need for alternative antimicrobial strategies has increased. Bacteriophages can specifically infect and lyse bacteria, thereby having the potential for the treatment of tuberculosis. Administration via pulmonary delivery may offer a means of concentrating viable bacteriophages at the infection site within the deep lung while reducing systemic exposure. This review examines the pathophysiological and intracellular barriers relevant to pulmonary TB and evaluates current strategies for aerosolized phage delivery, including nebulization, dry-powder formulations, and macrophage-targeted delivery systems. Preclinical studies demonstrate promising aerosol performance, intracellular delivery, and antimycobacterial activity, particularly through engineered dry powders and liposomal systems; however, direct clinical evidence in pulmonary TB remains limited. Major challenges include maintaining phage viability during aerosol generation and storage, penetrating granulomatous lesions, and delivering sufficient active phages to intracellular <i>M. tuberculosis</i> within alveolar macrophages. Future translation will depend on improving phage stability during aerosolization, achieving efficient alveolar and intracellular delivery, overcoming host and lesion barriers, and establishing standardized manufacturing, safety, and regulatory frameworks.",
+      "url": "https://doi.org/10.3390/microorganisms14112652",
+      "source": "MED",
+      "doi": "10.3390/microorganisms14112652",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:43041595",
       "topic": "Long-acting PrEP",
       "title": "Visible Light-Active Hyaluronic Acid Dermal Fillers for User-Demand Quick Molding and Local Drug Delivery.",
@@ -1324,6 +1372,22 @@
       "url": "https://doi.org/10.1007/s11904-026-00804-0",
       "source": "MED",
       "doi": "10.1007/s11904-026-00804-0",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43090052",
+      "topic": "Long-acting PrEP",
+      "title": "Madecassoside Part I: From Biosynthesis to Druggability.",
+      "authors": "Li Y, Xu M, Yang Y, Liang S, Lu Y, Lin X, Zhao L.",
+      "journal": "",
+      "date": "2026-11-14",
+      "abstract": "<b>Background:</b> Madecassoside (MA) is the core bioactive pentacyclic triterpenoid saponin and a key quality control marker of <i>Centella asiatica</i> (L.) Urb. Its material basis and druggability profiles are fundamental prerequisites for pharmacological research and clinical translation. Although several reviews have covered selected aspects of MA chemistry and pharmacology, no systematic review has comprehensively covered the full chain from chemical structure to in vivo disposition exclusively for MA monomer. <b>Objective:</b> As the first part of a two-part series, this review aims to systematically integrate evidence on the chemical basis, biosynthesis, green preparation, and pharmacokinetic characteristics of MA and clarify the core druggability bottlenecks of this compound. <b>Methods:</b> The literature search was conducted in PubMed, Web of Science, and China National Knowledge Infrastructure (CNKI) up to 31 August 2026. Studies focusing on the chemistry, biosynthesis, extraction/purification, and pharmacokinetics of MA were included and critically analyzed. Evidence was stratified into four predefined levels: Level A (clinical trials), Level B (in vivo animal studies), Level C (in vitro cell/molecular studies), Level D (computational prediction). The limitation of Chinese literature to Peking University core journals is acknowledged as a potential source of publication bias. <b>Results:</b> Current evidence supports that the C-6 <i>β</i>-hydroxyl group on the ursane-type aglycone skeleton and the intact linear trisaccharide chain at the C-28 position are the major structural correlates of MA's biological activity (working hypothesis based on natural analog comparisons). The backbone cyclization and glycosylation steps in the MA biosynthetic pathway have been largely characterized, but the specific enzymes responsible for C-2 <i>α</i>- and C-6 <i>β</i>-hydroxylation remain to be fully identified. Green extraction technologies such as ultrasound-assisted extraction, microwave-assisted extraction, and deep eutectic solvent extraction have been well optimized, and multiple purification strategies can yield high-purity monomers. In rats, the oral absolute bioavailability of the pure MA prototype is less than 1%, with extensive intestinal metabolism and enterohepatic circulation, representing the core druggability bottleneck. Human pharmacokinetic data remain very limited, and rat values cannot be directly extrapolated to humans. <b>Conclusions:</b> This review establishes a full-chain material basis framework for madecassoside spanning from molecular structure to in vivo disposition, systematically integrating evidence on structural activity determinants, biosynthetic pathways, green extraction and purification technologies, and pharmacokinetic profiles. Extremely low oral bioavailability and extensive in vivo metabolic transformation are confirmed as the core druggability bottlenecks. These findings lay the essential foundation for elucidating pharmacological mechanisms, optimizing delivery systems, and advancing clinical translation in the second part of this series. To our knowledge, this is the first two-part systematic review focused exclusively on the MA monomer that covers the full translational spectrum from chemical fundamentals and druggability profiles to pharmacological mechanisms and clinical translation.",
+      "url": "https://doi.org/10.3390/biom16111663",
+      "source": "MED",
+      "doi": "10.3390/biom16111663",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
@@ -1468,6 +1532,22 @@
       "url": "https://doi.org/10.1016/j.bjid.2026.105980",
       "source": "MED",
       "doi": "10.1016/j.bjid.2026.105980",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
+      "id": "MED:43088486",
+      "topic": "Long-acting PrEP",
+      "title": "Disulfiram Repurposing Across Therapeutic Indications: Molecular Mechanisms, Evidence Appraisal, and a Systematic Review of Its Use in Lyme Borreliosis.",
+      "authors": "Popovici V, Ciumasu-Rimbu M, Boca R, Ozon EA.",
+      "journal": "",
+      "date": "2026-11-09",
+      "abstract": "Disulfiram (tetraethylthiuram disulfide, DSF), licensed for alcohol use disorder since 1951, is among the most studied drug-repurposing candidates and has been prescribed off-label for Lyme borreliosis since 2016. This hybrid review asks what supports that practice, appraising the Lyme evidence against disulfiram's record in other repurposing indications. We provided a narrative review of DSF and its bioactive metabolites' pharmacology, molecular targets, and toxicology. We also included a separate section systematically reviewing DSF in Lyme borreliosis following the PRISMA 2020 Guide. PubMed, Europe PMC, CENTRAL, bioRxiv, medRxiv, and ClinicalTrials.gov were searched from inception, while risk of bias was assessed using ROBINS-I, RoB 2, and SYRCLE; certainty was analyzed using GRADE. DSF is a prodrug acting through twenty-one documented targets, yet only alcohol use disorder rests on regulatory-grade evidence; oncology results are contradictory, and other indications remain preclinical. Nine primary studies addressed Lyme borreliosis, with five human reports contributing 96 participant entries and 93 unique individuals. Preclinical findings conflict, the largest dataset is uncontrolled, and the only randomized trial stopped early. Evidence on DSF repurposing shows strong preclinical support and small or inconsistent controlled results; a few well-powered randomized trials comparing it to standard care reported no clear benefits, but increased toxicity. In Lyme borreliosis, certainty of DSF benefits is very low, and certainty of dose-dependent harm is moderate, including one fatal outcome. No human study measured a microbiological endpoint, and all preclinical work used <i>B. burgdorferi sensu stricto</i>, leaving the evidence indirect for European genospecies.",
+      "url": "https://doi.org/10.3390/cimb48111185",
+      "source": "MED",
+      "doi": "10.3390/cimb48111185",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
@@ -1730,78 +1810,14 @@
       ]
     },
     {
-      "id": "PMC:PMC13801564",
+      "id": "PMC:PMC13809993",
       "topic": "Long-acting PrEP",
-      "title": "Disulfiram Repurposing Across Therapeutic Indications: Molecular Mechanisms, Evidence Appraisal, and a Systematic Review of Its Use in Lyme Borreliosis",
-      "authors": "Popovici V, Ciumasu-Rimbu M, Boca R, Ozon E.",
-      "journal": "",
-      "date": "2026-11-01",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13801564",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PMC:PMC13807067",
-      "topic": "Long-acting PrEP",
-      "title": "Current Knowledge on the Pathophysiology of Tuberculosis and Potential of Inhaled Bacteriophage Therapy Against Tuberculosis",
-      "authors": "Lin Y, Long Y, Chan H, Garvey M.",
-      "journal": "",
-      "date": "2026-11-01",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13807067",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PMC:PMC13800037",
-      "topic": "Long-acting PrEP",
-      "title": "The Ambivalent Role of Social Media in Shaping Young Women’s Sexual Health Behaviors: A Narrative Review",
+      "title": "HIV-1 Drug Resistance in Adults With HIV/TB on Rifampicin Receiving Bictegravir or Dolutegravir in South Africa: The INSIGHT Trial",
       "authors": "",
       "journal": "",
       "date": "2026-11-01",
       "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13800037",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PMC:PMC13799621",
-      "topic": "Long-acting PrEP",
-      "title": "Long-Acting Antiretroviral Therapies for HIV: From Approved Strategies to the Next Generation of Treatment and Prevention",
-      "authors": "Lanzafame M, Mori G, Castelli A, Vento S.",
-      "journal": "",
-      "date": "2026-11-01",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13799621",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PMC:PMC13800880",
-      "topic": "Long-acting PrEP",
-      "title": "Madecassoside Part I: From Biosynthesis to Druggability",
-      "authors": "Li Y, Xu M, Yang Y, Liang S, Lu Y, Lin X, Zhao L.",
-      "journal": "",
-      "date": "2026-11-01",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13800880",
+      "url": "https://europepmc.org/article/PMC/PMC13809993",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -2224,25 +2240,7 @@
       "topics": [
         "Long-acting PrEP"
       ]
-    },
-    {
-      "id": "MED:42947930",
-      "topic": "Long-acting PrEP",
-      "title": "A Dissociation-Based Seahorse XF Workflow for Quantifying Averaged Bioenergetics in Anchorage-Independent Cancer Cell Clusters.",
-      "authors": "Lindeque R, Visagie JL, Fouché BR, Labuschagne CF.",
-      "journal": "",
-      "date": "2026-10-20",
-      "abstract": "Cell clustering during anchorage-independent growth (AIG) is a key hallmark of malignant progression, supporting survival under detachment during metastatic dissemination. However, bioenergetic profiling of cell clusters grown under AIG conditions remains technically challenging, in part because of steep nutrient and oxygen gradients and irregular cell cluster shapes that complicate Seahorse XF assay normalization. Here, we present a dissociation-based Seahorse XF96/XF Pro method that enables high-throughput quantification of the average bioenergetic state of anchorage-independent cancer cell clusters. In this workflow, clusters generated in ultra-low adherent plates are enzymatically and mechanically dissociated into a single-cell suspension immediately prior to Seahorse XF Mito Stress Test analysis on poly-D-lysine-coated 2D microplates. This approach ensures that all viable cells throughout each cluster contribute equally to oxygen consumption rate (OCR) measurements and reduces the need for complex post hoc normalization. We further apply this workflow to an in vitro metastasis model in which A549 lung cancer cells are studied as attached, detached (anchorageindependent), and reattached populations, mimicking primary tumor cells, circulating/clustered cells, and secondary lesions, respectively. Detached cells exhibit reduced mitochondrial membrane potential and diminished basal and maximal OCR, whereas reattached cells largely restore membrane potential and respiratory capacity to levels comparable to attached cells, demonstrating that detachment-induced mitochondrial dysfunction is reversible upon reattachment. These findings align with previous work showing that anchorage-independent and clustered cancer cells undergo reversible metabolic reprogramming, including suppression of oxidative metabolism, engagement of reductive pathways to support redox homeostasis, and altered ROS handling to facilitate metastatic colonization. Collectively, this dissociation-based Seahorse workflow provides a practical and accessible platform to interrogate metabolic adaptations to anchorage-independent growth and cell clustering and identify bioenergetic vulnerabilities of metastasis-relevant cancer cell states. Key features • Dissociation-based Seahorse XF Mito Stress Test enabling per-cell bioenergetic profiling of anchorage-independent cancer cell clusters grown in ultra-low adherent plates. • Overcomes structural heterogeneity by enzymatically dissociating clusters into single-cell suspensions immediately before analysis, ensuring each viable cell contributes equally to OCR measurements. • Compatible with adherent monolayer, anchorage-independent, and reattached cell populations, enabling direct bioenergetic comparison across conditions that model primary tumor, circulating, and metastatic colonization states. • Validated in the A549 lung adenocarcinoma cell line; includes PDL coating, in-house DMEM preparation, and BAM15 concentration optimization steps adaptable to other cancer cell lines.",
-      "url": "https://doi.org/10.21769/bioprotoc.5849",
-      "source": "MED",
-      "doi": "10.21769/bioprotoc.5849",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
     }
   ],
-  "errors": [
-    "Long-acting PrEP: The read operation timed out"
-  ]
+  "errors": []
 }
