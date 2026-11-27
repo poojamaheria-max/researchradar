@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T18:47:23.555909+00:00",
+  "updated": "2026-11-27T00:56:56.174330+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -1640,7 +1640,7 @@
       "authors": "Lanzafame M, Mori G, Castelli A, Vento S.",
       "journal": "",
       "date": "2026-11-03",
-      "abstract": "Background/Objectives: Long-acting antiretroviral therapies (LA-ART) represent a major evolution in HIV treatment and prevention, addressing key limitations of lifelong daily oral medication. This narrative review summarizes current evidence on approved and investigational long-acting antiretroviral strategies, focusing on efficacy, pharmacology, resistance, clinical implementation and future perspectives. Methods: A structured narrative literature search was performed in PubMed/MEDLINE and the Cochrane Library for records published between January 2005 and October 2026, complemented by major conference proceedings (CROI, IAS, EACS) and regulatory and public-health sources (FDA, EMA, WHO, CDC, DHHS, IAS-USA). Findings were synthesized narratively and organized by drug class and clinical indication (treatment versus prevention), given substantial heterogeneity across study designs, agents and outcomes that precluded quantitative meta-analysis. Results: Injectable cabotegravir plus rilpivirine has become established as the first long-acting maintenance regimen for virologically suppressed individuals, with expanding evidence in adherence-challenged and adolescent populations. Long-acting cabotegravir has demonstrated superiority over oral tenofovir-based pre-exposure prophylaxis (PrEP) in the HPTN 083 and HPTN 084 trials. Lenacapavir, the first-in-class capsid inhibitor, has shown activity against multidrug-resistant HIV and, in the PURPOSE 1 and PURPOSE 2 trials, high efficacy as twice-yearly PrEP, with durable results on long-term follow-up. Investigational strategies, including islatravir plus lenacapavir and broadly neutralizing antibodies, may further extend dosing intervals, although resistance, implementation and equitable-access challenges remain across all approaches. Conclusions: Long-acting antiretroviral strategies have established a new therapeutic paradigm for HIV treatment and prevention. Their future impact will depend on resistance management, healthcare-delivery capacity and equitable global access, alongside continued clinical innovation.",
+      "abstract": "<b>Background/Objectives:</b> Long-acting antiretroviral therapies (LA-ART) represent a major evolution in HIV treatment and prevention, addressing key limitations of lifelong daily oral medication. This narrative review summarizes current evidence on approved and investigational long-acting antiretroviral strategies, focusing on efficacy, pharmacology, resistance, clinical implementation and future perspectives. <b>Methods:</b> A structured narrative literature search was performed in PubMed/MEDLINE and the Cochrane Library for records published between January 2005 and October 2026, complemented by major conference proceedings (CROI, IAS, EACS) and regulatory and public-health sources (FDA, EMA, WHO, CDC, DHHS, IAS-USA). Findings were synthesized narratively and organized by drug class and clinical indication (treatment versus prevention), given substantial heterogeneity across study designs, agents and outcomes that precluded quantitative meta-analysis. <b>Results:</b> Injectable cabotegravir plus rilpivirine has become established as the first long-acting maintenance regimen for virologically suppressed individuals, with expanding evidence in adherence-challenged and adolescent populations. Long-acting cabotegravir has demonstrated superiority over oral tenofovir-based pre-exposure prophylaxis (PrEP) in the HPTN 083 and HPTN 084 trials. Lenacapavir, the first-in-class capsid inhibitor, has shown activity against multidrug-resistant HIV and, in the PURPOSE 1 and PURPOSE 2 trials, high efficacy as twice-yearly PrEP, with durable results on long-term follow-up. Investigational strategies, including islatravir plus lenacapavir and broadly neutralizing antibodies, may further extend dosing intervals, although resistance, implementation and equitable-access challenges remain across all approaches. <b>Conclusions:</b> Long-acting antiretroviral strategies have established a new therapeutic paradigm for HIV treatment and prevention. Their future impact will depend on resistance management, healthcare-delivery capacity and equitable global access, alongside continued clinical innovation.",
       "url": "https://doi.org/10.3390/biomedicines14112530",
       "source": "MED",
       "doi": "10.3390/biomedicines14112530",
@@ -2098,6 +2098,22 @@
       ]
     },
     {
+      "id": "MED:43093795",
+      "topic": "Long-acting PrEP",
+      "title": "From Daily Pills to Twice-Yearly Protection: A Narrative Review of Long-Acting Cabotegravir and Lenacapavir for HIV Prevention.",
+      "authors": "Mihai AR, Chisalita A, Herlo LF, Herlo A, Dina C, Gherghescu CG, Cut TG, Vlase I, Lazureanu VE, Dan RG, Ivanovic N, Dumache R, Marinescu AR.",
+      "journal": "",
+      "date": "2026-10-22",
+      "abstract": "Oral pre-exposure prophylaxis (PrEP) has been available for more than a decade, yet its population-level impact has been constrained by a single, persistent problem: adherence. Daily pill-taking, even among highly motivated populations, proves difficult to sustain, and the populations with the greatest unmet need for HIV prevention (adolescent girls and young women, transgender individuals, people who inject drugs, and men who have sex with men in the Global South) consistently show the lowest levels of protective drug exposure. Long-acting injectable agents were designed to remove adherence from the daily calculus. Cabotegravir, dosed every eight weeks, demonstrated superiority over daily oral tenofovir/emtricitabine in the phase 3 HPTN 083 and HPTN 084 trials, and lenacapavir, a twice-yearly subcutaneous capsid inhibitor, showed no infections during the primary analysis period of PURPOSE 1 (versus estimated background HIV incidence) and statistically significant superiority over the randomized active comparator F/TDF in PURPOSE 2. Based on a structured search of PubMed, ScienceDirect and ClinicalTrials.gov (January 2010-May 2026) and a tiered appraisal of 77 evidence sources, this narrative review synthesizes evidence on the evolution of PrEP, the pharmacology and clinical performance of cabotegravir and lenacapavir, the pharmacokinetic \"tail\" phenomenon and its implications for drug resistance and breakthrough infection, diagnostic challenges introduced by long-acting agents, safety and pharmacokinetics in pregnancy and adolescence, stigma and acceptability, and the economics and equity of global access. We also provide a brief overview of the pipeline of next-generation approaches (annual dosing candidates, biodegradable implants, broadly neutralizing antibodies, and multipurpose prevention technologies) that may further reshape HIV prevention over the coming decade; evidence for several of these candidates, particularly broadly neutralizing antibodies, remains early-stage and indirect. Long-acting PrEP is not a panacea; pharmacokinetic tails create resistance-selection windows, diagnostic algorithms must be adapted, and access remains stratified by geography and income. We integrate these findings into an evidence-to-service framework that maps each challenge, across the initiation, maintenance and discontinuation stages of long-acting PrEP use, to its evidence tier, a minimum service requirement for all settings, and adaptations for higher-resource and resource-limited settings. The requirements supported by trial-level evidence are HIV testing at every injection visit with a confirmatory algorithm, planned management of the pharmacokinetic tail with oral bridging, and genotypic resistance testing of every breakthrough infection.",
+      "url": "https://doi.org/10.3390/v18111177",
+      "source": "MED",
+      "doi": "10.3390/v18111177",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "PMC:PMC13808586",
       "topic": "Long-acting PrEP",
       "title": "From Daily Pills to Twice-Yearly Protection: A Narrative Review of Long-Acting Cabotegravir and Lenacapavir for HIV Prevention",
@@ -2242,5 +2258,7 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    "AI Embeddings: The read operation timed out"
+  ]
 }
