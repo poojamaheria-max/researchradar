@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T00:56:56.174330+00:00",
+  "updated": "2026-11-27T07:01:26.313962+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -866,6 +866,22 @@
       ]
     },
     {
+      "id": "MED:42574419",
+      "topic": "AI Embeddings",
+      "title": "Toward Stronger 3D Human Action Representation Learning via Efficient Spatiotemporal Decoupling.",
+      "authors": "Wu C, Xu T, Feng Z, Wu XJ, Kittler J.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "3D human action understanding has attracted extensive attention in both academia and industry, yet designing an effective representation learning paradigm remains a significant challenge. In this work, we present Stronger Spatiotemporal Decoupling Network (Stronger-SCD-Net), an effective self-supervised framework for 3D human action representation that systematically redesigns key components of the contrastive learning paradigm, including data augmentation, encoder architecture, and optimisation objective. To improve robustness and training efficiency, we propose a structurally constrained mask-out strategy based on deformation-driven data augmentation. This strategy not only accelerates the training process substantially but also improves the model's generalisation ability. For encoder design, we redesign the spatiotemporal decoupling mechanism into a more compact dual-branch architecture, in which spatial and temporal cues are explicitly modelled via factorised operations. This design improves representation discrimination and provides more interpretable spatial and temporal clues. In terms of the optimisation objective, we construct a global anchor representation to interactively align spatial and temporal cues from positive pairs while separating negative pairs. Furthermore, we incorporate an offline knowledge distillation strategy based on cosine similarity to further boost performance and stabilise representation learning under strong augmentation. Extensive experiments on NTU-RGB+D (60&120) and PKU-MMD (I&II) datasets demonstrate that the proposed Stronger-SCD-Net achieves superior performance across multiple downstream tasks, including action recognition, action retrieval, transfer learning, and semi-supervised learning.",
+      "url": "https://doi.org/10.1109/tpami.2026.3722477",
+      "source": "MED",
+      "doi": "10.1109/tpami.2026.3722477",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "MED:42562773",
       "topic": "AI Embeddings",
       "title": "A phosphorylation‑independent monoclonal antibody improves detection of TDP‑43 pathology across frontotemporal lobar degeneration, amyotrophic lateral sclerosis, and limbic predominant age related TDP‑43 encephalopathy neuropathological change.",
@@ -1098,22 +1114,6 @@
       "date": "2026-11-26",
       "abstract": "",
       "url": "https://europepmc.org/article/PMC/PMC13798321",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13796355",
-      "topic": "AI Embeddings",
-      "title": "Aligned electrospun gelatin-carbon black nanofibers for cardiac tissue modelling",
-      "authors": "Di Nunno L, D’Erchia F, Mirzaei A, Benazzato S, Roldan E, Casalini S, Menna E, Mantovani D, Boccafoschi F.",
-      "journal": "",
-      "date": "2026-11-26",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13796355",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -2240,25 +2240,7 @@
       "topics": [
         "Long-acting PrEP"
       ]
-    },
-    {
-      "id": "MED:42900680",
-      "topic": "Long-acting PrEP",
-      "title": "The impact and cost of reaching the UNAIDS global HIV targets.",
-      "authors": "Stover J, Mattur D, Siapka M, Pliakas T, Valladares-Cardona R.",
-      "journal": "",
-      "date": "2026-10-20",
-      "abstract": "HIV funding has been declining in the past decade creating a large gap in required funding. In 2024, UNAIDS (Joint United Nations Programme on HIV/AIDS) convened a Global Task Team in 2024 to recommend new targets and approaches for 2030 for key HIV interventions. This paper describes the approach to estimate the impact and cost of achieving those targets. We calibrated an HIV simulation model, Goals, to the historical HIV epidemic in 134 countries and used the model to project the impact of achieving the UNAIDS targets by 2030. Resource needs were estimated for 118 low-, lower-middle and upper-middle income countries (LMIC). To estimate the cost of achieving the targets we compiled a database of the unit costs for each intervention from published studies, country reports and commodity costs. Achieving the UNAIDS 2030 targets would reduce the annual number of new HIV infections globally by 77% from 2023 to 2030, from 1.3 million to 300,000. The number of AIDS deaths would decline by 50% over the same period. Resources needed to achieve the targets in all LMIC would rise to US$21.9 billion by 2030. Of this amount, 17% is needed in low-income countries, 38% in lower-middle income countries and 45% in upper-middle income countries. Achieving the UNAIDS targets for 2030 would reduce the annual number of new HIV infections to just 9% of the peak value in 1995 and AIDS deaths to 13% of the peak value in 2004. The resources required to achieve these targets are substantial but $7 billion less than previous estimates of $29.3 billion.",
-      "url": "https://doi.org/10.1371/journal.pgph.0007360",
-      "source": "MED",
-      "doi": "10.1371/journal.pgph.0007360",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
     }
   ],
-  "errors": [
-    "AI Embeddings: The read operation timed out"
-  ]
+  "errors": []
 }
