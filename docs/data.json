@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T18:45:09.023834+00:00",
+  "updated": "2026-11-28T00:53:02.343604+00:00",
   "items": [
     {
       "id": "MED:43041051",
@@ -268,6 +268,22 @@
       "url": "https://doi.org/10.1097/phh.0000000000002227",
       "source": "MED",
       "doi": "10.1097/phh.0000000000002227",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "MED:43101890",
+      "topic": "AI Embeddings",
+      "title": "Family Carers' Experiences of Dementia Mental Health Wards: A Qualitative Study of Involvement, Communication, and Support Needs.",
+      "authors": "Wolverson E, Gillam J, Dunn R, Mwale S, Hoe J, Wyatt M, Underwood BR, Credland N, Lane R, Robertson M, Inpatient Dementia Experience Group, Featherstone K.",
+      "journal": "",
+      "date": "2026-12-01",
+      "abstract": "<h4>Objectives</h4>People with dementia can be admitted to specialist Mental Health Wards (MHWs) during periods of severe distress or elevated risk. Family carers play a vital role in supporting person-centred care yet are often marginalised during admissions, and there are currently no evidence-based interventions to support carers at this time. This study aims to explore carers' experiences of a relative's admission to a dementia MHW, their perspectives on involvement in decision-making and support needs.<h4>Methods</h4>A qualitative study was conducted using in-depth interviews with 24 family carers of people with dementia who had been discharged from one of three UK dementia MHWs. Interviews were analysed using Reflexive Thematic Analysis. Patient and public members supported study design and interpretation.<h4>Results</h4>Three themes were identified: (1) experiences of communication-central to how informed and included carers felt during admission and their sense of trust in the ward team; (2) involvement and empowerment-shaped by the extent to which carers were recognised as knowledgeable partners in care and (3) support and responsiveness-reflected in how staff acknowledged and responded to carers' emotional and practical needs. Carers' experiences and needs varied considerably and changed over the course of admission.<h4>Conclusions</h4>Embedding collaborative, relationally-informed approaches to involvement which are responsive to individual preferences and reviewed over the admission is essential. The novel findings identified in this study have been translated into to practical recommendations to guide MHW staff, improve carer experiences and better support person-centred dementia care.<h4>Trial registration</h4>National Institute for Health and Care Research Health and Social Care Delivery Research (NIHR HSDR) NIHR161439.",
+      "url": "https://doi.org/10.1002/gps.70272",
+      "source": "MED",
+      "doi": "10.1002/gps.70272",
       "is_preprint": false,
       "topics": [
         "AI Embeddings"
@@ -725,7 +741,7 @@
       "id": "MED:42970703",
       "topic": "AI Embeddings",
       "title": "Digital Follow-Up After Total Knee Arthroplasty: An Interview Study Among Orthopaedic Surgeons.",
-      "authors": "Craamer C, Timmers T, Weegen WV, Kool RB.",
+      "authors": "Craamer C, Timmers T, van der Weegen W, Kool RB.",
       "journal": "",
       "date": "2026-12-01",
       "abstract": "<h4>Background</h4>Traditionally, patients who undergo total knee arthroplasty (TKA) are scheduled for an in-person routine follow-up (RFU) regimen. Increasing pressure on orthopaedic services and growing acceptance of digital health technologies urge clinics to adopt more efficient RFU strategies. However, limited insight exists into how RFU after TKA is organised in clinical practice and under which conditions digital follow-up is acceptable to orthopaedic surgeons. This study explored current RFU practices after TKA and examined surgeons' perspectives on digital follow-up.<h4>Methods</h4>A qualitative study using semi-structured interviews was conducted with 21 orthopaedic surgeons from different healthcare institutions. Interviews were conducted digitally, transcribed verbatim, and analysed using qualitative analysis software. Two researchers independently coded the transcripts, after which the codes were compared, refined, and grouped into overarching themes.<h4>Results</h4>Four main themes emerged. (1) RFU after TKA was highly fragmented across institutions, with variation in timing, contact modality, responsible healthcare provider, and use of radiographic assessment. (2) Follow-up visits were primarily perceived as a means to confirm uncomplicated recovery and detect complications early. (3) Digital follow-up was viewed not as a replacement for in-person visits but as an additional triage strategy to support decisions on physical consultation. (4) Acceptance of digital follow-up depended on clear patient selection, predefined clinical recovery indicators, and preservation of professional and patient autonomy.<h4>Conclusion</h4>RFU after TKA is poorly standardized and institution dependent. Digital follow-up is considered acceptable mainly as a triage mechanism if patient safety, professional autonomy, and the surgeon-patient relationship are maintained.",
@@ -1010,6 +1026,38 @@
       ]
     },
     {
+      "id": "PMC:PMC13810576",
+      "topic": "AI Embeddings",
+      "title": "Oleanolic Acid Liposomes Mitigate Knee Osteoarthritis by Remodeling Inflammatory Signaling and Cartilage Matrix Homeostasis",
+      "authors": "Wang L, Xiang Y, Chen X, Li Z, Xie Z, Li R, Zhao F, Wu J, Li Z, Yu X, Liang G, Huang R.",
+      "journal": "",
+      "date": "2026-11-27",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13810576",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
+      "id": "PMC:PMC13810564",
+      "topic": "AI Embeddings",
+      "title": "Fish Oil Mitigates Ozone-Induced Lung Inflammation by Restoring Oxylipin Homeostasis",
+      "authors": "Liu S, Zeng Z, Zhang Y, He S, Wang X, Wei Y, Chen Q, Li R, Lu Y, Zou Y, Mao J, Smith L, Mu Y, Xu Y, Chen H.",
+      "journal": "",
+      "date": "2026-11-27",
+      "abstract": "",
+      "url": "https://europepmc.org/article/PMC/PMC13810564",
+      "source": "PMC",
+      "doi": "",
+      "is_preprint": false,
+      "topics": [
+        "AI Embeddings"
+      ]
+    },
+    {
       "id": "PMC:PMC13809136",
       "topic": "AI Embeddings",
       "title": "A hybrid graph attention network and proximal policy optimization framework for adaptive fog-cloud offloading and frameproof-based secure IoT data transmission",
@@ -1066,54 +1114,6 @@
       "date": "2026-11-27",
       "abstract": "",
       "url": "https://europepmc.org/article/PMC/PMC13809570",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13809499",
-      "topic": "AI Embeddings",
-      "title": "Mental health outcomes and intervention strategies for first responders exposed to disasters and occupational trauma: a scoping review",
-      "authors": "Hofer M, Reininghaus E, Thaller A, Häussl A, Stix K, Pehmer S, Pfannhofer A, Fellendorf F, Kircher J, Zatloukal K, Lenger M.",
-      "journal": "",
-      "date": "2026-11-27",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13809499",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13809117",
-      "topic": "AI Embeddings",
-      "title": "Preliminary diagnostic performance of the MOXO continuous performance test in young adults undergoing ADHD assessment",
-      "authors": "Kaloğlu H, Akçay E, Çetinel Ş, Özdel K.",
-      "journal": "",
-      "date": "2026-11-27",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13809117",
-      "source": "PMC",
-      "doi": "",
-      "is_preprint": false,
-      "topics": [
-        "AI Embeddings"
-      ]
-    },
-    {
-      "id": "PMC:PMC13808810",
-      "topic": "AI Embeddings",
-      "title": "Śraddhā as trans-empirical investment: a candidate construct and a comparative research programme on human distinctiveness",
-      "authors": "Samanta S.",
-      "journal": "",
-      "date": "2026-11-27",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13808810",
       "source": "PMC",
       "doi": "",
       "is_preprint": false,
@@ -1826,6 +1826,22 @@
       ]
     },
     {
+      "id": "MED:43100179",
+      "topic": "Long-acting PrEP",
+      "title": "Thirty years of HIV in &lt;i&gt;Eurosurveillance&lt;/i&gt; reflect progress yet persistent challenges remain.",
+      "authors": "Eurosurveillance editorial team.",
+      "journal": "",
+      "date": "2026-11-01",
+      "abstract": "",
+      "url": "https://doi.org/10.2807/1560-7917.es.2026.31.47.202611031",
+      "source": "MED",
+      "doi": "10.2807/1560-7917.es.2026.31.47.202611031",
+      "is_preprint": false,
+      "topics": [
+        "Long-acting PrEP"
+      ]
+    },
+    {
       "id": "MED:43073716",
       "topic": "Long-acting PrEP",
       "title": "HIV Pre-Exposure Prophylaxis in Solid Organ Transplant Recipients: An Overlooked Component of Long-Term Care.",
@@ -2124,22 +2140,6 @@
       "url": "https://doi.org/10.3390/v18111177",
       "source": "MED",
       "doi": "10.3390/v18111177",
-      "is_preprint": false,
-      "topics": [
-        "Long-acting PrEP"
-      ]
-    },
-    {
-      "id": "PMC:PMC13808586",
-      "topic": "Long-acting PrEP",
-      "title": "From Daily Pills to Twice-Yearly Protection: A Narrative Review of Long-Acting Cabotegravir and Lenacapavir for HIV Prevention",
-      "authors": "Mihai A, Chisalita A, Herlo L, Herlo A, Dina C, Gherghescu C, Cut T, Vlase I, Lazureanu V, Dan R, Ivanovic N, Dumache R, Marinescu A.",
-      "journal": "",
-      "date": "2026-10-22",
-      "abstract": "",
-      "url": "https://europepmc.org/article/PMC/PMC13808586",
-      "source": "PMC",
-      "doi": "",
       "is_preprint": false,
       "topics": [
         "Long-acting PrEP"
